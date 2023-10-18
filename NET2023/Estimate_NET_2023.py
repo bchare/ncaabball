@@ -3,7 +3,7 @@ import numpy as np
 from sklearn import linear_model
 
 # Read in game stats
-games=pd.read_csv('ncaab_stats_for_net_2023.csv')
+games=pd.read_csv('ncaab_stats_input_net_2023.csv')
 
 # Subset to games through Selection Sunday
 games=games[games['date']<='2023-03-12']
