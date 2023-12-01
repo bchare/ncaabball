@@ -32,7 +32,7 @@ Efficiency measures strength (top of graph = beat opponents by a lot). Value mea
 
 ![Estimated NET Rankings - All](netscatter/NET%20Scatter%20All%20Teams.png)
 
-[Code to calculate plots](/Plot%20Efficiency%20Value.py)
+[Code to create plots](/Plot%20Efficiency%20Value.py)
 
 [Team Color Data](teamcolors.csv)
 
