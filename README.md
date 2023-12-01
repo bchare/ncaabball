@@ -14,7 +14,7 @@ College basketball analysis with a focus on the NET and making cool graphs.
 
 ### Scatter Plots
 
-Efficiency measures strength (top of graph = beat opponents by a lot). Values measures wins & losses (right of graph = quality wins).
+Efficiency measures strength (top of graph = beat opponents by a lot). Value measures wins & losses (right of graph = quality wins).
 
 ![Estimated NET Rankings - Top 100](netscatter/NET%20Scatter%20Top%20100.png)
 
@@ -29,6 +29,12 @@ Efficiency measures strength (top of graph = beat opponents by a lot). Values me
 ![Estimated NET Rankings - Big Ten](/netscatter/NET%20Scatter%20Big%20Ten.png)
 
 ![Estimated NET Rankings - Pac-12](/netscatter/NET%20Scatter%20Pac-12.png)
+
+![Estimated NET Rankings - All](netscatter/NET%20Scatter%20All%20Teams.png)
+
+[Code to calculate plots](/Plot%20Efficiency%20Value.py)
+
+[Team Color Data](teamcolors.csv)
 
 ---
 
