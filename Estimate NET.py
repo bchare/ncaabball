@@ -122,6 +122,7 @@ net_stats.sort_values(by='estimated_net', inplace=True)
 net_stats['efficiency_rank'] = net_stats['efficiency_rank'].astype(int) 
 net_stats['value_rank'] = net_stats['value_rank'].astype(int) 
 net_stats['estimated_net'] = net_stats['estimated_net'].astype(int) 
+net_stats.insert(0, 'estimated_net', net_stats.pop('estimated_net'))
 
 print(net_stats.to_string(columns=['estimated_net','team','efficiency','value'], index=False))
 
