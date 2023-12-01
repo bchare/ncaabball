@@ -4,7 +4,7 @@ College basketball analysis with a focus on the NET and making cool graphs.
 
 ## NET Estimates 2024
 
-[NET Estimate Rankings](/estimated_net_output.csv)
+[Estimated NET Rankings](/estimated_net_output.csv)
 
 [Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
 
@@ -12,6 +12,9 @@ College basketball analysis with a focus on the NET and making cool graphs.
 
 [Code to calculate components and estimate the NET](/Estimate%20NET.py)
 
+### Scatter Plots
+
+Efficiency measures strength (top of graph = beat opponents by a lot). Values measures wins & losses (right of graph = quality wins).
 
 ![Estimated NET Rankings - Top 100](netscatter/NET%20Scatter%20Top%20100.png)
 
