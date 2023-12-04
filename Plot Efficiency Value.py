@@ -11,6 +11,11 @@ season = 2024
 # Read the output from "Estimate NET.py"
 net_stats = pd.read_csv('estimated_net_output.csv')
 
+# Input the real NET values
+realnet = pd.read_table('actual_net.csv')
+net_stats = pd.merge(net_stats, realnet, left_on='team', right_on='Team')
+net_stats['to_display'] = '#' + net_stats['NET'].astype(str)
+
 # For the graph title, use the list of games to find the most recent date
 try:
     games = pd.read_csv(f'ncaab_stats_input_net_{season}.csv')
@@ -30,19 +35,16 @@ try:
     teamlogos = pd.read_csv('teamlogos.csv')
     teamlogos['logo'] = '.\\logos\\'+teamlogos['logo']
     net_stats = net_stats.merge(teamlogos, on='team')
-    net_stats['to_display'] = '#' + net_stats['estimated_net'].astype(str)
+    net_stats['to_display'] = '#' + net_stats['NET'].astype(str)
     havelogos = 1
 except:
-    net_stats['to_display'] = '#' + net_stats['estimated_net'].astype(str) + ' ' + net_stats['team']
+    net_stats['to_display'] = '#' + net_stats['NET'].astype(str) + ' ' + net_stats['team']
     havelogos = 0
 
-# realnet = pd.read_csv('netthru20230312.csv')
-# net_stats = pd.merge(net_stats, realnet, left_on='team', right_on='Team')
-# net_stats['to_display'] = '#' + net_stats['NET'].astype(str)
 
 def makeplot(title, condition):
     # Sorting them this way puts circles for the #1 team over others
-    net_stats.sort_values(by='estimated_net', ascending=False, inplace=True)
+    net_stats.sort_values(by='NET', ascending=False, inplace=True)
     net_stats['visibility'] = net_stats.eval(condition).astype(int)
     net_stats_subset=net_stats[net_stats['visibility']==1]
     max_x = math.ceil(net_stats['value'].max()) + 1
@@ -50,7 +52,7 @@ def makeplot(title, condition):
     min_x = math.floor(net_stats_subset['value'].min())
     min_y = 5*math.floor(net_stats_subset['efficiency'].min()/5)
     fig, ax = plt.subplots(figsize=(12.8, 7.2), dpi=100, layout='constrained')
-    fig.suptitle(('Estimated NET - ' + title + '\n(Games Through ' + maxdate + ')').strip())
+    fig.suptitle(('NET - ' + title + '\n(Games Through ' + maxdate + ')').strip())
     ax.scatter(net_stats['value'], net_stats['efficiency'], 100, net_stats['bgcolor'], alpha=0.05*(1-net_stats['visibility']))
     if havelogos == 1:
         for i in net_stats_subset.index:
@@ -70,16 +72,25 @@ def makeplot(title, condition):
     fig.savefig(f'NET Scatter {title}.png')
 
 makeplot("All Teams", "1==1")
-makeplot("Top 25", "estimated_net <= 25")
-makeplot("Top 50", "estimated_net <= 50")
-makeplot("Top 75", "estimated_net <= 75")
-makeplot("Top 100", "estimated_net <= 100")
-makeplot("ACC", 'team.isin(["Boston College","Clemson","Duke","Florida St.","Georgia Tech","Louisville","Miami (FL)","NC State","North Carolina","Notre Dame","Pittsburgh","Syracuse","Virginia","Virginia Tech","Wake Forest"])')
-makeplot("Big East", 'team.isin(["UConn","Marquette","Creighton","Xavier","Providence","Villanova","Seton Hall","St. John\'s (NY)","Butler","DePaul","Georgetown"])')
-makeplot("Big 12", 'team.isin(["Texas","Kansas","Baylor","Iowa St.","Kansas St.","West Virginia","TCU","Oklahoma St.","Texas Tech","Oklahoma","BYU","Houston","Cincinnati","UCF"])')
-makeplot("SEC", 'team.isin(["Alabama","Tennessee","Texas A&M","Arkansas","Kentucky","Auburn","Missouri","Mississippi St.","Florida","Vanderbilt","Ole Miss","LSU","Georgia","South Carolina"])')
-makeplot("Big Ten", 'team.isin(["Purdue","Indiana","Maryland","Michigan St.","Illinois","Iowa","Rutgers","Northwestern","Penn St.","Ohio St.","Michigan","Wisconsin","Nebraska","Minnesota"])')
-makeplot("Pac-12", 'team.isin(["UCLA","Arizona","Oregon","Southern California","Arizona St.","Colorado","Washington St.","Utah","Stanford","Washington","Oregon St.","California"])')
+makeplot("Top 25", "NET <= 25")
+makeplot("Top 50", "NET <= 50")
+makeplot("Top 75", "NET <= 75")
+makeplot("Top 100", "NET <= 100")
+makeplot("ACC", "Conference == 'ACC'")
+makeplot("Big East", "Conference == 'Big East'")
+makeplot("Big 12", "Conference == 'Big 12'")
+makeplot("SEC", "Conference == 'SEC'")
+makeplot("Big Ten", "Conference == 'Big Ten'")
+makeplot("Pac-12", "Conference == 'Pac-12'")
+
+
+
+# makeplot("ACC", 'team.isin(["Boston College","Clemson","Duke","Florida St.","Georgia Tech","Louisville","Miami (FL)","NC State","North Carolina","Notre Dame","Pittsburgh","Syracuse","Virginia","Virginia Tech","Wake Forest"])')
+# makeplot("Big East", 'team.isin(["UConn","Marquette","Creighton","Xavier","Providence","Villanova","Seton Hall","St. John\'s (NY)","Butler","DePaul","Georgetown"])')
+# makeplot("Big 12", 'team.isin(["Texas","Kansas","Baylor","Iowa St.","Kansas St.","West Virginia","TCU","Oklahoma St.","Texas Tech","Oklahoma","BYU","Houston","Cincinnati","UCF"])')
+# makeplot("SEC", 'team.isin(["Alabama","Tennessee","Texas A&M","Arkansas","Kentucky","Auburn","Missouri","Mississippi St.","Florida","Vanderbilt","Ole Miss","LSU","Georgia","South Carolina"])')
+# makeplot("Big Ten", 'team.isin(["Purdue","Indiana","Maryland","Michigan St.","Illinois","Iowa","Rutgers","Northwestern","Penn St.","Ohio St.","Michigan","Wisconsin","Nebraska","Minnesota"])')
+# makeplot("Pac-12", 'team.isin(["UCLA","Arizona","Oregon","Southern California","Arizona St.","Colorado","Washington St.","Utah","Stanford","Washington","Oregon St.","California"])')
 # makeplot("", 'team.isin([""])')
 
 # temp = realnet[realnet['Conference'] == 'AAC']
