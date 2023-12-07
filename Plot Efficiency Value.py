@@ -12,7 +12,8 @@ season = 2024
 net_stats = pd.read_csv('estimated_net_output.csv')
 
 # Input the real NET values
-realnet = pd.read_table('actual_net.csv')
+# https://stats.ncaa.org/selection_rankings/season_divisions/18221/nitty_gritties?utf8=%E2%9C%93&commit=Submit
+realnet = pd.read_table('actual_net.txt')
 net_stats = pd.merge(net_stats, realnet, left_on='team', right_on='Team')
 net_stats['to_display'] = '#' + net_stats['NET'].astype(str)
 
@@ -83,7 +84,8 @@ makeplot("SEC", "Conference == 'SEC'")
 makeplot("Big Ten", "Conference == 'Big Ten'")
 makeplot("Pac-12", "Conference == 'Pac-12'")
 
-
+makeplot("Indiana Teams", "state == 'Indiana'")
+makeplot("NC Teams", "state == 'North Carolina'")
 
 # makeplot("ACC", 'team.isin(["Boston College","Clemson","Duke","Florida St.","Georgia Tech","Louisville","Miami (FL)","NC State","North Carolina","Notre Dame","Pittsburgh","Syracuse","Virginia","Virginia Tech","Wake Forest"])')
 # makeplot("Big East", 'team.isin(["UConn","Marquette","Creighton","Xavier","Providence","Villanova","Seton Hall","St. John\'s (NY)","Butler","DePaul","Georgetown"])')
