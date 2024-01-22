@@ -20,17 +20,7 @@ Efficiency measures strength (top of graph = advantage in points per possession)
 
 ![Estimated NET Rankings - ACC](/netscatter/NET%20Scatter%20ACC.png)
 
-![Estimated NET Rankings - Big East](/netscatter/NET%20Scatter%20Big%20East.png)
-
-![Estimated NET Rankings - Big 12](/netscatter/NET%20Scatter%20Big%2012.png)
-
-![Estimated NET Rankings - SEC](/netscatter/NET%20Scatter%20SEC.png)
-
-![Estimated NET Rankings - Big Ten](/netscatter/NET%20Scatter%20Big%20Ten.png)
-
-![Estimated NET Rankings - Pac-12](/netscatter/NET%20Scatter%20Pac-12.png)
-
-![Estimated NET Rankings - All](netscatter/NET%20Scatter%20All%20Teams.png)
+More graphs are in the [netscatter](/netscatter) directory.
 
 [Code to create plots](/Plot%20Efficiency%20Value.py)
 
@@ -39,6 +29,16 @@ Efficiency measures strength (top of graph = advantage in points per possession)
 [Team Color Data](teamcolors.csv)
 
 Logos are from [sportslogos.net](https://www.sportslogos.net/) and are not provided here
+
+---
+
+## Performance Charts
+
+![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
+
+[Code to make performance charts](/Performance%20Charts.py)
+
+See more graphs for coach performance by year hired: [all coaches](/performance_coachhired_full) or [without small conferences or interim coaches](/performance_coachhired_selected).
 
 ---
 
