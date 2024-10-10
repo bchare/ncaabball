@@ -49,7 +49,7 @@ net_stats['efficiency_rank'] = net_stats['efficiency'].rank(ascending=False, met
 # Neutral games count as 1 game. Home wins & away losses count as 0.6. Home losses & away wins count as 1.4.
 conditions=[
     (games['hca'] == 0),
-    ((games['hca'] == 1) & (games['points  games['opp_points'])),
+    ((games['hca'] == 1) & (games['points'] > games['opp_points'])),
     ((games['hca'] == -1) & (games['points'] < games['opp_points'])),
     ((games['hca'] == 1) & (games['points'] < games['opp_points'])),
     ((games['hca'] == -1) & (games['points'] > games['opp_points']))
