@@ -12,17 +12,11 @@ College basketball analysis with a focus on the NET and making cool graphs.
 
 Efficiency measures strength (top of graph = advantage in points per possession). Value measures wins & losses (right of graph = quality wins).
 
-![Estimated NET Rankings - Top 100](netscatter/NET%20Scatter%20Top%20100.png)
-
-![Estimated NET Rankings - ACC](/netscatter/NET%20Scatter%20ACC.png)
+(Coming soon)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
 [Code to create plots](/Plot%20Efficiency%20Value.py)
-
-[Actual NET rankings](/actual_net.txt)
-
-Logos are from [sportslogos.net](https://www.sportslogos.net/) and are not provided here
 
 ---
 
@@ -38,11 +32,15 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ## NET Estimates 2024
 
+![Estimated NET Rankings - Top 100](/NET2024/NET%20Scatter%20Top%20100%202024.png)
+
 [Code to calculate components and estimate the NET](/NET2024/Estimate_NET_2024.py)
 
 [Output Data](/NET2024/estimated_net_output.csv)
 
 [Input Data](/NET2024/ncaab_stats_input_net_2024.csv)
+
+[Actual NET rankings on Selection Sunday](/NET2024/actual_net.txt)
 
 [Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
 
@@ -59,4 +57,5 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 ## Data Sources
 * The NCAA
 * [sports-reference.com](https://www.sports-reference.com/cbb/)
-* [Team Color Data](teamcolors.csv) (mostly from school brand guidelines)
+* [Team Color Data](teamcolors.csv) (from various school websites)
+* Logos are from [sportslogos.net](https://www.sportslogos.net/) and are not provided here
