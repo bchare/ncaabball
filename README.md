@@ -2,15 +2,11 @@
 
 College basketball analysis with a focus on the NET and making cool graphs.
 
-## NET Estimates 2024
+## NET Estimates 2025
 
 [Code to calculate components and estimate the NET](/Estimate%20NET.py)
 
-[Output Data](/estimated_net_output.csv)
-
-[Input Data](ncaab_stats_input_net_2024.csv)
-
-[Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
+(More coming soon)
 
 ### Scatter Plots
 
@@ -26,8 +22,6 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 [Actual NET rankings](/actual_net.txt)
 
-[Team Color Data](teamcolors.csv)
-
 Logos are from [sportslogos.net](https://www.sportslogos.net/) and are not provided here
 
 ---
@@ -42,6 +36,18 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ---
 
+## NET Estimates 2024
+
+[Code to calculate components and estimate the NET](/NET2024/Estimate_NET_2024.py)
+
+[Output Data](/NET2024/estimated_net_output.csv)
+
+[Input Data](/NET2024/ncaab_stats_input_net_2024.csv)
+
+[Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
+
+---
+
 ## NET Estimates 2023
 * [Estimate_NET_2023.py](/NET2023/Estimate_NET_2023.py): Calculating components of the NCAA Evaluation Tool ("NET") ranking.
 * [ncaab_stats_input_net_2023.csv](/NET2023/ncaab_stats_input_net_2023.csv): Input for the 2023 season.
@@ -50,6 +56,7 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ---
 
-Data Sources:
+## Data Sources
 * The NCAA
 * [sports-reference.com](https://www.sports-reference.com/cbb/)
+* [Team Color Data](teamcolors.csv) (mostly from school brand guidelines)
