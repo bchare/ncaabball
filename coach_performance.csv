@@ -139,7 +139,7 @@ NCAA 32",36,#BF5700,#FFFFFF,4,SWC,Texas,black,1977.0,Return
 1980,abe-lemons-1,Abe Lemons,Texas,10-6 SWC,19,#FFFFFF,#000000,4,SWC,Texas,black,1977.0,Return
 1981,abe-lemons-1,Abe Lemons,Texas,7-9 SWC,15,#FFFFFF,#000000,4,SWC,Texas,black,1977.0,Return
 1982,abe-lemons-1,Abe Lemons,Texas,6-10 SWC,16,#FFFFFF,#000000,4,SWC,Texas,black,1977.0,Fired
-1983,abe-lemons-1,Abe Lemons,Texas,Fired?,0,#FFFFFF,#000000,0,SWC,Texas,white,1977.0,Last
+1983,abe-lemons-1,Abe Lemons,Texas,Fired,0,#FFFFFF,#000000,0,SWC,Texas,white,1977.0,Last
 1974,abe-lemons-1,Abe Lemons,UTRGV,13-9,13,#FFFFFF,#000000,4,Ind,Texas,black,1974.0,Return
 1975,abe-lemons-1,Abe Lemons,UTRGV,22-2,22,#FFFFFF,#000000,4,Ind,Texas,black,1974.0,Return
 1976,abe-lemons-1,Abe Lemons,UTRGV,20-5,20,#FFFFFF,#000000,4,Ind,Texas,black,1974.0,Left
@@ -289,8 +289,8 @@ NCAA 32",38,#FFCC00,#003366,4,Ind,Wisconsin,black,1965.0,Return
 1976,al-mcguire-1,Al McGuire,Marquette,"27-2
 Elite 8",52,#FFCC00,#003366,4,Ind,Wisconsin,black,1965.0,Return
 1977,al-mcguire-1,Al McGuire,Marquette,"25-7
-Champion",125,#FFCC00,#003366,4,Ind,Wisconsin,black,1965.0,Left
-1978,al-mcguire-1,Al McGuire,Marquette,Retired/ business,0,#FFFFFF,#000000,0,Ind,Wisconsin,white,1965.0,Last
+Champion",125,#FFCC00,#003366,4,Ind,Wisconsin,black,1965.0,Retired
+1978,al-mcguire-1,Al McGuire,Marquette,Retired,0,#FFFFFF,#000000,0,Ind,Wisconsin,white,1965.0,Last
 1998,al-skinner-1,Al Skinner Jr,Boston College,6-12 BE,15,#FFFFFF,#000000,4,Big East,Massachusetts,black,1998.0,Return
 1999,al-skinner-1,Al Skinner Jr,Boston College,3-15 BE,6,#FFFFFF,#000000,4,Big East,Massachusetts,black,1998.0,Return
 2000,al-skinner-1,Al Skinner Jr,Boston College,3-13 BE,11,#FFFFFF,#000000,4,Big East,Massachusetts,black,1998.0,Return
@@ -365,7 +365,7 @@ NCAA 32",39,#025BA3,#FFFFFF,4,Southern,Tennessee,black,1991.0,Return
 2013,alan-major-1,Alan Major,Charlotte,8-8 A10,21,#FFFFFF,#000000,4,A-10,North Carolina,black,2011.0,Return
 2014,alan-major-1,Alan Major,Charlotte,7-9 CUSA,17,#FFFFFF,#000000,4,CUSA,North Carolina,black,2011.0,Return
 2015,alan-major-1,Alan Major,Charlotte,6-7,6,#FFFFFF,#000000,3,CUSA,North Carolina,black,2011.0,Health
-2016,alan-major-1,Alan Major,Charlotte,Health problems,0,#FFFFFF,#000000,0,CUSA,North Carolina,white,2011.0,Last
+2016,alan-major-1,Alan Major,Charlotte,Health,0,#FFFFFF,#000000,0,CUSA,North Carolina,white,2011.0,Last
 1952,albert-brightman-1,Albert Brightman,Seattle U,27-8,27,#FFFFFF,#000000,4,Ind,Washington,black,1952.0,Return
 1953,albert-brightman-1,Albert Brightman,Seattle U,"29-3
 Sweet 16",49,#AA0000,#FFFFFF,4,Ind,Washington,black,1952.0,Return
@@ -561,7 +561,8 @@ Sweet 16",38,#002664,#FFFFFF,4,Ind,Pennsylvania,black,1937.0,Return
 2023,amir-abdur-rahim-1,Amir Abdur-Rahim,Kennesaw St.,"15-3 ASun
 NCAA 64",36,#FFC629,#231F20,4,A-Sun,Georgia,black,2020.0,Left
 2024,amir-abdur-rahim-1,Amir Abdur-Rahim,Kennesaw St.,South Fla.,0,#FFFFFF,#000000,0,A-Sun,Georgia,white,2020.0,Last
-2024,amir-abdur-rahim-1,Amir Abdur-Rahim,South Fla.,16-2 AAC,25,#FFFFFF,#000000,4,AAC,Florida,black,2024.0,Last
+2024,amir-abdur-rahim-1,Amir Abdur-Rahim,South Fla.,16-2 AAC,25,#FFFFFF,#000000,4,AAC,Florida,black,2024.0,Health
+2025,amir-abdur-rahim-1,Amir Abdur-Rahim,South Fla.,Health,0,#FFFFFF,#000000,0,AAC,Florida,white,2024.0,Last
 1905,amos-foster-1,Amos Foster,Cincinnati,6-3,6,#FFFFFF,#000000,4,Ind,Ohio,black,1905.0,Return
 1906,amos-foster-1,Amos Foster,Cincinnati,2-1,2,#FFFFFF,#000000,4,Ind,Ohio,black,1905.0,Return
 1907,amos-foster-1,Amos Foster,Cincinnati,7-2,7,#FFFFFF,#000000,4,Ind,Ohio,black,1905.0,Return
@@ -793,7 +794,7 @@ NCAA 64",34,#FFB300,#000000,4,CAA,Virginia,black,2007.0,Left
 2018,anthony-stewart-1,Anthony Stewart,UT Martin,5-13 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,2017.0,Return
 2019,anthony-stewart-1,Anthony Stewart,UT Martin,6-12 OVC,12,#FFFFFF,#000000,4,OVC,Tennessee,black,2017.0,Return
 2020,anthony-stewart-1,Anthony Stewart,UT Martin,5-13 OVC,9,#FFFFFF,#000000,4,OVC,Tennessee,black,2017.0,Health
-2021,anthony-stewart-1,Anthony Stewart,UT Martin,Passed away,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2017.0,Last
+2021,anthony-stewart-1,Anthony Stewart,UT Martin,Health,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2017.0,Last
 2024,antoine-pettway-1,Antoine Pettway,Kennesaw St.,6-10 ASun,15,#FFFFFF,#000000,4,A-Sun,Georgia,black,2024.0,Last
 1911,ar-hackett-1,A.R. Hackett,Drake,0-2 MVC,0,#FFFFFF,#000000,4,MVC,Iowa,black,1911.0,Return
 1912,ar-hackett-1,A.R. Hackett,Drake,0-8 MVC,1,#FFFFFF,#000000,4,MVC,Iowa,black,1911.0,Last
@@ -901,7 +902,7 @@ Bubble",35,#990000,#EDEBEB,4,Big Ten,Indiana,black,2018.0,Return
 Elite 8",48,#4B2E83,#FFFFFF,4,PCC,Washington,black,1948.0,Return
 1949,arthur-mclarney-1,Arthur McLarney,Washington,6-10 PCC,11,#FFFFFF,#000000,4,PCC,Washington,black,1948.0,Return
 1950,arthur-mclarney-1,Arthur McLarney,Washington,9-8 PCC,19,#FFFFFF,#000000,4,PCC,Washington,black,1948.0,Health
-1951,arthur-mclarney-1,Arthur McLarney,Washington,Health problems,0,#FFFFFF,#000000,0,PCC,Washington,white,1948.0,Last
+1951,arthur-mclarney-1,Arthur McLarney,Washington,Health,0,#FFFFFF,#000000,0,PCC,Washington,white,1948.0,Last
 1918,arthur-powell-1,Arthur Powell,Buffalo,6-2,6,#FFFFFF,#000000,4,Ind,New York,black,1918.0,Return
 1919,arthur-powell-1,Arthur Powell,Buffalo,8-5,8,#FFFFFF,#000000,4,Ind,New York,black,1918.0,Return
 1920,arthur-powell-1,Arthur Powell,Buffalo,9-1,9,#FFFFFF,#000000,4,Ind,New York,black,1918.0,Return
@@ -1002,7 +1003,7 @@ Sweet 16",42,#5D1725,#FFFFFF,4,SEC,Mississippi,black,1956.0,Return
 1954,banks-mcfadden-1,Banks McFadden,Clemson,0-9 ACC,5,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Return
 1955,banks-mcfadden-1,Banks McFadden,Clemson,0-14 ACC,2,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Return
 1956,banks-mcfadden-1,Banks McFadden,Clemson,2-14 ACC,9,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Left
-1957,banks-mcfadden-1,Banks McFadden,Clemson,Track/football focus?,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1947.0,Last
+1957,banks-mcfadden-1,Banks McFadden,Clemson,Track/football,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1947.0,Last
 2006,barclay-radebaugh-1,Barclay Radebaugh,Charleston So.,7-9 BSth,13,#FFFFFF,#000000,4,Big South,South Carolina,black,2006.0,Return
 2007,barclay-radebaugh-1,Barclay Radebaugh,Charleston So.,2-12 BSth,8,#FFFFFF,#000000,4,Big South,South Carolina,black,2006.0,Return
 2008,barclay-radebaugh-1,Barclay Radebaugh,Charleston So.,4-10 BSth,10,#FFFFFF,#000000,4,Big South,South Carolina,black,2006.0,Return
@@ -1236,7 +1237,7 @@ NCAA 25",31,#00225B,#B5A67C,4,Ind,Maryland,black,1947.0,Return
 1964,ben-carnevale-1,Ben Carnevale,Navy,10-12,10,#FFFFFF,#000000,4,Ind,Maryland,black,1947.0,Return
 1965,ben-carnevale-1,Ben Carnevale,Navy,10-10,10,#FFFFFF,#000000,4,Ind,Maryland,black,1947.0,Return
 1966,ben-carnevale-1,Ben Carnevale,Navy,7-12,7,#FFFFFF,#000000,4,Ind,Maryland,black,1947.0,Retired
-1967,ben-carnevale-1,Ben Carnevale,Navy,Retired?,0,#FFFFFF,#000000,0,Ind,Maryland,white,1947.0,Last
+1967,ben-carnevale-1,Ben Carnevale,Navy,Retired,0,#FFFFFF,#000000,0,Ind,Maryland,white,1947.0,Last
 1945,ben-carnevale-1,Ben Carnevale,North Carolina,11-3 SoCon,22,#FFFFFF,#000000,4,Southern,North Carolina,black,1945.0,Return
 1946,ben-carnevale-1,Ben Carnevale,North Carolina,"13-1 SoCon
 Runner-up",65,#4B9CD3,#FFFFFF,4,Southern,North Carolina,black,1945.0,Last
@@ -1389,7 +1390,7 @@ NCAA 32",36,#62A8E5,#FFFFFF,4,SWAC,Louisiana,black,1987.0,Return
 2011,benjy-taylor-1,Benjy Taylor,Chicago St.,Fired,0,#FFFFFF,#000000,0,GWC,Illinois,white,2008.0,Last
 2015,benjy-taylor-1,Benjy Taylor,Hawaii,8-8 BWst,22,#FFFFFF,#000000,4,Big West,Hawaii,black,2015.0,Interim
 2016,benjy-taylor-1,Benjy Taylor,Hawaii,Interim over,0,#FFFFFF,#000000,0,Big West,Hawaii,white,2015.0,Last
-1955,bennie-borgmann-1,,Muhlenburg,Baseball scout?,0,#FFFFFF,#000000,0,,,white,,Last
+1955,bennie-borgmann-1,,Muhlenburg,Baseball,0,#FFFFFF,#000000,0,,,white,,Last
 1939,bennie-oosterbaan-1,Bennie Oosterbaan,Michigan,4-8 B1G,11,#FFFFFF,#000000,4,Big Ten,Michigan,black,1939.0,Return
 1940,bennie-oosterbaan-1,Bennie Oosterbaan,Michigan,6-6 B1G,13,#FFFFFF,#000000,4,Big Ten,Michigan,black,1939.0,Return
 1941,bennie-oosterbaan-1,Bennie Oosterbaan,Michigan,5-7 B1G,9,#FFFFFF,#000000,4,Big Ten,Michigan,black,1939.0,Return
@@ -1443,7 +1444,7 @@ NCAA 64",36,#533B22,#FFFFFF,4,WAC,Wyoming,black,1988.0,Return
 2010,benny-moss-1,Benny Moss,UNCW,5-13 CAA,7,#FFFFFF,#000000,4,CAA,North Carolina,black,2007.0,Fired
 2011,benny-moss-1,Benny Moss,UNCW,Reassigned,0,#FFFFFF,#000000,0,CAA,North Carolina,white,2007.0,Last
 1952,berl-huffman-1,Berl Huffman,New Mexico,1-13 MSAC,6,#FFFFFF,#000000,4,MSAC,New Mexico,black,1952.0,Fired
-1953,berl-huffman-1,Berl Huffman,New Mexico,Fired?,0,#FFFFFF,#000000,0,MSAC,New Mexico,white,1952.0,Last
+1953,berl-huffman-1,Berl Huffman,New Mexico,Fired,0,#FFFFFF,#000000,0,MSAC,New Mexico,white,1952.0,Last
 1936,berl-huffman-1,Berl Huffman,Texas Tech,8-6 BIAA,14,#FFFFFF,#000000,4,BIAA,Texas,black,1936.0,Return
 1937,berl-huffman-1,Berl Huffman,Texas Tech,11-5 BIAA,18,#FFFFFF,#000000,4,BIAA,Texas,black,1936.0,Return
 1938,berl-huffman-1,Berl Huffman,Texas Tech,7-7 BIAA,9,#FFFFFF,#000000,4,BIAA,Texas,black,1936.0,Return
@@ -1472,7 +1473,7 @@ NCAA 64",36,#533B22,#FFFFFF,4,WAC,Wyoming,black,1988.0,Return
 1930,bernie-bierman-1,Bernie Bierman,Tulane,7-3 SoCon,16,#FFFFFF,#000000,4,Southern,Louisiana,black,1929.0,Last
 1973,bernie-ockene-1,Bernie Ockene,Saint Peter's,8-18,8,#FFFFFF,#000000,4,Ind,New Jersey,black,1973.0,Return
 1974,bernie-ockene-1,Bernie Ockene,Saint Peter's,8-18,8,#FFFFFF,#000000,4,Ind,New Jersey,black,1973.0,Health
-1975,bernie-ockene-1,Bernie Ockene,Saint Peter's,Heart attack,0,#FFFFFF,#000000,0,Ind,New Jersey,white,1973.0,Last
+1975,bernie-ockene-1,Bernie Ockene,Saint Peter's,Health,0,#FFFFFF,#000000,0,Ind,New Jersey,white,1973.0,Last
 1917,bernie-tommers-1,Bernie Tommers,Yale,9-1 Ivy,19,#FFFFFF,#000000,4,Ivy,Connecticut,black,1917.0,Last
 1920,berry-whitaker-1,Berry Whitaker,Texas,4-6 SWC,10,#FFFFFF,#000000,4,SWC,Texas,black,1920.0,Last
 1908,bertram-maris-1,Bertram Maris,Notre Dame,12-4,12,#FFFFFF,#000000,4,Ind,Indiana,black,1908.0,Return
@@ -1574,13 +1575,13 @@ Elite 8",48,#F56600,#FFFFFF,4,ACC,South Carolina,black,1976.0,Return
 1982,bill-c-foster-1,Bill C. Foster,Clemson,4-10 ACC,14,#FFFFFF,#000000,4,ACC,South Carolina,black,1976.0,Return
 1983,bill-c-foster-1,Bill C. Foster,Clemson,2-12 ACC,11,#FFFFFF,#000000,4,ACC,South Carolina,black,1976.0,Return
 1984,bill-c-foster-1,Bill C. Foster,Clemson,3-11 ACC,14,#FFFFFF,#000000,4,ACC,South Carolina,black,1976.0,Fired
-1985,bill-c-foster-1,Bill C. Foster,Clemson,Fired?,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1976.0,Last
+1985,bill-c-foster-1,Bill C. Foster,Clemson,Fired,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1976.0,Last
 1986,bill-c-foster-1,Bill C. Foster,Miami (FL),14-14,14,#FFFFFF,#000000,4,Ind,Florida,black,1986.0,Return
 1987,bill-c-foster-1,Bill C. Foster,Miami (FL),15-16,15,#FFFFFF,#000000,4,Ind,Florida,black,1986.0,Return
 1988,bill-c-foster-1,Bill C. Foster,Miami (FL),17-14,17,#FFFFFF,#000000,4,Ind,Florida,black,1986.0,Return
 1989,bill-c-foster-1,Bill C. Foster,Miami (FL),19-12,19,#FFFFFF,#000000,4,Ind,Florida,black,1986.0,Return
 1990,bill-c-foster-1,Bill C. Foster,Miami (FL),13-15,13,#FFFFFF,#000000,4,Ind,Florida,black,1986.0,Fired
-1991,bill-c-foster-1,Bill C. Foster,Miami (FL),Fired?,0,#FFFFFF,#000000,0,Ind,Florida,white,1986.0,Last
+1991,bill-c-foster-1,Bill C. Foster,Miami (FL),Fired,0,#FFFFFF,#000000,0,Ind,Florida,white,1986.0,Last
 1992,bill-c-foster-1,Bill C. Foster,Virginia Tech,3-9 Metro,10,#FFFFFF,#000000,4,Metro,Virginia,black,1992.0,Return
 1993,bill-c-foster-1,Bill C. Foster,Virginia Tech,1-11 Metro,10,#FFFFFF,#000000,4,Metro,Virginia,black,1992.0,Return
 1994,bill-c-foster-1,Bill C. Foster,Virginia Tech,6-6 Metro,18,#FFFFFF,#000000,4,Metro,Virginia,black,1992.0,Return
@@ -1736,7 +1737,7 @@ Elite 8",49,#00539B,#FFFFFF,4,ACC,North Carolina,black,1975.0,Left
 1984,bill-e-foster-1,Bill E. Foster,South Carolina,4-7 Metro,12,#FFFFFF,#000000,4,Metro,South Carolina,black,1981.0,Return
 1985,bill-e-foster-1,Bill E. Foster,South Carolina,6-8 Metro,15,#FFFFFF,#000000,4,Metro,South Carolina,black,1981.0,Return
 1986,bill-e-foster-1,Bill E. Foster,South Carolina,2-10 Metro,12,#FFFFFF,#000000,4,Metro,South Carolina,black,1981.0,Health
-1987,bill-e-foster-1,Bill E. Foster,South Carolina,Heart problems,0,#FFFFFF,#000000,0,Metro,South Carolina,white,1981.0,Last
+1987,bill-e-foster-1,Bill E. Foster,South Carolina,Health,0,#FFFFFF,#000000,0,Metro,South Carolina,white,1981.0,Last
 1972,bill-e-foster-1,Bill E. Foster,Utah,5-9 WAC,13,#FFFFFF,#000000,4,WAC,Utah,black,1972.0,Return
 1973,bill-e-foster-1,Bill E. Foster,Utah,5-10 WAC,8,#FFFFFF,#000000,4,WAC,Utah,black,1972.0,Return
 1974,bill-e-foster-1,Bill E. Foster,Utah,9-5 WAC,22,#FFFFFF,#000000,4,WAC,Utah,black,1972.0,Left
@@ -1834,7 +1835,7 @@ Sweet 16",46,#00274C,#FFCB05,4,Big Ten,Michigan,black,1981.0,Return
 1980,bill-frieder-1,Bill Frieder,Michigan,Asst.,0,#FFFFFF,#000000,1,,,white,,Last
 1967,bill-gardiner-1,,Loyola (LA),?,0,#FFFFFF,#000000,0,,,white,,Last
 1975,bill-gibson-1,Bill Gibson,South Fla.,15-10,15,#FFFFFF,#000000,4,Ind,Florida,black,1975.0,Health
-1976,bill-gibson-1,Bill Gibson,South Fla.,Heart attack,0,#FFFFFF,#000000,0,Ind,Florida,white,1975.0,Last
+1976,bill-gibson-1,Bill Gibson,South Fla.,Health,0,#FFFFFF,#000000,0,Ind,Florida,white,1975.0,Last
 1964,bill-gibson-1,Bill Gibson,Virginia,4-10 ACC,8,#FFFFFF,#000000,4,ACC,Virginia,black,1964.0,Return
 1965,bill-gibson-1,Bill Gibson,Virginia,3-11 ACC,7,#FFFFFF,#000000,4,ACC,Virginia,black,1964.0,Return
 1966,bill-gibson-1,Bill Gibson,Virginia,4-10 ACC,7,#FFFFFF,#000000,4,ACC,Virginia,black,1964.0,Return
@@ -1963,7 +1964,7 @@ Runner-up",68,#0046AD,#FFFFFF,4,MVC,Indiana,black,1979.0,Return
 1955,bill-kajikawa-1,Bill Kajikawa,Arizona St.,8-4 BIAA,10,#FFFFFF,#000000,4,BIAA,Arizona,black,1949.0,Return
 1956,bill-kajikawa-1,Bill Kajikawa,Arizona St.,5-7 BIAA,11,#FFFFFF,#000000,4,BIAA,Arizona,black,1949.0,Return
 1957,bill-kajikawa-1,Bill Kajikawa,Arizona St.,4-6 BIAA,10,#FFFFFF,#000000,4,BIAA,Arizona,black,1949.0,Left
-1958,bill-kajikawa-1,Bill Kajikawa,Arizona St.,Football focus?,0,#FFFFFF,#000000,0,BIAA,Arizona,white,1949.0,Last
+1958,bill-kajikawa-1,Bill Kajikawa,Arizona St.,Football,0,#FFFFFF,#000000,0,BIAA,Arizona,white,1949.0,Last
 1977,bill-kirsch-1,Bill Kirsch,Siena,9-15,9,#FFFFFF,#000000,4,Ind,New York,black,1977.0,Return
 1978,bill-kirsch-1,Bill Kirsch,Siena,13-10,13,#FFFFFF,#000000,4,Ind,New York,black,1977.0,Return
 1979,bill-kirsch-1,Bill Kirsch,Siena,14-12,14,#FFFFFF,#000000,4,Ind,New York,black,1977.0,Return
@@ -2053,7 +2054,7 @@ NCAA 64",33,#EB1E00,#FFFFFF,4,Sun Belt,Alabama,black,1996.0,Left
 1964,bill-olson-1,Bill Olson,New Hampshire,2-8 Yank,8,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1957.0,Return
 1965,bill-olson-1,Bill Olson,New Hampshire,1-9 Yank,2,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1957.0,Return
 1966,bill-olson-1,Bill Olson,New Hampshire,0-10 Yank,3,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1957.0,Fired
-1967,bill-olson-1,Bill Olson,New Hampshire,Fired?,0,#FFFFFF,#000000,0,Yankee,New Hampshire,white,1957.0,Last
+1967,bill-olson-1,Bill Olson,New Hampshire,Fired,0,#FFFFFF,#000000,0,Yankee,New Hampshire,white,1957.0,Last
 1947,bill-orwig-1,Bill Orwig,Toledo,18-6,18,#FFFFFF,#000000,4,Ind,Ohio,black,1947.0,Last
 1953,bill-perigo-1,Bill Perigo,Michigan,3-15 B1G,6,#FFFFFF,#000000,4,Big Ten,Michigan,black,1953.0,Return
 1954,bill-perigo-1,Bill Perigo,Michigan,3-11 B1G,9,#FFFFFF,#000000,4,Big Ten,Michigan,black,1953.0,Return
@@ -2174,7 +2175,7 @@ Elite 8",57,#004371,#FFFFFF,4,WAC,Oklahoma,black,1998.0,Left
 1956,bill-stockton-1,Bill Stockton,New Mexico,5-9 MSAC,6,#FFFFFF,#000000,4,MSAC,New Mexico,black,1956.0,Return
 1957,bill-stockton-1,Bill Stockton,New Mexico,1-13 MSAC,5,#FFFFFF,#000000,4,MSAC,New Mexico,black,1956.0,Return
 1958,bill-stockton-1,Bill Stockton,New Mexico,0-14 MSAC,3,#FFFFFF,#000000,4,MSAC,New Mexico,black,1956.0,Fired
-1959,bill-stockton-1,Bill Stockton,New Mexico,Fired?,0,#FFFFFF,#000000,0,MSAC,New Mexico,white,1956.0,Last
+1959,bill-stockton-1,Bill Stockton,New Mexico,Fired,0,#FFFFFF,#000000,0,MSAC,New Mexico,white,1956.0,Last
 1951,bill-strannigan-1,Bill Strannigan,Colorado St.,6-16 MSAC,13,#FFFFFF,#000000,4,MSAC,Colorado,black,1951.0,Return
 1952,bill-strannigan-1,Bill Strannigan,Colorado St.,3-11 MSAC,13,#FFFFFF,#000000,4,MSAC,Colorado,black,1951.0,Return
 1953,bill-strannigan-1,Bill Strannigan,Colorado St.,5-9 MSAC,12,#FFFFFF,#000000,4,MSAC,Colorado,black,1951.0,Return
@@ -2202,7 +2203,7 @@ Sweet 16",35,#533B22,#FFFFFF,4,WAC,Wyoming,black,1960.0,Return
 1971,bill-strannigan-1,Bill Strannigan,Wyoming,6-8 WAC,10,#FFFFFF,#000000,4,WAC,Wyoming,black,1960.0,Return
 1972,bill-strannigan-1,Bill Strannigan,Wyoming,3-11 WAC,12,#FFFFFF,#000000,4,WAC,Wyoming,black,1960.0,Return
 1973,bill-strannigan-1,Bill Strannigan,Wyoming,4-10 WAC,9,#FFFFFF,#000000,4,WAC,Wyoming,black,1960.0,Retired
-1974,bill-strannigan-1,Bill Strannigan,Wyoming,Retired?,0,#FFFFFF,#000000,0,WAC,Wyoming,white,1960.0,Last
+1974,bill-strannigan-1,Bill Strannigan,Wyoming,Retired,0,#FFFFFF,#000000,0,WAC,Wyoming,white,1960.0,Last
 1924,bill-strickling-1,Bill Strickling,Marshall,8-7,8,#FFFFFF,#000000,4,Ind,West Virginia,black,1924.0,Return
 1927,bill-strickling-1,Bill Strickling,Marshall,7-9,7,#FFFFFF,#000000,4,Ind,West Virginia,black,1927.0,Last
 1984,bill-trumbo-1,Bill Trumbo,Idaho,3-10 BSky,9,#FFFFFF,#000000,4,Big Sky,Idaho,black,1984.0,Return
@@ -2320,12 +2321,12 @@ NCAA 64",34,#002843,#FFFFFF,4,WAC,Texas,black,2003.0,Left
 2011,billy-gillispie-1,Billy Gillispie,,-,0,#FFFFFF,#000000,1,,,white,,Last
 2002,billy-hahn-1,Billy Hahn,La Salle,6-10 A10,15,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2002.0,Return
 2003,billy-hahn-1,Billy Hahn,La Salle,5-11 A10,12,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2002.0,Return
-2004,billy-hahn-1,Billy Hahn,La Salle,5-11 A10,10,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2002.0,Scandal
-2005,billy-hahn-1,Billy Hahn,La Salle,Clery Act violation,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,2002.0,Last
+2004,billy-hahn-1,Billy Hahn,La Salle,5-11 A10,10,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2002.0,Left
+2005,billy-hahn-1,Billy Hahn,La Salle,Conduct,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,2002.0,Last
 1987,billy-hahn-1,Billy Hahn,Ohio,7-9 MAC,14,#FFFFFF,#000000,4,MAC,Ohio,black,1987.0,Return
 1988,billy-hahn-1,Billy Hahn,Ohio,9-7 MAC,16,#FFFFFF,#000000,4,MAC,Ohio,black,1987.0,Return
 1989,billy-hahn-1,Billy Hahn,Ohio,5-11 MAC,12,#FFFFFF,#000000,4,MAC,Ohio,black,1987.0,Fired
-1990,billy-hahn-1,Billy Hahn,Ohio,Fired?,0,#FFFFFF,#000000,0,MAC,Ohio,white,1987.0,Last
+1990,billy-hahn-1,Billy Hahn,Ohio,Fired,0,#FFFFFF,#000000,0,MAC,Ohio,white,1987.0,Last
 1975,billy-henry-1,Billy Henry,Charleston So.,4-16,4,#FFFFFF,#000000,4,Ind,South Carolina,black,1975.0,Unknown
 1976,billy-henry-1,Billy Henry,Charleston So.,?,0,#FFFFFF,#000000,0,Ind,South Carolina,white,1975.0,Last
 2000,billy-kennedy-1,,Centenary LA,Southeastern La.,0,#FFFFFF,#000000,0,,,white,,Last
@@ -2491,7 +2492,7 @@ NCAA 64",37,#4D1979,#FFFFFF,4,WAC,Texas,black,1995.0,Return
 1921,birch-bayh-1,Birch Bayh,Indiana St.,15-7,15,#FFFFFF,#000000,4,Ind,Indiana,black,1919.0,Return
 1922,birch-bayh-1,Birch Bayh,Indiana St.,12-3,12,#FFFFFF,#000000,4,Ind,Indiana,black,1919.0,Return
 1923,birch-bayh-1,Birch Bayh,Indiana St.,20-5,20,#FFFFFF,#000000,4,Ind,Indiana,black,1919.0,Last
-1961,birney-crum-1,,Muhlenburg,Fired?,0,#FFFFFF,#000000,0,,,white,,Last
+1961,birney-crum-1,,Muhlenburg,Fired,0,#FFFFFF,#000000,0,,,white,,Last
 2011,bj-hill-1,B.J. Hill,Northern Colo.,"13-3 BSky
 NCAA 64",31,#013C65,#F6B000,4,Big Sky,Colorado,black,2011.0,Return
 2012,bj-hill-1,B.J. Hill,Northern Colo.,5-11 BSky,9,#FFFFFF,#000000,4,Big Sky,Colorado,black,2011.0,Return
@@ -2536,7 +2537,7 @@ NCAA 64",37,#00507D,#FFFFFF,4,CAA,Virginia,black,2002.0,Return
 1938,blair-gullion-1,Blair Gullion,Tennessee,7-4 SEC,15,#FFFFFF,#000000,4,SEC,Tennessee,black,1936.0,Last
 1946,blair-gullion-1,Blair Gullion,UConn,4-2 Yank,11,#FFFFFF,#000000,4,Yankee,Connecticut,black,1946.0,Last
 1951,blair-gullion-1,,Washington (MO),Not D1,0,#FFFFFF,#000000,0,,,white,,Health
-1960,blair-gullion-1,,Washington (MO),Heart attack,0,#FFFFFF,#000000,0,,,white,,Last
+1960,blair-gullion-1,,Washington (MO),Health,0,#FFFFFF,#000000,0,,,white,,Last
 1943,blue-foster-1,Blue Foster,Miami (OH),11-5,11,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return
 1944,blue-foster-1,Blue Foster,Miami (OH),10-2,10,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return
 1945,blue-foster-1,Blue Foster,Miami (OH),8-7,8,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return
@@ -2696,7 +2697,7 @@ NCAA 25",30,#1C64A4,#FFFFFF,4,Ind,Michigan,black,1949.0,Return
 1967,bob-calihan-1,Bob Calihan,Detroit Mercy,10-15,10,#FFFFFF,#000000,4,Ind,Michigan,black,1949.0,Return
 1968,bob-calihan-1,Bob Calihan,Detroit Mercy,13-12,13,#FFFFFF,#000000,4,Ind,Michigan,black,1949.0,Return
 1969,bob-calihan-1,Bob Calihan,Detroit Mercy,16-10,16,#FFFFFF,#000000,4,Ind,Michigan,black,1949.0,Retired
-1970,bob-calihan-1,Bob Calihan,Detroit Mercy,Retired?,0,#FFFFFF,#000000,0,Ind,Michigan,white,1949.0,Last
+1970,bob-calihan-1,Bob Calihan,Detroit Mercy,Retired,0,#FFFFFF,#000000,0,Ind,Michigan,white,1949.0,Last
 2013,bob-cantu-1,Bob Cantu,Southern California,6-6 P12,6,#FFFFFF,#000000,3,,,black,2013.0,Interim
 2014,bob-cantu-1,Bob Cantu,Southern California,Interim over,0,#FFFFFF,#000000,0,,,white,2013.0,Last
 1983,bob-cleeland-1,Bob Cleeland,Missouri St.,6-3 MidC,13,#FFFFFF,#000000,4,Mid-Cont,Missouri,black,1983.0,Unknown
@@ -2871,7 +2872,7 @@ NCAA 32",42,#F76800,#FFFFFF,4,A-Sun,Georgia,black,2009.0,Return
 2002,bob-hoffman-1,Bob Hoffman,UTRGV,20-10,20,#FFFFFF,#000000,4,Ind,Texas,black,2000.0,Return
 2003,bob-hoffman-1,Bob Hoffman,UTRGV,10-20,10,#FFFFFF,#000000,4,Ind,Texas,black,2000.0,Return
 2004,bob-hoffman-1,Bob Hoffman,UTRGV,14-14,14,#FFFFFF,#000000,4,Ind,Texas,black,2000.0,Fired
-2005,bob-hoffman-1,Bob Hoffman,UTRGV,Fired?,0,#FFFFFF,#000000,0,Ind,Texas,white,2000.0,Last
+2005,bob-hoffman-1,Bob Hoffman,UTRGV,Fired,0,#FFFFFF,#000000,0,Ind,Texas,white,2000.0,Last
 1988,bob-hofman-1,Bob Hofman,Eastern Wash.,2-14 BSky,6,#FFFFFF,#000000,4,Big Sky,Washington,black,1988.0,Return
 1989,bob-hofman-1,Bob Hofman,Eastern Wash.,5-11 BSky,8,#FFFFFF,#000000,4,Big Sky,Washington,black,1988.0,Return
 1990,bob-hofman-1,Bob Hofman,Eastern Wash.,11-5 BSky,18,#FFFFFF,#000000,4,Big Sky,Washington,black,1988.0,Unknown
@@ -2943,8 +2944,8 @@ NCAA Lock",36,#002855,#EAAA00,4,Big 12,West Virginia,black,2008.0,Return
 NCAA 32",34,#002855,#EAAA00,4,Big 12,West Virginia,black,2008.0,Return
 2022,bob-huggins-1,Bob Huggins,West Virginia,4-14 B12,16,#FFFFFF,#000000,4,Big 12,West Virginia,black,2008.0,Return
 2023,bob-huggins-1,Bob Huggins,West Virginia,"7-11 B12
-NCAA 64",29,#002855,#EAAA00,4,Big 12,West Virginia,black,2008.0,Scandal
-2024,bob-huggins-1,Bob Huggins,West Virginia,DUI arrest,0,#FFFFFF,#000000,0,Big 12,West Virginia,white,2008.0,Last
+NCAA 64",29,#002855,#EAAA00,4,Big 12,West Virginia,black,2008.0,Left
+2024,bob-huggins-1,Bob Huggins,West Virginia,Conduct,0,#FFFFFF,#000000,0,Big 12,West Virginia,white,2008.0,Last
 1978,bob-kelly-1,Bob Kelly,Saint Peter's,8-18,8,#FFFFFF,#000000,4,Ind,New Jersey,black,1978.0,Return
 1979,bob-kelly-1,Bob Kelly,Saint Peter's,10-15,10,#FFFFFF,#000000,4,Ind,New Jersey,black,1978.0,Fired
 1980,bob-kelly-1,Bob Kelly,Saint Peter's,Fired,0,#FFFFFF,#000000,0,Ind,New Jersey,white,1978.0,Last
@@ -3026,8 +3027,8 @@ NCAA 32",35,#990000,#EDEBEB,4,Big Ten,Indiana,black,1972.0,Return
 1999,bob-knight-1,Bob Knight,Indiana,"9-7 B1G
 NCAA 32",38,#990000,#EDEBEB,4,Big Ten,Indiana,black,1972.0,Return
 2000,bob-knight-1,Bob Knight,Indiana,"10-6 B1G
-NCAA 64",30,#990000,#EDEBEB,4,Big Ten,Indiana,black,1972.0,Scandal
-2001,bob-knight-1,Bob Knight,Indiana,Anger issues,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1972.0,Last
+NCAA 64",30,#990000,#EDEBEB,4,Big Ten,Indiana,black,1972.0,Left
+2001,bob-knight-1,Bob Knight,Indiana,Conduct,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1972.0,Last
 2002,bob-knight-1,Bob Knight,Texas Tech,"10-6 B12
 NCAA 64",33,#CC0000,#FFFFFF,4,Big 12,Texas,black,2002.0,Return
 2003,bob-knight-1,Bob Knight,Texas Tech,6-10 B12,22,#FFFFFF,#000000,4,Big 12,Texas,black,2002.0,Return
@@ -3061,7 +3062,7 @@ NCAA 64",31,#CC0000,#FFFFFF,4,Big 12,Texas,black,2002.0,Return
 1970,bob-mackinnon-1,Bob MacKinnon,Canisius,9-13,9,#FFFFFF,#000000,4,Ind,New York,black,1960.0,Return
 1971,bob-mackinnon-1,Bob MacKinnon,Canisius,8-13,8,#FFFFFF,#000000,4,Ind,New York,black,1960.0,Return
 1972,bob-mackinnon-1,Bob MacKinnon,Canisius,15-11,15,#FFFFFF,#000000,4,Ind,New York,black,1960.0,Left
-1973,bob-mackinnon-1,Bob MacKinnon,Canisius,Buffalo Braves asst.,0,#FFFFFF,#000000,0,Ind,New York,white,1960.0,Last
+1973,bob-mackinnon-1,Bob MacKinnon,Canisius,Buffalo Braves (asst.),0,#FFFFFF,#000000,0,Ind,New York,white,1960.0,Last
 2011,bob-marlin-1,Bob Marlin,Louisiana,11-5 SB,14,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,2011.0,Return
 2012,bob-marlin-1,Bob Marlin,Louisiana,10-6 SB,16,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,2011.0,Return
 2013,bob-marlin-1,Bob Marlin,Louisiana,8-12 SB,13,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,2011.0,Return
@@ -3245,7 +3246,7 @@ NCAA 25",31,#003594,#FFFFFF,4,Ind,Colorado,black,1958.0,Return
 1969,bob-spear-1,Bob Spear,Air Force,11-13,11,#FFFFFF,#000000,4,Ind,Colorado,black,1958.0,Return
 1970,bob-spear-1,Bob Spear,Air Force,12-12,12,#FFFFFF,#000000,4,Ind,Colorado,black,1958.0,Return
 1971,bob-spear-1,Bob Spear,Air Force,12-14,12,#FFFFFF,#000000,4,Ind,Colorado,black,1958.0,Retired
-1972,bob-spear-1,Bob Spear,Air Force,Retired?,0,#FFFFFF,#000000,0,Ind,Colorado,white,1958.0,Last
+1972,bob-spear-1,Bob Spear,Air Force,Retired,0,#FFFFFF,#000000,0,Ind,Colorado,white,1958.0,Last
 1986,bob-staak-1,Bob Staak,Wake Forest,0-14 ACC,8,#FFFFFF,#000000,4,ACC,North Carolina,black,1986.0,Return
 1987,bob-staak-1,Bob Staak,Wake Forest,2-12 ACC,14,#FFFFFF,#000000,4,ACC,North Carolina,black,1986.0,Return
 1988,bob-staak-1,Bob Staak,Wake Forest,3-11 ACC,10,#FFFFFF,#000000,4,ACC,North Carolina,black,1986.0,Return
@@ -3342,7 +3343,7 @@ NCAA 25",30,#004991,#FFFFFF,4,Ind,Tennessee,black,1957.0,Left
 1965,bob-vanatta-1,Bob Vanatta,Missouri,9-8 B8,13,#FFFFFF,#000000,4,Big 8,Missouri,black,1963.0,Return
 1966,bob-vanatta-1,Bob Vanatta,Missouri,2-15 B8,3,#FFFFFF,#000000,4,Big 8,Missouri,black,1963.0,Return
 1967,bob-vanatta-1,Bob Vanatta,Missouri,1-15 B8,3,#FFFFFF,#000000,4,Big 8,Missouri,black,1963.0,Fired
-1968,bob-vanatta-1,Bob Vanatta,Missouri,Fired?,0,#FFFFFF,#000000,0,Big 8,Missouri,white,1963.0,Last
+1968,bob-vanatta-1,Bob Vanatta,Missouri,Fired,0,#FFFFFF,#000000,0,Big 8,Missouri,white,1963.0,Last
 1953,bob-vanatta-1,Bob Vanatta,Missouri St.,24-4,24,#FFFFFF,#000000,4,Ind,Missouri,black,1953.0,Last
 1987,bob-wade-1,Bob Wade,Maryland,0-14 ACC,9,#FFFFFF,#000000,4,ACC,Maryland,black,1987.0,Return
 1988,bob-wade-1,Bob Wade,Maryland,"6-8 ACC
@@ -3633,7 +3634,7 @@ Sweet 16",39,#0033A0,#FFCF00,4,OVC,Kentucky,black,1954.0,Return
 1963,bobby-laughlin-1,Bobby Laughlin,Morehead St.,8-4 OVC,13,#FFFFFF,#000000,4,OVC,Kentucky,black,1954.0,Return
 1964,bobby-laughlin-1,Bobby Laughlin,Morehead St.,6-8 OVC,10,#FFFFFF,#000000,4,OVC,Kentucky,black,1954.0,Return
 1965,bobby-laughlin-1,Bobby Laughlin,Morehead St.,6-9 OVC,13,#FFFFFF,#000000,4,OVC,Kentucky,black,1954.0,Retired
-1966,bobby-laughlin-1,Bobby Laughlin,Morehead St.,Retired?,0,#FFFFFF,#000000,0,OVC,Kentucky,white,1954.0,Last
+1966,bobby-laughlin-1,Bobby Laughlin,Morehead St.,Retired,0,#FFFFFF,#000000,0,OVC,Kentucky,white,1954.0,Last
 1999,bobby-lutz-1,Bobby Lutz,Charlotte,"10-6 CUSA
 NCAA 32",38,#005035,#FFFFFF,4,CUSA,North Carolina,black,1999.0,Return
 2000,bobby-lutz-1,Bobby Lutz,Charlotte,7-9 CUSA,17,#FFFFFF,#000000,4,CUSA,North Carolina,black,1999.0,Return
@@ -3697,7 +3698,7 @@ NCAA 64",29,#004A36,#FFFFFF,4,Metro,Florida,black,1987.0,Return
 1963,bobby-rogers-1,Bobby Rogers,Texas A&M,9-5 SWC,16,#FFFFFF,#000000,4,SWC,Texas,black,1958.0,Unknown
 1964,bobby-rogers-1,Bobby Rogers,Texas A&M,?,0,#FFFFFF,#000000,0,SWC,Texas,white,1958.0,Last
 1978,bobby-watson-1,Bobby Watson,Evansville,1-3,1,#FFFFFF,#000000,4,Ind,Indiana,black,1978.0,Left
-1979,bobby-watson-1,Bobby Watson,Evansville,Plane crash,0,#FFFFFF,#000000,0,Ind,Indiana,white,1978.0,Last
+1979,bobby-watson-1,Bobby Watson,Evansville,Tragedy,0,#FFFFFF,#000000,0,Ind,Indiana,white,1978.0,Last
 1958,bones-mckinney-1,Bones McKinney,Wake Forest,3-12 ACC,6,#FFFFFF,#000000,4,ACC,North Carolina,black,1958.0,Return
 1959,bones-mckinney-1,Bones McKinney,Wake Forest,5-9 ACC,10,#FFFFFF,#000000,4,ACC,North Carolina,black,1958.0,Return
 1960,bones-mckinney-1,Bones McKinney,Wake Forest,13-2 ACC,21,#FFFFFF,#000000,4,ACC,North Carolina,black,1958.0,Return
@@ -3730,7 +3731,7 @@ Final 4",52,#9E7E38,#000000,4,ACC,North Carolina,black,1958.0,Return
 1955,boydson-baird-1,Boydson Baird,William & Mary,8-6 SoCon,11,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Return
 1956,boydson-baird-1,Boydson Baird,William & Mary,9-8 SoCon,12,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Return
 1957,boydson-baird-1,Boydson Baird,William & Mary,8-11 SoCon,9,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Resigned
-1958,boydson-baird-1,Boydson Baird,William & Mary,Resigned?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1953.0,Last
+1958,boydson-baird-1,Boydson Baird,William & Mary,Resigned,0,#FFFFFF,#000000,0,Southern,Virginia,white,1953.0,Last
 2011,brad-brownell-1,Brad Brownell,Clemson,"9-7 ACC
 NCAA 64",32,#F56600,#FFFFFF,4,ACC,South Carolina,black,2011.0,Return
 2012,brad-brownell-1,Brad Brownell,Clemson,8-8 ACC,16,#FFFFFF,#000000,4,ACC,South Carolina,black,2011.0,Return
@@ -3926,7 +3927,7 @@ Sweet 16",33,#990000,#EDEBEB,4,Big Ten,Indiana,black,1947.0,Return
 2022,brandon-laird-1,Brandon Laird,Sacramento St.,6-14 BSky,11,#FFFFFF,#000000,4,Big Sky,California,black,2022.0,Interim
 2023,brandon-laird-1,Brandon Laird,Sacramento St.,Interim over,0,#FFFFFF,#000000,0,Big Sky,California,white,2022.0,Last
 2014,brandon-miller-2,Brandon Miller,Butler,4-14 BE,14,#FFFFFF,#000000,4,Big East,Indiana,black,2014.0,Last
-2015,brandon-miller-3,Brandon Miller,Butler,Health problems,0,#FFFFFF,#000000,0,Big East,Indiana,white,2014.0,Last
+2015,brandon-miller-3,Brandon Miller,Butler,Health,0,#FFFFFF,#000000,0,Big East,Indiana,white,2014.0,Last
 1985,brendan-malone-1,Brendan Malone,Rhode Island,2-16 A10,8,#FFFFFF,#000000,4,A-10,Rhode Island,black,1985.0,Return
 1986,brendan-malone-1,Brendan Malone,Rhode Island,5-13 A10,9,#FFFFFF,#000000,4,A-10,Rhode Island,black,1985.0,Left
 1987,brendan-malone-1,Brendan Malone,Rhode Island,NY Knicks (asst.),0,#FFFFFF,#000000,0,A-10,Rhode Island,white,1985.0,Last
@@ -4064,7 +4065,7 @@ NCAA 64",30,#B42836,#FFFFFF,4,MW Coll,Illinois,black,1992.0,Return
 1981,brian-hill-2,Brian Hill,Lehigh,6-10 ECC,14,#FFFFFF,#000000,4,ECC,Pennsylvania,black,1976.0,Return
 1982,brian-hill-2,Brian Hill,Lehigh,3-13 ECC,9,#FFFFFF,#000000,4,ECC,Pennsylvania,black,1976.0,Return
 1983,brian-hill-2,Brian Hill,Lehigh,2-11 ECC,10,#FFFFFF,#000000,4,ECC,Pennsylvania,black,1976.0,Fired
-1984,brian-hill-2,Brian Hill,Lehigh,Fired?,0,#FFFFFF,#000000,0,ECC,Pennsylvania,white,1976.0,Last
+1984,brian-hill-2,Brian Hill,Lehigh,Fired,0,#FFFFFF,#000000,0,ECC,Pennsylvania,white,1976.0,Last
 2010,brian-jones-2,Brian Jones,North Dakota,5-3 GWC,8,#FFFFFF,#000000,4,GWC,North Dakota,black,2010.0,Return
 2011,brian-jones-2,Brian Jones,North Dakota,8-4 GWC,19,#FFFFFF,#000000,4,GWC,North Dakota,black,2010.0,Return
 2012,brian-jones-2,Brian Jones,North Dakota,6-4 GWC,17,#FFFFFF,#000000,4,GWC,North Dakota,black,2010.0,Return
@@ -4415,7 +4416,7 @@ Final 4",49,#FFCD00,#000000,4,Big Ten,Iowa,black,1952.0,Return
 Runner-up",55,#FFCD00,#000000,4,Big Ten,Iowa,black,1952.0,Return
 1957,bucky-oconnor-1,Bucky O'Connor,Iowa,4-10 B1G,8,#FFFFFF,#000000,4,Big Ten,Iowa,black,1952.0,Return
 1958,bucky-oconnor-1,Bucky O'Connor,Iowa,7-7 B1G,13,#FFFFFF,#000000,4,Big Ten,Iowa,black,1952.0,Left
-1959,bucky-oconnor-1,Bucky O'Connor,Iowa,Highway accident,0,#FFFFFF,#000000,0,Big Ten,Iowa,white,1952.0,Unknown
+1959,bucky-oconnor-1,Bucky O'Connor,Iowa,Tragedy,0,#FFFFFF,#000000,0,Big Ten,Iowa,white,1952.0,Unknown
 1951,bucky-oconnor-1,,Iowa,?,0,#FFFFFF,#000000,0,,,white,,Last
 1970,bucky-waters-1,Bucky Waters,Duke,8-6 ACC,17,#FFFFFF,#000000,4,ACC,North Carolina,black,1970.0,Return
 1971,bucky-waters-1,Bucky Waters,Duke,9-5 ACC,20,#FFFFFF,#000000,4,ACC,North Carolina,black,1970.0,Return
@@ -4461,7 +4462,7 @@ Elite 8",41,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,1935.0,Return
 1953,bud-haerr-1,Bud Haerr,Kent St.,3-9 MAC,7,#FFFFFF,#000000,4,MAC,Ohio,black,1952.0,Return
 1954,bud-haerr-1,Bud Haerr,Kent St.,3-9 MAC,8,#FFFFFF,#000000,4,MAC,Ohio,black,1952.0,Return
 1955,bud-haerr-1,Bud Haerr,Kent St.,5-9 MAC,8,#FFFFFF,#000000,4,MAC,Ohio,black,1952.0,Fired
-1956,bud-haerr-1,Bud Haerr,Kent St.,Fired?,0,#FFFFFF,#000000,0,MAC,Ohio,white,1952.0,Last
+1956,bud-haerr-1,Bud Haerr,Kent St.,Fired,0,#FFFFFF,#000000,0,MAC,Ohio,white,1952.0,Last
 1957,bud-kennedy-1,Bud Kennedy,Florida St.,9-17,9,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Return
 1958,bud-kennedy-1,Bud Kennedy,Florida St.,9-16,9,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Return
 1959,bud-kennedy-1,Bud Kennedy,Florida St.,8-15,8,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Return
@@ -4472,7 +4473,7 @@ Elite 8",41,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,1935.0,Return
 1964,bud-kennedy-1,Bud Kennedy,Florida St.,11-14,11,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Return
 1965,bud-kennedy-1,Bud Kennedy,Florida St.,16-10,16,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Return
 1966,bud-kennedy-1,Bud Kennedy,Florida St.,14-11,14,#FFFFFF,#000000,4,Ind,Florida,black,1957.0,Health
-1967,bud-kennedy-1,Bud Kennedy,Florida St.,Cancer,0,#FFFFFF,#000000,0,Ind,Florida,white,1957.0,Last
+1967,bud-kennedy-1,Bud Kennedy,Florida St.,Health,0,#FFFFFF,#000000,0,Ind,Florida,white,1957.0,Last
 1945,bud-laabs-1,Bud Laabs,New Mexico St.,4-3 BIAA,9,#FFFFFF,#000000,4,BIAA,New Mexico,black,1945.0,Return
 1946,bud-laabs-1,Bud Laabs,New Mexico St.,2-12 BIAA,5,#FFFFFF,#000000,4,BIAA,New Mexico,black,1945.0,Last
 1951,bud-millikan-1,Bud Millikan,Maryland,11-8 SoCon,15,#FFFFFF,#000000,4,Southern,Maryland,black,1951.0,Return
@@ -4576,7 +4577,7 @@ NCAA 32",33,#0033A0,#FFFFFF,4,Big Sky,Idaho,black,1974.0,Return
 1955,bus-male-1,Bus Male,Virginia,5-9 ACC,14,#FFFFFF,#000000,4,ACC,Virginia,black,1952.0,Return
 1956,bus-male-1,Bus Male,Virginia,3-11 ACC,10,#FFFFFF,#000000,4,ACC,Virginia,black,1952.0,Return
 1957,bus-male-1,Bus Male,Virginia,3-12 ACC,6,#FFFFFF,#000000,4,ACC,Virginia,black,1952.0,Fired
-1958,bus-male-1,Bus Male,Virginia,Fired?,0,#FFFFFF,#000000,0,ACC,Virginia,white,1952.0,Last
+1958,bus-male-1,Bus Male,Virginia,Fired,0,#FFFFFF,#000000,0,ACC,Virginia,white,1952.0,Last
 1939,buster-brannon-1,Buster Brannon,Rice,6-6 SWC,10,#FFFFFF,#000000,4,SWC,Texas,black,1939.0,Return
 1940,buster-brannon-1,Buster Brannon,Rice,"10-2 SWC
 Elite 8",50,#00205B,#FFFFFF,4,SWC,Texas,black,1939.0,Return
@@ -4606,7 +4607,7 @@ Sweet 16",40,#4D1979,#FFFFFF,4,SWC,Texas,black,1949.0,Return
 1965,buster-brannon-1,Buster Brannon,TCU,3-11 SWC,6,#FFFFFF,#000000,4,SWC,Texas,black,1949.0,Return
 1966,buster-brannon-1,Buster Brannon,TCU,6-8 SWC,8,#FFFFFF,#000000,4,SWC,Texas,black,1949.0,Return
 1967,buster-brannon-1,Buster Brannon,TCU,8-6 SWC,10,#FFFFFF,#000000,4,SWC,Texas,black,1949.0,Retired
-1968,buster-brannon-1,Buster Brannon,TCU,Retired?,0,#FFFFFF,#000000,0,SWC,Texas,white,1949.0,Last
+1968,buster-brannon-1,Buster Brannon,TCU,Retired,0,#FFFFFF,#000000,0,SWC,Texas,white,1949.0,Last
 1997,buster-harvey-1,Buster Harvey,Jacksonville,4-14 SB,5,#FFFFFF,#000000,4,Sun Belt,Florida,black,1997.0,Interim
 1998,buster-harvey-1,Buster Harvey,Jacksonville,Interim over,0,#FFFFFF,#000000,0,Sun Belt,Florida,white,1997.0,Last
 1946,buster-poole-1,Buster Poole,Ole Miss,2-8 SEC,8,#FFFFFF,#000000,4,SEC,Mississippi,black,1946.0,Last
@@ -4619,7 +4620,7 @@ Elite 8",52,#602D89,#FFFFFF,4,Ind,Massachusetts,black,1949.0,Return
 Elite 8",45,#602D89,#FFFFFF,4,Ind,Massachusetts,black,1949.0,Return
 1954,buster-sheary-1,Buster Sheary,Holy Cross,26-2,26,#FFFFFF,#000000,4,Ind,Massachusetts,black,1949.0,Return
 1955,buster-sheary-1,Buster Sheary,Holy Cross,19-7,19,#FFFFFF,#000000,4,Ind,Massachusetts,black,1949.0,Retired
-1956,buster-sheary-1,Buster Sheary,Holy Cross,Retired?,0,#FFFFFF,#000000,0,Ind,Massachusetts,white,1949.0,Last
+1956,buster-sheary-1,Buster Sheary,Holy Cross,Retired,0,#FFFFFF,#000000,0,Ind,Massachusetts,white,1949.0,Last
 1991,butch-beard-1,Butch Beard,Howard,7-9 MEAC,8,#FFFFFF,#000000,4,MEAC,D.C.,black,1991.0,Return
 1992,butch-beard-1,Butch Beard,Howard,"12-4 MEAC
 NCAA 64",27,#003A63,#FFFFFF,4,MEAC,D.C.,black,1991.0,Return
@@ -4820,7 +4821,7 @@ NCAA 25",37,#002144,#ECAC00,4,OVC,Kentucky,black,1959.0,Return
 1997,cal-luther-1,Cal Luther,UT Martin,8-10 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,1993.0,Return
 1998,cal-luther-1,Cal Luther,UT Martin,5-13 OVC,7,#FFFFFF,#000000,4,OVC,Tennessee,black,1993.0,Return
 1999,cal-luther-1,Cal Luther,UT Martin,5-13 OVC,8,#FFFFFF,#000000,4,OVC,Tennessee,black,1993.0,Fired
-2000,cal-luther-1,Cal Luther,UT Martin,Fired?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1993.0,Last
+2000,cal-luther-1,Cal Luther,UT Martin,Fired,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1993.0,Last
 1972,calvin-irvin-1,Calvin Irvin,N.C. A&T,20-6,20,#FFFFFF,#000000,4,MEAC,North Carolina,black,1972.0,Unknown
 1973,calvin-irvin-1,Calvin Irvin,N.C. A&T,?,0,#FFFFFF,#000000,0,MEAC,North Carolina,white,1972.0,Last
 1980,calvin-white-2,Calvin White,Prairie View,10-18,10,#FFFFFF,#000000,4,SWAC,Texas,black,1980.0,Return
@@ -5441,7 +5442,7 @@ NCAA 32",35,#BA0C2F,#FFFFFF,4,Big Ten,Ohio,black,2018.0,Return
 2024,chris-holtmann-1,Chris Holtmann,Ohio St.,4-10 B1G,14,#FFFFFF,#000000,3,Big Ten,Ohio,black,2018.0,Fired
 2025,chris-holtmann-1,Chris Holtmann,Ohio St.,Fired,0,#FFFFFF,#000000,0,Big Ten,Ohio,white,2018.0,Last
 2015,chris-jans-1,Chris Jans,Bowling Green,11-7 MAC,21,#FFFFFF,#000000,4,MAC,Ohio,black,2015.0,Left
-2016,chris-jans-1,Chris Jans,Bowling Green,Bar conduct,0,#FFFFFF,#000000,0,MAC,Ohio,white,2015.0,Last
+2016,chris-jans-1,Chris Jans,Bowling Green,Conduct,0,#FFFFFF,#000000,0,MAC,Ohio,white,2015.0,Last
 2023,chris-jans-1,Chris Jans,Mississippi St.,"8-10 SEC
 NCAA 68",26,#5D1725,#FFFFFF,4,SEC,Mississippi,black,2023.0,Return
 2024,chris-jans-1,Chris Jans,Mississippi St.,"8-10 SEC
@@ -5572,7 +5573,7 @@ NCAA 25",36,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1972.0,Return
 NCAA 32",38,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1972.0,Return
 1976,chuck-daly-1,Chuck Daly,Penn,11-3 Ivy,17,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,1972.0,Return
 1977,chuck-daly-1,Chuck Daly,Penn,12-2 Ivy,18,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,1972.0,Resigned
-1978,chuck-daly-1,Chuck Daly,Penn,Resigned?,0,#FFFFFF,#000000,0,Ivy,Pennsylvania,white,1972.0,Last
+1978,chuck-daly-1,Chuck Daly,Penn,Resigned,0,#FFFFFF,#000000,0,Ivy,Pennsylvania,white,1972.0,Last
 2011,chuck-driesell-1,Chuck Driesell,The Citadel,6-12 SoCon,10,#FFFFFF,#000000,4,Southern,South Carolina,black,2011.0,Return
 2012,chuck-driesell-1,Chuck Driesell,The Citadel,3-15 SoCon,6,#FFFFFF,#000000,4,Southern,South Carolina,black,2011.0,Return
 2013,chuck-driesell-1,Chuck Driesell,The Citadel,5-13 SoCon,8,#FFFFFF,#000000,4,Southern,South Carolina,black,2011.0,Return
@@ -5591,11 +5592,11 @@ NCAA 32",38,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1972.0,Return
 2013,chuck-martin-1,Chuck Martin,Marist,6-12 MAAC,10,#FFFFFF,#000000,4,MAAC,New York,black,2009.0,Fired
 2014,chuck-martin-1,Chuck Martin,Marist,Fired,0,#FFFFFF,#000000,0,MAAC,New York,white,2009.0,Last
 1963,chuck-noe-1,Chuck Noe,South Carolina,4-10 ACC,9,#FFFFFF,#000000,4,ACC,South Carolina,black,1963.0,Resigned
-1964,chuck-noe-1,Chuck Noe,South Carolina,Resigned?,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1963.0,Last
+1964,chuck-noe-1,Chuck Noe,South Carolina,Resigned,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1963.0,Last
 1974,chuck-noe-1,Chuck Noe,VCU,17-7,17,#FFFFFF,#000000,4,Ind,Virginia,black,1974.0,Return
 1975,chuck-noe-1,Chuck Noe,VCU,17-8,17,#FFFFFF,#000000,4,Ind,Virginia,black,1974.0,Return
 1976,chuck-noe-1,Chuck Noe,VCU,16-9,16,#FFFFFF,#000000,4,Ind,Virginia,black,1974.0,Retired
-1977,chuck-noe-1,Chuck Noe,VCU,Retired?,0,#FFFFFF,#000000,0,Ind,Virginia,white,1974.0,Last
+1977,chuck-noe-1,Chuck Noe,VCU,Retired,0,#FFFFFF,#000000,0,Ind,Virginia,white,1974.0,Last
 1953,chuck-noe-1,Chuck Noe,VMI,1-14 SoCon,5,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Return
 1954,chuck-noe-1,Chuck Noe,VMI,6-7 SoCon,11,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Return
 1955,chuck-noe-1,Chuck Noe,VMI,4-9 SoCon,8,#FFFFFF,#000000,4,Southern,Virginia,black,1953.0,Left
@@ -5729,7 +5730,7 @@ Sweet 16",41,#004371,#FFFFFF,4,MVC,Oklahoma,black,1950.0,Return
 1952,clay-sutherland-1,Clay Sutherland,Iowa St.,5-9 B7,10,#FFFFFF,#000000,4,Big 7,Iowa,black,1948.0,Return
 1953,clay-sutherland-1,Clay Sutherland,Iowa St.,5-9 B7,10,#FFFFFF,#000000,4,Big 7,Iowa,black,1948.0,Return
 1954,clay-sutherland-1,Clay Sutherland,Iowa St.,2-10 B7,6,#FFFFFF,#000000,4,Big 7,Iowa,black,1948.0,Fired
-1955,clay-sutherland-1,Clay Sutherland,Iowa St.,Fired?,0,#FFFFFF,#000000,0,Big 7,Iowa,white,1948.0,Last
+1955,clay-sutherland-1,Clay Sutherland,Iowa St.,Fired,0,#FFFFFF,#000000,0,Big 7,Iowa,white,1948.0,Last
 2021,clayton-bates-1,Clayton Bates,Western Mich.,4-12 MAC,5,#FFFFFF,#000000,4,MAC,Michigan,black,2021.0,Return
 2022,clayton-bates-1,Clayton Bates,Western Mich.,4-16 MAC,8,#FFFFFF,#000000,4,MAC,Michigan,black,2021.0,Fired
 2023,clayton-bates-1,Clayton Bates,Western Mich.,Fired,0,#FFFFFF,#000000,0,MAC,Michigan,white,2021.0,Last
@@ -5968,7 +5969,7 @@ NCAA 64",29,#CFAE70,#1C1C1C,4,SEC,Tennessee,black,1982.0,Left
 1994,coleman-crawford-1,Coleman Crawford,Akron,2-16 MAC,8,#FFFFFF,#000000,4,MAC,Ohio,black,1990.0,Return
 1995,coleman-crawford-1,Coleman Crawford,Akron,4-14 MAC,8,#FFFFFF,#000000,4,MAC,Ohio,black,1990.0,Unknown
 1996,coleman-crawford-1,Coleman Crawford,Akron,?,0,#FFFFFF,#000000,0,MAC,Ohio,white,1990.0,Last
-1951,conn-davis-1,,Washington & Lee,Fired?,0,#FFFFFF,#000000,0,,,white,,Last
+1951,conn-davis-1,,Washington & Lee,Fired,0,#FFFFFF,#000000,0,,,white,,Last
 1970,connie-inman-1,Connie Inman,Tennessee Tech,4-10 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,1970.0,Return
 1971,connie-inman-1,Connie Inman,Tennessee Tech,4-10 OVC,7,#FFFFFF,#000000,4,OVC,Tennessee,black,1970.0,Return
 1972,connie-inman-1,Connie Inman,Tennessee Tech,7-7 OVC,14,#FFFFFF,#000000,4,OVC,Tennessee,black,1970.0,Return
@@ -6287,7 +6288,7 @@ Sweet 16",42,#205C40,#FFFFFF,4,WCAC,California,black,1979.0,Return
 1958,dan-cunha-1,Dan Cunha,Siena,5-15,5,#FFFFFF,#000000,4,Ind,New York,black,1947.0,Return
 1959,dan-cunha-1,Dan Cunha,Siena,3-16,3,#FFFFFF,#000000,4,Ind,New York,black,1947.0,Return
 1960,dan-cunha-1,Dan Cunha,Siena,3-18,3,#FFFFFF,#000000,4,Ind,New York,black,1947.0,Fired
-1961,dan-cunha-1,Dan Cunha,Siena,Fired?,0,#FFFFFF,#000000,0,Ind,New York,white,1947.0,Last
+1961,dan-cunha-1,Dan Cunha,Siena,Fired,0,#FFFFFF,#000000,0,Ind,New York,white,1947.0,Last
 1998,dan-dakich-1,Dan Dakich,Bowling Green,7-11 MAC,10,#FFFFFF,#000000,4,MAC,Ohio,black,1998.0,Return
 1999,dan-dakich-1,Dan Dakich,Bowling Green,12-6 MAC,18,#FFFFFF,#000000,4,MAC,Ohio,black,1998.0,Return
 2000,dan-dakich-1,Dan Dakich,Bowling Green,14-4 MAC,22,#FFFFFF,#000000,4,MAC,Ohio,black,1998.0,Return
@@ -6406,7 +6407,7 @@ Champion",137,#000E2F,#FFFFFF,4,Big East,Connecticut,black,2019.0,Last
 1996,dan-kenney-1,Dan Kenney,Winthrop,6-8 BSth,7,#FFFFFF,#000000,4,Big South,South Carolina,black,1993.0,Return
 1997,dan-kenney-1,Dan Kenney,Winthrop,5-9 BSth,12,#FFFFFF,#000000,4,Big South,South Carolina,black,1993.0,Return
 1998,dan-kenney-1,Dan Kenney,Winthrop,4-8 BSth,7,#FFFFFF,#000000,4,Big South,South Carolina,black,1993.0,Fired
-1999,dan-kenney-1,Dan Kenney,Winthrop,Fired?,0,#FFFFFF,#000000,0,Big South,South Carolina,white,1993.0,Last
+1999,dan-kenney-1,Dan Kenney,Winthrop,Fired,0,#FFFFFF,#000000,0,Big South,South Carolina,white,1993.0,Last
 2007,dan-leibovitz-1,Dan Leibovitz,Hartford,6-10 AEC,13,#FFFFFF,#000000,4,AEC,Connecticut,black,2007.0,Return
 2008,dan-leibovitz-1,Dan Leibovitz,Hartford,10-6 AEC,18,#FFFFFF,#000000,4,AEC,Connecticut,black,2007.0,Return
 2009,dan-leibovitz-1,Dan Leibovitz,Hartford,2-14 AEC,7,#FFFFFF,#000000,4,AEC,Connecticut,black,2007.0,Return
@@ -6625,7 +6626,7 @@ NCAA 32",43,#004991,#FFFFFF,4,Metro,Tennessee,black,1980.0,Scandal
 1967,daniel-lynch-1,Daniel Lynch,St. Francis Brooklyn,5-1 MCC,15,#FFFFFF,#000000,4,MCC,New York,black,1949.0,Return
 1968,daniel-lynch-1,Daniel Lynch,St. Francis Brooklyn,0-6 MCC,7,#FFFFFF,#000000,4,MCC,New York,black,1949.0,Return
 1969,daniel-lynch-1,Daniel Lynch,St. Francis Brooklyn,7-16,7,#FFFFFF,#000000,4,Ind,New York,black,1949.0,Retired
-1970,daniel-lynch-1,Daniel Lynch,St. Francis Brooklyn,Retired?,0,#FFFFFF,#000000,0,Ind,New York,white,1949.0,Last
+1970,daniel-lynch-1,Daniel Lynch,St. Francis Brooklyn,Retired,0,#FFFFFF,#000000,0,Ind,New York,white,1949.0,Last
 1926,daniel-meehan-1,Daniel Meehan,Columbia,9-1 Ivy,15,#FFFFFF,#000000,4,Ivy,New York,black,1926.0,Return
 1927,daniel-meehan-1,Daniel Meehan,Columbia,5-5 Ivy,8,#FFFFFF,#000000,4,Ivy,New York,black,1926.0,Return
 1928,daniel-meehan-1,Daniel Meehan,Columbia,2-8 Ivy,4,#FFFFFF,#000000,4,Ivy,New York,black,1926.0,Return
@@ -6663,8 +6664,8 @@ NCAA 64",34,#393996,#FFFFFF,4,Southland,Texas,black,2001.0,Return
 2017,danny-kaspar-1,Danny Kaspar,Texas St.,11-7 SB,22,#FFFFFF,#000000,4,Sun Belt,Texas,black,2014.0,Return
 2018,danny-kaspar-1,Danny Kaspar,Texas St.,7-11 SB,15,#FFFFFF,#000000,4,Sun Belt,Texas,black,2014.0,Return
 2019,danny-kaspar-1,Danny Kaspar,Texas St.,12-6 SB,24,#FFFFFF,#000000,4,Sun Belt,Texas,black,2014.0,Return
-2020,danny-kaspar-1,Danny Kaspar,Texas St.,13-7 SB,21,#FFFFFF,#000000,4,Sun Belt,Texas,black,2014.0,Scandal
-2021,danny-kaspar-1,Danny Kaspar,Texas St.,Insensitive comments,0,#FFFFFF,#000000,0,Sun Belt,Texas,white,2014.0,Last
+2020,danny-kaspar-1,Danny Kaspar,Texas St.,13-7 SB,21,#FFFFFF,#000000,4,Sun Belt,Texas,black,2014.0,Left
+2021,danny-kaspar-1,Danny Kaspar,Texas St.,Conduct,0,#FFFFFF,#000000,0,Sun Belt,Texas,white,2014.0,Last
 2022,danny-manning-1,Danny Manning,Maryland,7-13 B1G,10,#FFFFFF,#000000,4,Big Ten,Maryland,black,2022.0,Interim
 2023,danny-manning-1,Danny Manning,Maryland,Interim over,0,#FFFFFF,#000000,0,Big Ten,Maryland,white,2022.0,Last
 2013,danny-manning-1,Danny Manning,Tulsa,8-8 CUSA,17,#FFFFFF,#000000,4,CUSA,Oklahoma,black,2013.0,Return
@@ -6682,12 +6683,12 @@ NCAA 68",24,#9E7E38,#000000,4,ACC,North Carolina,black,2015.0,Return
 1953,danny-miller-1,Danny Miller,Davidson,3-14 SoCon,4,#FFFFFF,#000000,4,Southern,North Carolina,black,1953.0,Return
 1954,danny-miller-1,Danny Miller,Davidson,3-5 SoCon,7,#FFFFFF,#000000,4,Southern,North Carolina,black,1953.0,Return
 1955,danny-miller-1,Danny Miller,Davidson,4-6 SoCon,8,#FFFFFF,#000000,4,Southern,North Carolina,black,1953.0,Fired
-1956,danny-miller-1,Danny Miller,Davidson,Fired?,0,#FFFFFF,#000000,0,Southern,North Carolina,white,1953.0,Last
+1956,danny-miller-1,Danny Miller,Davidson,Fired,0,#FFFFFF,#000000,0,Southern,North Carolina,white,1953.0,Last
 1968,danny-miller-1,Danny Miller,Idaho St.,7-9 BSky,10,#FFFFFF,#000000,4,Big Sky,Idaho,black,1968.0,Return
 1969,danny-miller-1,Danny Miller,Idaho St.,3-12 BSky,8,#FFFFFF,#000000,4,Big Sky,Idaho,black,1968.0,Return
 1970,danny-miller-1,Danny Miller,Idaho St.,11-4 BSky,13,#FFFFFF,#000000,4,Big Sky,Idaho,black,1968.0,Return
 1971,danny-miller-1,Danny Miller,Idaho St.,5-5 BSky,9,#FFFFFF,#000000,4,Big Sky,Idaho,black,1968.0,Fired
-1972,danny-miller-1,Danny Miller,Idaho St.,Fired?,0,#FFFFFF,#000000,0,Big Sky,Idaho,white,1968.0,Last
+1972,danny-miller-1,Danny Miller,Idaho St.,Fired,0,#FFFFFF,#000000,0,Big Sky,Idaho,white,1968.0,Last
 1976,danny-monk-1,Danny Monk,Charleston So.,3-23,3,#FFFFFF,#000000,4,Ind,South Carolina,black,1976.0,Return
 1977,danny-monk-1,Danny Monk,Charleston So.,8-19,8,#FFFFFF,#000000,4,Ind,South Carolina,black,1976.0,Return
 1978,danny-monk-1,Danny Monk,Charleston So.,8-19,8,#FFFFFF,#000000,4,Ind,South Carolina,black,1976.0,Unknown
@@ -7212,7 +7213,7 @@ Runner-up",59,#00274C,#FFCB05,4,Big Ten,Michigan,black,1961.0,Return
 Elite 8",43,#00274C,#FFCB05,4,Big Ten,Michigan,black,1961.0,Return
 1967,dave-strack-1,Dave Strack,Michigan,3-12 B1G,8,#FFFFFF,#000000,4,Big Ten,Michigan,black,1961.0,Return
 1968,dave-strack-1,Dave Strack,Michigan,6-8 B1G,11,#FFFFFF,#000000,4,Big Ten,Michigan,black,1961.0,Left
-1969,dave-strack-1,Dave Strack,Michigan,Business manager,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1961.0,Last
+1969,dave-strack-1,Dave Strack,Michigan,Business,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1961.0,Last
 1953,dave-wike-1,Dave Wike,Miami (FL),9-12,9,#FFFFFF,#000000,4,Ind,Florida,black,1953.0,Return
 1954,dave-wike-1,Dave Wike,Miami (FL),5-10,5,#FFFFFF,#000000,4,Ind,Florida,black,1953.0,Last
 2014,dave-wojcik-1,Dave Wojcik,San Jose St.,1-17 MWC,7,#FFFFFF,#000000,4,MWC,California,black,2014.0,Return
@@ -7325,7 +7326,7 @@ NCAA 32",38,#9E1B32,#FFFFFF,4,SEC,Alabama,black,1993.0,Return
 1927,david-macmillan-1,David MacMillan,Idaho,7-3 PCC,10,#FFFFFF,#000000,4,PCC,Idaho,black,1921.0,Last
 1956,david-mcdowell-1,David McDowell,Kent St.,5-7 MAC,10,#FFFFFF,#000000,4,MAC,Ohio,black,1956.0,Return
 1957,david-mcdowell-1,David McDowell,Kent St.,2-10 MAC,5,#FFFFFF,#000000,4,MAC,Ohio,black,1956.0,Fired
-1958,david-mcdowell-1,David McDowell,Kent St.,Fired?,0,#FFFFFF,#000000,0,MAC,Ohio,white,1956.0,Last
+1958,david-mcdowell-1,David McDowell,Kent St.,Fired,0,#FFFFFF,#000000,0,MAC,Ohio,white,1956.0,Last
 2017,david-mclaughlin-1,David McLaughlin,Dartmouth,4-10 Ivy,7,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return
 2018,david-mclaughlin-1,David McLaughlin,Dartmouth,3-11 Ivy,7,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return
 2019,david-mclaughlin-1,David McLaughlin,Dartmouth,2-12 Ivy,11,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return
@@ -7337,7 +7338,8 @@ NCAA 32",38,#9E1B32,#FFFFFF,4,SEC,Alabama,black,1993.0,Return
 2018,david-padgett-1,David Padgett,Louisville,9-9 ACC,22,#FFFFFF,#000000,4,ACC,Kentucky,black,2018.0,Interim
 2019,david-padgett-1,David Padgett,Louisville,Interim over,0,#FFFFFF,#000000,0,ACC,Kentucky,white,2018.0,Last
 2023,david-patrick-1,David Patrick,Sacramento St.,7-11 BSky,14,#FFFFFF,#000000,4,Big Sky,California,black,2023.0,Return
-2024,david-patrick-1,David Patrick,Sacramento St.,4-14 BSky,10,#FFFFFF,#000000,4,Big Sky,California,black,2023.0,Last
+2024,david-patrick-1,David Patrick,Sacramento St.,4-14 BSky,10,#FFFFFF,#000000,4,Big Sky,California,black,2023.0,Left
+2025,david-patrick-1,David Patrick,Sacramento St.,LSU (asst.),0,#FFFFFF,#000000,0,Big Sky,California,white,2023.0,Last
 2019,david-patrick-1,David Patrick,UC Riverside,4-12 BWst,10,#FFFFFF,#000000,4,Big West,California,black,2019.0,Return
 2020,david-patrick-1,David Patrick,UC Riverside,7-9 BWst,17,#FFFFFF,#000000,4,Big West,California,black,2019.0,Left
 2021,david-patrick-1,David Patrick,UC Riverside,Arkansas (asst.),0,#FFFFFF,#000000,0,Big West,California,white,2019.0,Last
@@ -7384,7 +7386,7 @@ NCAA AQ",40,#006633,#FFFFFF,4,Summit,North Dakota,black,2015.0,Return
 2025,david-riley-1,David Riley,Eastern Wash.,Washington St.,0,#FFFFFF,#000000,0,Big Sky,Washington,white,2022.0,Last
 1918,david-satterfield-1,David Satterfield Jr,Richmond,3-6,3,#FFFFFF,#000000,4,Ind,Virginia,black,1918.0,Last
 2006,david-spencer-1,David Spencer,UC Riverside,3-11 BWst,5,#FFFFFF,#000000,4,Big West,California,black,2006.0,Health
-2007,david-spencer-1,David Spencer,UC Riverside,Health problems,0,#FFFFFF,#000000,0,Big West,California,white,2006.0,Last
+2007,david-spencer-1,David Spencer,UC Riverside,Health,0,#FFFFFF,#000000,0,Big West,California,white,2006.0,Last
 1903,dc-huddleson-1,D.C. Huddleson,Ohio St.,5-2,5,#FFFFFF,#000000,4,Ind,Ohio,black,1903.0,Return
 1904,dc-huddleson-1,D.C. Huddleson,Ohio St.,10-4,10,#FFFFFF,#000000,4,Ind,Ohio,black,1903.0,Last
 1918,dean-cromwell-1,Dean Cromwell,Southern California,0-2,0,#FFFFFF,#000000,4,Ind,California,black,1918.0,Last
@@ -7491,7 +7493,7 @@ NCAA 64",31,#003768,#FFFFFF,4,Big West,California,black,2014.0,Return
 1976,dee-rowe-1,Dee Rowe,UConn,"7-5 Yank
 Sweet 16",39,#000E2F,#FFFFFF,4,Yankee,Connecticut,black,1970.0,Return
 1977,dee-rowe-1,Dee Rowe,UConn,17-10,17,#FFFFFF,#000000,4,Ind,Connecticut,black,1970.0,Health
-1978,dee-rowe-1,Dee Rowe,UConn,Health problems,0,#FFFFFF,#000000,0,Ind,Connecticut,white,1970.0,Last
+1978,dee-rowe-1,Dee Rowe,UConn,Health,0,#FFFFFF,#000000,0,Ind,Connecticut,white,1970.0,Last
 1943,delbert-young-2,Delbert Young,Utah St.,4-4 MSAC,14,#FFFFFF,#000000,4,MSAC,Utah,black,1943.0,Return
 1945,delbert-young-2,Delbert Young,Utah St.,3-7 MSAC,9,#FFFFFF,#000000,4,MSAC,Utah,black,1943.0,Last
 1932,dell-morgan-1,Dell Morgan,Texas Tech,9-14,9,#FFFFFF,#000000,4,Ind,Texas,black,1932.0,Return
@@ -7792,7 +7794,7 @@ NCAA 32",35,#690B0B,#FFFFFF,4,WCC,California,black,1993.0,Return
 1976,dick-edwards-1,Dick Edwards,California,4-10 P8,12,#FFFFFF,#000000,4,Pac-8,California,black,1973.0,Return
 1977,dick-edwards-1,Dick Edwards,California,7-7 P8,12,#FFFFFF,#000000,4,Pac-8,California,black,1973.0,Return
 1978,dick-edwards-1,Dick Edwards,California,4-10 P8,11,#FFFFFF,#000000,4,Pac-8,California,black,1973.0,Fired
-1979,dick-edwards-1,Dick Edwards,California,Fired?,0,#FFFFFF,#000000,0,Pac-8,California,white,1973.0,Last
+1979,dick-edwards-1,Dick Edwards,California,Fired,0,#FFFFFF,#000000,0,Pac-8,California,white,1973.0,Last
 1964,dick-edwards-1,Dick Edwards,Pacific,6-6 WCAC,15,#FFFFFF,#000000,4,WCAC,California,black,1964.0,Return
 1965,dick-edwards-1,Dick Edwards,Pacific,8-6 WCAC,13,#FFFFFF,#000000,4,WCAC,California,black,1964.0,Return
 1966,dick-edwards-1,Dick Edwards,Pacific,"12-2 WCAC
@@ -7861,7 +7863,7 @@ Elite 8",53,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1967.0,Left
 1981,dick-harter-1,Dick Harter,Penn St.,17-10,17,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1979.0,Return
 1982,dick-harter-1,Dick Harter,Penn St.,15-12,15,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1979.0,Return
 1983,dick-harter-1,Dick Harter,Penn St.,9-5 A10,17,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1979.0,Retired
-1984,dick-harter-1,Dick Harter,Penn St.,Retired?,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,1979.0,Last
+1984,dick-harter-1,Dick Harter,Penn St.,Retired,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,1979.0,Last
 1940,dick-hitt-1,Dick Hitt,Mississippi St.,4-5 SEC,9,#FFFFFF,#000000,4,SEC,Mississippi,black,1940.0,Return
 1941,dick-hitt-1,Dick Hitt,Mississippi St.,6-6 SEC,12,#FFFFFF,#000000,4,SEC,Mississippi,black,1940.0,Return
 1942,dick-hitt-1,Dick Hitt,Mississippi St.,9-6 SEC,13,#FFFFFF,#000000,4,SEC,Mississippi,black,1940.0,Return
@@ -7875,7 +7877,7 @@ Sweet 16",46,#DA0000,#FFFFFF,4,MAC,Indiana,black,1990.0,Return
 1992,dick-hunsaker-1,Dick Hunsaker,Ball St.,11-5 MAC,24,#FFFFFF,#000000,4,MAC,Indiana,black,1990.0,Return
 1993,dick-hunsaker-1,Dick Hunsaker,Ball St.,"14-4 MAC
 NCAA 64",36,#DA0000,#FFFFFF,4,MAC,Indiana,black,1990.0,Scandal
-1994,dick-hunsaker-1,Dick Hunsaker,Ball St.,NCAA issues?,0,#FFFFFF,#000000,0,MAC,Indiana,white,1990.0,Last
+1994,dick-hunsaker-1,Dick Hunsaker,Ball St.,NCAA issues,0,#FFFFFF,#000000,0,MAC,Indiana,white,1990.0,Last
 2001,dick-hunsaker-1,Dick Hunsaker,Utah,10-4 MWC,18,#FFFFFF,#000000,4,MWC,Utah,black,2001.0,Interim
 2002,dick-hunsaker-1,Dick Hunsaker,Utah,Interim over,0,#FFFFFF,#000000,0,MWC,Utah,white,2001.0,Last
 2005,dick-hunsaker-1,Dick Hunsaker,Utah Valley,16-12,16,#FFFFFF,#000000,4,Ind,Utah,black,2005.0,Return
@@ -8274,7 +8276,7 @@ NCAA 23",37,#00693E,#FFFFFF,4,Ivy,New Hampshire,black,1951.0,Return
 1965,doggie-julian-1,Doggie Julian,Dartmouth,1-13 Ivy,4,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1951.0,Return
 1966,doggie-julian-1,Doggie Julian,Dartmouth,0-14 Ivy,3,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1951.0,Return
 1967,doggie-julian-1,Doggie Julian,Dartmouth,1-13 Ivy,7,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1951.0,Health
-1968,doggie-julian-1,Doggie Julian,Dartmouth,Stroke,0,#FFFFFF,#000000,0,Ivy,New Hampshire,white,1951.0,Last
+1968,doggie-julian-1,Doggie Julian,Dartmouth,Health,0,#FFFFFF,#000000,0,Ivy,New Hampshire,white,1951.0,Last
 1946,doggie-julian-1,Doggie Julian,Holy Cross,12-3,12,#FFFFFF,#000000,4,Ind,Massachusetts,black,1946.0,Return
 1947,doggie-julian-1,Doggie Julian,Holy Cross,"27-3
 Champion",127,#602D89,#FFFFFF,4,Ind,Massachusetts,black,1946.0,Return
@@ -8298,7 +8300,7 @@ NCAA 32",36,#000E2F,#FFFFFF,4,Ind,Connecticut,black,1978.0,Return
 1984,dom-perno-1,Dom Perno,UConn,5-11 BE,13,#FFFFFF,#000000,4,Big East,Connecticut,black,1978.0,Return
 1985,dom-perno-1,Dom Perno,UConn,6-10 BE,13,#FFFFFF,#000000,4,Big East,Connecticut,black,1978.0,Return
 1986,dom-perno-1,Dom Perno,UConn,3-13 BE,12,#FFFFFF,#000000,4,Big East,Connecticut,black,1978.0,Resigned
-1987,dom-perno-1,Dom Perno,UConn,Resigned?,0,#FFFFFF,#000000,0,Big East,Connecticut,white,1978.0,Last
+1987,dom-perno-1,Dom Perno,UConn,Resigned,0,#FFFFFF,#000000,0,Big East,Connecticut,white,1978.0,Last
 1948,dom-rosselli-1,Dom Rosselli,Youngstown St.,10-14,10,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
 1982,dom-rosselli-1,Dom Rosselli,Youngstown St.,5-11 OVC,8,#FFFFFF,#000000,4,OVC,Ohio,black,1982.0,Unknown
 1983,dom-rosselli-1,Dom Rosselli,Youngstown St.,?,0,#FFFFFF,#000000,0,OVC,Ohio,white,1982.0,Last
@@ -8573,7 +8575,7 @@ NCAA 24",30,#862633,#B29D6C,4,Ind,Massachusetts,black,1954.0,Return
 1960,don-martin-1,Don Martin,Boston College,11-14,11,#FFFFFF,#000000,4,Ind,Massachusetts,black,1954.0,Return
 1961,don-martin-1,Don Martin,Boston College,14-9,14,#FFFFFF,#000000,4,Ind,Massachusetts,black,1954.0,Return
 1962,don-martin-1,Don Martin,Boston College,15-7,15,#FFFFFF,#000000,4,Ind,Massachusetts,black,1954.0,Left
-1963,don-martin-1,Don Martin,Boston College,Tennis?,0,#FFFFFF,#000000,0,Ind,Massachusetts,white,1954.0,Last
+1963,don-martin-1,Don Martin,Boston College,Tennis,0,#FFFFFF,#000000,0,Ind,Massachusetts,white,1954.0,Last
 1979,don-monson-1,Don Monson,Idaho,4-10 BSky,11,#FFFFFF,#000000,4,Big Sky,Idaho,black,1979.0,Return
 1980,don-monson-1,Don Monson,Idaho,9-5 BSky,17,#FFFFFF,#000000,4,Big Sky,Idaho,black,1979.0,Return
 1981,don-monson-1,Don Monson,Idaho,"12-2 BSky
@@ -8786,7 +8788,7 @@ NCAA 64",31,#EAA921,#000000,4,SWAC,Louisiana,black,2018.0,Last
 2007,doug-oliver-1,Doug Oliver,Idaho St.,Resigned,0,#FFFFFF,#000000,0,Big Sky,Idaho,white,1999.0,Last
 2013,doug-wojcik-1,Doug Wojcik,Col. of Charleston,14-4 SoCon,24,#FFFFFF,#000000,4,Southern,South Carolina,black,2013.0,Return
 2014,doug-wojcik-1,Doug Wojcik,Col. of Charleston,6-10 CAA,14,#FFFFFF,#000000,4,CAA,South Carolina,black,2013.0,Scandal
-2015,doug-wojcik-1,Doug Wojcik,Col. of Charleston,Verbal abuse (alleged),0,#FFFFFF,#000000,0,CAA,South Carolina,white,2013.0,Last
+2015,doug-wojcik-1,Doug Wojcik,Col. of Charleston,Conduct (alleged),0,#FFFFFF,#000000,0,CAA,South Carolina,white,2013.0,Last
 2006,doug-wojcik-1,Doug Wojcik,Tulsa,6-8 CUSA,11,#FFFFFF,#000000,4,CUSA,Oklahoma,black,2006.0,Return
 2007,doug-wojcik-1,Doug Wojcik,Tulsa,9-7 CUSA,20,#FFFFFF,#000000,4,CUSA,Oklahoma,black,2006.0,Return
 2008,doug-wojcik-1,Doug Wojcik,Tulsa,8-8 CUSA,25,#FFFFFF,#000000,4,CUSA,Oklahoma,black,2006.0,Return
@@ -8814,7 +8816,7 @@ Elite 8",43,#FF5F05,#13294B,4,Big Ten,Illinois,black,1937.0,Return
 1960,doyle-parrack-1,Doyle Parrack,Oklahoma,9-6 B8,14,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1956.0,Return
 1961,doyle-parrack-1,Doyle Parrack,Oklahoma,3-13 B8,10,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1956.0,Return
 1962,doyle-parrack-1,Doyle Parrack,Oklahoma,5-10 B8,7,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1956.0,Resigned
-1963,doyle-parrack-1,Doyle Parrack,Oklahoma,Resigned?,0,#FFFFFF,#000000,0,Big 8,Oklahoma,white,1956.0,Last
+1963,doyle-parrack-1,Doyle Parrack,Oklahoma,Resigned,0,#FFFFFF,#000000,0,Big 8,Oklahoma,white,1956.0,Last
 1956,doyle-parrack-1,,Oklahoma City,Oklahoma,0,#FFFFFF,#000000,0,,,white,,Last
 2022,drew-valentine-1,Drew Valentine,Loyola Chicago,"13-5 MVC
 NCAA 64",35,#8D0034,#FEBC18,4,MVC,Illinois,black,2022.0,Return
@@ -9587,7 +9589,7 @@ Sweet 16",46,#FE5C00,#000000,4,Big 12,Oklahoma,black,1991.0,Return
 1960,edgar-diddle-1,Edgar Diddle Jr,Middle Tenn.,2-10 OVC,9,#FFFFFF,#000000,4,OVC,Tennessee,black,1957.0,Return
 1961,edgar-diddle-1,Edgar Diddle Jr,Middle Tenn.,4-8 OVC,9,#FFFFFF,#000000,4,OVC,Tennessee,black,1957.0,Return
 1962,edgar-diddle-1,Edgar Diddle Jr,Middle Tenn.,2-10 OVC,6,#FFFFFF,#000000,4,OVC,Tennessee,black,1957.0,Fired
-1963,edgar-diddle-1,Edgar Diddle Jr,Middle Tenn.,Fired?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1957.0,Last
+1963,edgar-diddle-1,Edgar Diddle Jr,Middle Tenn.,Fired,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1957.0,Last
 1905,edgar-wingard-1,Edgar Wingard,Butler,6-2,6,#FFFFFF,#000000,4,Ind,Indiana,black,1905.0,Return
 1906,edgar-wingard-1,Edgar Wingard,Butler,1-1,1,#FFFFFF,#000000,4,Ind,Indiana,black,1905.0,Last
 1909,edgar-wingard-1,Edgar Wingard,LSU,5-2,5,#FFFFFF,#000000,4,Ind,Louisiana,black,1909.0,Last
@@ -9835,7 +9837,7 @@ Final 4",48,#001E44,#FFFFFF,4,Ind,Pennsylvania,black,1950.0,Retired
 1948,elmer-lampe-1,Elmer Lampe,Dartmouth,6-6 Ivy,12,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1948.0,Return
 1949,elmer-lampe-1,Elmer Lampe,Dartmouth,4-8 Ivy,15,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1948.0,Return
 1950,elmer-lampe-1,Elmer Lampe,Dartmouth,1-11 Ivy,8,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1948.0,Fired
-1951,elmer-lampe-1,Elmer Lampe,Dartmouth,Fired?,0,#FFFFFF,#000000,0,Ivy,New Hampshire,white,1948.0,Last
+1951,elmer-lampe-1,Elmer Lampe,Dartmouth,Fired,0,#FFFFFF,#000000,0,Ivy,New Hampshire,white,1948.0,Last
 1939,elmer-lampe-1,Elmer Lampe,Georgia,8-3 SEC,11,#FFFFFF,#000000,4,SEC,Georgia,black,1939.0,Return
 1940,elmer-lampe-1,Elmer Lampe,Georgia,9-4 SEC,20,#FFFFFF,#000000,4,SEC,Georgia,black,1939.0,Return
 1941,elmer-lampe-1,Elmer Lampe,Georgia,6-7 SEC,13,#FFFFFF,#000000,4,SEC,Georgia,black,1939.0,Return
@@ -9928,7 +9930,7 @@ NCAA 64",23,#4F2582,#FFFFFF,4,SWAC,Texas,black,1991.0,Return
 1957,emmett-lowery-1,Emmett Lowery,Tennessee,5-9 SEC,13,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
 1958,emmett-lowery-1,Emmett Lowery,Tennessee,9-6 SEC,16,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
 1959,emmett-lowery-1,Emmett Lowery,Tennessee,8-6 SEC,14,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Retired
-1960,emmett-lowery-1,Emmett Lowery,Tennessee,Retired?,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Last
+1960,emmett-lowery-1,Emmett Lowery,Tennessee,Retired,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Last
 1948,emory-bauer-1,Emory Bauer,Valparaiso,8-15,8,#FFFFFF,#000000,4,Ind,Indiana,black,1948.0,Last
 1974,emory-luck-1,Emory Luck,NIU,8-17,8,#FFFFFF,#000000,4,Ind,Illinois,black,1974.0,Return
 1975,emory-luck-1,Emory Luck,NIU,8-15,8,#FFFFFF,#000000,4,Ind,Illinois,black,1974.0,Return
@@ -10173,7 +10175,7 @@ NCAA 25",39,#CC0000,#FFFFFF,4,ACC,North Carolina,black,1947.0,Return
 1962,everett-case-1,Everett Case,NC State,10-4 ACC,11,#FFFFFF,#000000,4,ACC,North Carolina,black,1947.0,Return
 1963,everett-case-1,Everett Case,NC State,5-9 ACC,10,#FFFFFF,#000000,4,ACC,North Carolina,black,1947.0,Return
 1964,everett-case-1,Everett Case,NC State,4-10 ACC,8,#FFFFFF,#000000,4,ACC,North Carolina,black,1947.0,Health
-1965,everett-case-1,Everett Case,NC State,Cancer,0,#FFFFFF,#000000,0,ACC,North Carolina,white,1947.0,Last
+1965,everett-case-1,Everett Case,NC State,Health,0,#FFFFFF,#000000,0,ACC,North Carolina,white,1947.0,Last
 1925,everett-dean-1,Everett Dean,Indiana,8-4 B1G,12,#FFFFFF,#000000,4,Big Ten,Indiana,black,1925.0,Return
 1926,everett-dean-1,Everett Dean,Indiana,8-4 B1G,12,#FFFFFF,#000000,4,Big Ten,Indiana,black,1925.0,Return
 1927,everett-dean-1,Everett Dean,Indiana,9-3 B1G,13,#FFFFFF,#000000,4,Big Ten,Indiana,black,1925.0,Return
@@ -10233,7 +10235,7 @@ NCAA 24",28,#533B22,#FFFFFF,4,MSAC,Wyoming,black,1940.0,Return
 1975,ew-foy-1,E.W. Foy,McNeese,6-2 SL,16,#FFFFFF,#000000,4,Southland,Louisiana,black,1975.0,Return
 1976,ew-foy-1,E.W. Foy,McNeese,7-3 SL,16,#FFFFFF,#000000,4,Southland,Louisiana,black,1975.0,Return
 1977,ew-foy-1,E.W. Foy,McNeese,7-3 SL,20,#FFFFFF,#000000,4,Southland,Louisiana,black,1975.0,Left
-1978,ew-foy-1,E.W. Foy,McNeese,Business?,0,#FFFFFF,#000000,0,Southland,Louisiana,white,1975.0,Last
+1978,ew-foy-1,E.W. Foy,McNeese,Business,0,#FFFFFF,#000000,0,Southland,Louisiana,white,1975.0,Last
 1916,ewing-freeland-1,Ewing Freeland,TCU,1-3,1,#FFFFFF,#000000,4,Ind,Texas,black,1916.0,Last
 1896,f-knight-1,F. Knight,Drexel,0-1,0,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1896.0,Last
 1987,fang-mitchell-1,Fang Mitchell,Coppin St.,7-6 MEAC,8,#FFFFFF,#000000,4,MEAC,Maryland,black,1987.0,Return
@@ -10391,7 +10393,7 @@ Sweet 16",41,#990000,#FFCC00,4,AAWU,California,black,1951.0,Return
 1964,forrest-twogood-1,Forrest Twogood,Southern California,6-9 AAWU,10,#FFFFFF,#000000,4,AAWU,California,black,1951.0,Return
 1965,forrest-twogood-1,Forrest Twogood,Southern California,8-7 AAWU,14,#FFFFFF,#000000,4,AAWU,California,black,1951.0,Return
 1966,forrest-twogood-1,Forrest Twogood,Southern California,6-10 AAWU,13,#FFFFFF,#000000,4,AAWU,California,black,1951.0,Retired
-1967,forrest-twogood-1,Forrest Twogood,Southern California,Retired?,0,#FFFFFF,#000000,0,AAWU,California,white,1951.0,Last
+1967,forrest-twogood-1,Forrest Twogood,Southern California,Retired,0,#FFFFFF,#000000,0,AAWU,California,white,1951.0,Last
 1943,foxy-flumere-1,Foxy Flumere,Northeastern,2-6 Yank,7,#FFFFFF,#000000,4,Yankee,Massachusetts,black,1943.0,Return
 1944,foxy-flumere-1,Foxy Flumere,Northeastern,8-8,8,#FFFFFF,#000000,4,Ind,Massachusetts,black,1943.0,Return
 1945,foxy-flumere-1,Foxy Flumere,Northeastern,7-8,7,#FFFFFF,#000000,4,Ind,Massachusetts,black,1943.0,Last
@@ -10748,7 +10750,7 @@ NCAA 68",25,#004371,#FFFFFF,4,AAC,Oklahoma,black,2015.0,Return
 1956,frank-johnson-3,Frank Johnson,South Carolina,3-12 ACC,9,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Return
 1957,frank-johnson-3,Frank Johnson,South Carolina,5-9 ACC,17,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Return
 1958,frank-johnson-3,Frank Johnson,South Carolina,3-12 ACC,5,#FFFFFF,#000000,4,ACC,South Carolina,black,1947.0,Fired
-1959,frank-johnson-3,Frank Johnson,South Carolina,Fired?,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1947.0,Last
+1959,frank-johnson-3,Frank Johnson,South Carolina,Fired,0,#FFFFFF,#000000,0,ACC,South Carolina,white,1947.0,Last
 1921,frank-keaney-1,Frank Keaney,Rhode Island,9-8,9,#FFFFFF,#000000,4,Ind,Rhode Island,black,1921.0,Return
 1922,frank-keaney-1,Frank Keaney,Rhode Island,7-8,7,#FFFFFF,#000000,4,Ind,Rhode Island,black,1921.0,Return
 1923,frank-keaney-1,Frank Keaney,Rhode Island,9-4,9,#FFFFFF,#000000,4,Ind,Rhode Island,black,1921.0,Return
@@ -11298,7 +11300,7 @@ Elite 8",37,#CFB87C,#000000,4,MSAC,Colorado,black,1945.0,Return
 1960,frosty-cox-1,Frosty Cox,Montana,3-11 MSAC,7,#FFFFFF,#000000,4,MSAC,Montana,black,1956.0,Return
 1961,frosty-cox-1,Frosty Cox,Montana,7-7 MSAC,14,#FFFFFF,#000000,4,MSAC,Montana,black,1956.0,Return
 1962,frosty-cox-1,Frosty Cox,Montana,5-9 MSAC,10,#FFFFFF,#000000,4,MSAC,Montana,black,1956.0,Fired
-1963,frosty-cox-1,Frosty Cox,Montana,Fired?,0,#FFFFFF,#000000,0,MSAC,Montana,white,1956.0,Last
+1963,frosty-cox-1,Frosty Cox,Montana,Fired,0,#FFFFFF,#000000,0,MSAC,Montana,white,1956.0,Last
 1946,frosty-holt-1,Frosty Holt,William & Mary,5-5 SoCon,10,#FFFFFF,#000000,4,Southern,Virginia,black,1946.0,Last
 1947,fuzzy-evans-1,Fuzzy Evans,Vermont,19-3,19,#FFFFFF,#000000,4,Yankee,Vermont,black,1947.0,Return
 1948,fuzzy-evans-1,Fuzzy Evans,Vermont,2-1 Yank,14,#FFFFFF,#000000,4,Yankee,Vermont,black,1947.0,Return
@@ -12057,7 +12059,7 @@ Sweet 16",42,#8C0B42,#FFFFFF,4,BIAA,New Mexico,black,1950.0,Return
 1986,george-mcquarn-1,George McQuarn,Cal St. Fullerton,8-10 PCAA,16,#FFFFFF,#000000,4,PCAA,California,black,1981.0,Return
 1987,george-mcquarn-1,George McQuarn,Cal St. Fullerton,9-9 PCAA,17,#FFFFFF,#000000,4,PCAA,California,black,1981.0,Return
 1988,george-mcquarn-1,George McQuarn,Cal St. Fullerton,7-11 PCAA,12,#FFFFFF,#000000,4,PCAA,California,black,1981.0,Resigned
-1989,george-mcquarn-1,George McQuarn,Cal St. Fullerton,Resigned?,0,#FFFFFF,#000000,0,PCAA,California,white,1981.0,Last
+1989,george-mcquarn-1,George McQuarn,Cal St. Fullerton,Resigned,0,#FFFFFF,#000000,0,PCAA,California,white,1981.0,Last
 2006,george-nessman-1,George Nessman,San Jose St.,2-14 WAC,6,#FFFFFF,#000000,4,WAC,California,black,2006.0,Return
 2007,george-nessman-1,George Nessman,San Jose St.,4-12 WAC,5,#FFFFFF,#000000,4,WAC,California,black,2006.0,Return
 2008,george-nessman-1,George Nessman,San Jose St.,4-12 WAC,13,#FFFFFF,#000000,4,WAC,California,black,2006.0,Return
@@ -12091,8 +12093,8 @@ NCAA 64",29,#990000,#FFCC00,4,Pac-10,California,black,1987.0,Return
 1992,george-raveling-1,George Raveling,Southern California,"15-3 P10
 NCAA 32",39,#990000,#FFCC00,4,Pac-10,California,black,1987.0,Return
 1993,george-raveling-1,George Raveling,Southern California,9-9 P10,18,#FFFFFF,#000000,4,Pac-10,California,black,1987.0,Return
-1994,george-raveling-1,George Raveling,Southern California,9-9 P10,16,#FFFFFF,#000000,4,Pac-10,California,black,1987.0,Left
-1995,george-raveling-1,George Raveling,Southern California,Retired/ car crash,0,#FFFFFF,#000000,0,Pac-10,California,white,1987.0,Last
+1994,george-raveling-1,George Raveling,Southern California,9-9 P10,16,#FFFFFF,#000000,4,Pac-10,California,black,1987.0,Health
+1995,george-raveling-1,George Raveling,Southern California,Retired/ health,0,#FFFFFF,#000000,0,Pac-10,California,white,1987.0,Last
 1973,george-raveling-1,George Raveling,Washington St.,2-12 P8,6,#FFFFFF,#000000,4,Pac-8,Washington,black,1973.0,Return
 1974,george-raveling-1,George Raveling,Washington St.,3-11 P8,8,#FFFFFF,#000000,4,Pac-8,Washington,black,1973.0,Return
 1975,george-raveling-1,George Raveling,Washington St.,2-14 P8,10,#FFFFFF,#000000,4,Pac-8,Washington,black,1973.0,Return
@@ -12395,7 +12397,7 @@ Sweet 16",37,#9D2235,#FFFFFF,4,SWC,Arkansas,black,1953.0,Return
 1991,glenn-wilkes-1,Glenn Wilkes,Stetson,9-5 TAAC,15,#FFFFFF,#000000,4,TAAC,Florida,black,1972.0,Return
 1992,glenn-wilkes-1,Glenn Wilkes,Stetson,6-8 TAAC,11,#FFFFFF,#000000,4,TAAC,Florida,black,1972.0,Return
 1993,glenn-wilkes-1,Glenn Wilkes,Stetson,6-6 TAAC,13,#FFFFFF,#000000,4,TAAC,Florida,black,1972.0,Retired
-1994,glenn-wilkes-1,Glenn Wilkes,Stetson,Retired?,0,#FFFFFF,#000000,0,TAAC,Florida,white,1972.0,Last
+1994,glenn-wilkes-1,Glenn Wilkes,Stetson,Retired,0,#FFFFFF,#000000,0,TAAC,Florida,white,1972.0,Last
 1934,goat-hale-1,Goat Hale,Mississippi St.,4-8 SEC,8,#FFFFFF,#000000,4,SEC,Mississippi,black,1934.0,Return
 1935,goat-hale-1,Goat Hale,Mississippi St.,5-5 SEC,12,#FFFFFF,#000000,4,SEC,Mississippi,black,1934.0,Last
 1943,goat-hale-1,Goat Hale,Ole Miss,6-8 SEC,8,#FFFFFF,#000000,4,SEC,Mississippi,black,1943.0,Return
@@ -12495,7 +12497,7 @@ NCAA 64",35,#0033A0,#FFFFFF,4,WAC,Idaho,black,2003.0,Return
 2010,greg-graham-2,Greg Graham,Boise St.,5-11 WAC,15,#FFFFFF,#000000,4,WAC,Idaho,black,2003.0,Fired
 2011,greg-graham-2,Greg Graham,Boise St.,Fired,0,#FFFFFF,#000000,0,WAC,Idaho,white,2003.0,Last
 2023,greg-heiar-1,Greg Heiar,New Mexico St.,2-10 WAC,9,#FFFFFF,#000000,4,WAC,New Mexico,black,2023.0,Scandal
-2024,greg-heiar-1,Greg Heiar,New Mexico St.,Hazing scandal,0,#FFFFFF,#000000,0,WAC,New Mexico,white,2023.0,Last
+2024,greg-heiar-1,Greg Heiar,New Mexico St.,Scandal,0,#FFFFFF,#000000,0,WAC,New Mexico,white,2023.0,Last
 2014,greg-herenda-1,Greg Herenda,FDU,6-10 NEC,10,#FFFFFF,#000000,4,NEC,New Jersey,black,2014.0,Return
 2015,greg-herenda-1,Greg Herenda,FDU,3-15 NEC,8,#FFFFFF,#000000,4,NEC,New Jersey,black,2014.0,Return
 2016,greg-herenda-1,Greg Herenda,FDU,"11-7 NEC
@@ -12921,7 +12923,7 @@ NCAA 64",34,#2F99D4,#FFFFFF,4,WCAC,California,black,1985.0,Return
 1992,hank-egan-1,Hank Egan,San Diego,6-8 WCC,14,#FFFFFF,#000000,4,WCC,California,black,1985.0,Return
 1993,hank-egan-1,Hank Egan,San Diego,7-7 WCC,13,#FFFFFF,#000000,4,WCC,California,black,1985.0,Return
 1994,hank-egan-1,Hank Egan,San Diego,7-7 WCC,18,#FFFFFF,#000000,4,WCC,California,black,1985.0,Retired
-1995,hank-egan-1,Hank Egan,San Diego,Retired?,0,#FFFFFF,#000000,0,WCC,California,white,1985.0,Last
+1995,hank-egan-1,Hank Egan,San Diego,Retired,0,#FFFFFF,#000000,0,WCC,California,white,1985.0,Last
 1924,hank-garrity-1,Hank Garrity,Wake Forest,18-7,18,#FFFFFF,#000000,4,Ind,North Carolina,black,1924.0,Return
 1925,hank-garrity-1,Hank Garrity,Wake Forest,15-7,15,#FFFFFF,#000000,4,Ind,North Carolina,black,1924.0,Last
 1934,hank-iba-1,Hank Iba,Colorado,7-5 MSAC,9,#FFFFFF,#000000,4,MSAC,Colorado,black,1934.0,Last
@@ -12983,7 +12985,7 @@ NCAA 32",38,#FFCC00,#003366,4,Ind,Wisconsin,black,1978.0,Return
 NCAA 52",34,#FFCC00,#003366,4,Ind,Wisconsin,black,1978.0,Left
 1984,hank-raymonds-1,Hank Raymonds,Marquette,Marquette (AD),0,#FFFFFF,#000000,0,Ind,Wisconsin,white,1978.0,Last
 1956,hank-witt-1,Hank Witt,The Citadel,0-10 SoCon,2,#FFFFFF,#000000,4,Southern,South Carolina,black,1956.0,Fired
-1957,hank-witt-1,Hank Witt,The Citadel,Fired?,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1956.0,Last
+1957,hank-witt-1,Hank Witt,The Citadel,Fired,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1956.0,Last
 1914,hans-kangeter-1,Hans Kangeter,The Citadel,6-1,6,#FFFFFF,#000000,4,Ind,South Carolina,black,1914.0,Return
 1915,hans-kangeter-1,Hans Kangeter,The Citadel,5-2,5,#FFFFFF,#000000,4,Ind,South Carolina,black,1914.0,Return
 1916,hans-kangeter-1,Hans Kangeter,The Citadel,4-2,4,#FFFFFF,#000000,4,Ind,South Carolina,black,1914.0,Last
@@ -13073,7 +13075,7 @@ Sweet 16",40,#BF5700,#FFFFFF,4,SWC,Texas,black,1960.0,Return
 1965,harold-bradley-1,Harold Bradley,Texas,10-5 SWC,16,#FFFFFF,#000000,4,SWC,Texas,black,1960.0,Return
 1966,harold-bradley-1,Harold Bradley,Texas,7-7 SWC,12,#FFFFFF,#000000,4,SWC,Texas,black,1960.0,Return
 1967,harold-bradley-1,Harold Bradley,Texas,8-6 SWC,14,#FFFFFF,#000000,4,SWC,Texas,black,1960.0,Retired
-1968,harold-bradley-1,Harold Bradley,Texas,Retired?,0,#FFFFFF,#000000,0,SWC,Texas,white,1960.0,Last
+1968,harold-bradley-1,Harold Bradley,Texas,Retired,0,#FFFFFF,#000000,0,SWC,Texas,white,1960.0,Last
 1944,harold-church-1,Harold Church,Louisville,5-5,5,#FFFFFF,#000000,4,Ind,Kentucky,black,1944.0,Last
 1960,harold-davis-1,Harold Davis,UTEP,1-9 BIAA,6,#FFFFFF,#000000,4,BIAA,Texas,black,1960.0,Return
 1961,harold-davis-1,Harold Davis,UTEP,4-6 BIAA,12,#FFFFFF,#000000,4,BIAA,Texas,black,1960.0,Unknown
@@ -13094,7 +13096,7 @@ Sweet 16",40,#BF5700,#FFFFFF,4,SWC,Texas,black,1960.0,Return
 1919,harold-olsen-1,Harold Olsen,Bradley,6-9,6,#FFFFFF,#000000,4,Ind,Illinois,black,1919.0,Last
 1951,harold-olsen-1,Harold Olsen,Northwestern,7-7 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1951.0,Return
 1952,harold-olsen-1,Harold Olsen,Northwestern,4-10 B1G,7,#FFFFFF,#000000,4,Big Ten,Illinois,black,1951.0,Retired
-1953,harold-olsen-1,Harold Olsen,Northwestern,Retired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1951.0,Last
+1953,harold-olsen-1,Harold Olsen,Northwestern,Retired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1951.0,Last
 1923,harold-olsen-1,Harold Olsen,Ohio St.,1-11 B1G,4,#FFFFFF,#000000,4,Big Ten,Ohio,black,1923.0,Return
 1924,harold-olsen-1,Harold Olsen,Ohio St.,7-5 B1G,12,#FFFFFF,#000000,4,Big Ten,Ohio,black,1923.0,Return
 1925,harold-olsen-1,Harold Olsen,Ohio St.,11-1 B1G,14,#FFFFFF,#000000,4,Big Ten,Ohio,black,1923.0,Return
@@ -13169,7 +13171,7 @@ Elite 8",45,#FF5F05,#13294B,4,Big Ten,Illinois,black,1948.0,Return
 1965,harry-combes-1,Harry Combes,Illinois,10-4 B1G,18,#FFFFFF,#000000,4,Big Ten,Illinois,black,1948.0,Return
 1966,harry-combes-1,Harry Combes,Illinois,8-6 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1948.0,Return
 1967,harry-combes-1,Harry Combes,Illinois,6-8 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1948.0,Retired
-1968,harry-combes-1,Harry Combes,Illinois,Retired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1948.0,Last
+1968,harry-combes-1,Harry Combes,Illinois,Retired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1948.0,Last
 1972,harry-edmonds-1,Harry Edmonds,N.C. Central,4-19,4,#FFFFFF,#000000,4,MEAC,North Carolina,black,1972.0,Return
 1973,harry-edmonds-1,Harry Edmonds,N.C. Central,5-18,5,#FFFFFF,#000000,4,MEAC,North Carolina,black,1972.0,Unknown
 1974,harry-edmonds-1,Harry Edmonds,N.C. Central,?,0,#FFFFFF,#000000,0,MEAC,North Carolina,white,1972.0,Last
@@ -13201,7 +13203,7 @@ Elite 8",45,#FF5F05,#13294B,4,Big Ten,Illinois,black,1948.0,Return
 1952,harry-good-3,Harry Good,Nebraska,3-12 B7,7,#FFFFFF,#000000,4,Big 7,Nebraska,black,1947.0,Return
 1953,harry-good-3,Harry Good,Nebraska,5-10 B7,9,#FFFFFF,#000000,4,Big 7,Nebraska,black,1947.0,Return
 1954,harry-good-3,Harry Good,Nebraska,5-7 B7,8,#FFFFFF,#000000,4,Big 7,Nebraska,black,1947.0,Retired
-1955,harry-good-3,Harry Good,Nebraska,Retired?,0,#FFFFFF,#000000,0,Big 7,Nebraska,white,1947.0,Last
+1955,harry-good-3,Harry Good,Nebraska,Retired,0,#FFFFFF,#000000,0,Big 7,Nebraska,white,1947.0,Last
 1916,harry-haring-1,Harry Haring,Lehigh,12-11,12,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1916.0,Last
 1917,harry-hartsell-1,Harry Hartsell,NC State,10-8,10,#FFFFFF,#000000,4,Ind,North Carolina,black,1917.0,Return
 1918,harry-hartsell-1,Harry Hartsell,NC State,13-3,13,#FFFFFF,#000000,4,Ind,North Carolina,black,1917.0,Return
@@ -13330,7 +13332,7 @@ Sweet 16",40,#461D7C,#FFFFFF,4,SEC,Louisiana,black,1946.0,Return
 1950,hart-morris-1,Hart Morris,Miami (FL),14-9,14,#FFFFFF,#000000,4,Ind,Florida,black,1949.0,Return
 1951,hart-morris-1,Hart Morris,Miami (FL),10-12,10,#FFFFFF,#000000,4,Ind,Florida,black,1949.0,Return
 1952,hart-morris-1,Hart Morris,Miami (FL),14-8,14,#FFFFFF,#000000,4,Ind,Florida,black,1949.0,Left
-1953,hart-morris-1,Hart Morris,Miami (FL),Football focus?,0,#FFFFFF,#000000,0,Ind,Florida,white,1949.0,Last
+1953,hart-morris-1,Hart Morris,Miami (FL),Football,0,#FFFFFF,#000000,0,Ind,Florida,white,1949.0,Last
 1968,harv-schmidt-1,Harv Schmidt,Illinois,6-8 B1G,11,#FFFFFF,#000000,4,Big Ten,Illinois,black,1968.0,Return
 1969,harv-schmidt-1,Harv Schmidt,Illinois,9-5 B1G,19,#FFFFFF,#000000,4,Big Ten,Illinois,black,1968.0,Return
 1970,harv-schmidt-1,Harv Schmidt,Illinois,9-6 B1G,15,#FFFFFF,#000000,4,Big Ten,Illinois,black,1968.0,Return
@@ -13481,7 +13483,7 @@ NCAA 64",32,#990000,#FFCC00,4,Pac-10,California,black,1997.0,Return
 1972,herb-gregg-1,Herb Gregg,Northern Ariz.,8-6 BSky,13,#FFFFFF,#000000,4,Big Sky,Arizona,black,1971.0,Return
 1973,herb-gregg-1,Herb Gregg,Northern Ariz.,3-11 BSky,6,#FFFFFF,#000000,4,Big Sky,Arizona,black,1971.0,Return
 1974,herb-gregg-1,Herb Gregg,Northern Ariz.,3-11 BSky,6,#FFFFFF,#000000,4,Big Sky,Arizona,black,1971.0,Retired
-1975,herb-gregg-1,Herb Gregg,Northern Ariz.,Retired?,0,#FFFFFF,#000000,0,Big Sky,Arizona,white,1971.0,Last
+1975,herb-gregg-1,Herb Gregg,Northern Ariz.,Retired,0,#FFFFFF,#000000,0,Big Sky,Arizona,white,1971.0,Last
 1909,herb-juul-1,Herb Juul,Illinois,5-6 Western,7,#FFFFFF,#000000,4,Western,Illinois,black,1909.0,Return
 1910,herb-juul-1,Herb Juul,Illinois,5-4 Western,5,#FFFFFF,#000000,4,Western,Illinois,black,1909.0,Last
 1988,herb-krusen-1,Herb Krusen,Western Caro.,2-14 SoCon,8,#FFFFFF,#000000,4,Southern,North Carolina,black,1988.0,Unknown
@@ -13734,7 +13736,7 @@ Sweet 16",42,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1949.0,Return
 1960,howard-hartman-1,Howard Hartman,Colgate,11-12,11,#FFFFFF,#000000,4,Ind,New York,black,1950.0,Return
 1961,howard-hartman-1,Howard Hartman,Colgate,14-12,14,#FFFFFF,#000000,4,Ind,New York,black,1950.0,Return
 1962,howard-hartman-1,Howard Hartman,Colgate,8-15,8,#FFFFFF,#000000,4,Ind,New York,black,1950.0,Retired
-1963,howard-hartman-1,Howard Hartman,Colgate,Retired?,0,#FFFFFF,#000000,0,Ind,New York,white,1950.0,Last
+1963,howard-hartman-1,Howard Hartman,Colgate,Retired,0,#FFFFFF,#000000,0,Ind,New York,white,1950.0,Last
 1936,howard-hobson-1,Howard Hobson,Oregon,7-9 PCC,20,#FFFFFF,#000000,4,PCC,Oregon,black,1936.0,Return
 1937,howard-hobson-1,Howard Hobson,Oregon,11-5 PCC,20,#FFFFFF,#000000,4,PCC,Oregon,black,1936.0,Return
 1938,howard-hobson-1,Howard Hobson,Oregon,14-6 PCC,25,#FFFFFF,#000000,4,PCC,Oregon,black,1936.0,Return
@@ -13757,7 +13759,7 @@ Elite 8",47,#263867,#FFFFFF,4,Ivy,Connecticut,black,1948.0,Return
 1954,howard-hobson-1,Howard Hobson,Yale,7-7 Ivy,12,#FFFFFF,#000000,4,Ivy,Connecticut,black,1948.0,Return
 1955,howard-hobson-1,Howard Hobson,Yale,3-12 Ivy,3,#FFFFFF,#000000,4,Ivy,Connecticut,black,1948.0,Return
 1956,howard-hobson-1,Howard Hobson,Yale,7-7 Ivy,15,#FFFFFF,#000000,4,Ivy,Connecticut,black,1948.0,Retired
-1957,howard-hobson-1,Howard Hobson,Yale,Retired?,0,#FFFFFF,#000000,0,Ivy,Connecticut,white,1948.0,Last
+1957,howard-hobson-1,Howard Hobson,Yale,Retired,0,#FFFFFF,#000000,0,Ivy,Connecticut,white,1948.0,Last
 1984,howard-jackson-1,Howard Jackson,Austin Peay,5-9 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,1984.0,Return
 1985,howard-jackson-1,Howard Jackson,Austin Peay,4-10 OVC,8,#FFFFFF,#000000,4,OVC,Tennessee,black,1984.0,Unknown
 1986,howard-jackson-1,Howard Jackson,Austin Peay,?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1984.0,Last
@@ -13953,7 +13955,7 @@ NCAA 23",32,#000E2F,#FFFFFF,4,Yankee,Connecticut,black,1947.0,Return
 NCAA 25",32,#000E2F,#FFFFFF,4,Yankee,Connecticut,black,1947.0,Return
 1961,hugh-greer-1,Hugh Greer,UConn,11-13,11,#FFFFFF,#000000,4,Yankee,Connecticut,black,1947.0,Return
 1962,hugh-greer-1,Hugh Greer,UConn,7-3 Yank,16,#FFFFFF,#000000,4,Yankee,Connecticut,black,1947.0,Health
-1963,hugh-greer-1,Hugh Greer,UConn,Heart attack,0,#FFFFFF,#000000,0,Yankee,Connecticut,white,1947.0,Last
+1963,hugh-greer-1,Hugh Greer,UConn,Health,0,#FFFFFF,#000000,0,Yankee,Connecticut,white,1947.0,Last
 1922,hugh-mcdermott-1,Hugh McDermott,Oklahoma,8-8 MVC,9,#FFFFFF,#000000,4,MVC,Oklahoma,black,1922.0,Return
 1923,hugh-mcdermott-1,Hugh McDermott,Oklahoma,5-11 MVC,6,#FFFFFF,#000000,4,MVC,Oklahoma,black,1922.0,Return
 1924,hugh-mcdermott-1,Hugh McDermott,Oklahoma,13-3 MVC,15,#FFFFFF,#000000,4,MVC,Oklahoma,black,1922.0,Return
@@ -14094,7 +14096,7 @@ NCAA 64",27,#821019,#FFFFFF,4,Patriot,New York,black,1990.0,Return
 1996,jack-bruen-1,Jack Bruen,Colgate,"9-3 Pat
 NCAA 64",25,#821019,#FFFFFF,4,Patriot,New York,black,1990.0,Return
 1997,jack-bruen-1,Jack Bruen,Colgate,8-4 Pat,12,#FFFFFF,#000000,4,Patriot,New York,black,1990.0,Health
-1998,jack-bruen-1,Jack Bruen,Colgate,Cancer,0,#FFFFFF,#000000,0,Patriot,New York,white,1990.0,Last
+1998,jack-bruen-1,Jack Bruen,Colgate,Health,0,#FFFFFF,#000000,0,Patriot,New York,white,1990.0,Last
 1939,jack-carroll-1,Jack Carroll,Siena,8-2,8,#FFFFFF,#000000,4,Ind,New York,black,1939.0,Last
 2024,jack-castleberry-1,Jack Castleberry,FDU,9-7 NEC,15,#FFFFFF,#000000,4,NEC,New Jersey,black,2024.0,Last
 1923,jack-crawford-1,Jack Crawford,South Carolina,0-3 SoCon,6,#FFFFFF,#000000,4,Southern,South Carolina,black,1923.0,Return
@@ -14307,7 +14309,7 @@ Sweet 16",40,#002664,#FFFFFF,4,Ind,Pennsylvania,black,1962.0,Return
 1974,jack-martin-1,Jack Martin,Lamar University,0-8 SL,6,#FFFFFF,#000000,4,Southland,Texas,black,1969.0,Return
 1975,jack-martin-1,Jack Martin,Lamar University,4-4 SL,7,#FFFFFF,#000000,4,Southland,Texas,black,1969.0,Return
 1976,jack-martin-1,Jack Martin,Lamar University,6-5 SL,10,#FFFFFF,#000000,4,Southland,Texas,black,1969.0,Retired
-1977,jack-martin-1,Jack Martin,Lamar University,Retired?,0,#FFFFFF,#000000,0,Southland,Texas,white,1969.0,Last
+1977,jack-martin-1,Jack Martin,Lamar University,Retired,0,#FFFFFF,#000000,0,Southland,Texas,white,1969.0,Last
 1949,jack-mcclelland-1,Jack McClelland,Drake,4-6 MVC,13,#FFFFFF,#000000,4,MVC,Iowa,black,1949.0,Return
 1950,jack-mcclelland-1,Jack McClelland,Drake,5-7 MVC,14,#FFFFFF,#000000,4,MVC,Iowa,black,1949.0,Return
 1951,jack-mcclelland-1,Jack McClelland,Drake,4-10 MVC,11,#FFFFFF,#000000,4,MVC,Iowa,black,1949.0,Return
@@ -14316,7 +14318,7 @@ Sweet 16",40,#002664,#FFFFFF,4,Ind,Pennsylvania,black,1962.0,Return
 1954,jack-mcclelland-1,Jack McClelland,Drake,7-16,7,#FFFFFF,#000000,4,Ind,Iowa,black,1949.0,Return
 1955,jack-mcclelland-1,Jack McClelland,Drake,9-12,9,#FFFFFF,#000000,4,Ind,Iowa,black,1949.0,Return
 1956,jack-mcclelland-1,Jack McClelland,Drake,10-14,10,#FFFFFF,#000000,4,Ind,Iowa,black,1949.0,Retired
-1957,jack-mcclelland-1,Jack McClelland,Drake,Retired?,0,#FFFFFF,#000000,0,Ind,Iowa,white,1949.0,Last
+1957,jack-mcclelland-1,Jack McClelland,Drake,Retired,0,#FFFFFF,#000000,0,Ind,Iowa,white,1949.0,Last
 1957,jack-mccloskey-1,Jack McCloskey,Penn,3-11 Ivy,7,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,1957.0,Return
 1958,jack-mccloskey-1,Jack McCloskey,Penn,8-6 Ivy,13,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,1957.0,Return
 1959,jack-mccloskey-1,Jack McCloskey,Penn,5-9 Ivy,12,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,1957.0,Return
@@ -14446,7 +14448,7 @@ Sweet 16",43,#015289,#FFFFFF,4,Ivy,New York,black,1962.0,Return
 1976,jack-schalow-1,Jack Schalow,Morehead St.,7-7 OVC,13,#FFFFFF,#000000,4,OVC,Kentucky,black,1975.0,Return
 1977,jack-schalow-1,Jack Schalow,Morehead St.,9-5 OVC,15,#FFFFFF,#000000,4,OVC,Kentucky,black,1975.0,Return
 1978,jack-schalow-1,Jack Schalow,Morehead St.,0-14 OVC,4,#FFFFFF,#000000,4,OVC,Kentucky,black,1975.0,Left
-1979,jack-schalow-1,Jack Schalow,Morehead St.,Seattle?,0,#FFFFFF,#000000,0,OVC,Kentucky,white,1975.0,Last
+1979,jack-schalow-1,Jack Schalow,Morehead St.,Seattle,0,#FFFFFF,#000000,0,OVC,Kentucky,white,1975.0,Last
 1979,jack-schalow-1,Jack Schalow,Seattle U,8-6 WCAC,15,#FFFFFF,#000000,4,WCAC,Washington,black,1979.0,Return
 1980,jack-schalow-1,Jack Schalow,Seattle U,7-9 WCAC,11,#FFFFFF,#000000,4,WCAC,Washington,black,1979.0,Unknown
 1981,jack-schalow-1,Jack Schalow,Seattle U,?,0,#FFFFFF,#000000,0,WCAC,Washington,white,1979.0,Last
@@ -14481,6 +14483,7 @@ Sweet 16",43,#015289,#FFFFFF,4,Ivy,New York,black,1962.0,Return
 1939,jake-christiansen-1,Jake Christiansen,Valparaiso,5-10,5,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Return
 1940,jake-christiansen-1,Jake Christiansen,Valparaiso,6-14,6,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Return
 1941,jake-christiansen-1,Jake Christiansen,Valparaiso,4-12,4,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Last
+2024,jake-diebler-1,Jake Diebler,Ohio St.,5-1 B1G,8,#FFFFFF,#000000,3,,,black,2024.0,Last
 1943,jake-lawlor-1,Jake Lawlor,Nevada,14-4,14,#FFFFFF,#000000,4,Ind,Nevada,black,1943.0,Return
 1946,jake-lawlor-1,Jake Lawlor,Nevada,28-5,28,#FFFFFF,#000000,4,Ind,Nevada,black,1946.0,Return
 1947,jake-lawlor-1,Jake Lawlor,Nevada,19-13,19,#FFFFFF,#000000,4,Ind,Nevada,black,1946.0,Return
@@ -14488,7 +14491,7 @@ Sweet 16",43,#015289,#FFFFFF,4,Ivy,New York,black,1962.0,Return
 1961,jake-mccandless-1,Jake McCandless,Princeton,"11-3 Ivy
 Sweet 16",29,#E77500,#FFFFFF,4,Ivy,New Jersey,black,1961.0,Return
 1962,jake-mccandless-1,Jake McCandless,Princeton,10-4 Ivy,13,#FFFFFF,#000000,4,Ivy,New Jersey,black,1961.0,Left
-1963,jake-mccandless-1,Jake McCandless,Princeton,Football focus,0,#FFFFFF,#000000,0,Ivy,New Jersey,white,1961.0,Last
+1963,jake-mccandless-1,Jake McCandless,Princeton,Football,0,#FFFFFF,#000000,0,Ivy,New Jersey,white,1961.0,Last
 2007,jamaal-brown-1,Jamaal Brown,South Carolina St.,10-8 MEAC,13,#FFFFFF,#000000,4,MEAC,South Carolina,black,2007.0,Scandal
 2008,jamaal-brown-1,Jamaal Brown,South Carolina St.,Title IX issue,0,#FFFFFF,#000000,0,MEAC,South Carolina,white,2007.0,Last
 1923,james-allen-1,James Allen,Navy,14-4,14,#FFFFFF,#000000,4,Ind,Maryland,black,1923.0,Return
@@ -14653,7 +14656,7 @@ NCAA 24",32,#0C2340,#FFFFFF,4,Ind,Ohio,black,1958.0,Return
 1971,james-mcdermott-1,James McDermott,Iona,10-12,10,#FFFFFF,#000000,4,Ind,New York,black,1954.0,Return
 1972,james-mcdermott-1,James McDermott,Iona,6-17,6,#FFFFFF,#000000,4,Ind,New York,black,1954.0,Return
 1973,james-mcdermott-1,James McDermott,Iona,6-16,6,#FFFFFF,#000000,4,Ind,New York,black,1954.0,Retired
-1974,james-mcdermott-1,James McDermott,Iona,Retired?,0,#FFFFFF,#000000,0,Ind,New York,white,1954.0,Last
+1974,james-mcdermott-1,James McDermott,Iona,Retired,0,#FFFFFF,#000000,0,Ind,New York,white,1954.0,Last
 1913,james-mullen-1,James Mullen,Dartmouth,3-5 Ivy,4,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1913.0,Last
 1964,james-nau-1,James Nau,Idaho St.,6-5 BSky,11,#FFFFFF,#000000,4,Big Sky,Idaho,black,1964.0,Return
 1965,james-nau-1,James Nau,Idaho St.,4-6 BSky,7,#FFFFFF,#000000,4,Big Sky,Idaho,black,1964.0,Unknown
@@ -14906,13 +14909,14 @@ NCAA 64",29,#00214D,#FFFFFF,4,NEC,Pennsylvania,black,1985.0,Return
 2021,jason-crafton-1,Jason Crafton,UMES,(Virus year),10,#FFFFFF,#000000,2,MEAC,Maryland,black,2020.0,Return
 2022,jason-crafton-1,Jason Crafton,UMES,6-8 MEAC,11,#FFFFFF,#000000,4,MEAC,Maryland,black,2020.0,Return
 2023,jason-crafton-1,Jason Crafton,UMES,9-5 MEAC,18,#FFFFFF,#000000,4,MEAC,Maryland,black,2020.0,Return
-2024,jason-crafton-1,Jason Crafton,UMES,4-10 MEAC,9,#FFFFFF,#000000,4,MEAC,Maryland,black,2020.0,Last
+2024,jason-crafton-1,Jason Crafton,UMES,4-10 MEAC,9,#FFFFFF,#000000,4,MEAC,Maryland,black,2020.0,Fired
+2025,jason-crafton-1,Jason Crafton,UMES,Fired,0,#FFFFFF,#000000,0,MEAC,Maryland,white,2020.0,Last
 2015,jason-gardner-1,Jason Gardner,IUPUI,6-10 Sum,10,#FFFFFF,#000000,4,Summit,Indiana,black,2015.0,Return
 2016,jason-gardner-1,Jason Gardner,IUPUI,9-7 Sum,13,#FFFFFF,#000000,4,Summit,Indiana,black,2015.0,Return
 2017,jason-gardner-1,Jason Gardner,IUPUI,7-9 Sum,14,#FFFFFF,#000000,4,Summit,Indiana,black,2015.0,Return
 2018,jason-gardner-1,Jason Gardner,IUPUI,8-10 Hrz,11,#FFFFFF,#000000,4,Horizon,Indiana,black,2015.0,Return
-2019,jason-gardner-1,Jason Gardner,IUPUI,8-10 Hrz,16,#FFFFFF,#000000,4,Horizon,Indiana,black,2015.0,Scandal
-2020,jason-gardner-1,Jason Gardner,IUPUI,DUI arrest,0,#FFFFFF,#000000,0,Horizon,Indiana,white,2015.0,Last
+2019,jason-gardner-1,Jason Gardner,IUPUI,8-10 Hrz,16,#FFFFFF,#000000,4,Horizon,Indiana,black,2015.0,Left
+2020,jason-gardner-1,Jason Gardner,IUPUI,Conduct,0,#FFFFFF,#000000,0,Horizon,Indiana,white,2015.0,Last
 2024,jason-hooten-1,Jason Hooten,New Mexico St.,7-9 CUSA,13,#FFFFFF,#000000,4,CUSA,New Mexico,black,2024.0,Last
 2011,jason-hooten-1,Jason Hooten,Sam Houston,10-6 SL,18,#FFFFFF,#000000,4,Southland,Texas,black,2011.0,Return
 2012,jason-hooten-1,Jason Hooten,Sam Houston,7-9 SL,13,#FFFFFF,#000000,4,Southland,Texas,black,2011.0,Return
@@ -15006,7 +15010,7 @@ Conf Finals",0,#00538C,#FFFFFF,2,,,black,,Return
 1963,jay-mccreary-1,Jay McCreary,LSU,5-9 SEC,12,#FFFFFF,#000000,4,SEC,Louisiana,black,1958.0,Return
 1964,jay-mccreary-1,Jay McCreary,LSU,8-6 SEC,12,#FFFFFF,#000000,4,SEC,Louisiana,black,1958.0,Return
 1965,jay-mccreary-1,Jay McCreary,LSU,7-9 SEC,12,#FFFFFF,#000000,4,SEC,Louisiana,black,1958.0,Fired
-1966,jay-mccreary-1,Jay McCreary,LSU,Fired?,0,#FFFFFF,#000000,0,SEC,Louisiana,white,1958.0,Last
+1966,jay-mccreary-1,Jay McCreary,LSU,Fired,0,#FFFFFF,#000000,0,SEC,Louisiana,white,1958.0,Last
 1946,jay-mcwilliams-1,Jay McWilliams,VMI,1-6 SoCon,1,#FFFFFF,#000000,4,Southern,Virginia,black,1946.0,Last
 1998,jay-smith-2,Jay Smith,Central Mich.,3-15 MAC,5,#FFFFFF,#000000,4,MAC,Michigan,black,1998.0,Return
 1999,jay-smith-2,Jay Smith,Central Mich.,7-11 MAC,10,#FFFFFF,#000000,4,MAC,Michigan,black,1998.0,Return
@@ -15081,7 +15085,8 @@ Final 4",60,#002664,#FFFFFF,4,Big East,Pennsylvania,black,2002.0,Retired
 2020,jay-young-2,Jay Young,Fairfield,8-12 MAAC,12,#FFFFFF,#000000,4,MAAC,Connecticut,black,2020.0,Return
 2021,jay-young-2,Jay Young,Fairfield,7-11 MAAC,10,#FFFFFF,#000000,4,MAAC,Connecticut,black,2020.0,Return
 2022,jay-young-2,Jay Young,Fairfield,8-12 MAAC,15,#FFFFFF,#000000,4,MAAC,Connecticut,black,2020.0,Return
-2023,jay-young-2,Jay Young,Fairfield,9-11 MAAC,13,#FFFFFF,#000000,4,MAAC,Connecticut,black,2020.0,Last
+2023,jay-young-2,Jay Young,Fairfield,9-11 MAAC,13,#FFFFFF,#000000,4,MAAC,Connecticut,black,2020.0,Resigned
+2024,jay-young-2,Jay Young,Fairfield,Resigned,0,#FFFFFF,#000000,0,MAAC,Connecticut,white,2020.0,Last
 2014,jayson-gee-1,Jayson Gee,Longwood,3-13 BSth,8,#FFFFFF,#000000,4,Big South,Virginia,black,2014.0,Return
 2015,jayson-gee-1,Jayson Gee,Longwood,5-13 BSth,11,#FFFFFF,#000000,4,Big South,Virginia,black,2014.0,Return
 2016,jayson-gee-1,Jayson Gee,Longwood,5-13 BSth,10,#FFFFFF,#000000,4,Big South,Virginia,black,2014.0,Return
@@ -15253,7 +15258,7 @@ NCAA 64",36,#00507D,#FFFFFF,4,CUSA,Virginia,black,2014.0,Return
 2022,jeff-jones-3,Jeff Jones,Old Dominion,8-10 CUSA,13,#FFFFFF,#000000,4,CUSA,Virginia,black,2014.0,Return
 2023,jeff-jones-3,Jeff Jones,Old Dominion,11-7 SB,19,#FFFFFF,#000000,4,Sun Belt,Virginia,black,2014.0,Return
 2024,jeff-jones-3,Jeff Jones,Old Dominion,3-6,3,#FFFFFF,#000000,3,Sun Belt,Virginia,black,2014.0,Health
-2025,jeff-jones-3,Jeff Jones,Old Dominion,Health problems,0,#FFFFFF,#000000,0,Sun Belt,Virginia,white,2014.0,Last
+2025,jeff-jones-3,Jeff Jones,Old Dominion,Health,0,#FFFFFF,#000000,0,Sun Belt,Virginia,white,2014.0,Last
 1991,jeff-jones-3,Jeff Jones,Virginia,"6-8 ACC
 NCAA 64",31,#E57200,#232D4B,4,ACC,Virginia,black,1991.0,Return
 1992,jeff-jones-3,Jeff Jones,Virginia,8-8 ACC,20,#FFFFFF,#000000,4,ACC,Virginia,black,1991.0,Return
@@ -15308,7 +15313,8 @@ NCAA 64",28,#E57200,#232D4B,4,ACC,Virginia,black,1991.0,Return
 2022,jeff-linder-1,Jeff Linder,Wyoming,"13-5 MWC
 NCAA 68",30,#533B22,#FFFFFF,4,MWC,Wyoming,black,2021.0,Return
 2023,jeff-linder-1,Jeff Linder,Wyoming,4-14 MWC,9,#FFFFFF,#000000,4,MWC,Wyoming,black,2021.0,Return
-2024,jeff-linder-1,Jeff Linder,Wyoming,8-10 MWC,15,#FFFFFF,#000000,4,MWC,Wyoming,black,2021.0,Last
+2024,jeff-linder-1,Jeff Linder,Wyoming,8-10 MWC,15,#FFFFFF,#000000,4,MWC,Wyoming,black,2021.0,Left
+2025,jeff-linder-1,Jeff Linder,Wyoming,Texas Tech (asst.),0,#FFFFFF,#000000,0,MWC,Wyoming,white,2021.0,Last
 1945,jeff-mangold-1,Jeff Mangold,Baylor,0-12 SWC,0,#FFFFFF,#000000,4,SWC,Texas,black,1945.0,Last
 1989,jeff-meyer-3,Jeffrey Meyer,Liberty,10-17,10,#FFFFFF,#000000,4,Ind,Virginia,black,1989.0,Return
 1990,jeff-meyer-3,Jeffrey Meyer,Liberty,11-17,11,#FFFFFF,#000000,4,Ind,Virginia,black,1989.0,Return
@@ -15464,7 +15470,7 @@ Elite 8",51,#512888,#FFFFFF,4,Big 12,Kansas,black,2023.0,Return
 1961,jerry-bush-1,Jerry Bush,Nebraska,6-11 B8,10,#FFFFFF,#000000,4,Big 8,Nebraska,black,1955.0,Return
 1962,jerry-bush-1,Jerry Bush,Nebraska,6-11 B8,9,#FFFFFF,#000000,4,Big 8,Nebraska,black,1955.0,Return
 1963,jerry-bush-1,Jerry Bush,Nebraska,2-15 B8,6,#FFFFFF,#000000,4,Big 8,Nebraska,black,1955.0,Fired
-1964,jerry-bush-1,Jerry Bush,Nebraska,Fired?,0,#FFFFFF,#000000,0,Big 8,Nebraska,white,1955.0,Last
+1964,jerry-bush-1,Jerry Bush,Nebraska,Fired,0,#FFFFFF,#000000,0,Big 8,Nebraska,white,1955.0,Last
 1948,jerry-bush-1,Jerry Bush,Toledo,21-5,21,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
 1949,jerry-bush-1,Jerry Bush,Toledo,13-12,13,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
 1950,jerry-bush-1,Jerry Bush,Toledo,22-6,22,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
@@ -16015,7 +16021,7 @@ NCAA 53",33,#2F99D4,#FFFFFF,4,WCAC,California,black,1980.0,Unknown
 1997,jim-brown-1,Jim Brown,Wright St.,5-11 MCC,7,#FFFFFF,#000000,4,MW Coll,Ohio,black,1997.0,Unknown
 1998,jim-brown-1,Jim Brown,Wright St.,?,0,#FFFFFF,#000000,0,MW Coll,Ohio,white,1997.0,Last
 1955,jim-browning-1,Jim Browning,The Citadel,0-10 SoCon,0,#FFFFFF,#000000,4,Southern,South Carolina,black,1955.0,Fired
-1956,jim-browning-1,Jim Browning,The Citadel,Fired?,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1955.0,Last
+1956,jim-browning-1,Jim Browning,The Citadel,Fired,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1955.0,Last
 1937,jim-buford-1,Jim Buford,Vanderbilt,3-7 SEC,6,#FFFFFF,#000000,4,SEC,Tennessee,black,1937.0,Return
 1938,jim-buford-1,Jim Buford,Vanderbilt,4-8 SEC,9,#FFFFFF,#000000,4,SEC,Tennessee,black,1937.0,Return
 1939,jim-buford-1,Jim Buford,Vanderbilt,7-5 SEC,14,#FFFFFF,#000000,4,SEC,Tennessee,black,1937.0,Return
@@ -16326,8 +16332,8 @@ NCAA 64",36,#A10022,#FFFFFF,4,Big Sky,Washington,black,2012.0,Return
 2018,jim-hayford-1,Jim Hayford,Seattle U,8-6 WAC,20,#FFFFFF,#000000,4,WAC,Washington,black,2018.0,Return
 2019,jim-hayford-1,Jim Hayford,Seattle U,6-10 WAC,18,#FFFFFF,#000000,4,WAC,Washington,black,2018.0,Return
 2020,jim-hayford-1,Jim Hayford,Seattle U,7-7 WAC,14,#FFFFFF,#000000,4,WAC,Washington,black,2018.0,Return
-2021,jim-hayford-1,Jim Hayford,Seattle U,4-5 WAC,12,#FFFFFF,#000000,4,WAC,Washington,black,2018.0,Scandal
-2022,jim-hayford-1,Jim Hayford,Seattle U,Insensitive comments,0,#FFFFFF,#000000,0,WAC,Washington,white,2018.0,Last
+2021,jim-hayford-1,Jim Hayford,Seattle U,4-5 WAC,12,#FFFFFF,#000000,4,WAC,Washington,black,2018.0,Left
+2022,jim-hayford-1,Jim Hayford,Seattle U,Conduct,0,#FFFFFF,#000000,0,WAC,Washington,white,2018.0,Last
 1923,jim-hoar-1,Jim Hoar,Canisius,10-4,10,#FFFFFF,#000000,4,Ind,New York,black,1923.0,Last
 1973,jim-holstein-1,Jim Holstein,Ball St.,9-15,9,#FFFFFF,#000000,4,Ind,Indiana,black,1973.0,Return
 1974,jim-holstein-1,Jim Holstein,Ball St.,14-12,14,#FFFFFF,#000000,4,Ind,Indiana,black,1973.0,Return
@@ -16640,7 +16646,7 @@ NCAA 32",36,#70261D,#FFFFFF,4,Ind,New York,black,1974.0,Return
 1980,jim-satalin-1,Jim Satalin,St. Bonaventure,1-3 EAA,16,#FFFFFF,#000000,4,EAA,New York,black,1974.0,Return
 1981,jim-satalin-1,Jim Satalin,St. Bonaventure,6-7 EAA,14,#FFFFFF,#000000,4,EAA,New York,black,1974.0,Return
 1982,jim-satalin-1,Jim Satalin,St. Bonaventure,7-7 EAA,14,#FFFFFF,#000000,4,EAA,New York,black,1974.0,Left
-1983,jim-satalin-1,Jim Satalin,St. Bonaventure,Duquesne?,0,#FFFFFF,#000000,0,EAA,New York,white,1974.0,Last
+1983,jim-satalin-1,Jim Satalin,St. Bonaventure,Duquesne,0,#FFFFFF,#000000,0,EAA,New York,white,1974.0,Last
 2024,jim-shaw-2,Jim Shaw,A&M-Corpus Christi,14-4 SL,21,#FFFFFF,#000000,4,Southland,Texas,black,2024.0,Last
 1982,jim-shuler-1,,Hardin-Simmons,?,0,#FFFFFF,#000000,0,,,white,,Last
 1972,jim-taylor-1,Jim Taylor,South Alabama,7-17,7,#FFFFFF,#000000,4,Ind,Alabama,black,1972.0,Return
@@ -16680,7 +16686,7 @@ Sweet 16",42,#CC0000,#FFFFFF,4,ACC,North Carolina,black,1981.0,Return
 1991,jim-valvano-1,Jim Valvano,NC State,Fired,0,#FFFFFF,#000000,0,ACC,North Carolina,white,1981.0,Last
 1950,jim-whatley-1,Jim Whatley,Georgia,6-7 SEC,11,#FFFFFF,#000000,4,SEC,Georgia,black,1950.0,Return
 1951,jim-whatley-1,Jim Whatley,Georgia,8-8 SEC,13,#FFFFFF,#000000,4,SEC,Georgia,black,1950.0,Left
-1952,jim-whatley-1,Jim Whatley,Georgia,Baseball focus,0,#FFFFFF,#000000,0,SEC,Georgia,white,1950.0,Last
+1952,jim-whatley-1,Jim Whatley,Georgia,Baseball,0,#FFFFFF,#000000,0,SEC,Georgia,white,1950.0,Last
 1947,jim-whatley-1,Jim Whatley,Ole Miss,2-11 SEC,7,#FFFFFF,#000000,4,SEC,Mississippi,black,1947.0,Return
 1948,jim-whatley-1,Jim Whatley,Ole Miss,5-9 SEC,11,#FFFFFF,#000000,4,SEC,Mississippi,black,1947.0,Return
 1949,jim-whatley-1,Jim Whatley,Ole Miss,4-12 SEC,8,#FFFFFF,#000000,4,SEC,Mississippi,black,1947.0,Last
@@ -16963,7 +16969,7 @@ NCAA 64",24,#123C31,#FFFFFF,4,Big West,California,black,2010.0,Return
 1978,joe-cipriano-1,Joe Cipriano,Nebraska,9-5 B8,22,#FFFFFF,#000000,4,Big 8,Nebraska,black,1964.0,Return
 1979,joe-cipriano-1,Joe Cipriano,Nebraska,7-7 B8,14,#FFFFFF,#000000,4,Big 8,Nebraska,black,1964.0,Return
 1980,joe-cipriano-1,Joe Cipriano,Nebraska,8-6 B8,18,#FFFFFF,#000000,4,Big 8,Nebraska,black,1964.0,Health
-1981,joe-cipriano-1,Joe Cipriano,Nebraska,Cancer,0,#FFFFFF,#000000,0,Big 8,Nebraska,white,1964.0,Last
+1981,joe-cipriano-1,Joe Cipriano,Nebraska,Health,0,#FFFFFF,#000000,0,Big 8,Nebraska,white,1964.0,Last
 1994,joe-cravens-1,Joe Cravens,Idaho,9-5 BSky,18,#FFFFFF,#000000,4,Big Sky,Idaho,black,1994.0,Return
 1995,joe-cravens-1,Joe Cravens,Idaho,6-8 BSky,12,#FFFFFF,#000000,4,Big Sky,Idaho,black,1994.0,Return
 1996,joe-cravens-1,Joe Cravens,Idaho,5-9 BSky,12,#FFFFFF,#000000,4,Big Sky,Idaho,black,1994.0,Unknown
@@ -17171,7 +17177,7 @@ NCAA 24",35,#BA0C2F,#FFFFFF,4,Metro NY,New York,black,1957.0,Return
 2020,joe-mihalich-1,Joe Mihalich,Hofstra,"14-4 CAA
 NCAA AQ",41,#13579A,#FDC82F,4,CAA,New York,black,2014.0,Return
 2021,joe-mihalich-1,Joe Mihalich,Hofstra,8-6 CAA,13,#FFFFFF,#000000,4,CAA,New York,black,2014.0,Health
-2022,joe-mihalich-1,Joe Mihalich,Hofstra,Health problems,0,#FFFFFF,#000000,0,CAA,New York,white,2014.0,Last
+2022,joe-mihalich-1,Joe Mihalich,Hofstra,Health,0,#FFFFFF,#000000,0,CAA,New York,white,2014.0,Last
 1999,joe-mihalich-1,Joe Mihalich,Niagara,13-5 MAAC,17,#FFFFFF,#000000,4,MAAC,New York,black,1999.0,Return
 2000,joe-mihalich-1,Joe Mihalich,Niagara,10-8 MAAC,17,#FFFFFF,#000000,4,MAAC,New York,black,1999.0,Return
 2001,joe-mihalich-1,Joe Mihalich,Niagara,12-6 MAAC,15,#FFFFFF,#000000,4,MAAC,New York,black,1999.0,Return
@@ -17328,7 +17334,7 @@ Runner-up",62,#004D40,#FFFFFF,4,Ind,Florida,black,1967.0,Left
 1976,joedy-gardner-1,Joedy Gardner,West Virginia,15-13,15,#FFFFFF,#000000,4,Ind,West Virginia,black,1975.0,Return
 1977,joedy-gardner-1,Joedy Gardner,West Virginia,5-5 ECBL,18,#FFFFFF,#000000,4,ECBL,West Virginia,black,1975.0,Return
 1978,joedy-gardner-1,Joedy Gardner,West Virginia,3-7 EAA,12,#FFFFFF,#000000,4,EAA,West Virginia,black,1975.0,Left
-1979,joedy-gardner-1,Joedy Gardner,West Virginia,N Arizona?,0,#FFFFFF,#000000,0,EAA,West Virginia,white,1975.0,Last
+1979,joedy-gardner-1,Joedy Gardner,West Virginia,N Arizona,0,#FFFFFF,#000000,0,EAA,West Virginia,white,1975.0,Last
 1950,joel-eaves-1,Joel Eaves,Auburn,12-6 SEC,17,#FFFFFF,#000000,4,SEC,Alabama,black,1950.0,Return
 1951,joel-eaves-1,Joel Eaves,Auburn,7-9 SEC,12,#FFFFFF,#000000,4,SEC,Alabama,black,1950.0,Return
 1952,joel-eaves-1,Joel Eaves,Auburn,6-10 SEC,14,#FFFFFF,#000000,4,SEC,Alabama,black,1950.0,Return
@@ -17523,7 +17529,7 @@ Sweet 16",42,#002855,#EAAA00,4,Big East,West Virginia,black,2003.0,Return
 1967,john-benington-1,John Benington,Michigan St.,10-4 B1G,16,#FFFFFF,#000000,4,Big Ten,Michigan,black,1966.0,Return
 1968,john-benington-1,John Benington,Michigan St.,6-8 B1G,12,#FFFFFF,#000000,4,Big Ten,Michigan,black,1966.0,Return
 1969,john-benington-1,John Benington,Michigan St.,6-8 B1G,11,#FFFFFF,#000000,4,Big Ten,Michigan,black,1966.0,Health
-1970,john-benington-1,John Benington,Michigan St.,Heart attack,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1966.0,Last
+1970,john-benington-1,John Benington,Michigan St.,Health,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1966.0,Last
 1959,john-benington-1,John Benington,Saint Louis,10-4 MVC,20,#FFFFFF,#000000,4,MVC,Missouri,black,1959.0,Return
 1960,john-benington-1,John Benington,Saint Louis,9-5 MVC,19,#FFFFFF,#000000,4,MVC,Missouri,black,1959.0,Return
 1961,john-benington-1,John Benington,Saint Louis,7-5 MVC,21,#FFFFFF,#000000,4,MVC,Missouri,black,1959.0,Return
@@ -17840,7 +17846,7 @@ NCAA 32",30,#012169,#FFFFFF,4,ECBL,Pennsylvania,black,1975.0,Return
 Sweet 16",41,#AD0000,#FFFFFF,4,MVC,Kentucky,black,1968.0,Return
 1969,john-dromo-1,John Dromo,Louisville,13-4 MVC,21,#FFFFFF,#000000,4,MVC,Kentucky,black,1968.0,Return
 1970,john-dromo-1,John Dromo,Louisville,11-5 MVC,18,#FFFFFF,#000000,4,MVC,Kentucky,black,1968.0,Health
-1971,john-dromo-1,John Dromo,Louisville,Health problems,0,#FFFFFF,#000000,0,MVC,Kentucky,white,1968.0,Last
+1971,john-dromo-1,John Dromo,Louisville,Health,0,#FFFFFF,#000000,0,MVC,Kentucky,white,1968.0,Last
 2019,john-dunne-1,John Dunne,Marist,7-11 MAAC,12,#FFFFFF,#000000,4,MAAC,New York,black,2019.0,Return
 2020,john-dunne-1,John Dunne,Marist,6-14 MAAC,7,#FFFFFF,#000000,4,MAAC,New York,black,2019.0,Return
 2021,john-dunne-1,John Dunne,Marist,10-8 MAAC,12,#FFFFFF,#000000,4,MAAC,New York,black,2019.0,Return
@@ -17877,7 +17883,7 @@ NCAA 23",35,#001E44,#FFFFFF,4,Ind,Pennsylvania,black,1955.0,Return
 1966,john-egli-1,John Egli,Penn St.,18-6,18,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1955.0,Return
 1967,john-egli-1,John Egli,Penn St.,10-14,10,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1955.0,Return
 1968,john-egli-1,John Egli,Penn St.,10-10,10,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1955.0,Retired
-1969,john-egli-1,John Egli,Penn St.,Retired?,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1955.0,Last
+1969,john-egli-1,John Egli,Penn St.,Retired,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1955.0,Last
 1960,john-erickson-1,John Erickson,Wisconsin,4-10 B1G,8,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,1960.0,Return
 1961,john-erickson-1,John Erickson,Wisconsin,4-10 B1G,7,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,1960.0,Return
 1962,john-erickson-1,John Erickson,Wisconsin,10-4 B1G,17,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,1960.0,Return
@@ -17901,7 +17907,7 @@ NCAA 25",36,#FF7800,#FFFFFF,4,Ind,Idaho,black,1960.0,Return
 1908,john-finneman-2,John Finneman,Navy,2-2,2,#FFFFFF,#000000,4,Ind,Maryland,black,1908.0,Last
 1946,john-flanigan-1,John Flanigan,Saint Louis,6-5 MVC,13,#FFFFFF,#000000,4,MVC,Missouri,black,1946.0,Return
 1947,john-flanigan-1,John Flanigan,Saint Louis,11-1 MVC,18,#FFFFFF,#000000,4,MVC,Missouri,black,1946.0,Last
-1956,john-floyd-3,,Texas A&M,Fired?,0,#FFFFFF,#000000,0,,,white,,Last
+1956,john-floyd-3,,Texas A&M,Fired,0,#FFFFFF,#000000,0,,,white,,Last
 1951,john-floyd-4,John Floyd,Texas A&M,"11-5 SWC
 Sweet 16",37,#500000,#FFFFFF,4,SWC,Texas,black,1951.0,Return
 1952,john-floyd-4,John Floyd,Texas A&M,7-8 SWC,9,#FFFFFF,#000000,4,SWC,Texas,black,1951.0,Return
@@ -17982,7 +17988,7 @@ Sweet 16",41,#FF7800,#FFFFFF,4,Ind,Idaho,black,1957.0,Left
 1993,john-griffin-3,John Griffin,Saint Joseph's,8-6 A10,18,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1991.0,Return
 1994,john-griffin-3,John Griffin,Saint Joseph's,5-11 A10,14,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1991.0,Return
 1995,john-griffin-3,John Griffin,Saint Joseph's,9-7 A10,17,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1991.0,Fired
-1996,john-griffin-3,John Griffin,Saint Joseph's,Fired?,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,1991.0,Last
+1996,john-griffin-3,John Griffin,Saint Joseph's,Fired,0,#FFFFFF,#000000,0,A-10,Pennsylvania,white,1991.0,Last
 1983,john-griffin-3,John Griffin,Siena,6-8 ECAC,12,#FFFFFF,#000000,4,ECACM,New York,black,1983.0,Return
 1984,john-griffin-3,John Griffin,Siena,8-8 ECAC,15,#FFFFFF,#000000,4,ECACM,New York,black,1983.0,Return
 1985,john-griffin-3,John Griffin,Siena,12-4 ECAC,22,#FFFFFF,#000000,4,ECACN,New York,black,1983.0,Return
@@ -18079,7 +18085,7 @@ NCAA 25",32,#0C2340,#AE9142,4,Ind,Indiana,black,1952.0,Return
 1963,john-jordan-1,John Jordan,Notre Dame,"17-9
 NCAA 25",32,#0C2340,#AE9142,4,Ind,Indiana,black,1952.0,Return
 1964,john-jordan-1,John Jordan,Notre Dame,10-14,10,#FFFFFF,#000000,4,Ind,Indiana,black,1952.0,Retired
-1965,john-jordan-1,John Jordan,Notre Dame,Retired?,0,#FFFFFF,#000000,0,Ind,Indiana,white,1952.0,Last
+1965,john-jordan-1,John Jordan,Notre Dame,Retired,0,#FFFFFF,#000000,0,Ind,Indiana,white,1952.0,Last
 1930,john-kellison-1,John Kellison,William & Mary,16-6,16,#FFFFFF,#000000,4,Ind,Virginia,black,1930.0,Return
 1931,john-kellison-1,John Kellison,William & Mary,13-4,13,#FFFFFF,#000000,4,Ind,Virginia,black,1930.0,Return
 1932,john-kellison-1,John Kellison,William & Mary,13-6,13,#FFFFFF,#000000,4,Ind,Virginia,black,1930.0,Return
@@ -18201,7 +18207,7 @@ Elite 8",43,#001E44,#FFFFFF,4,Ind,Pennsylvania,black,1937.0,Return
 1997,john-macleod-1,John MacLeod,Notre Dame,8-10 BE,16,#FFFFFF,#000000,4,Big East,Indiana,black,1992.0,Return
 1998,john-macleod-1,John MacLeod,Notre Dame,7-11 BE,13,#FFFFFF,#000000,4,Big East,Indiana,black,1992.0,Return
 1999,john-macleod-1,John MacLeod,Notre Dame,8-10 BE,14,#FFFFFF,#000000,4,Big East,Indiana,black,1992.0,Resigned
-2000,john-macleod-1,John MacLeod,Notre Dame,Resigned?,0,#FFFFFF,#000000,0,Big East,Indiana,white,1992.0,Last
+2000,john-macleod-1,John MacLeod,Notre Dame,Resigned,0,#FFFFFF,#000000,0,Big East,Indiana,white,1992.0,Last
 1968,john-macleod-1,John MacLeod,Oklahoma,9-8 B8,13,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1968.0,Return
 1969,john-macleod-1,John MacLeod,Oklahoma,3-14 B8,7,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1968.0,Return
 1970,john-macleod-1,John MacLeod,Oklahoma,10-7 B8,19,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1968.0,Return
@@ -18229,7 +18235,7 @@ Elite 8",43,#001E44,#FFFFFF,4,Ind,Pennsylvania,black,1937.0,Return
 1958,john-mauer-1,John Mauer,Florida,6-9 SEC,12,#FFFFFF,#000000,4,SEC,Florida,black,1952.0,Return
 1959,john-mauer-1,John Mauer,Florida,3-13 SEC,8,#FFFFFF,#000000,4,SEC,Florida,black,1952.0,Return
 1960,john-mauer-1,John Mauer,Florida,3-11 SEC,6,#FFFFFF,#000000,4,SEC,Florida,black,1952.0,Resigned
-1961,john-mauer-1,John Mauer,Florida,Resigned?,0,#FFFFFF,#000000,0,SEC,Florida,white,1952.0,Last
+1961,john-mauer-1,John Mauer,Florida,Resigned,0,#FFFFFF,#000000,0,SEC,Florida,white,1952.0,Last
 1928,john-mauer-1,John Mauer,Kentucky,8-1 SoCon,12,#FFFFFF,#000000,4,Southern,Kentucky,black,1928.0,Return
 1929,john-mauer-1,John Mauer,Kentucky,7-4 SoCon,12,#FFFFFF,#000000,4,Southern,Kentucky,black,1928.0,Return
 1930,john-mauer-1,John Mauer,Kentucky,9-1 SoCon,16,#FFFFFF,#000000,4,Southern,Kentucky,black,1928.0,Last
@@ -18725,7 +18731,7 @@ NCAA 25",35,#0C2340,#AE9142,4,Ind,Indiana,black,1965.0,Return
 Sweet 16",41,#0C2340,#AE9142,4,Ind,Indiana,black,1965.0,Return
 1971,johnny-dee-1,Johnny Dee Jr,Notre Dame,"20-9
 Sweet 16",40,#0C2340,#AE9142,4,Ind,Indiana,black,1965.0,Resigned
-1972,johnny-dee-1,Johnny Dee Jr,Notre Dame,Resigned?,0,#FFFFFF,#000000,0,Ind,Indiana,white,1965.0,Last
+1972,johnny-dee-1,Johnny Dee Jr,Notre Dame,Resigned,0,#FFFFFF,#000000,0,Ind,Indiana,white,1965.0,Last
 1931,johnny-douglas-1,Johnny Douglas,The Citadel,6-9,6,#FFFFFF,#000000,4,Ind,South Carolina,black,1931.0,Return
 1932,johnny-douglas-1,Johnny Douglas,The Citadel,8-11,8,#FFFFFF,#000000,4,Ind,South Carolina,black,1931.0,Return
 1933,johnny-douglas-1,Johnny Douglas,The Citadel,4-11,4,#FFFFFF,#000000,4,Ind,South Carolina,black,1931.0,Last
@@ -18874,7 +18880,7 @@ Elite 8",44,#FFBA00,#0C2340,4,WNY3,New York,black,1954.0,Return
 Sweet 16",42,#FFBA00,#0C2340,4,WNY3,New York,black,1954.0,Return
 1958,joseph-curran-1,Joseph Curran,Canisius,0-2 WNY3,2,#FFFFFF,#000000,4,WNY3,New York,black,1954.0,Return
 1959,joseph-curran-1,Joseph Curran,Canisius,6-13,6,#FFFFFF,#000000,4,Ind,New York,black,1954.0,Resigned
-1960,joseph-curran-1,Joseph Curran,Canisius,Resigned?,0,#FFFFFF,#000000,0,Ind,New York,white,1954.0,Last
+1960,joseph-curran-1,Joseph Curran,Canisius,Resigned,0,#FFFFFF,#000000,0,Ind,New York,white,1954.0,Last
 1943,joseph-daher-1,Joseph Daher,Manhattan,5-2 MNY,18,#FFFFFF,#000000,4,Metro NY,New York,black,1943.0,Last
 1944,joseph-daher-1,Joseph Daher,VMI,0-5 SoCon,0,#FFFFFF,#000000,4,Southern,Virginia,black,1944.0,Return
 1945,joseph-daher-1,Joseph Daher,VMI,1-4 SoCon,2,#FFFFFF,#000000,4,Southern,Virginia,black,1944.0,Last
@@ -18927,13 +18933,13 @@ NCAA 22",37,#8A8D8F,#000000,4,Ind,Rhode Island,black,1958.0,Return
 1983,joseph-mullaney-1,Joseph Mullaney,Providence,4-12 BE,12,#FFFFFF,#000000,4,Big East,Rhode Island,black,1982.0,Return
 1984,joseph-mullaney-1,Joseph Mullaney,Providence,5-11 BE,15,#FFFFFF,#000000,4,Big East,Rhode Island,black,1982.0,Return
 1985,joseph-mullaney-1,Joseph Mullaney,Providence,3-13 BE,11,#FFFFFF,#000000,4,Big East,Rhode Island,black,1982.0,Retired
-1986,joseph-mullaney-1,Joseph Mullaney,Providence,Retired?,0,#FFFFFF,#000000,0,Big East,Rhode Island,white,1982.0,Last
+1986,joseph-mullaney-1,Joseph Mullaney,Providence,Retired,0,#FFFFFF,#000000,0,Big East,Rhode Island,white,1982.0,Last
 1949,joseph-niland-1,Joseph Niland,Canisius,2-2 WNY3,16,#FFFFFF,#000000,4,WNY3,New York,black,1949.0,Return
 1950,joseph-niland-1,Joseph Niland,Canisius,2-2 WNY3,17,#FFFFFF,#000000,4,WNY3,New York,black,1949.0,Return
 1951,joseph-niland-1,Joseph Niland,Canisius,1-3 WNY3,15,#FFFFFF,#000000,4,WNY3,New York,black,1949.0,Return
 1952,joseph-niland-1,Joseph Niland,Canisius,15-9,15,#FFFFFF,#000000,4,WNY3,New York,black,1949.0,Return
 1953,joseph-niland-1,Joseph Niland,Canisius,1-3 WNY3,9,#FFFFFF,#000000,4,WNY3,New York,black,1949.0,Retired
-1954,joseph-niland-1,Joseph Niland,Canisius,Retired?,0,#FFFFFF,#000000,0,WNY3,New York,white,1949.0,Last
+1954,joseph-niland-1,Joseph Niland,Canisius,Retired,0,#FFFFFF,#000000,0,WNY3,New York,white,1949.0,Last
 1920,joseph-oshea-1,Joseph O'Shea,Army West Point,12-2,12,#FFFFFF,#000000,4,Ind,New York,black,1920.0,Return
 1921,joseph-oshea-1,Joseph O'Shea,Army West Point,18-5,18,#FFFFFF,#000000,4,Ind,New York,black,1920.0,Last
 1912,joseph-oshea-1,Joseph O'Shea,St. John's (NY),15-5,15,#FFFFFF,#000000,4,Ind,New York,black,1912.0,Return
@@ -19105,7 +19111,7 @@ NCAA 25",33,#01592F,#FFFFFF,4,MAC,West Virginia,black,1956.0,Return
 1961,jule-rivlin-1,Jule Rivlin,Marshall,5-7 MAC,11,#FFFFFF,#000000,4,MAC,West Virginia,black,1956.0,Return
 1962,jule-rivlin-1,Jule Rivlin,Marshall,6-6 MAC,10,#FFFFFF,#000000,4,MAC,West Virginia,black,1956.0,Return
 1963,jule-rivlin-1,Jule Rivlin,Marshall,1-11 MAC,7,#FFFFFF,#000000,4,MAC,West Virginia,black,1956.0,Fired
-1964,jule-rivlin-1,Jule Rivlin,Marshall,Fired?,0,#FFFFFF,#000000,0,MAC,West Virginia,white,1956.0,Last
+1964,jule-rivlin-1,Jule Rivlin,Marshall,Fired,0,#FFFFFF,#000000,0,MAC,West Virginia,white,1956.0,Last
 1942,julie-bescos-1,Julie Bescos,Southern California,7-5 PCC,12,#FFFFFF,#000000,4,PCC,California,black,1942.0,Last
 1941,julius-johnston-1,Julius Johnston,New Mexico St.,14-12,14,#FFFFFF,#000000,4,Ind,New Mexico,black,1941.0,Return
 1942,julius-johnston-1,Julius Johnston,New Mexico St.,2-14 BIAA,8,#FFFFFF,#000000,4,BIAA,New Mexico,black,1941.0,Last
@@ -19399,13 +19405,13 @@ NCAA 32",40,#B01E24,#FFFFFF,4,Sun Belt,Kentucky,black,2009.0,Return
 1925,ken-simendinger-1,Ken Simendinger,Holy Cross,10-5,10,#FFFFFF,#000000,4,Ind,Massachusetts,black,1925.0,Last
 1975,ken-trickey-1,Ken Trickey,Iowa St.,6-11 B8,10,#FFFFFF,#000000,4,Big 8,Iowa,black,1975.0,Return
 1976,ken-trickey-1,Ken Trickey,Iowa St.,3-14 B8,3,#FFFFFF,#000000,4,Big 8,Iowa,black,1975.0,Fired
-1977,ken-trickey-1,Ken Trickey,Iowa St.,Fired?,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1975.0,Last
+1977,ken-trickey-1,Ken Trickey,Iowa St.,Fired,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1975.0,Last
 1966,ken-trickey-1,Ken Trickey,Middle Tenn.,3-12 OVC,7,#FFFFFF,#000000,4,OVC,Tennessee,black,1966.0,Return
 1967,ken-trickey-1,Ken Trickey,Middle Tenn.,5-11 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,1966.0,Return
 1968,ken-trickey-1,Ken Trickey,Middle Tenn.,7-8 OVC,15,#FFFFFF,#000000,4,OVC,Tennessee,black,1966.0,Return
 1969,ken-trickey-1,Ken Trickey,Middle Tenn.,4-10 OVC,13,#FFFFFF,#000000,4,OVC,Tennessee,black,1966.0,Unknown
 1970,ken-trickey-1,Ken Trickey,Middle Tenn.,?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1966.0,Last
-1982,ken-trickey-1,,Oklahoma City,Resigned?,0,#FFFFFF,#000000,0,,,white,,Last
+1982,ken-trickey-1,,Oklahoma City,Resigned,0,#FFFFFF,#000000,0,,,white,,Last
 1972,ken-trickey-1,Ken Trickey,Oral Roberts,26-2,26,#FFFFFF,#000000,4,Ind,Oklahoma,black,1972.0,Return
 1973,ken-trickey-1,Ken Trickey,Oral Roberts,21-6,21,#FFFFFF,#000000,4,Ind,Oklahoma,black,1972.0,Return
 1974,ken-trickey-1,Ken Trickey,Oral Roberts,"23-6
@@ -19436,7 +19442,7 @@ Runner-up",61,#000F4C,#FFFFFF,4,Ind,Pennsylvania,black,1950.0,Left
 1956,kenneth-loeffler-1,Kenneth Loeffler,La Salle,Texas A&M,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1950.0,Last
 1956,kenneth-loeffler-1,Kenneth Loeffler,Texas A&M,3-12 SWC,6,#FFFFFF,#000000,4,SWC,Texas,black,1956.0,Return
 1957,kenneth-loeffler-1,Kenneth Loeffler,Texas A&M,3-11 SWC,7,#FFFFFF,#000000,4,SWC,Texas,black,1956.0,Fired
-1958,kenneth-loeffler-1,Kenneth Loeffler,Texas A&M,Fired?,0,#FFFFFF,#000000,0,SWC,Texas,white,1956.0,Last
+1958,kenneth-loeffler-1,Kenneth Loeffler,Texas A&M,Fired,0,#FFFFFF,#000000,0,SWC,Texas,white,1956.0,Last
 1936,kenneth-loeffler-1,Kenneth Loeffler,Yale,6-6 Ivy,8,#FFFFFF,#000000,4,Ivy,Connecticut,black,1936.0,Return
 1937,kenneth-loeffler-1,Kenneth Loeffler,Yale,7-5 Ivy,12,#FFFFFF,#000000,4,Ivy,Connecticut,black,1936.0,Return
 1938,kenneth-loeffler-1,Kenneth Loeffler,Yale,3-9 Ivy,7,#FFFFFF,#000000,4,Ivy,Connecticut,black,1936.0,Return
@@ -19469,7 +19475,7 @@ Sweet 16",36,#528C39,#FFFFFF,4,Metro NY,New York,black,1947.0,Return
 1966,kenneth-norton-1,Kenneth Norton,Manhattan,4-1 MCC,13,#FFFFFF,#000000,4,MCC,New York,black,1947.0,Return
 1967,kenneth-norton-1,Kenneth Norton,Manhattan,4-2 MCC,13,#FFFFFF,#000000,4,MCC,New York,black,1947.0,Return
 1968,kenneth-norton-1,Kenneth Norton,Manhattan,3-3 MCC,8,#FFFFFF,#000000,4,MCC,New York,black,1947.0,Retired
-1969,kenneth-norton-1,Kenneth Norton,Manhattan,Retired?,0,#FFFFFF,#000000,0,MCC,New York,white,1947.0,Last
+1969,kenneth-norton-1,Kenneth Norton,Manhattan,Retired,0,#FFFFFF,#000000,0,MCC,New York,white,1947.0,Last
 1952,kenneth-suesens-1,Kenneth Suesens,Valparaiso,12-12,12,#FFFFFF,#000000,4,Ind,Indiana,black,1952.0,Return
 1953,kenneth-suesens-1,Kenneth Suesens,Valparaiso,9-15,9,#FFFFFF,#000000,4,Ind,Indiana,black,1952.0,Return
 1954,kenneth-suesens-1,Kenneth Suesens,Valparaiso,10-13,10,#FFFFFF,#000000,4,Ind,Indiana,black,1952.0,Return
@@ -19686,8 +19692,8 @@ Sweet 16",49,#006A4D,#FFFFFF,4,Mid-Cont,Ohio,black,1984.0,Return
 1987,kevin-mackey-1,Kevin Mackey,Cleveland St.,10-4 MidC,25,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1984.0,Return
 1988,kevin-mackey-1,Kevin Mackey,Cleveland St.,11-3 MidC,22,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1984.0,Return
 1989,kevin-mackey-1,Kevin Mackey,Cleveland St.,16-12,16,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1984.0,Return
-1990,kevin-mackey-1,Kevin Mackey,Cleveland St.,15-13,15,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1984.0,Scandal
-1991,kevin-mackey-1,Kevin Mackey,Cleveland St.,DUI arrest,0,#FFFFFF,#000000,0,Mid-Cont,Ohio,white,1984.0,Last
+1990,kevin-mackey-1,Kevin Mackey,Cleveland St.,15-13,15,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1984.0,Left
+1991,kevin-mackey-1,Kevin Mackey,Cleveland St.,Conduct,0,#FFFFFF,#000000,0,Mid-Cont,Ohio,white,1984.0,Last
 2014,kevin-mcgeehan-1,Kevin McGeehan,Campbell,6-10 BSth,12,#FFFFFF,#000000,4,Big South,North Carolina,black,2014.0,Return
 2015,kevin-mcgeehan-1,Kevin McGeehan,Campbell,4-14 BSth,10,#FFFFFF,#000000,4,Big South,North Carolina,black,2014.0,Return
 2016,kevin-mcgeehan-1,Kevin McGeehan,Campbell,5-13 BSth,12,#FFFFFF,#000000,4,Big South,North Carolina,black,2014.0,Return
@@ -19742,7 +19748,7 @@ Sweet 16",44,#FFCC00,#003366,4,GMWC,Wisconsin,black,1990.0,Left
 1998,kevin-oneill-1,Kevin O'Neill,Northwestern,3-13 B1G,10,#FFFFFF,#000000,4,Big Ten,Illinois,black,1998.0,Return
 1999,kevin-oneill-1,Kevin O'Neill,Northwestern,6-10 B1G,15,#FFFFFF,#000000,4,Big Ten,Illinois,black,1998.0,Return
 2000,kevin-oneill-1,Kevin O'Neill,Northwestern,0-16 B1G,5,#FFFFFF,#000000,4,Big Ten,Illinois,black,1998.0,Fired
-2001,kevin-oneill-1,Kevin O'Neill,Northwestern,Fired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1998.0,Last
+2001,kevin-oneill-1,Kevin O'Neill,Northwestern,Fired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1998.0,Last
 2010,kevin-oneill-1,Kevin O'Neill,Southern California,8-10 P10,16,#FFFFFF,#000000,4,Pac-10,California,black,2010.0,Return
 2011,kevin-oneill-1,Kevin O'Neill,Southern California,"10-8 P10
 NCAA 68",24,#990000,#FFCC00,4,Pac-10,California,black,2010.0,Return
@@ -19752,7 +19758,7 @@ NCAA 68",24,#990000,#FFCC00,4,Pac-10,California,black,2010.0,Return
 1995,kevin-oneill-1,Kevin O'Neill,Tennessee,4-12 SEC,11,#FFFFFF,#000000,4,SEC,Tennessee,black,1995.0,Return
 1996,kevin-oneill-1,Kevin O'Neill,Tennessee,6-10 SEC,14,#FFFFFF,#000000,4,SEC,Tennessee,black,1995.0,Return
 1997,kevin-oneill-1,Kevin O'Neill,Tennessee,4-12 SEC,11,#FFFFFF,#000000,4,SEC,Tennessee,black,1995.0,Fired
-1998,kevin-oneill-1,Kevin O'Neill,Tennessee,Fired?,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1995.0,Last
+1998,kevin-oneill-1,Kevin O'Neill,Tennessee,Fired,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1995.0,Last
 1984,kevin-porter-1,Kevin Porter,Saint Francis (PA),8-8 ECAC,12,#FFFFFF,#000000,4,ECACM,Pennsylvania,black,1984.0,Return
 1985,kevin-porter-1,Kevin Porter,Saint Francis (PA),6-8 ECAC,9,#FFFFFF,#000000,4,ECACM,Pennsylvania,black,1984.0,Return
 1986,kevin-porter-1,Kevin Porter,Saint Francis (PA),8-8 ECAC,10,#FFFFFF,#000000,4,ECACM,Pennsylvania,black,1984.0,Return
@@ -20110,8 +20116,8 @@ NCAA 32",41,#1E4D2B,#FFFFFF,4,MWC,Colorado,black,2013.0,Return
 2015,larry-eustachy-1,Larry Eustachy,Colorado St.,13-5 MWC,27,#FFFFFF,#000000,4,MWC,Colorado,black,2013.0,Return
 2016,larry-eustachy-1,Larry Eustachy,Colorado St.,8-10 MWC,18,#FFFFFF,#000000,4,MWC,Colorado,black,2013.0,Return
 2017,larry-eustachy-1,Larry Eustachy,Colorado St.,13-5 MWC,24,#FFFFFF,#000000,4,MWC,Colorado,black,2013.0,Return
-2018,larry-eustachy-1,Larry Eustachy,Colorado St.,4-14 MWC,10,#FFFFFF,#000000,4,MWC,Colorado,black,2013.0,Scandal
-2019,larry-eustachy-1,Larry Eustachy,Colorado St.,Behavior issues,0,#FFFFFF,#000000,0,MWC,Colorado,white,2013.0,Last
+2018,larry-eustachy-1,Larry Eustachy,Colorado St.,4-14 MWC,10,#FFFFFF,#000000,4,MWC,Colorado,black,2013.0,Left
+2019,larry-eustachy-1,Larry Eustachy,Colorado St.,Conduct,0,#FFFFFF,#000000,0,MWC,Colorado,white,2013.0,Last
 1991,larry-eustachy-1,Larry Eustachy,Idaho,11-5 BSky,19,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Return
 1992,larry-eustachy-1,Larry Eustachy,Idaho,10-6 BSky,18,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Return
 1993,larry-eustachy-1,Larry Eustachy,Idaho,11-3 BSky,24,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Left
@@ -20122,8 +20128,8 @@ Elite 8",57,#C8102E,#F1BE48,4,Big 12,Iowa,black,1999.0,Return
 2001,larry-eustachy-1,Larry Eustachy,Iowa St.,"13-3 B12
 NCAA 64",35,#C8102E,#F1BE48,4,Big 12,Iowa,black,1999.0,Return
 2002,larry-eustachy-1,Larry Eustachy,Iowa St.,4-12 B12,12,#FFFFFF,#000000,4,Big 12,Iowa,black,1999.0,Return
-2003,larry-eustachy-1,Larry Eustachy,Iowa St.,5-11 B12,17,#FFFFFF,#000000,4,Big 12,Iowa,black,1999.0,Scandal
-2004,larry-eustachy-1,Larry Eustachy,Iowa St.,Off-court behavior,0,#FFFFFF,#000000,0,Big 12,Iowa,white,1999.0,Last
+2003,larry-eustachy-1,Larry Eustachy,Iowa St.,5-11 B12,17,#FFFFFF,#000000,4,Big 12,Iowa,black,1999.0,Left
+2004,larry-eustachy-1,Larry Eustachy,Iowa St.,Conduct,0,#FFFFFF,#000000,0,Big 12,Iowa,white,1999.0,Last
 2005,larry-eustachy-1,Larry Eustachy,Southern Miss.,2-14 CUSA,11,#FFFFFF,#000000,4,CUSA,Mississippi,black,2005.0,Return
 2006,larry-eustachy-1,Larry Eustachy,Southern Miss.,3-11 CUSA,10,#FFFFFF,#000000,4,CUSA,Mississippi,black,2005.0,Return
 2007,larry-eustachy-1,Larry Eustachy,Southern Miss.,9-7 CUSA,20,#FFFFFF,#000000,4,CUSA,Mississippi,black,2005.0,Return
@@ -20183,7 +20189,7 @@ NCAA 64",32,#004991,#FFFFFF,4,CUSA,Tennessee,black,1987.0,Return
 1994,larry-gipson-1,Larry Gipson,Toledo,10-8 MAC,15,#FFFFFF,#000000,4,MAC,Ohio,black,1992.0,Return
 1995,larry-gipson-1,Larry Gipson,Toledo,10-8 MAC,16,#FFFFFF,#000000,4,MAC,Ohio,black,1992.0,Return
 1996,larry-gipson-1,Larry Gipson,Toledo,9-9 MAC,18,#FFFFFF,#000000,4,MAC,Ohio,black,1992.0,Resigned
-1997,larry-gipson-1,Larry Gipson,Toledo,Resigned?,0,#FFFFFF,#000000,0,MAC,Ohio,white,1992.0,Last
+1997,larry-gipson-1,Larry Gipson,Toledo,Resigned,0,#FFFFFF,#000000,0,MAC,Ohio,white,1992.0,Last
 1964,larry-glass-1,Larry Glass,Northwestern,6-8 B1G,8,#FFFFFF,#000000,4,Big Ten,Illinois,black,1964.0,Return
 1965,larry-glass-1,Larry Glass,Northwestern,3-11 B1G,7,#FFFFFF,#000000,4,Big Ten,Illinois,black,1964.0,Return
 1966,larry-glass-1,Larry Glass,Northwestern,7-7 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1964.0,Return
@@ -20439,7 +20445,7 @@ Sweet 16",44,#E21833,#FFFFFF,4,ACC,Maryland,black,1970.0,Return
 Sweet 16",45,#E21833,#FFFFFF,4,ACC,Maryland,black,1970.0,Return
 1986,lefty-driesell-1,Lefty Driesell,Maryland,"6-8 ACC
 NCAA 32",34,#E21833,#FFFFFF,4,ACC,Maryland,black,1970.0,Scandal
-1987,lefty-driesell-1,Lefty Driesell,Maryland,Len Bias fallout,0,#FFFFFF,#000000,0,ACC,Maryland,white,1970.0,Last
+1987,lefty-driesell-1,Lefty Driesell,Maryland,Scandal,0,#FFFFFF,#000000,0,ACC,Maryland,white,1970.0,Last
 1980,lefty-ervin-1,Lefty Ervin,La Salle,"7-4 ECC
 NCAA 48",37,#000F4C,#FFFFFF,4,ECC,Pennsylvania,black,1980.0,Return
 1981,lefty-ervin-1,Lefty Ervin,La Salle,8-3 ECC,14,#FFFFFF,#000000,4,ECC,Pennsylvania,black,1980.0,Return
@@ -20493,7 +20499,7 @@ NCAA 52",33,#000F4C,#FFFFFF,4,ECC,Pennsylvania,black,1980.0,Return
 1980,lenny-fant-1,Lenny Fant,ULM,Athletic director?,0,#FFFFFF,#000000,0,TAAC,Louisiana,white,1974.0,Last
 1953,leo-a-zack-1,Leo A. Zack,The Citadel,0-11 SoCon,4,#FFFFFF,#000000,4,Southern,South Carolina,black,1953.0,Return
 1954,leo-a-zack-1,Leo A. Zack,The Citadel,1-7 SoCon,2,#FFFFFF,#000000,4,Southern,South Carolina,black,1953.0,Fired
-1955,leo-a-zack-1,Leo A. Zack,The Citadel,Fired?,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1953.0,Last
+1955,leo-a-zack-1,Leo A. Zack,The Citadel,Fired,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1953.0,Last
 1928,leo-calland-1,Leo Calland,Southern California,6-3 PCC,22,#FFFFFF,#000000,4,PCC,California,black,1928.0,Return
 1929,leo-calland-1,Leo Calland,Southern California,2-7 PCC,16,#FFFFFF,#000000,4,PCC,California,black,1928.0,Last
 1988,leo-mcclure-1,Leo McClure,Southeastern La.,4-12,4,#FFFFFF,#000000,4,Ind,Louisiana,black,1988.0,Return
@@ -20782,7 +20788,7 @@ Likely AQ",33,#880023,#FFFFFF,4,MEAC,North Carolina,black,2010.0,Return
 2018,lew-hill-1,Lew Hill,UTRGV,6-8 WAC,15,#FFFFFF,#000000,4,WAC,Texas,black,2017.0,Return
 2019,lew-hill-1,Lew Hill,UTRGV,9-7 WAC,20,#FFFFFF,#000000,4,WAC,Texas,black,2017.0,Return
 2020,lew-hill-1,Lew Hill,UTRGV,9-7 WAC,14,#FFFFFF,#000000,4,WAC,Texas,black,2017.0,Health
-2021,lew-hill-1,Lew Hill,UTRGV,Passed away,0,#FFFFFF,#000000,0,WAC,Texas,white,2017.0,Last
+2021,lew-hill-1,Lew Hill,UTRGV,Health,0,#FFFFFF,#000000,0,WAC,Texas,white,2017.0,Last
 1947,lew-hirt-1,Lew Hirt,Xavier,8-17,8,#FFFFFF,#000000,4,Ind,Ohio,black,1947.0,Return
 1948,lew-hirt-1,Lew Hirt,Xavier,24-8,24,#FFFFFF,#000000,4,Ind,Ohio,black,1947.0,Return
 1949,lew-hirt-1,Lew Hirt,Xavier,16-10,16,#FFFFFF,#000000,4,Ind,Ohio,black,1947.0,Return
@@ -20818,7 +20824,7 @@ NCAA 68",22,#F19D17,#FFFFFF,4,SWAC,Alabama,black,2006.0,Return
 1972,lewis-mills-1,Lewis Mills,Richmond,3-9 SoCon,6,#FFFFFF,#000000,4,Southern,Virginia,black,1964.0,Return
 1973,lewis-mills-1,Lewis Mills,Richmond,4-8 SoCon,8,#FFFFFF,#000000,4,Southern,Virginia,black,1964.0,Return
 1974,lewis-mills-1,Lewis Mills,Richmond,10-4 SoCon,16,#FFFFFF,#000000,4,Southern,Virginia,black,1964.0,Fired
-1975,lewis-mills-1,Lewis Mills,Richmond,Fired?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1964.0,Last
+1975,lewis-mills-1,Lewis Mills,Richmond,Fired,0,#FFFFFF,#000000,0,Southern,Virginia,white,1964.0,Last
 2012,lewis-preston-1,Lewis Preston,Kennesaw St.,0-18 ASun,3,#FFFFFF,#000000,4,A-Sun,Georgia,black,2012.0,Return
 2013,lewis-preston-1,Lewis Preston,Kennesaw St.,2-16 ASun,3,#FFFFFF,#000000,4,A-Sun,Georgia,black,2012.0,Return
 2014,lewis-preston-1,Lewis Preston,Kennesaw St.,3-15 ASun,6,#FFFFFF,#000000,4,A-Sun,Georgia,black,2012.0,Fired
@@ -21119,7 +21125,7 @@ NCAA 64",27,#FF5F05,#13294B,4,Big Ten,Illinois,black,1976.0,Return
 1995,lou-henson-1,Lou Henson,Illinois,"10-8 B1G
 NCAA 64",29,#FF5F05,#13294B,4,Big Ten,Illinois,black,1976.0,Return
 1996,lou-henson-1,Lou Henson,Illinois,7-11 B1G,18,#FFFFFF,#000000,4,Big Ten,Illinois,black,1976.0,Retired
-1997,lou-henson-1,Lou Henson,Illinois,Retired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1976.0,Last
+1997,lou-henson-1,Lou Henson,Illinois,Retired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1976.0,Last
 1967,lou-henson-1,Lou Henson,New Mexico St.,"15-11
 NCAA 23",30,#8C0B42,#FFFFFF,4,Ind,New Mexico,black,1967.0,Return
 1968,lou-henson-1,Lou Henson,New Mexico St.,"23-6
@@ -21145,7 +21151,7 @@ NCAA 64",33,#8C0B42,#FFFFFF,4,Big West,New Mexico,black,1998.0,Return
 2003,lou-henson-1,Lou Henson,New Mexico St.,9-6 SB,20,#FFFFFF,#000000,4,Sun Belt,New Mexico,black,1998.0,Return
 2004,lou-henson-1,Lou Henson,New Mexico St.,6-9 SB,13,#FFFFFF,#000000,4,Sun Belt,New Mexico,black,1998.0,Return
 2005,lou-henson-1,Lou Henson,New Mexico St.,1-14 SB,4,#FFFFFF,#000000,4,Sun Belt,New Mexico,black,1998.0,Health
-2006,lou-henson-1,Lou Henson,New Mexico St.,Retired/ cancer,0,#FFFFFF,#000000,0,Sun Belt,New Mexico,white,1998.0,Last
+2006,lou-henson-1,Lou Henson,New Mexico St.,Retired/ health,0,#FFFFFF,#000000,0,Sun Belt,New Mexico,white,1998.0,Last
 1971,lou-rocheleau-1,Lou Rocheleau,Montana,4-6 BSky,8,#FFFFFF,#000000,4,Big Sky,Montana,black,1971.0,Unknown
 1972,lou-rocheleau-1,Lou Rocheleau,Montana,?,0,#FFFFFF,#000000,0,Big Sky,Montana,white,1971.0,Last
 1951,lou-rossini-1,Lou Rossini,Columbia,"12-0 Ivy
@@ -21158,18 +21164,18 @@ Sweet 16",41,#015289,#FFFFFF,4,Ivy,New York,black,1951.0,Return
 1957,lou-rossini-1,Lou Rossini,Columbia,9-5 Ivy,18,#FFFFFF,#000000,4,Ivy,New York,black,1951.0,Return
 1958,lou-rossini-1,Lou Rossini,Columbia,2-12 Ivy,6,#FFFFFF,#000000,4,Ivy,New York,black,1951.0,Left
 1959,lou-rossini-1,Lou Rossini,Columbia,NYU,0,#FFFFFF,#000000,0,Ivy,New York,white,1951.0,Last
-1972,lou-rossini-1,,NYU,Fired?,0,#FFFFFF,#000000,0,,,white,,Last
+1972,lou-rossini-1,,NYU,Fired,0,#FFFFFF,#000000,0,,,white,,Last
 1976,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,13-13,13,#FFFFFF,#000000,4,Ind,New York,black,1976.0,Return
 1977,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,12-14,12,#FFFFFF,#000000,4,Ind,New York,black,1976.0,Return
 1978,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,16-9,16,#FFFFFF,#000000,4,Ind,New York,black,1976.0,Return
 1979,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,14-12,14,#FFFFFF,#000000,4,Ind,New York,black,1976.0,Retired
-1980,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,Retired?,0,#FFFFFF,#000000,0,Ind,New York,white,1976.0,Last
+1980,lou-rossini-1,Lou Rossini,St. Francis Brooklyn,Retired,0,#FFFFFF,#000000,0,Ind,New York,white,1976.0,Last
 1966,lou-watson-1,Lou Watson,Indiana,4-10 B1G,8,#FFFFFF,#000000,4,Big Ten,Indiana,black,1966.0,Return
 1967,lou-watson-1,Lou Watson,Indiana,"10-4 B1G
 Sweet 16",38,#990000,#EDEBEB,4,Big Ten,Indiana,black,1966.0,Return
 1968,lou-watson-1,Lou Watson,Indiana,4-10 B1G,10,#FFFFFF,#000000,4,Big Ten,Indiana,black,1966.0,Return
 1969,lou-watson-1,Lou Watson,Indiana,4-10 B1G,9,#FFFFFF,#000000,4,Big Ten,Indiana,black,1966.0,Return
-1970,lou-watson-1,Lou Watson,Indiana,Surgery,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1966.0,Return
+1970,lou-watson-1,Lou Watson,Indiana,Health,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1966.0,Return
 1971,lou-watson-1,Lou Watson,Indiana,10-5 B1G,17,#FFFFFF,#000000,4,Big Ten,Indiana,black,1966.0,Left
 1972,lou-watson-1,Lou Watson,Indiana,Indiana (asst. AD),0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1966.0,Last
 1928,louis-alexander-1,Louis Alexander,UConn,11-3,11,#FFFFFF,#000000,4,Ind,Connecticut,black,1928.0,Return
@@ -21394,7 +21400,7 @@ NCAA 64",30,#CC0000,#FFFFFF,4,WAC,Utah,black,1984.0,Return
 1978,lynn-nance-1,Lynn Nance,Iowa St.,9-5 B8,14,#FFFFFF,#000000,4,Big 8,Iowa,black,1977.0,Return
 1979,lynn-nance-1,Lynn Nance,Iowa St.,6-8 B8,11,#FFFFFF,#000000,4,Big 8,Iowa,black,1977.0,Return
 1980,lynn-nance-1,Lynn Nance,Iowa St.,5-9 B8,8,#FFFFFF,#000000,4,Big 8,Iowa,black,1977.0,Resigned
-1981,lynn-nance-1,Lynn Nance,Iowa St.,Resigned?,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1977.0,Last
+1981,lynn-nance-1,Lynn Nance,Iowa St.,Resigned,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1977.0,Last
 1987,lynn-nance-1,Lynn Nance,Saint Mary's (CA),7-7 WCAC,17,#FFFFFF,#000000,4,WCAC,California,black,1987.0,Return
 1988,lynn-nance-1,Lynn Nance,Saint Mary's (CA),9-5 WCAC,19,#FFFFFF,#000000,4,WCAC,California,black,1987.0,Return
 1989,lynn-nance-1,Lynn Nance,Saint Mary's (CA),"12-2 WCAC
@@ -21800,7 +21806,8 @@ NCAA 68",25,#003056,#FFFFFF,4,Southland,Louisiana,black,2013.0,Return
 2021,mark-slessinger-1,Mark Slessinger,New Orleans,8-7 SL,10,#FFFFFF,#000000,4,Southland,Louisiana,black,2013.0,Return
 2022,mark-slessinger-1,Mark Slessinger,New Orleans,10-4 SL,18,#FFFFFF,#000000,4,Southland,Louisiana,black,2013.0,Return
 2023,mark-slessinger-1,Mark Slessinger,New Orleans,7-11 SL,12,#FFFFFF,#000000,4,Southland,Louisiana,black,2013.0,Return
-2024,mark-slessinger-1,Mark Slessinger,New Orleans,4-14 SL,10,#FFFFFF,#000000,4,Southland,Louisiana,black,2013.0,Last
+2024,mark-slessinger-1,Mark Slessinger,New Orleans,4-14 SL,10,#FFFFFF,#000000,4,Southland,Louisiana,black,2013.0,Left
+2025,mark-slessinger-1,Mark Slessinger,New Orleans,Indiana St. (asst.),0,#FFFFFF,#000000,0,Southland,Louisiana,white,2013.0,Last
 1985,mark-slonaker-1,Mark Slonaker,Georgia St.,0-14 TAAC,1,#FFFFFF,#000000,4,TAAC,Georgia,black,1985.0,Unknown
 1986,mark-slonaker-1,Mark Slonaker,Georgia St.,?,0,#FFFFFF,#000000,0,TAAC,Georgia,white,1985.0,Last
 1998,mark-slonaker-1,Mark Slonaker,Mercer,2-14 TAAC,5,#FFFFFF,#000000,4,TAAC,Georgia,black,1998.0,Return
@@ -21875,7 +21882,7 @@ Sweet 16",46,#FFDB00,#000000,4,MVC,Kansas,black,2001.0,Return
 1957,marshall-hughes-1,Marshall Hughes,Texas,5-10 SWC,11,#FFFFFF,#000000,4,SWC,Texas,black,1957.0,Return
 1958,marshall-hughes-1,Marshall Hughes,Texas,6-11 SWC,10,#FFFFFF,#000000,4,SWC,Texas,black,1957.0,Return
 1959,marshall-hughes-1,Marshall Hughes,Texas,2-15 SWC,4,#FFFFFF,#000000,4,SWC,Texas,black,1957.0,Fired
-1960,marshall-hughes-1,Marshall Hughes,Texas,Fired?,0,#FFFFFF,#000000,0,SWC,Texas,white,1957.0,Last
+1960,marshall-hughes-1,Marshall Hughes,Texas,Fired,0,#FFFFFF,#000000,0,SWC,Texas,white,1957.0,Last
 1937,marshall-pennington-1,Marshall Pennington,UTEP,0-10 BIAA,2,#FFFFFF,#000000,4,BIAA,Texas,black,1937.0,Return
 1938,marshall-pennington-1,Marshall Pennington,UTEP,3-11 BIAA,4,#FFFFFF,#000000,4,BIAA,Texas,black,1937.0,Return
 1939,marshall-pennington-1,Marshall Pennington,UTEP,6-12 BIAA,6,#FFFFFF,#000000,4,BIAA,Texas,black,1937.0,Return
@@ -21914,7 +21921,7 @@ NCAA 64",32,#A00B0B,#FFFFFF,4,Sun Belt,Louisiana,black,1987.0,Return
 1984,marty-fletcher-1,Marty Fletcher,VMI,4-12 SoCon,8,#FFFFFF,#000000,4,Southern,Virginia,black,1983.0,Return
 1985,marty-fletcher-1,Marty Fletcher,VMI,7-9 SoCon,16,#FFFFFF,#000000,4,Southern,Virginia,black,1983.0,Return
 1986,marty-fletcher-1,Marty Fletcher,VMI,5-11 SoCon,11,#FFFFFF,#000000,4,Southern,Virginia,black,1983.0,Left
-1987,marty-fletcher-1,Marty Fletcher,VMI,Louisiana?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1983.0,Last
+1987,marty-fletcher-1,Marty Fletcher,VMI,Louisiana,0,#FFFFFF,#000000,0,Southern,Virginia,white,1983.0,Last
 1935,marty-karow-1,Marty Karow,Texas,5-7 SWC,16,#FFFFFF,#000000,4,SWC,Texas,black,1935.0,Return
 1936,marty-karow-1,Marty Karow,Texas,8-4 SWC,15,#FFFFFF,#000000,4,SWC,Texas,black,1935.0,Last
 1942,marty-karow-1,Marty Karow,Texas A&M,4-8 SWC,8,#FFFFFF,#000000,4,SWC,Texas,black,1942.0,Return
@@ -22018,8 +22025,8 @@ NCAA 64",33,#8C0B42,#FFFFFF,4,WAC,New Mexico,black,2008.0,Return
 1969,marvin-speight-1,Marvin Speight,Arkansas St.,6-16,6,#FFFFFF,#000000,4,Southland,Arkansas,black,1969.0,Unknown
 1970,marvin-speight-1,Marvin Speight,Arkansas St.,?,0,#FFFFFF,#000000,0,Southland,Arkansas,white,1969.0,Last
 1987,marvin-vanover-1,,Augusta State,?,0,#FFFFFF,#000000,0,,,white,,Last
-2024,matt-brady-1,Matt Brady,DePaul,0-20 BE,0,#FFFFFF,#000000,4,Big East,Illinois,black,2024.0,Interim
-2025,matt-brady-1,Matt Brady,DePaul,Interim over,0,#FFFFFF,#000000,0,Big East,Illinois,white,2024.0,Last
+2024,matt-brady-1,Matt Brady,DePaul,0-13 BE,0,#FFFFFF,#000000,3,,,black,2024.0,Interim
+2025,matt-brady-1,Matt Brady,DePaul,Interim over,0,#FFFFFF,#000000,0,,,white,2024.0,Last
 2009,matt-brady-1,Matt Brady,James Madison,9-9 CAA,21,#FFFFFF,#000000,4,CAA,Virginia,black,2009.0,Return
 2010,matt-brady-1,Matt Brady,James Madison,4-14 CAA,13,#FFFFFF,#000000,4,CAA,Virginia,black,2009.0,Return
 2011,matt-brady-1,Matt Brady,James Madison,10-8 CAA,21,#FFFFFF,#000000,4,CAA,Virginia,black,2009.0,Return
@@ -22276,7 +22283,7 @@ Elite 8",46,#004A7C,#FFFFFF,4,MVC,Iowa,black,1959.0,Left
 1972,maury-john-1,Maury John,Drake,Iowa St.,0,#FFFFFF,#000000,0,MVC,Iowa,white,1959.0,Last
 1972,maury-john-1,Maury John,Iowa St.,7-10 B8,12,#FFFFFF,#000000,4,Big 8,Iowa,black,1972.0,Return
 1973,maury-john-1,Maury John,Iowa St.,9-8 B8,16,#FFFFFF,#000000,4,Big 8,Iowa,black,1972.0,Health
-1974,maury-john-1,Maury John,Iowa St.,Cancer,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1972.0,Last
+1974,maury-john-1,Maury John,Iowa St.,Health,0,#FFFFFF,#000000,0,Big 8,Iowa,white,1972.0,Last
 1982,max-good-1,Max Good,Eastern Ky.,3-13 OVC,5,#FFFFFF,#000000,4,OVC,Kentucky,black,1982.0,Return
 1983,max-good-1,Max Good,Eastern Ky.,7-7 OVC,10,#FFFFFF,#000000,4,OVC,Kentucky,black,1982.0,Return
 1984,max-good-1,Max Good,Eastern Ky.,5-9 OVC,11,#FFFFFF,#000000,4,OVC,Kentucky,black,1982.0,Return
@@ -22339,7 +22346,7 @@ Elite 8",46,#004A7C,#FFFFFF,4,MVC,Iowa,black,1959.0,Left
 1919,melbourne-evans-1,Melbourne Evans,Stanford,0-2 PCC,9,#FFFFFF,#000000,4,PCC,California,black,1919.0,Return
 1920,melbourne-evans-1,Melbourne Evans,Stanford,9-1 PCC,12,#FFFFFF,#000000,4,PCC,California,black,1919.0,Last
 1950,melvin-bell-2,Melvin Bell,Furman,4-8 SoCon,9,#FFFFFF,#000000,4,Southern,South Carolina,black,1950.0,Fired
-1951,melvin-bell-2,Melvin Bell,Furman,Fired?,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1950.0,Last
+1951,melvin-bell-2,Melvin Bell,Furman,Fired,0,#FFFFFF,#000000,0,Southern,South Carolina,white,1950.0,Last
 1943,melvin-binford-1,Melvin Binford,Wichita St.,12-7,12,#FFFFFF,#000000,4,Ind,Kansas,black,1943.0,Return
 1945,melvin-binford-1,Melvin Binford,Wichita St.,14-6,14,#FFFFFF,#000000,4,Ind,Kansas,black,1943.0,Return
 1946,melvin-binford-1,Melvin Binford,Wichita St.,6-4 MVC,14,#FFFFFF,#000000,4,MVC,Kansas,black,1943.0,Return
@@ -22872,8 +22879,8 @@ NCAA 64",25,#006B25,#FFFFFF,4,MEAC,Florida,black,2002.0,Return
 2005,mike-gillespie-1,Mike Gillespie,Florida A&M,10-8 MEAC,14,#FFFFFF,#000000,4,MEAC,Florida,black,2002.0,Return
 2006,mike-gillespie-1,Mike Gillespie,Florida A&M,10-8 MEAC,14,#FFFFFF,#000000,4,MEAC,Florida,black,2002.0,Return
 2007,mike-gillespie-1,Mike Gillespie,Florida A&M,"12-6 MEAC
-NCAA 65",26,#006B25,#FFFFFF,4,MEAC,Florida,black,2002.0,Scandal
-2008,mike-gillespie-1,Mike Gillespie,Florida A&M,Stalking charges,0,#FFFFFF,#000000,0,MEAC,Florida,white,2002.0,Last
+NCAA 65",26,#006B25,#FFFFFF,4,MEAC,Florida,black,2002.0,Left
+2008,mike-gillespie-1,Mike Gillespie,Florida A&M,Conduct,0,#FFFFFF,#000000,0,MEAC,Florida,white,2002.0,Last
 2005,mike-gillian-1,Mike Gillian,Longwood,1-30,1,#FFFFFF,#000000,4,Ind,Virginia,black,2005.0,Return
 2006,mike-gillian-1,Mike Gillian,Longwood,10-20,10,#FFFFFF,#000000,4,Ind,Virginia,black,2005.0,Return
 2007,mike-gillian-1,Mike Gillian,Longwood,9-22,9,#FFFFFF,#000000,4,Ind,Virginia,black,2005.0,Return
@@ -23032,7 +23039,7 @@ Champion",134,#00539B,#FFFFFF,4,ACC,North Carolina,black,1981.0,Return
 NCAA 32",39,#00539B,#FFFFFF,4,ACC,North Carolina,black,1981.0,Return
 1994,mike-krzyzewski-1,Mike Krzyzewski,Duke,"12-4 ACC
 Runner-up",63,#00539B,#FFFFFF,4,ACC,North Carolina,black,1981.0,Return
-1995,mike-krzyzewski-1,Mike Krzyzewski,Duke,Back problems,0,#FFFFFF,#000000,0,ACC,North Carolina,white,1981.0,Return
+1995,mike-krzyzewski-1,Mike Krzyzewski,Duke,Health,0,#FFFFFF,#000000,0,ACC,North Carolina,white,1981.0,Return
 1996,mike-krzyzewski-1,Mike Krzyzewski,Duke,"8-8 ACC
 NCAA 64",28,#00539B,#FFFFFF,4,ACC,North Carolina,black,1981.0,Return
 1997,mike-krzyzewski-1,Mike Krzyzewski,Duke,"12-4 ACC
@@ -23102,7 +23109,7 @@ Final 4",62,#00539B,#FFFFFF,4,ACC,North Carolina,black,1981.0,Retired
 NCAA 64",34,#033C5A,#FFFFFF,4,A-10,D.C.,black,2012.0,Return
 2015,mike-lonergan-1,Mike Lonergan,George Washington,10-8 A10,22,#FFFFFF,#000000,4,A-10,D.C.,black,2012.0,Return
 2016,mike-lonergan-1,Mike Lonergan,George Washington,11-7 A10,28,#FFFFFF,#000000,4,A-10,D.C.,black,2012.0,Scandal
-2017,mike-lonergan-1,Mike Lonergan,George Washington,Verbal abuse (alleged),0,#FFFFFF,#000000,0,A-10,D.C.,white,2012.0,Last
+2017,mike-lonergan-1,Mike Lonergan,George Washington,Conduct (alleged),0,#FFFFFF,#000000,0,A-10,D.C.,white,2012.0,Last
 2006,mike-lonergan-1,Mike Lonergan,Vermont,7-9 AEC,13,#FFFFFF,#000000,4,AEC,Vermont,black,2006.0,Return
 2007,mike-lonergan-1,Mike Lonergan,Vermont,15-1 AEC,25,#FFFFFF,#000000,4,AEC,Vermont,black,2006.0,Return
 2008,mike-lonergan-1,Mike Lonergan,Vermont,9-7 AEC,16,#FFFFFF,#000000,4,AEC,Vermont,black,2006.0,Return
@@ -23255,7 +23262,7 @@ NCAA 64",37,#003DA5,#FFFFFF,4,Big South,North Carolina,black,2019.0,Return
 1991,mike-newell-1,Mike Newell,Lamar University,4-8 ASC,15,#FFFFFF,#000000,4,ASC,Texas,black,1991.0,Return
 1992,mike-newell-1,Mike Newell,Lamar University,7-9 SB,12,#FFFFFF,#000000,4,Sun Belt,Texas,black,1991.0,Return
 1993,mike-newell-1,Mike Newell,Lamar University,9-9 SB,15,#FFFFFF,#000000,4,Sun Belt,Texas,black,1991.0,Scandal
-1994,mike-newell-1,Mike Newell,Lamar University,Verbal abuse (alleged),0,#FFFFFF,#000000,0,Sun Belt,Texas,white,1991.0,Last
+1994,mike-newell-1,Mike Newell,Lamar University,Conduct (alleged),0,#FFFFFF,#000000,0,Sun Belt,Texas,white,1991.0,Last
 1985,mike-newell-1,Mike Newell,Little Rock,9-5 TAAC,17,#FFFFFF,#000000,4,TAAC,Arkansas,black,1985.0,Return
 1986,mike-newell-1,Mike Newell,Little Rock,"12-2 TAAC
 NCAA 32",38,#6E2639,#FFFFFF,4,TAAC,Arkansas,black,1985.0,Return
@@ -23318,7 +23325,7 @@ NCAA 64",37,#FFB300,#000000,4,A-10,Virginia,black,2018.0,Left
 1985,mike-rice-1,Mike Rice Sr,Youngstown St.,9-5 OVC,19,#FFFFFF,#000000,4,OVC,Ohio,black,1983.0,Return
 1986,mike-rice-1,Mike Rice Sr,Youngstown St.,8-6 OVC,12,#FFFFFF,#000000,4,OVC,Ohio,black,1983.0,Return
 1987,mike-rice-1,Mike Rice Sr,Youngstown St.,4-10 OVC,11,#FFFFFF,#000000,4,OVC,Ohio,black,1983.0,Left
-1988,mike-rice-1,Mike Rice Sr,Youngstown St.,ESPN?,0,#FFFFFF,#000000,0,OVC,Ohio,white,1983.0,Last
+1988,mike-rice-1,Mike Rice Sr,Youngstown St.,ESPN,0,#FFFFFF,#000000,0,OVC,Ohio,white,1983.0,Last
 2008,mike-rice-2,Mike Rice Jr,Robert Morris,16-2 NEC,26,#FFFFFF,#000000,4,NEC,Pennsylvania,black,2008.0,Return
 2009,mike-rice-2,Mike Rice Jr,Robert Morris,"15-3 NEC
 NCAA 64",34,#00214D,#FFFFFF,4,NEC,Pennsylvania,black,2008.0,Return
@@ -23327,8 +23334,8 @@ NCAA 64",33,#00214D,#FFFFFF,4,NEC,Pennsylvania,black,2008.0,Left
 2011,mike-rice-2,Mike Rice Jr,Robert Morris,Rutgers,0,#FFFFFF,#000000,0,NEC,Pennsylvania,white,2008.0,Last
 2011,mike-rice-2,Mike Rice Jr,Rutgers,5-13 BE,15,#FFFFFF,#000000,4,Big East,New Jersey,black,2011.0,Return
 2012,mike-rice-2,Mike Rice Jr,Rutgers,6-12 BE,14,#FFFFFF,#000000,4,Big East,New Jersey,black,2011.0,Return
-2013,mike-rice-2,Mike Rice Jr,Rutgers,5-13 BE,15,#FFFFFF,#000000,4,Big East,New Jersey,black,2011.0,Scandal
-2014,mike-rice-2,Mike Rice Jr,Rutgers,Player abuse,0,#FFFFFF,#000000,0,Big East,New Jersey,white,2011.0,Last
+2013,mike-rice-2,Mike Rice Jr,Rutgers,5-13 BE,15,#FFFFFF,#000000,4,Big East,New Jersey,black,2011.0,Left
+2014,mike-rice-2,Mike Rice Jr,Rutgers,Conduct,0,#FFFFFF,#000000,0,Big East,New Jersey,white,2011.0,Last
 2020,mike-schrage-1,Mike Schrage,Elon,7-11 CAA,13,#FFFFFF,#000000,4,CAA,North Carolina,black,2020.0,Return
 2021,mike-schrage-1,Mike Schrage,Elon,4-7 CAA,10,#FFFFFF,#000000,4,CAA,North Carolina,black,2020.0,Return
 2022,mike-schrage-1,Mike Schrage,Elon,7-11 CAA,10,#FFFFFF,#000000,4,CAA,North Carolina,black,2020.0,Left
@@ -23388,7 +23395,7 @@ NCAA 64",26,#840029,#FFFFFF,4,Southland,Louisiana,black,1982.0,Return
 2003,mike-vining-1,Mike Vining,ULM,10-10 SL,12,#FFFFFF,#000000,4,Southland,Louisiana,black,1982.0,Return
 2004,mike-vining-1,Mike Vining,ULM,8-8 SL,12,#FFFFFF,#000000,4,Southland,Louisiana,black,1982.0,Return
 2005,mike-vining-1,Mike Vining,ULM,2-14 SL,8,#FFFFFF,#000000,4,Southland,Louisiana,black,1982.0,Retired
-2006,mike-vining-1,Mike Vining,ULM,Retired?,0,#FFFFFF,#000000,0,Southland,Louisiana,white,1982.0,Last
+2006,mike-vining-1,Mike Vining,ULM,Retired,0,#FFFFFF,#000000,0,Southland,Louisiana,white,1982.0,Last
 2022,mike-woodson-1,Mike Woodson,Indiana,"9-11 B1G
 NCAA 64",31,#990000,#EDEBEB,4,Big Ten,Indiana,black,2022.0,Return
 2023,mike-woodson-1,Mike Woodson,Indiana,"12-8 B1G
@@ -23691,7 +23698,7 @@ NCAA 64",30,#1E6B52,#FFFFFF,4,CUSA,Alabama,black,1997.0,Return
 2019,murry-bartow-1,Murry Bartow,UCLA,9-9 P12,10,#FFFFFF,#000000,4,Pac-12,California,black,2019.0,Interim
 2020,murry-bartow-1,Murry Bartow,UCLA,Interim over,0,#FFFFFF,#000000,0,Pac-12,California,white,2019.0,Last
 1954,mush-torson-1,Mush Torson,Portland,9-19,9,#FFFFFF,#000000,4,Ind,Oregon,black,1954.0,Fired
-1955,mush-torson-1,Mush Torson,Portland,Fired?,0,#FFFFFF,#000000,0,Ind,Oregon,white,1954.0,Last
+1955,mush-torson-1,Mush Torson,Portland,Fired,0,#FFFFFF,#000000,0,Ind,Oregon,white,1954.0,Last
 1912,n-whitlock-1,N. Whitlock,Montana,1-5,1,#FFFFFF,#000000,4,Ind,Montana,black,1912.0,Last
 1911,nat-cartmell-1,Nat Cartmell,North Carolina,7-4,7,#FFFFFF,#000000,4,Ind,North Carolina,black,1911.0,Return
 1912,nat-cartmell-1,Nat Cartmell,North Carolina,4-5,4,#FFFFFF,#000000,4,Ind,North Carolina,black,1911.0,Return
@@ -23759,7 +23766,7 @@ NCAA 64",35,#E87722,#003865,4,Patriot,Pennsylvania,black,2016.0,Return
 1983,ned-fowler-1,Ned Fowler,Tulane,7-5 Metro,19,#FFFFFF,#000000,4,Metro,Louisiana,black,1982.0,Return
 1984,ned-fowler-1,Ned Fowler,Tulane,7-7 Metro,17,#FFFFFF,#000000,4,Metro,Louisiana,black,1982.0,Return
 1985,ned-fowler-1,Ned Fowler,Tulane,6-8 Metro,15,#FFFFFF,#000000,4,Metro,Louisiana,black,1982.0,Scandal
-1986,ned-fowler-1,Ned Fowler,Tulane,Point shaving scandal,0,#FFFFFF,#000000,0,Metro,Louisiana,white,1982.0,Last
+1986,ned-fowler-1,Ned Fowler,Tulane,Scandal,0,#FFFFFF,#000000,0,Metro,Louisiana,white,1982.0,Last
 1958,ned-wulk-1,Ned Wulk,Arizona St.,"8-2 BIAA
 NCAA 24",28,#FFC627,#8C1D40,4,BIAA,Arizona,black,1958.0,Return
 1959,ned-wulk-1,Ned Wulk,Arizona St.,7-4 BIAA,17,#FFFFFF,#000000,4,BIAA,Arizona,black,1958.0,Return
@@ -24034,8 +24041,8 @@ NCAA 32",42,#004371,#FFFFFF,4,MVC,Oklahoma,black,1981.0,Return
 NCAA 64",33,#004371,#FFFFFF,4,MVC,Oklahoma,black,1981.0,Left
 1986,nolan-richardson-1,Nolan Richardson,Tulsa,Arkansas,0,#FFFFFF,#000000,0,MVC,Oklahoma,white,1981.0,Last
 2001,nolan-richardson-2,Nolan Richardson III,Tennessee St.,7-9 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,2001.0,Return
-2002,nolan-richardson-2,Nolan Richardson III,Tennessee St.,7-9 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,2001.0,Scandal
-2003,nolan-richardson-2,Nolan Richardson III,Tennessee St.,Off-court behavior,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2001.0,Last
+2002,nolan-richardson-2,Nolan Richardson III,Tennessee St.,7-9 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,2001.0,Left
+2003,nolan-richardson-2,Nolan Richardson III,Tennessee St.,Conduct,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2001.0,Last
 1919,norbert-keefe-1,Norbert Keefe,Santa Clara,14-1,14,#FFFFFF,#000000,4,Ind,California,black,1919.0,Last
 1942,norm-cooper-1,Norm Cooper,Vanderbilt,3-8 SEC,7,#FFFFFF,#000000,4,SEC,Tennessee,black,1942.0,Return
 1943,norm-cooper-1,Norm Cooper,Vanderbilt,9-7 SEC,10,#FFFFFF,#000000,4,SEC,Tennessee,black,1942.0,Return
@@ -24510,8 +24517,8 @@ NCAA 64",31,#D90400,#FFFFFF,4,AEC,Massachusetts,black,2010.0,Left
 2018,patrick-chambers-2,Patrick Chambers,Penn St.,9-9 B1G,26,#FFFFFF,#000000,4,Big Ten,Pennsylvania,black,2012.0,Return
 2019,patrick-chambers-2,Patrick Chambers,Penn St.,7-13 B1G,14,#FFFFFF,#000000,4,Big Ten,Pennsylvania,black,2012.0,Return
 2020,patrick-chambers-2,Patrick Chambers,Penn St.,"11-9 B1G
-NCAA Lock",36,#001E44,#FFFFFF,4,Big Ten,Pennsylvania,black,2012.0,Scandal
-2021,patrick-chambers-2,Patrick Chambers,Penn St.,Insensitive comments,0,#FFFFFF,#000000,0,Big Ten,Pennsylvania,white,2012.0,Last
+NCAA Lock",36,#001E44,#FFFFFF,4,Big Ten,Pennsylvania,black,2012.0,Left
+2021,patrick-chambers-2,Patrick Chambers,Penn St.,Conduct,0,#FFFFFF,#000000,0,Big Ten,Pennsylvania,white,2012.0,Last
 2018,patrick-ewing-1,Patrick Ewing,Georgetown,5-13 BE,15,#FFFFFF,#000000,4,Big East,D.C.,black,2018.0,Return
 2019,patrick-ewing-1,Patrick Ewing,Georgetown,9-9 BE,19,#FFFFFF,#000000,4,Big East,D.C.,black,2018.0,Return
 2020,patrick-ewing-1,Patrick Ewing,Georgetown,5-13 BE,15,#FFFFFF,#000000,4,Big East,D.C.,black,2018.0,Return
@@ -24640,7 +24647,7 @@ NCAA 64",27,#003594,#FFB81C,4,Big East,Pennsylvania,black,1987.0,Return
 1953,paul-gregory-1,Paul Gregory,Mississippi St.,5-8 SEC,9,#FFFFFF,#000000,4,SEC,Mississippi,black,1948.0,Return
 1954,paul-gregory-1,Paul Gregory,Mississippi St.,5-10 SEC,11,#FFFFFF,#000000,4,SEC,Mississippi,black,1948.0,Return
 1955,paul-gregory-1,Paul Gregory,Mississippi St.,2-12 SEC,6,#FFFFFF,#000000,4,SEC,Mississippi,black,1948.0,Left
-1956,paul-gregory-1,Paul Gregory,Mississippi St.,Baseball focus?,0,#FFFFFF,#000000,0,SEC,Mississippi,white,1948.0,Last
+1956,paul-gregory-1,Paul Gregory,Mississippi St.,Baseball,0,#FFFFFF,#000000,0,SEC,Mississippi,white,1948.0,Last
 1980,paul-hansen-1,,Oklahoma City,Oklahoma St.,0,#FFFFFF,#000000,0,,,white,,Last
 1980,paul-hansen-1,Paul Hansen,Oklahoma St.,4-10 B8,10,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1980.0,Return
 1981,paul-hansen-1,Paul Hansen,Oklahoma St.,8-6 B8,18,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1980.0,Return
@@ -24690,7 +24697,7 @@ NCAA 64",35,#04523C,#FFFFFF,4,MAAC,New York,black,1998.0,Return
 1977,paul-lambert-1,Paul Lambert,Southern Ill.,"8-4 MVC
 Sweet 16",42,#872E3F,#FFFFFF,4,MVC,Illinois,black,1971.0,Return
 1978,paul-lambert-1,Paul Lambert,Southern Ill.,11-5 MVC,17,#FFFFFF,#000000,4,MVC,Illinois,black,1971.0,Left
-1979,paul-lambert-1,Paul Lambert,Southern Ill.,Auburn/ motel fire,0,#FFFFFF,#000000,0,MVC,Illinois,white,1971.0,Last
+1979,paul-lambert-1,Paul Lambert,Southern Ill.,Auburn/ tragedy,0,#FFFFFF,#000000,0,MVC,Illinois,white,1971.0,Last
 1926,paul-landis-1,Paul Landis,Bowling Green,10-3,10,#FFFFFF,#000000,4,Ind,Ohio,black,1926.0,Return
 1927,paul-landis-1,Paul Landis,Bowling Green,12-7,12,#FFFFFF,#000000,4,Ind,Ohio,black,1926.0,Return
 1928,paul-landis-1,Paul Landis,Bowling Green,9-7,9,#FFFFFF,#000000,4,Ind,Ohio,black,1926.0,Return
@@ -24831,7 +24838,7 @@ NCAA 64",38,#8C0B42,#FFFFFF,4,WAC,New Mexico,black,2017.0,Left
 1995,paul-westhead-1,Paul Westhead,George Mason,2-12 CAA,7,#FFFFFF,#000000,4,CAA,Virginia,black,1994.0,Return
 1996,paul-westhead-1,Paul Westhead,George Mason,6-10 CAA,11,#FFFFFF,#000000,4,CAA,Virginia,black,1994.0,Return
 1997,paul-westhead-1,Paul Westhead,George Mason,4-12 CAA,10,#FFFFFF,#000000,4,CAA,Virginia,black,1994.0,Fired
-1998,paul-westhead-1,Paul Westhead,George Mason,Fired?,0,#FFFFFF,#000000,0,CAA,Virginia,white,1994.0,Last
+1998,paul-westhead-1,Paul Westhead,George Mason,Fired,0,#FFFFFF,#000000,0,CAA,Virginia,white,1994.0,Last
 1986,paul-westhead-1,Paul Westhead,LMU (CA),10-4 WCAC,19,#FFFFFF,#000000,4,WCAC,California,black,1986.0,Return
 1987,paul-westhead-1,Paul Westhead,LMU (CA),4-10 WCAC,12,#FFFFFF,#000000,4,WCAC,California,black,1986.0,Return
 1988,paul-westhead-1,Paul Westhead,LMU (CA),"14-0 WCAC
@@ -24935,7 +24942,7 @@ NCAA 32",40,#1C64A4,#FFFFFF,4,MW Coll,Michigan,black,1994.0,Return
 2005,perry-watson-1,Perry Watson,Detroit Mercy,9-7 Hrz,14,#FFFFFF,#000000,4,Horizon,Michigan,black,1994.0,Return
 2006,perry-watson-1,Perry Watson,Detroit Mercy,8-8 Hrz,16,#FFFFFF,#000000,4,Horizon,Michigan,black,1994.0,Return
 2007,perry-watson-1,Perry Watson,Detroit Mercy,6-10 Hrz,11,#FFFFFF,#000000,4,Horizon,Michigan,black,1994.0,Health
-2008,perry-watson-1,Perry Watson,Detroit Mercy,Health problems,0,#FFFFFF,#000000,0,Horizon,Michigan,white,1994.0,Last
+2008,perry-watson-1,Perry Watson,Detroit Mercy,Health,0,#FFFFFF,#000000,0,Horizon,Michigan,white,1994.0,Last
 1967,pete-carril-1,Pete Carril,Lehigh,4-5 MidA,11,#FFFFFF,#000000,4,Mid-Atl,Pennsylvania,black,1967.0,Left
 1968,pete-carril-1,Pete Carril,Lehigh,Princeton,0,#FFFFFF,#000000,0,Mid-Atl,Pennsylvania,white,1967.0,Last
 1968,pete-carril-1,Pete Carril,Princeton,12-3 Ivy,20,#FFFFFF,#000000,4,Ivy,New Jersey,black,1968.0,Return
@@ -25069,7 +25076,7 @@ Runner-up",63,#003262,#FDB515,4,AAWU,California,black,1955.0,Left
 1951,pete-newell-1,Pete Newell,San Francisco,Michigan St.,0,#FFFFFF,#000000,0,Ind,California,white,1947.0,Last
 1958,pete-shands-1,Pete Shands,North Texas,1-13 MVC,3,#FFFFFF,#000000,4,MVC,Texas,black,1958.0,Return
 1959,pete-shands-1,Pete Shands,North Texas,2-12 MVC,6,#FFFFFF,#000000,4,MVC,Texas,black,1958.0,Fired
-1960,pete-shands-1,Pete Shands,North Texas,Fired?,0,#FFFFFF,#000000,0,MVC,Texas,white,1958.0,Last
+1960,pete-shands-1,Pete Shands,North Texas,Fired,0,#FFFFFF,#000000,0,MVC,Texas,white,1958.0,Last
 1999,pete-strickland-1,Pete Strickland,Coastal Carolina,4-6 BSth,7,#FFFFFF,#000000,4,Big South,South Carolina,black,1999.0,Return
 2000,pete-strickland-1,Pete Strickland,Coastal Carolina,7-7 BSth,10,#FFFFFF,#000000,4,Big South,South Carolina,black,1999.0,Return
 2001,pete-strickland-1,Pete Strickland,Coastal Carolina,6-8 BSth,8,#FFFFFF,#000000,4,Big South,South Carolina,black,1999.0,Return
@@ -25214,8 +25221,8 @@ Champion",129,#205C40,#FFFFFF,4,CBA,California,black,1951.0,Return
 Final 4",51,#205C40,#FFFFFF,4,WCAC,California,black,1951.0,Return
 1958,phil-woolpert-1,Phil Woolpert,San Francisco,"12-0 WCAC
 Sweet 16",45,#205C40,#FFFFFF,4,WCAC,California,black,1951.0,Return
-1959,phil-woolpert-1,Phil Woolpert,San Francisco,3-9 WCAC,6,#FFFFFF,#000000,4,WCAC,California,black,1951.0,Health
-1960,phil-woolpert-1,Phil Woolpert,San Francisco,Resigned/injured?,0,#FFFFFF,#000000,0,WCAC,California,white,1951.0,Last
+1959,phil-woolpert-1,Phil Woolpert,San Francisco,3-9 WCAC,6,#FFFFFF,#000000,4,WCAC,California,black,1951.0,Resigned
+1960,phil-woolpert-1,Phil Woolpert,San Francisco,Resigned,0,#FFFFFF,#000000,0,WCAC,California,white,1951.0,Last
 1996,philip-mathews-1,Philip Mathews,San Francisco,8-6 WCC,15,#FFFFFF,#000000,4,WCC,California,black,1996.0,Return
 1997,philip-mathews-1,Philip Mathews,San Francisco,9-5 WCC,16,#FFFFFF,#000000,4,WCC,California,black,1996.0,Return
 1998,philip-mathews-1,Philip Mathews,San Francisco,"7-7 WCC
@@ -25627,7 +25634,7 @@ NCAA 64",30,#006F53,#FFFFFF,4,Mid-Cont,Ohio,black,1988.0,Return
 1994,ralph-underhill-1,Ralph Underhill,Wright St.,9-9 MidC,12,#FFFFFF,#000000,4,Mid-Cont,Ohio,black,1988.0,Return
 1995,ralph-underhill-1,Ralph Underhill,Wright St.,6-8 MCC,13,#FFFFFF,#000000,4,MW Coll,Ohio,black,1988.0,Return
 1996,ralph-underhill-1,Ralph Underhill,Wright St.,8-8 MCC,14,#FFFFFF,#000000,4,MW Coll,Ohio,black,1988.0,Retired
-1997,ralph-underhill-1,Ralph Underhill,Wright St.,Retired?,0,#FFFFFF,#000000,0,MW Coll,Ohio,white,1988.0,Last
+1997,ralph-underhill-1,Ralph Underhill,Wright St.,Retired,0,#FFFFFF,#000000,0,MW Coll,Ohio,white,1988.0,Last
 2000,ralph-willard-1,Ralph Willard,Holy Cross,3-9 Pat,10,#FFFFFF,#000000,4,Patriot,Massachusetts,black,2000.0,Return
 2001,ralph-willard-1,Ralph Willard,Holy Cross,"10-2 Pat
 NCAA 64",32,#602D89,#FFFFFF,4,Patriot,Massachusetts,black,2000.0,Return
@@ -25858,7 +25865,7 @@ NCAA 64",36,#492365,#FFFFFF,4,Big Sky,Utah,black,2007.0,Return
 1963,ray-eddy-1,Ray Eddy,Purdue,2-12 B1G,7,#FFFFFF,#000000,4,Big Ten,Indiana,black,1951.0,Return
 1964,ray-eddy-1,Ray Eddy,Purdue,8-6 B1G,12,#FFFFFF,#000000,4,Big Ten,Indiana,black,1951.0,Return
 1965,ray-eddy-1,Ray Eddy,Purdue,5-9 B1G,12,#FFFFFF,#000000,4,Big Ten,Indiana,black,1951.0,Retired
-1966,ray-eddy-1,Ray Eddy,Purdue,Retired?,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1951.0,Last
+1966,ray-eddy-1,Ray Eddy,Purdue,Retired,0,#FFFFFF,#000000,0,Big Ten,Indiana,white,1951.0,Last
 1926,ray-eklund-1,Ray Eklund,Kentucky,8-0 SoCon,15,#FFFFFF,#000000,4,Southern,Kentucky,black,1926.0,Last
 1921,ray-elder-1,Ray Elder,Northwestern,1-11 B1G,2,#FFFFFF,#000000,4,Big Ten,Illinois,black,1921.0,Last
 1945,ray-farnham-1,Ray Farnham,Cincinnati,8-9,8,#FFFFFF,#000000,4,Ind,Ohio,black,1945.0,Return
@@ -26094,7 +26101,7 @@ Sweet 16",47,#1A75CF,#FFFFFF,4,Ind,Illinois,black,1943.0,Last
 1953,red-laird-1,Red Laird,Virginia Tech,4-13 SoCon,4,#FFFFFF,#000000,4,Southern,Virginia,black,1948.0,Return
 1954,red-laird-1,Red Laird,Virginia Tech,3-14 SoCon,3,#FFFFFF,#000000,4,Southern,Virginia,black,1948.0,Return
 1955,red-laird-1,Red Laird,Virginia Tech,4-16 SoCon,7,#FFFFFF,#000000,4,Southern,Virginia,black,1948.0,Left
-1956,red-laird-1,Red Laird,Virginia Tech,Baseball focus?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1948.0,Last
+1956,red-laird-1,Red Laird,Virginia Tech,Baseball,0,#FFFFFF,#000000,0,Southern,Virginia,white,1948.0,Last
 1952,red-lawson-1,Red Lawson,Georgia,2-14 SEC,3,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Return
 1953,red-lawson-1,Red Lawson,Georgia,4-12 SEC,7,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Return
 1954,red-lawson-1,Red Lawson,Georgia,4-17 SEC,7,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Return
@@ -26109,7 +26116,7 @@ Sweet 16",47,#1A75CF,#FFFFFF,4,Ind,Illinois,black,1943.0,Last
 1963,red-lawson-1,Red Lawson,Georgia,4-12 SEC,9,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Return
 1964,red-lawson-1,Red Lawson,Georgia,8-8 SEC,12,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Return
 1965,red-lawson-1,Red Lawson,Georgia,4-12 SEC,8,#FFFFFF,#000000,4,SEC,Georgia,black,1952.0,Fired
-1966,red-lawson-1,Red Lawson,Georgia,Fired?,0,#FFFFFF,#000000,0,SEC,Georgia,white,1952.0,Last
+1966,red-lawson-1,Red Lawson,Georgia,Fired,0,#FFFFFF,#000000,0,SEC,Georgia,white,1952.0,Last
 1959,red-manning-1,Red Manning,Duquesne,13-11,13,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1959.0,Return
 1960,red-manning-1,Red Manning,Duquesne,8-15,8,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1959.0,Return
 1961,red-manning-1,Red Manning,Duquesne,15-7,15,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1959.0,Return
@@ -26604,7 +26611,7 @@ NCAA 32",44,#DA0000,#FFFFFF,4,MAC,Indiana,black,1988.0,Left
 2011,rick-majerus-1,Rick Majerus,Saint Louis,6-10 A10,12,#FFFFFF,#000000,4,A-10,Missouri,black,2008.0,Return
 2012,rick-majerus-1,Rick Majerus,Saint Louis,"12-4 A10
 NCAA 32",41,#00539C,#FFFFFF,4,A-10,Missouri,black,2008.0,Health
-2013,rick-majerus-1,Rick Majerus,Saint Louis,Heart problems,0,#FFFFFF,#000000,0,A-10,Missouri,white,2008.0,Last
+2013,rick-majerus-1,Rick Majerus,Saint Louis,Health,0,#FFFFFF,#000000,0,A-10,Missouri,white,2008.0,Last
 1991,rick-majerus-1,Rick Majerus,Utah,"15-1 WAC
 Sweet 16",50,#CC0000,#FFFFFF,4,WAC,Utah,black,1991.0,Return
 1992,rick-majerus-1,Rick Majerus,Utah,9-7 WAC,24,#FFFFFF,#000000,4,WAC,Utah,black,1991.0,Return
@@ -26623,14 +26630,14 @@ Runner-up",65,#CC0000,#FFFFFF,4,WAC,Utah,black,1991.0,Return
 NCAA 32",43,#CC0000,#FFFFFF,4,WAC,Utah,black,1991.0,Return
 2000,rick-majerus-1,Rick Majerus,Utah,"10-4 MWC
 NCAA 32",38,#CC0000,#FFFFFF,4,MWC,Utah,black,1991.0,Return
-2001,rick-majerus-1,Rick Majerus,Utah,Health problems,0,#FFFFFF,#000000,0,MWC,Utah,white,1991.0,Return
+2001,rick-majerus-1,Rick Majerus,Utah,Health,0,#FFFFFF,#000000,0,MWC,Utah,white,1991.0,Return
 2002,rick-majerus-1,Rick Majerus,Utah,"10-4 MWC
 NCAA 64",31,#CC0000,#FFFFFF,4,MWC,Utah,black,1991.0,Return
 2003,rick-majerus-1,Rick Majerus,Utah,"11-3 MWC
 NCAA 32",40,#CC0000,#FFFFFF,4,MWC,Utah,black,1991.0,Return
 2004,rick-majerus-1,Rick Majerus,Utah,"9-5 MWC
 NCAA 64",25,#CC0000,#FFFFFF,4,MWC,Utah,black,1991.0,Health
-2005,rick-majerus-1,Rick Majerus,Utah,Health problems,0,#FFFFFF,#000000,0,MWC,Utah,white,1991.0,Last
+2005,rick-majerus-1,Rick Majerus,Utah,Health,0,#FFFFFF,#000000,0,MWC,Utah,white,1991.0,Last
 1979,rick-pitino-1,Rick Pitino,Boston U.,17-9,17,#FFFFFF,#000000,4,Ind,Massachusetts,black,1979.0,Return
 1980,rick-pitino-1,Rick Pitino,Boston U.,6-1 ECAC,21,#FFFFFF,#000000,4,ECACN,Massachusetts,black,1979.0,Return
 1981,rick-pitino-1,Rick Pitino,Boston U.,1-4 ECAC,13,#FFFFFF,#000000,4,ECACN,Massachusetts,black,1979.0,Return
@@ -27044,11 +27051,11 @@ NCAA 64",30,#62A8E5,#FFFFFF,4,SWAC,Louisiana,black,2006.0,Return
 1952,robert-burnett-1,Robert Burnett,Stanford,6-6 PCC,19,#FFFFFF,#000000,4,PCC,California,black,1952.0,Return
 1953,robert-burnett-1,Robert Burnett,Stanford,2-13 PCC,6,#FFFFFF,#000000,4,PCC,California,black,1952.0,Return
 1954,robert-burnett-1,Robert Burnett,Stanford,6-9 PCC,13,#FFFFFF,#000000,4,PCC,California,black,1952.0,Fired
-1955,robert-burnett-1,Robert Burnett,Stanford,Fired?,0,#FFFFFF,#000000,0,PCC,California,white,1952.0,Last
+1955,robert-burnett-1,Robert Burnett,Stanford,Fired,0,#FFFFFF,#000000,0,PCC,California,white,1952.0,Last
 1942,robert-burnett-1,Robert Burnett,Utah St.,3-9 MSAC,6,#FFFFFF,#000000,4,MSAC,Utah,black,1942.0,Last
 1969,robert-cope-1,Robert Cope,Montana,4-11 BSky,9,#FFFFFF,#000000,4,Big Sky,Montana,black,1969.0,Return
 1970,robert-cope-1,Robert Cope,Montana,5-10 BSky,8,#FFFFFF,#000000,4,Big Sky,Montana,black,1969.0,Fired
-1971,robert-cope-1,Robert Cope,Montana,Fired?,0,#FFFFFF,#000000,0,Big Sky,Montana,white,1969.0,Last
+1971,robert-cope-1,Robert Cope,Montana,Fired,0,#FFFFFF,#000000,0,Big Sky,Montana,white,1969.0,Last
 1915,robert-cummings-1,Robert Cummings,Rice,5-1 SWC,8,#FFFFFF,#000000,4,SWC,Texas,black,1915.0,Return
 1916,robert-cummings-1,Robert Cummings,Rice,5-3 SWC,12,#FFFFFF,#000000,4,SWC,Texas,black,1915.0,Return
 1917,robert-cummings-1,Robert Cummings,Rice,10-5,10,#FFFFFF,#000000,4,Ind,Texas,black,1915.0,Last
@@ -27096,7 +27103,7 @@ NCAA 64",30,#62A8E5,#FFFFFF,4,SWAC,Louisiana,black,2006.0,Return
 1985,robert-hopkins-1,Robert Hopkins,Southern U.,"9-5 SWAC
 NCAA 64",29,#62A8E5,#FFFFFF,4,SWAC,Louisiana,black,1985.0,Return
 1986,robert-hopkins-1,Robert Hopkins,Southern U.,11-3 SWAC,19,#FFFFFF,#000000,4,SWAC,Louisiana,black,1985.0,Left
-1987,robert-hopkins-1,Robert Hopkins,Southern U.,Grambling?,0,#FFFFFF,#000000,0,SWAC,Louisiana,white,1985.0,Last
+1987,robert-hopkins-1,Robert Hopkins,Southern U.,Grambling,0,#FFFFFF,#000000,0,SWAC,Louisiana,white,1985.0,Last
 1991,robert-hopkins-1,Robert Hopkins,UMES,3-13 MEAC,5,#FFFFFF,#000000,4,MEAC,Maryland,black,1991.0,Return
 1992,robert-hopkins-1,Robert Hopkins,UMES,2-14 MEAC,3,#FFFFFF,#000000,4,MEAC,Maryland,black,1991.0,Unknown
 1993,robert-hopkins-1,Robert Hopkins,UMES,?,0,#FFFFFF,#000000,0,MEAC,Maryland,white,1991.0,Last
@@ -27192,7 +27199,7 @@ NCAA 64",32,#75263B,#FFFFFF,4,SWAC,Texas,black,1978.0,Return
 1952,robert-morris-1,Robert Morris,Brown,5-15,5,#FFFFFF,#000000,4,Ind,Rhode Island,black,1948.0,Return
 1953,robert-morris-1,Robert Morris,Brown,5-14,5,#FFFFFF,#000000,4,Ind,Rhode Island,black,1948.0,Return
 1954,robert-morris-1,Robert Morris,Brown,4-10 Ivy,13,#FFFFFF,#000000,4,Ivy,Rhode Island,black,1948.0,Fired
-1955,robert-morris-1,Robert Morris,Brown,Fired?,0,#FFFFFF,#000000,0,Ivy,Rhode Island,white,1948.0,Last
+1955,robert-morris-1,Robert Morris,Brown,Fired,0,#FFFFFF,#000000,0,Ivy,Rhode Island,white,1948.0,Last
 1944,robert-murth-1,Robert Murth,Southern California,1-5 PCC,2,#FFFFFF,#000000,4,PCC,California,black,1944.0,Last
 1945,robert-muth-1,Robert Muth,Southern California,2-2 PCC,15,#FFFFFF,#000000,4,PCC,California,black,1945.0,Last
 1975,robert-polk-1,Robert Polk,Rice,2-12 SWC,5,#FFFFFF,#000000,4,SWC,Texas,black,1975.0,Return
@@ -27216,10 +27223,10 @@ NCAA 64",32,#75263B,#FFFFFF,4,SWAC,Texas,black,1978.0,Return
 1956,robert-polk-1,Robert Polk,Vanderbilt,12-3 SEC,19,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
 1957,robert-polk-1,Robert Polk,Vanderbilt,11-4 SEC,17,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
 1958,robert-polk-1,Robert Polk,Vanderbilt,8-7 SEC,14,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
-1959,robert-polk-1,Robert Polk,Vanderbilt,Health problems,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Return
+1959,robert-polk-1,Robert Polk,Vanderbilt,Health,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Return
 1960,robert-polk-1,Robert Polk,Vanderbilt,8-7 SEC,14,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Return
 1961,robert-polk-1,Robert Polk,Vanderbilt,11-4 SEC,19,#FFFFFF,#000000,4,SEC,Tennessee,black,1948.0,Health
-1962,robert-polk-1,Robert Polk,Vanderbilt,Heart problems,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Last
+1962,robert-polk-1,Robert Polk,Vanderbilt,Health,0,#FFFFFF,#000000,0,SEC,Tennessee,white,1948.0,Last
 1910,robert-richardson-1,Robert Richardson,Utah,17-3,17,#FFFFFF,#000000,4,Ind,Utah,black,1910.0,Last
 1936,robert-smith-6,Robert Smith,Furman,12-4,12,#FFFFFF,#000000,4,Ind,South Carolina,black,1936.0,Return
 1937,robert-smith-6,Robert Smith,Furman,3-4 SoCon,8,#FFFFFF,#000000,4,Southern,South Carolina,black,1936.0,Return
@@ -27506,8 +27513,8 @@ NCAA 32",36,#492365,#FFFFFF,4,Big Sky,Utah,black,1992.0,Return
 1997,ron-abegglen-1,Ron Abegglen,Weber St.,9-7 BSky,15,#FFFFFF,#000000,4,Big Sky,Utah,black,1992.0,Return
 1998,ron-abegglen-1,Ron Abegglen,Weber St.,12-4 BSky,14,#FFFFFF,#000000,4,Big Sky,Utah,black,1992.0,Return
 1999,ron-abegglen-1,Ron Abegglen,Weber St.,"13-3 BSky
-NCAA 32",40,#492365,#FFFFFF,4,Big Sky,Utah,black,1992.0,Scandal
-2000,ron-abegglen-1,Ron Abegglen,Weber St.,Behavior issues,0,#FFFFFF,#000000,0,Big Sky,Utah,white,1992.0,Last
+NCAA 32",40,#492365,#FFFFFF,4,Big Sky,Utah,black,1992.0,Left
+2000,ron-abegglen-1,Ron Abegglen,Weber St.,Conduct,0,#FFFFFF,#000000,0,Big Sky,Utah,white,1992.0,Last
 1990,ron-abernathy-1,Ron Abernathy,Tennessee St.,1-10 OVC,7,#FFFFFF,#000000,4,OVC,Tennessee,black,1990.0,Return
 1991,ron-abernathy-1,Ron Abernathy,Tennessee St.,1-11 OVC,5,#FFFFFF,#000000,4,OVC,Tennessee,black,1990.0,Unknown
 1992,ron-abernathy-1,Ron Abernathy,Tennessee St.,?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1990.0,Last
@@ -27568,7 +27575,7 @@ NCAA 64",30,#BC1515,#FFFFFF,4,Big South,Virginia,black,1992.0,Return
 1981,ron-ekker-1,Ron Ekker,Saint Louis,3-9 Metro,9,#FFFFFF,#000000,4,Metro,Missouri,black,1979.0,Return
 1982,ron-ekker-1,Ron Ekker,Saint Louis,1-11 Metro,6,#FFFFFF,#000000,4,Metro,Missouri,black,1979.0,Resigned
 1983,ron-ekker-1,Ron Ekker,Saint Louis,Resigned,0,#FFFFFF,#000000,0,Metro,Missouri,white,1979.0,Last
-1979,ron-ekker-1,,West Texas A&M,Saint Louis?,0,#FFFFFF,#000000,0,,,white,,Last
+1979,ron-ekker-1,,West Texas A&M,Saint Louis,0,#FFFFFF,#000000,0,,,white,,Last
 2007,ron-everhart-1,Ron Everhart,Duquesne,6-10 A10,10,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2007.0,Return
 2008,ron-everhart-1,Ron Everhart,Duquesne,7-9 A10,17,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2007.0,Return
 2009,ron-everhart-1,Ron Everhart,Duquesne,9-7 A10,21,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2007.0,Return
@@ -27876,7 +27883,7 @@ NCAA 25",37,#602D89,#FFFFFF,4,Ind,Massachusetts,black,1956.0,Return
 1949,roy-mcarthur-1,Roy McArthur,Georgia Tech,7-9 SEC,11,#FFFFFF,#000000,4,SEC,Georgia,black,1947.0,Return
 1950,roy-mcarthur-1,Roy McArthur,Georgia Tech,7-9 SEC,14,#FFFFFF,#000000,4,SEC,Georgia,black,1947.0,Return
 1951,roy-mcarthur-1,Roy McArthur,Georgia Tech,6-11 SEC,8,#FFFFFF,#000000,4,SEC,Georgia,black,1947.0,Fired
-1952,roy-mcarthur-1,Roy McArthur,Georgia Tech,Fired?,0,#FFFFFF,#000000,0,SEC,Georgia,white,1947.0,Last
+1952,roy-mcarthur-1,Roy McArthur,Georgia Tech,Fired,0,#FFFFFF,#000000,0,SEC,Georgia,white,1947.0,Last
 1927,roy-mundorff-1,Roy Mundorff,Georgia Tech,8-2 SoCon,17,#FFFFFF,#000000,4,Southern,Georgia,black,1927.0,Return
 1928,roy-mundorff-1,Roy Mundorff,Georgia Tech,10-7,10,#FFFFFF,#000000,4,Southern,Georgia,black,1927.0,Return
 1929,roy-mundorff-1,Roy Mundorff,Georgia Tech,10-2 SoCon,15,#FFFFFF,#000000,4,Southern,Georgia,black,1927.0,Return
@@ -28045,7 +28052,7 @@ Sweet 16",37,#CC3333,#FFFFFF,4,Ivy,New York,black,1947.0,Return
 1957,royner-greene-1,Royner Greene,Cornell,2-12 Ivy,4,#FFFFFF,#000000,4,Ivy,New York,black,1947.0,Return
 1958,royner-greene-1,Royner Greene,Cornell,5-9 Ivy,11,#FFFFFF,#000000,4,Ivy,New York,black,1947.0,Return
 1959,royner-greene-1,Royner Greene,Cornell,4-10 Ivy,8,#FFFFFF,#000000,4,Ivy,New York,black,1947.0,Fired
-1960,royner-greene-1,Royner Greene,Cornell,Fired?,0,#FFFFFF,#000000,0,Ivy,New York,white,1947.0,Last
+1960,royner-greene-1,Royner Greene,Cornell,Fired,0,#FFFFFF,#000000,0,Ivy,New York,white,1947.0,Last
 1926,rs-hayes-1,R.S. Hayes,Wake Forest,13-6,13,#FFFFFF,#000000,4,Ind,North Carolina,black,1926.0,Return
 1931,rs-hayes-1,R.S. Hayes,Wake Forest,8-10,8,#FFFFFF,#000000,4,Ind,North Carolina,black,1931.0,Last
 1927,rube-cashman-1,Rube Cashman,Villanova,11-7,11,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1927.0,Return
@@ -28440,7 +28447,7 @@ NCAA 64",31,#002144,#ECAC00,4,OVC,Kentucky,black,1992.0,Left
 2007,scott-edgar-1,Scott Edgar,Southeast Mo. St.,9-11 OVC,11,#FFFFFF,#000000,4,OVC,Missouri,black,2007.0,Return
 2008,scott-edgar-1,Scott Edgar,Southeast Mo. St.,7-13 OVC,12,#FFFFFF,#000000,4,OVC,Missouri,black,2007.0,Scandal
 2009,scott-edgar-1,Scott Edgar,Southeast Mo. St.,NCAA issues,0,#FFFFFF,#000000,0,OVC,Missouri,white,2007.0,Last
-1953,scott-hamilton-2,,Washington & Lee,Fired?,0,#FFFFFF,#000000,0,,,white,,Last
+1953,scott-hamilton-2,,Washington & Lee,Fired,0,#FFFFFF,#000000,0,,,white,,Last
 2001,scott-hicks-1,Scott Hicks,Loyola Maryland,2-16 MAAC,6,#FFFFFF,#000000,4,MAAC,Maryland,black,2001.0,Return
 2002,scott-hicks-1,Scott Hicks,Loyola Maryland,4-14 MAAC,5,#FFFFFF,#000000,4,MAAC,Maryland,black,2001.0,Return
 2003,scott-hicks-1,Scott Hicks,Loyola Maryland,1-17 MAAC,4,#FFFFFF,#000000,4,MAAC,Maryland,black,2001.0,Return
@@ -28551,7 +28558,7 @@ NCAA 64",34,#002462,#DAC792,4,Summit,Oklahoma,black,2000.0,Return
 1950,scotty-mcdonald-1,Scotty McDonald,LMU (CA),9-17,9,#FFFFFF,#000000,4,Ind,California,black,1950.0,Return
 1951,scotty-mcdonald-1,Scotty McDonald,LMU (CA),14-11,14,#FFFFFF,#000000,4,Ind,California,black,1950.0,Return
 1952,scotty-mcdonald-1,Scotty McDonald,LMU (CA),12-14,12,#FFFFFF,#000000,4,Ind,California,black,1950.0,Fired
-1953,scotty-mcdonald-1,Scotty McDonald,LMU (CA),Fired?,0,#FFFFFF,#000000,0,Ind,California,white,1950.0,Last
+1953,scotty-mcdonald-1,Scotty McDonald,LMU (CA),Fired,0,#FFFFFF,#000000,0,Ind,California,white,1950.0,Last
 1972,scotty-robertson-1,Scotty Robertson,Louisiana Tech,23-3,23,#FFFFFF,#000000,4,Southland,Louisiana,black,1972.0,Return
 1973,scotty-robertson-1,Scotty Robertson,Louisiana Tech,20-6,20,#FFFFFF,#000000,4,Southland,Louisiana,black,1972.0,Return
 1974,scotty-robertson-1,Scotty Robertson,Louisiana Tech,5-3 SL,8,#FFFFFF,#000000,4,Southland,Louisiana,black,1972.0,Left
@@ -28608,7 +28615,7 @@ NCAA 68",26,#054105,#FFFFFF,4,SWAC,Mississippi,black,2009.0,Left
 2015,sean-woods-1,Sean Woods,Morehead St.,10-6 OVC,17,#FFFFFF,#000000,4,OVC,Kentucky,black,2013.0,Return
 2016,sean-woods-1,Sean Woods,Morehead St.,11-5 OVC,23,#FFFFFF,#000000,4,OVC,Kentucky,black,2013.0,Return
 2017,sean-woods-1,Sean Woods,Morehead St.,2-7,2,#FFFFFF,#000000,3,OVC,Kentucky,black,2013.0,Scandal
-2018,sean-woods-1,Sean Woods,Morehead St.,Physical abuse (alleged),0,#FFFFFF,#000000,0,OVC,Kentucky,white,2013.0,Last
+2018,sean-woods-1,Sean Woods,Morehead St.,Conduct (alleged),0,#FFFFFF,#000000,0,OVC,Kentucky,white,2013.0,Last
 2019,sean-woods-1,Sean Woods,Southern U.,6-12 SWAC,7,#FFFFFF,#000000,4,SWAC,Louisiana,black,2019.0,Return
 2020,sean-woods-1,Sean Woods,Southern U.,13-5 SWAC,17,#FFFFFF,#000000,4,SWAC,Louisiana,black,2019.0,Return
 2021,sean-woods-1,Sean Woods,Southern U.,8-6 SWAC,8,#FFFFFF,#000000,4,SWAC,Louisiana,black,2019.0,Return
@@ -28849,7 +28856,7 @@ NCAA 64",29,#003366,#FFFFFF,4,A-Sun,Florida,black,2000.0,Return
 1964,skip-hughes-1,Skip Hughes,Saint Francis (PA),10-14,10,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1954.0,Return
 1965,skip-hughes-1,Skip Hughes,Saint Francis (PA),10-15,10,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1954.0,Return
 1966,skip-hughes-1,Skip Hughes,Saint Francis (PA),8-18,8,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1954.0,Resigned
-1967,skip-hughes-1,Skip Hughes,Saint Francis (PA),Resigned?,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1954.0,Last
+1967,skip-hughes-1,Skip Hughes,Saint Francis (PA),Resigned,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1954.0,Last
 1994,skip-prosser-1,Skip Prosser,Loyola Maryland,"6-8 MAAC
 NCAA 64",27,#00694E,#FFFFFF,4,MAAC,Maryland,black,1994.0,Left
 1995,skip-prosser-1,Skip Prosser,Loyola Maryland,Xavier,0,#FFFFFF,#000000,0,MAAC,Maryland,white,1994.0,Last
@@ -28863,7 +28870,7 @@ Sweet 16",41,#9E7E38,#000000,4,ACC,North Carolina,black,2002.0,Return
 NCAA 32",42,#9E7E38,#000000,4,ACC,North Carolina,black,2002.0,Return
 2006,skip-prosser-1,Skip Prosser,Wake Forest,3-13 ACC,17,#FFFFFF,#000000,4,ACC,North Carolina,black,2002.0,Return
 2007,skip-prosser-1,Skip Prosser,Wake Forest,5-11 ACC,15,#FFFFFF,#000000,4,ACC,North Carolina,black,2002.0,Health
-2008,skip-prosser-1,Skip Prosser,Wake Forest,Heart attack,0,#FFFFFF,#000000,0,ACC,North Carolina,white,2002.0,Last
+2008,skip-prosser-1,Skip Prosser,Wake Forest,Health,0,#FFFFFF,#000000,0,ACC,North Carolina,white,2002.0,Last
 1995,skip-prosser-1,Skip Prosser,Xavier,"14-0 MCC
 NCAA 64",33,#0C2340,#FFFFFF,4,MW Coll,Ohio,black,1995.0,Return
 1996,skip-prosser-1,Skip Prosser,Xavier,8-8 A10,13,#FFFFFF,#000000,4,A-10,Ohio,black,1995.0,Return
@@ -29047,7 +29054,7 @@ Sweet 16",41,#CFB87C,#000000,4,Big 8,Colorado,black,1957.0,Return
 1960,sparky-stalcup-1,Sparky Stalcup,Missouri,5-11 B8,12,#FFFFFF,#000000,4,Big 8,Missouri,black,1947.0,Return
 1961,sparky-stalcup-1,Sparky Stalcup,Missouri,7-10 B8,11,#FFFFFF,#000000,4,Big 8,Missouri,black,1947.0,Return
 1962,sparky-stalcup-1,Sparky Stalcup,Missouri,4-12 B8,9,#FFFFFF,#000000,4,Big 8,Missouri,black,1947.0,Retired
-1963,sparky-stalcup-1,Sparky Stalcup,Missouri,Retired?,0,#FFFFFF,#000000,0,Big 8,Missouri,white,1947.0,Last
+1963,sparky-stalcup-1,Sparky Stalcup,Missouri,Retired,0,#FFFFFF,#000000,0,Big 8,Missouri,white,1947.0,Last
 1943,speed-wilson-1,Speed Wilson,Cornell,6-6 Ivy,7,#FFFFFF,#000000,4,Ivy,New York,black,1943.0,Return
 1944,speed-wilson-1,Speed Wilson,Cornell,2-6 Ivy,9,#FFFFFF,#000000,4,Ivy,New York,black,1943.0,Return
 1945,speed-wilson-1,Speed Wilson,Cornell,4-2 Ivy,12,#FFFFFF,#000000,4,Ivy,New York,black,1943.0,Return
@@ -29086,7 +29093,7 @@ NCAA 64",36,#A50000,#FFFFFF,4,MVC,Illinois,black,1987.0,Return
 1989,stan-albeck-1,Stan Albeck,Bradley,6-7 MVC,13,#FFFFFF,#000000,4,MVC,Illinois,black,1987.0,Return
 1990,stan-albeck-1,Stan Albeck,Bradley,6-8 MVC,11,#FFFFFF,#000000,4,MVC,Illinois,black,1987.0,Return
 1991,stan-albeck-1,Stan Albeck,Bradley,6-10 MVC,8,#FFFFFF,#000000,4,MVC,Illinois,black,1987.0,Retired
-1992,stan-albeck-1,Stan Albeck,Bradley,Retired?,0,#FFFFFF,#000000,0,MVC,Illinois,white,1987.0,Last
+1992,stan-albeck-1,Stan Albeck,Bradley,Retired,0,#FFFFFF,#000000,0,MVC,Illinois,white,1987.0,Last
 1969,stan-albeck-1,Stan Albeck,Denver,2-24,2,#FFFFFF,#000000,4,Ind,Colorado,black,1969.0,Return
 1970,stan-albeck-1,Stan Albeck,Denver,13-11,13,#FFFFFF,#000000,4,Ind,Colorado,black,1969.0,Left
 1971,stan-albeck-1,Stan Albeck,Denver,Denver Rockets,0,#FFFFFF,#000000,0,Ind,Colorado,white,1969.0,Last
@@ -29224,7 +29231,7 @@ NCAA 25",36,#002E5D,#FFFFFF,4,WAC,Utah,black,1950.0,Retired
 1967,stanley-ward-1,Stanley Ward,Brown,3-11 Ivy,10,#FFFFFF,#000000,4,Ivy,Rhode Island,black,1955.0,Return
 1968,stanley-ward-1,Stanley Ward,Brown,4-10 Ivy,9,#FFFFFF,#000000,4,Ivy,Rhode Island,black,1955.0,Return
 1969,stanley-ward-1,Stanley Ward,Brown,1-13 Ivy,3,#FFFFFF,#000000,4,Ivy,Rhode Island,black,1955.0,Fired
-1970,stanley-ward-1,Stanley Ward,Brown,Fired?,0,#FFFFFF,#000000,0,Ivy,Rhode Island,white,1955.0,Last
+1970,stanley-ward-1,Stanley Ward,Brown,Fired,0,#FFFFFF,#000000,0,Ivy,Rhode Island,white,1955.0,Last
 1907,stein-stone-1,Stein Stone,Vanderbilt,6-1,6,#FFFFFF,#000000,4,Ind,Tennessee,black,1907.0,Last
 1975,sterling-holt-1,Sterling Holt,N.C. Central,10-16,10,#FFFFFF,#000000,4,MEAC,North Carolina,black,1975.0,Return
 1976,sterling-holt-1,Sterling Holt,N.C. Central,8-20,8,#FFFFFF,#000000,4,MEAC,North Carolina,black,1975.0,Return
@@ -29397,7 +29404,7 @@ NCAA 64",27,#00274C,#FFCB05,4,Big Ten,Michigan,black,1989.0,Return
 1996,steve-fisher-1,Steve Fisher,Michigan,"10-8 B1G
 NCAA 64",31,#00274C,#FFCB05,4,Big Ten,Michigan,black,1989.0,Return
 1997,steve-fisher-1,Steve Fisher,Michigan,9-9 B1G,24,#FFFFFF,#000000,4,Big Ten,Michigan,black,1989.0,Scandal
-1998,steve-fisher-1,Steve Fisher,Michigan,Ed Martin scandal,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1989.0,Last
+1998,steve-fisher-1,Steve Fisher,Michigan,Scandal,0,#FFFFFF,#000000,0,Big Ten,Michigan,white,1989.0,Last
 2000,steve-fisher-1,Steve Fisher,San Diego St.,0-14 MWC,5,#FFFFFF,#000000,4,MWC,California,black,2000.0,Return
 2001,steve-fisher-1,Steve Fisher,San Diego St.,4-10 MWC,14,#FFFFFF,#000000,4,MWC,California,black,2000.0,Return
 2002,steve-fisher-1,Steve Fisher,San Diego St.,"7-7 MWC
@@ -29861,7 +29868,7 @@ NCAA 64",24,#003399,#FFFFFF,4,Big Sky,Montana,black,1984.0,Return
 1953,stubby-salerno-1,Stubby Salerno,Creighton,11-14,11,#FFFFFF,#000000,4,Ind,Nebraska,black,1953.0,Return
 1954,stubby-salerno-1,Stubby Salerno,Creighton,14-17,14,#FFFFFF,#000000,4,Ind,Nebraska,black,1953.0,Return
 1955,stubby-salerno-1,Stubby Salerno,Creighton,5-14,5,#FFFFFF,#000000,4,Ind,Nebraska,black,1953.0,Fired
-1956,stubby-salerno-1,Stubby Salerno,Creighton,Fired?,0,#FFFFFF,#000000,0,Ind,Nebraska,white,1953.0,Last
+1956,stubby-salerno-1,Stubby Salerno,Creighton,Fired,0,#FFFFFF,#000000,0,Ind,Nebraska,white,1953.0,Last
 1896,student-coaches-1,Student Coaches,Bucknell,1-3,1,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1896.0,Return
 1897,student-coaches-1,Student Coaches,Bucknell,4-1,4,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1896.0,Return
 1898,student-coaches-1,Student Coaches,Bucknell,4-4,4,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1896.0,Return
@@ -29880,7 +29887,8 @@ NCAA 64",24,#003399,#FFFFFF,4,Big Sky,Montana,black,1984.0,Return
 1926,sumner-dole-1,Sumner Dole,UConn,11-3,11,#FFFFFF,#000000,4,Ind,Connecticut,black,1924.0,Return
 1927,sumner-dole-1,Sumner Dole,UConn,9-7,9,#FFFFFF,#000000,4,Ind,Connecticut,black,1924.0,Return
 1931,sumner-dole-1,Sumner Dole,UConn,5-3,5,#FFFFFF,#000000,4,Ind,Connecticut,black,1931.0,Last
-2024,sundance-wicks-1,Sundance Wicks,Green Bay,13-7 Hrz,18,#FFFFFF,#000000,4,Horizon,Wisconsin,black,2024.0,Last
+2024,sundance-wicks-1,Sundance Wicks,Green Bay,13-7 Hrz,18,#FFFFFF,#000000,4,Horizon,Wisconsin,black,2024.0,Left
+2025,sundance-wicks-1,Sundance Wicks,Green Bay,Wyoming,0,#FFFFFF,#000000,0,Horizon,Wisconsin,white,2024.0,Last
 1918,sw-hobbs-1,S.W. Hobbs,Drake,0-10 MVC,2,#FFFFFF,#000000,4,MVC,Iowa,black,1918.0,Last
 2012,sydney-johnson-1,Sydney Johnson,Fairfield,12-6 MAAC,22,#FFFFFF,#000000,4,MAAC,Connecticut,black,2012.0,Return
 2013,sydney-johnson-1,Sydney Johnson,Fairfield,9-9 MAAC,19,#FFFFFF,#000000,4,MAAC,Connecticut,black,2012.0,Return
@@ -30076,7 +30084,7 @@ Sweet 16",44,#0051BA,#FFFFFF,4,Big 8,Kansas,black,1965.0,Return
 1984,ted-owens-1,Ted Owens,Kansas,Fired,0,#FFFFFF,#000000,0,Big 8,Kansas,white,1965.0,Last
 1986,ted-owens-1,Ted Owens,Oral Roberts,5-7 MCC,10,#FFFFFF,#000000,4,MW Coll,Oklahoma,black,1986.0,Return
 1987,ted-owens-1,Ted Owens,Oral Roberts,5-7 MCC,11,#FFFFFF,#000000,4,MW Coll,Oklahoma,black,1986.0,Fired
-1988,ted-owens-1,Ted Owens,Oral Roberts,Fired?,0,#FFFFFF,#000000,0,MW Coll,Oklahoma,white,1986.0,Last
+1988,ted-owens-1,Ted Owens,Oral Roberts,Fired,0,#FFFFFF,#000000,0,MW Coll,Oklahoma,white,1986.0,Last
 1936,ted-petoskey-1,Ted Petoskey,South Carolina,1-6 SoCon,11,#FFFFFF,#000000,4,Southern,South Carolina,black,1936.0,Return
 1937,ted-petoskey-1,Ted Petoskey,South Carolina,7-4 SoCon,13,#FFFFFF,#000000,4,Southern,South Carolina,black,1936.0,Return
 1938,ted-petoskey-1,Ted Petoskey,South Carolina,2-12 SoCon,3,#FFFFFF,#000000,4,Southern,South Carolina,black,1936.0,Return
@@ -30223,7 +30231,7 @@ Sweet 16",39,#512888,#FFFFFF,4,Big 8,Kansas,black,1954.0,Left
 1981,tex-winter-1,Tex Winter,Long Beach St.,9-5 PCAA,15,#FFFFFF,#000000,4,PCAA,California,black,1979.0,Return
 1982,tex-winter-1,Tex Winter,Long Beach St.,7-7 PCAA,12,#FFFFFF,#000000,4,PCAA,California,black,1979.0,Return
 1983,tex-winter-1,Tex Winter,Long Beach St.,6-10 PCAA,13,#FFFFFF,#000000,4,PCAA,California,black,1979.0,Retired
-1984,tex-winter-1,Tex Winter,Long Beach St.,Retired?,0,#FFFFFF,#000000,0,PCAA,California,white,1979.0,Last
+1984,tex-winter-1,Tex Winter,Long Beach St.,Retired,0,#FFFFFF,#000000,0,PCAA,California,white,1979.0,Last
 1952,tex-winter-1,Tex Winter,Marquette,12-14,12,#FFFFFF,#000000,4,Ind,Wisconsin,black,1952.0,Return
 1953,tex-winter-1,Tex Winter,Marquette,13-11,13,#FFFFFF,#000000,4,Ind,Wisconsin,black,1952.0,Left
 1954,tex-winter-1,Tex Winter,Marquette,Kansas St.,0,#FFFFFF,#000000,0,Ind,Wisconsin,white,1952.0,Last
@@ -30232,7 +30240,7 @@ Sweet 16",39,#512888,#FFFFFF,4,Big 8,Kansas,black,1954.0,Left
 1976,tex-winter-1,Tex Winter,Northwestern,7-11 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1974.0,Return
 1977,tex-winter-1,Tex Winter,Northwestern,5-13 B1G,7,#FFFFFF,#000000,4,Big Ten,Illinois,black,1974.0,Return
 1978,tex-winter-1,Tex Winter,Northwestern,4-14 B1G,8,#FFFFFF,#000000,4,Big Ten,Illinois,black,1974.0,Fired
-1979,tex-winter-1,Tex Winter,Northwestern,Fired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1974.0,Last
+1979,tex-winter-1,Tex Winter,Northwestern,Fired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1974.0,Last
 1969,tex-winter-1,Tex Winter,Washington,6-8 P8,13,#FFFFFF,#000000,4,Pac-8,Washington,black,1969.0,Return
 1970,tex-winter-1,Tex Winter,Washington,9-8 P8,17,#FFFFFF,#000000,4,Pac-8,Washington,black,1969.0,Return
 1971,tex-winter-1,Tex Winter,Washington,6-8 P8,15,#FFFFFF,#000000,4,Pac-8,Washington,black,1969.0,Left
@@ -30266,7 +30274,7 @@ NCAA 64",35,#BA0C2F,#FFFFFF,4,Big Ten,Ohio,black,2005.0,Return
 NCAA 32",39,#BA0C2F,#FFFFFF,4,Big Ten,Ohio,black,2005.0,Return
 2016,thad-matta-1,Thad Matta,Ohio St.,11-7 B1G,21,#FFFFFF,#000000,4,Big Ten,Ohio,black,2005.0,Return
 2017,thad-matta-1,Thad Matta,Ohio St.,7-11 B1G,17,#FFFFFF,#000000,4,Big Ten,Ohio,black,2005.0,Health
-2018,thad-matta-1,Thad Matta,Ohio St.,Health problems,0,#FFFFFF,#000000,0,Big Ten,Ohio,white,2005.0,Last
+2018,thad-matta-1,Thad Matta,Ohio St.,Health,0,#FFFFFF,#000000,0,Big Ten,Ohio,white,2005.0,Last
 2002,thad-matta-1,Thad Matta,Xavier,"14-2 A10
 NCAA 32",41,#0C2340,#FFFFFF,4,A-10,Ohio,black,2002.0,Return
 2003,thad-matta-1,Thad Matta,Xavier,"15-1 A10
@@ -30312,7 +30320,7 @@ Elite 8",51,#0C2340,#FFFFFF,4,A-10,Ohio,black,2002.0,Left
 1953,thomas-foley-1,Thomas Foley,Saint Mary's (CA),2-5 CBA,9,#FFFFFF,#000000,4,CBA,California,black,1951.0,Return
 1954,thomas-foley-1,Thomas Foley,Saint Mary's (CA),4-8 CBA,10,#FFFFFF,#000000,4,CBA,California,black,1951.0,Return
 1955,thomas-foley-1,Thomas Foley,Saint Mary's (CA),1-11 CBA,6,#FFFFFF,#000000,4,CBA,California,black,1951.0,Fired
-1956,thomas-foley-1,Thomas Foley,Saint Mary's (CA),Fired?,0,#FFFFFF,#000000,0,CBA,California,white,1951.0,Last
+1956,thomas-foley-1,Thomas Foley,Saint Mary's (CA),Fired,0,#FFFFFF,#000000,0,CBA,California,white,1951.0,Last
 1915,thomas-gill-1,Thomas Gill,North Dakota,7-4,7,#FFFFFF,#000000,4,Ind,North Dakota,black,1915.0,Return
 1916,thomas-gill-1,Thomas Gill,North Dakota,6-5,6,#FFFFFF,#000000,4,Ind,North Dakota,black,1915.0,Return
 1917,thomas-gill-1,Thomas Gill,North Dakota,8-1,8,#FFFFFF,#000000,4,Ind,North Dakota,black,1915.0,Return
@@ -30359,7 +30367,7 @@ Elite 8",51,#0C2340,#FFFFFF,4,A-10,Ohio,black,2002.0,Left
 NCAA 64",30,#033C5A,#FFFFFF,4,A-10,D.C.,black,1999.0,Return
 2000,thomas-penders-1,Tommy Penders,George Washington,9-7 A10,15,#FFFFFF,#000000,4,A-10,D.C.,black,1999.0,Return
 2001,thomas-penders-1,Tommy Penders,George Washington,6-10 A10,14,#FFFFFF,#000000,4,A-10,D.C.,black,1999.0,Scandal
-2002,thomas-penders-1,Tommy Penders,George Washington,Off-court issues,0,#FFFFFF,#000000,0,A-10,D.C.,white,1999.0,Last
+2002,thomas-penders-1,Tommy Penders,George Washington,Scandal,0,#FFFFFF,#000000,0,A-10,D.C.,white,1999.0,Last
 2005,thomas-penders-1,Tommy Penders,Houston,9-7 CUSA,18,#FFFFFF,#000000,4,CUSA,Texas,black,2005.0,Return
 2006,thomas-penders-1,Tommy Penders,Houston,9-5 CUSA,21,#FFFFFF,#000000,4,CUSA,Texas,black,2005.0,Return
 2007,thomas-penders-1,Tommy Penders,Houston,10-6 CUSA,18,#FFFFFF,#000000,4,CUSA,Texas,black,2005.0,Return
@@ -30422,8 +30430,8 @@ NCAA 64",31,#00529B,#FFD204,4,Southland,Louisiana,black,2002.0,Return
 2006,tic-price-1,Tic Price,McNeese,9-7 SL,14,#FFFFFF,#000000,4,Southland,Louisiana,black,2002.0,Fired
 2007,tic-price-1,Tic Price,McNeese,Fired,0,#FFFFFF,#000000,0,Southland,Louisiana,white,2002.0,Last
 1998,tic-price-1,Tic Price,Memphis,12-4 CUSA,17,#FFFFFF,#000000,4,CUSA,Tennessee,black,1998.0,Return
-1999,tic-price-1,Tic Price,Memphis,6-10 CUSA,13,#FFFFFF,#000000,4,CUSA,Tennessee,black,1998.0,Scandal
-2000,tic-price-1,Tic Price,Memphis,Affair with student,0,#FFFFFF,#000000,0,CUSA,Tennessee,white,1998.0,Last
+1999,tic-price-1,Tic Price,Memphis,6-10 CUSA,13,#FFFFFF,#000000,4,CUSA,Tennessee,black,1998.0,Left
+2000,tic-price-1,Tic Price,Memphis,Conduct,0,#FFFFFF,#000000,0,CUSA,Tennessee,white,1998.0,Last
 1995,tic-price-1,Tic Price,New Orleans,13-5 SB,20,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,1995.0,Return
 1996,tic-price-1,Tic Price,New Orleans,"14-4 SB
 NCAA 64",31,#003056,#FFFFFF,4,Sun Belt,Louisiana,black,1995.0,Return
@@ -30491,7 +30499,7 @@ NCAA 64",32,#6F2C3E,#F0AB00,4,MAAC,New York,black,2011.0,Return
 NCAA 64",30,#6F2C3E,#F0AB00,4,MAAC,New York,black,2011.0,Return
 2019,tim-cluess-1,Tim Cluess,Iona,"12-6 MAAC
 NCAA 64",27,#6F2C3E,#F0AB00,4,MAAC,New York,black,2011.0,Health
-2020,tim-cluess-1,Tim Cluess,Iona,Health problems,0,#FFFFFF,#000000,0,MAAC,New York,white,2011.0,Last
+2020,tim-cluess-1,Tim Cluess,Iona,Health,0,#FFFFFF,#000000,0,MAAC,New York,white,2011.0,Last
 1994,tim-cohane-1,Tim Cohane,Buffalo,4-2 ECC,10,#FFFFFF,#000000,4,ECC,New York,black,1994.0,Return
 1995,tim-cohane-1,Tim Cohane,Buffalo,12-6 MidC,18,#FFFFFF,#000000,4,Mid-Cont,New York,black,1994.0,Return
 1996,tim-cohane-1,Tim Cohane,Buffalo,10-8 MidC,13,#FFFFFF,#000000,4,Mid-Cont,New York,black,1994.0,Return
@@ -30829,11 +30837,11 @@ Sweet 16",49,#13294B,#FFFFFF,4,Horizon,Indiana,black,2002.0,Left
 2016,todd-simon-1,Todd Simon,UNLV,8-7 MWC,9,#FFFFFF,#000000,3,,,black,2016.0,Interim
 2017,todd-simon-1,Todd Simon,UNLV,Interim over,0,#FFFFFF,#000000,0,,,white,2016.0,Last
 1989,tom-abatemarco-1,Tom Abatemarco,Drake,6-8 MVC,12,#FFFFFF,#000000,4,MVC,Iowa,black,1989.0,Return
-1990,tom-abatemarco-1,Tom Abatemarco,Drake,5-9 MVC,11,#FFFFFF,#000000,4,MVC,Iowa,black,1989.0,Scandal
-1991,tom-abatemarco-1,Tom Abatemarco,Drake,Player mistreatment,0,#FFFFFF,#000000,0,MVC,Iowa,white,1989.0,Last
+1990,tom-abatemarco-1,Tom Abatemarco,Drake,5-9 MVC,11,#FFFFFF,#000000,4,MVC,Iowa,black,1989.0,Left
+1991,tom-abatemarco-1,Tom Abatemarco,Drake,Conduct,0,#FFFFFF,#000000,0,MVC,Iowa,white,1989.0,Last
 1987,tom-abatemarco-1,Tom Abatemarco,Lamar University,4-6 SL,14,#FFFFFF,#000000,4,Southland,Texas,black,1987.0,Return
 1988,tom-abatemarco-1,Tom Abatemarco,Lamar University,5-5 ASC,20,#FFFFFF,#000000,4,ASC,Texas,black,1987.0,Left
-1989,tom-abatemarco-1,Tom Abatemarco,Lamar University,Drake?,0,#FFFFFF,#000000,0,ASC,Texas,white,1987.0,Last
+1989,tom-abatemarco-1,Tom Abatemarco,Lamar University,Drake,0,#FFFFFF,#000000,0,ASC,Texas,white,1987.0,Last
 1998,tom-abatemarco-1,Tom Abatemarco,Sacramento St.,0-16 BSky,1,#FFFFFF,#000000,4,Big Sky,California,black,1998.0,Return
 1999,tom-abatemarco-1,Tom Abatemarco,Sacramento St.,3-13 BSky,3,#FFFFFF,#000000,4,Big Sky,California,black,1998.0,Return
 2000,tom-abatemarco-1,Tom Abatemarco,Sacramento St.,3-13 BSky,9,#FFFFFF,#000000,4,Big Sky,California,black,1998.0,Unknown
@@ -30906,7 +30914,7 @@ Sweet 16",48,#CE0037,#FFFFFF,4,Ind,Ohio,black,1948.0,Return
 1962,tom-blackburn-1,Tom Blackburn,Dayton,24-6,24,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
 1963,tom-blackburn-1,Tom Blackburn,Dayton,16-10,16,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Return
 1964,tom-blackburn-1,Tom Blackburn,Dayton,15-10,15,#FFFFFF,#000000,4,Ind,Ohio,black,1948.0,Health
-1965,tom-blackburn-1,Tom Blackburn,Dayton,Cancer,0,#FFFFFF,#000000,0,Ind,Ohio,white,1948.0,Last
+1965,tom-blackburn-1,Tom Blackburn,Dayton,Health,0,#FFFFFF,#000000,0,Ind,Ohio,white,1948.0,Last
 1987,tom-brennan-1,Tom Brennan,Vermont,3-15 ECAC,5,#FFFFFF,#000000,4,ECACN,Vermont,black,1987.0,Return
 1988,tom-brennan-1,Tom Brennan,Vermont,2-16 ECAC,3,#FFFFFF,#000000,4,ECACN,Vermont,black,1987.0,Return
 1989,tom-brennan-1,Tom Brennan,Vermont,4-14 NAC,6,#FFFFFF,#000000,4,NAC,Vermont,black,1987.0,Return
@@ -30934,7 +30942,7 @@ NCAA 32",40,#007155,#FFFFFF,4,AEC,Vermont,black,1987.0,Retired
 1984,tom-brennan-1,Tom Brennan,Yale,4-10 Ivy,7,#FFFFFF,#000000,4,Ivy,Connecticut,black,1983.0,Return
 1985,tom-brennan-1,Tom Brennan,Yale,7-7 Ivy,14,#FFFFFF,#000000,4,Ivy,Connecticut,black,1983.0,Return
 1986,tom-brennan-1,Tom Brennan,Yale,7-7 Ivy,13,#FFFFFF,#000000,4,Ivy,Connecticut,black,1983.0,Left
-1987,tom-brennan-1,Tom Brennan,Yale,Vermont?,0,#FFFFFF,#000000,0,Ivy,Connecticut,white,1983.0,Last
+1987,tom-brennan-1,Tom Brennan,Yale,Vermont,0,#FFFFFF,#000000,0,Ivy,Connecticut,white,1983.0,Last
 1990,tom-chapman-1,Tom Chapman,St. Bonaventure,3-15 A10,8,#FFFFFF,#000000,4,A-10,New York,black,1990.0,Return
 1991,tom-chapman-1,Tom Chapman,St. Bonaventure,0-18 A10,5,#FFFFFF,#000000,4,A-10,New York,black,1990.0,Return
 1992,tom-chapman-1,Tom Chapman,St. Bonaventure,3-13 A10,9,#FFFFFF,#000000,4,A-10,New York,black,1990.0,Unknown
@@ -31044,7 +31052,7 @@ Sweet 16",40,#FFCD00,#000000,4,Big Ten,Iowa,black,1987.0,Resigned
 2024,tom-devitt-1,Tom Devitt,Hartford,Interim over,0,#FFFFFF,#000000,0,Ind,Connecticut,white,2023.0,Last
 1969,tom-gola-1,Tom Gola,La Salle,5-0 MidA,23,#FFFFFF,#000000,4,Mid-Atl,Pennsylvania,black,1969.0,Return
 1970,tom-gola-1,Tom Gola,La Salle,4-2 MidA,14,#FFFFFF,#000000,4,Mid-Atl,Pennsylvania,black,1969.0,Retired
-1971,tom-gola-1,Tom Gola,La Salle,Retired?,0,#FFFFFF,#000000,0,Mid-Atl,Pennsylvania,white,1969.0,Last
+1971,tom-gola-1,Tom Gola,La Salle,Retired,0,#FFFFFF,#000000,0,Mid-Atl,Pennsylvania,white,1969.0,Last
 1984,tom-green-1,Tom Green,FDU,10-6 ECAC,17,#FFFFFF,#000000,4,ECACM,New Jersey,black,1984.0,Return
 1985,tom-green-1,Tom Green,FDU,"10-4 ECAC
 NCAA 64",31,#003882,#FFFFFF,4,ECACM,New Jersey,black,1984.0,Return
@@ -31076,7 +31084,7 @@ NCAA 64",30,#003882,#FFFFFF,4,NEC,New Jersey,black,1984.0,Return
 2008,tom-green-1,Tom Green,FDU,4-14 NEC,8,#FFFFFF,#000000,4,NEC,New Jersey,black,1984.0,Return
 2009,tom-green-1,Tom Green,FDU,6-12 NEC,7,#FFFFFF,#000000,4,NEC,New Jersey,black,1984.0,Fired
 2010,tom-green-1,Tom Green,FDU,Fired,0,#FFFFFF,#000000,0,NEC,New Jersey,white,1984.0,Last
-1954,tom-haggerty-1,,Loyola (LA),Health problems,0,#FFFFFF,#000000,0,,,white,,Last
+1954,tom-haggerty-1,,Loyola (LA),Health,0,#FFFFFF,#000000,0,,,white,,Last
 2003,tom-herrion-1,Tom Herrion,Col. of Charleston,13-3 SoCon,25,#FFFFFF,#000000,4,Southern,South Carolina,black,2003.0,Return
 2004,tom-herrion-1,Tom Herrion,Col. of Charleston,11-5 SoCon,20,#FFFFFF,#000000,4,Southern,South Carolina,black,2003.0,Return
 2005,tom-herrion-1,Tom Herrion,Col. of Charleston,10-6 SoCon,18,#FFFFFF,#000000,4,Southern,South Carolina,black,2003.0,Return
@@ -31204,8 +31212,8 @@ NCAA 32",35,#18453B,#FFFFFF,4,Big Ten,Michigan,black,1996.0,Last
 1963,tom-okeefe-1,Tom O'Keefe,Georgetown,13-13,13,#FFFFFF,#000000,4,Ind,D.C.,black,1961.0,Return
 1964,tom-okeefe-1,Tom O'Keefe,Georgetown,15-10,15,#FFFFFF,#000000,4,Ind,D.C.,black,1961.0,Return
 1965,tom-okeefe-1,Tom O'Keefe,Georgetown,13-10,13,#FFFFFF,#000000,4,Ind,D.C.,black,1961.0,Return
-1966,tom-okeefe-1,Tom O'Keefe,Georgetown,16-8,16,#FFFFFF,#000000,4,Ind,D.C.,black,1961.0,Left
-1967,tom-okeefe-1,Tom O'Keefe,Georgetown,Left coaching,0,#FFFFFF,#000000,0,Ind,D.C.,white,1961.0,Last
+1966,tom-okeefe-1,Tom O'Keefe,Georgetown,16-8,16,#FFFFFF,#000000,4,Ind,D.C.,black,1961.0,Resigned
+1967,tom-okeefe-1,Tom O'Keefe,Georgetown,Resigned,0,#FFFFFF,#000000,0,Ind,D.C.,white,1961.0,Last
 1983,tom-oneill-1,Tom O'Neill,Pacific,4-12 PCAA,7,#FFFFFF,#000000,4,PCAA,California,black,1983.0,Return
 1984,tom-oneill-1,Tom O'Neill,Pacific,1-17 PCAA,3,#FFFFFF,#000000,4,PCAA,California,black,1983.0,Return
 1985,tom-oneill-1,Tom O'Neill,Pacific,5-13 PCAA,9,#FFFFFF,#000000,4,PCAA,California,black,1983.0,Return
@@ -31287,7 +31295,7 @@ NCAA 64",23,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,1986.0,Return
 1958,tom-scott-1,Tom Scott,Davidson,4-8 SoCon,9,#FFFFFF,#000000,4,Southern,North Carolina,black,1956.0,Return
 1959,tom-scott-1,Tom Scott,Davidson,2-9 SoCon,9,#FFFFFF,#000000,4,Southern,North Carolina,black,1956.0,Return
 1960,tom-scott-1,Tom Scott,Davidson,0-10 SoCon,5,#FFFFFF,#000000,4,Southern,North Carolina,black,1956.0,Retired
-1961,tom-scott-1,Tom Scott,Davidson,Retired?,0,#FFFFFF,#000000,0,Southern,North Carolina,white,1956.0,Last
+1961,tom-scott-1,Tom Scott,Davidson,Retired,0,#FFFFFF,#000000,0,Southern,North Carolina,white,1956.0,Last
 1947,tom-scott-1,Tom Scott,North Carolina,10-2 SoCon,19,#FFFFFF,#000000,4,Southern,North Carolina,black,1947.0,Return
 1948,tom-scott-1,Tom Scott,North Carolina,11-4 SoCon,20,#FFFFFF,#000000,4,Southern,North Carolina,black,1947.0,Return
 1949,tom-scott-1,Tom Scott,North Carolina,13-5 SoCon,20,#FFFFFF,#000000,4,Southern,North Carolina,black,1947.0,Return
@@ -31405,7 +31413,7 @@ Sweet 16",42,#004488,#FFFFFF,4,Big East,New Jersey,black,1998.0,Return
 1971,tommy-bartlett-1,Tommy Bartlett,Florida,8-10 SEC,11,#FFFFFF,#000000,4,SEC,Florida,black,1967.0,Return
 1972,tommy-bartlett-1,Tommy Bartlett,Florida,4-14 SEC,10,#FFFFFF,#000000,4,SEC,Florida,black,1967.0,Return
 1973,tommy-bartlett-1,Tommy Bartlett,Florida,7-11 SEC,11,#FFFFFF,#000000,4,SEC,Florida,black,1967.0,Fired
-1974,tommy-bartlett-1,Tommy Bartlett,Florida,Fired?,0,#FFFFFF,#000000,0,SEC,Florida,white,1967.0,Last
+1974,tommy-bartlett-1,Tommy Bartlett,Florida,Fired,0,#FFFFFF,#000000,0,SEC,Florida,white,1967.0,Last
 1990,tommy-canterbury-1,,Centenary LA,?,0,#FFFFFF,#000000,0,,,white,,Last
 2013,tommy-dempsey-1,Tommy Dempsey,Binghamton,1-15 AEC,3,#FFFFFF,#000000,4,AEC,New York,black,2013.0,Return
 2014,tommy-dempsey-1,Tommy Dempsey,Binghamton,4-12 AEC,7,#FFFFFF,#000000,4,AEC,New York,black,2013.0,Return
@@ -31549,7 +31557,8 @@ NCAA 64",28,#E57200,#232D4B,4,ACC,Virginia,black,2010.0,Return
 2023,tony-bennett-1,Tony Bennett,Virginia,"15-5 ACC
 NCAA 64",35,#E57200,#232D4B,4,ACC,Virginia,black,2010.0,Return
 2024,tony-bennett-1,Tony Bennett,Virginia,"13-7 ACC
-NCAA 68",28,#E57200,#232D4B,4,ACC,Virginia,black,2010.0,Last
+NCAA 68",28,#E57200,#232D4B,4,ACC,Virginia,black,2010.0,Retired
+2025,tony-bennett-1,Tony Bennett,Virginia,Retired,0,#FFFFFF,#000000,0,ACC,Virginia,white,2010.0,Last
 2007,tony-bennett-1,Tony Bennett,Washington St.,"13-5 P10
 NCAA 32",41,#A60F2D,#FFFFFF,4,Pac-10,Washington,black,2007.0,Return
 2008,tony-bennett-1,Tony Bennett,Washington St.,"11-7 P10
@@ -32081,7 +32090,7 @@ NCAA 25",36,#AA0000,#FFFFFF,4,Ind,Washington,black,1959.0,Resigned
 1955,waldo-fisher-1,Waldo Fisher,Northwestern,7-7 B1G,12,#FFFFFF,#000000,4,Big Ten,Illinois,black,1953.0,Return
 1956,waldo-fisher-1,Waldo Fisher,Northwestern,1-13 B1G,2,#FFFFFF,#000000,4,Big Ten,Illinois,black,1953.0,Return
 1957,waldo-fisher-1,Waldo Fisher,Northwestern,2-12 B1G,6,#FFFFFF,#000000,4,Big Ten,Illinois,black,1953.0,Fired
-1958,waldo-fisher-1,Waldo Fisher,Northwestern,Fired?,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1953.0,Last
+1958,waldo-fisher-1,Waldo Fisher,Northwestern,Fired,0,#FFFFFF,#000000,0,Big Ten,Illinois,white,1953.0,Last
 1922,wallace-wade-1,Wallace Wade,Vanderbilt,8-8,8,#FFFFFF,#000000,4,Ind,Tennessee,black,1922.0,Return
 1923,wallace-wade-1,Wallace Wade,Vanderbilt,2-0 SoCon,16,#FFFFFF,#000000,4,Southern,Tennessee,black,1922.0,Last
 1933,wally-cameron-1,Wally Cameron,San Francisco,10-7,10,#FFFFFF,#000000,4,Ind,California,black,1933.0,Return
@@ -32146,8 +32155,8 @@ NCAA 32",40,#2774AE,#FFD100,4,Pac-10,California,black,1985.0,Return
 1918,walter-mace-1,Walter Mace,Yale,4-6 Ivy,7,#FFFFFF,#000000,4,Ivy,Connecticut,black,1918.0,Return
 1919,walter-mace-1,Walter Mace,Yale,4-2 Ivy,7,#FFFFFF,#000000,4,Ivy,Connecticut,black,1918.0,Last
 2019,walter-mccarty-1,Walter McCarty,Evansville,5-13 MVC,11,#FFFFFF,#000000,4,MVC,Indiana,black,2019.0,Return
-2020,walter-mccarty-1,Walter McCarty,Evansville,9-4,9,#FFFFFF,#000000,3,MVC,Indiana,black,2019.0,Scandal
-2021,walter-mccarty-1,Walter McCarty,Evansville,Off-court behavior,0,#FFFFFF,#000000,0,MVC,Indiana,white,2019.0,Last
+2020,walter-mccarty-1,Walter McCarty,Evansville,9-4,9,#FFFFFF,#000000,3,MVC,Indiana,black,2019.0,Left
+2021,walter-mccarty-1,Walter McCarty,Evansville,Conduct,0,#FFFFFF,#000000,0,MVC,Indiana,white,2019.0,Last
 1950,walter-mcpherson-1,Walter McPherson,San Jose St.,21-7,21,#FFFFFF,#000000,4,Ind,California,black,1950.0,Return
 1951,walter-mcpherson-1,Walter McPherson,San Jose St.,18-12,18,#FFFFFF,#000000,4,Ind,California,black,1950.0,Return
 1952,walter-mcpherson-1,Walter McPherson,San Jose St.,15-10,15,#FFFFFF,#000000,4,Ind,California,black,1950.0,Return
@@ -32175,7 +32184,7 @@ NCAA 32",40,#2774AE,#FFD100,4,Pac-10,California,black,1985.0,Return
 1957,warren-harris-2,Warren Harris,Rutgers,8-15,8,#FFFFFF,#000000,4,Ind,New Jersey,black,1957.0,Return
 1958,warren-harris-2,Warren Harris,Rutgers,7-15,7,#FFFFFF,#000000,4,Ind,New Jersey,black,1957.0,Return
 1959,warren-harris-2,Warren Harris,Rutgers,3-5 MidA,9,#FFFFFF,#000000,4,Mid-Atl,New Jersey,black,1957.0,Fired
-1960,warren-harris-2,Warren Harris,Rutgers,Fired?,0,#FFFFFF,#000000,0,Mid-Atl,New Jersey,white,1957.0,Last
+1960,warren-harris-2,Warren Harris,Rutgers,Fired,0,#FFFFFF,#000000,0,Mid-Atl,New Jersey,white,1957.0,Last
 1967,warren-mitchell-1,Warren Mitchell,William & Mary,8-5 SoCon,14,#FFFFFF,#000000,4,Southern,Virginia,black,1967.0,Return
 1968,warren-mitchell-1,Warren Mitchell,William & Mary,4-10 SoCon,6,#FFFFFF,#000000,4,Southern,Virginia,black,1967.0,Return
 1969,warren-mitchell-1,Warren Mitchell,William & Mary,3-9 SoCon,6,#FFFFFF,#000000,4,Southern,Virginia,black,1967.0,Return
@@ -32398,7 +32407,7 @@ Elite 8",47,#B3A369,#003057,4,SEC,Georgia,black,1952.0,Return
 1971,whack-hyder-1,Whack Hyder,Georgia Tech,23-9,23,#FFFFFF,#000000,4,Ind,Georgia,black,1952.0,Return
 1972,whack-hyder-1,Whack Hyder,Georgia Tech,6-20,6,#FFFFFF,#000000,4,Ind,Georgia,black,1952.0,Return
 1973,whack-hyder-1,Whack Hyder,Georgia Tech,7-18,7,#FFFFFF,#000000,4,Ind,Georgia,black,1952.0,Retired
-1974,whack-hyder-1,Whack Hyder,Georgia Tech,Retired?,0,#FFFFFF,#000000,0,Ind,Georgia,white,1952.0,Last
+1974,whack-hyder-1,Whack Hyder,Georgia Tech,Retired,0,#FFFFFF,#000000,0,Ind,Georgia,white,1952.0,Last
 1918,whitelaw-morrison-1,Whitelaw Morrison,Cincinnati,2-6,2,#FFFFFF,#000000,4,Ind,Ohio,black,1918.0,Last
 1939,whitey-baccus-1,Whitey Baccus,SMU,8-4 SWC,14,#FFFFFF,#000000,4,SWC,Texas,black,1939.0,Return
 1940,whitey-baccus-1,Whitey Baccus,SMU,5-7 SWC,7,#FFFFFF,#000000,4,SWC,Texas,black,1939.0,Return
@@ -32635,7 +32644,7 @@ Sweet 16",40,#8C0029,#FFFFFF,4,WCAC,California,black,1953.0,Unknown
 1950,william-ohara-1,William O'Hara,VMI,2-11 SoCon,4,#FFFFFF,#000000,4,Southern,Virginia,black,1950.0,Return
 1951,william-ohara-1,William O'Hara,VMI,3-11 SoCon,3,#FFFFFF,#000000,4,Southern,Virginia,black,1950.0,Return
 1952,william-ohara-1,William O'Hara,VMI,2-13 SoCon,3,#FFFFFF,#000000,4,Southern,Virginia,black,1950.0,Fired
-1953,william-ohara-1,William O'Hara,VMI,Fired?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1950.0,Last
+1953,william-ohara-1,William O'Hara,VMI,Fired,0,#FFFFFF,#000000,0,Southern,Virginia,white,1950.0,Last
 1910,william-omalley-1,William O'Malley,Dayton,5-6,5,#FFFFFF,#000000,4,Ind,Ohio,black,1910.0,Return
 1911,william-omalley-1,William O'Malley,Dayton,10-0,10,#FFFFFF,#000000,4,Ind,Ohio,black,1910.0,Last
 1924,william-raftery-1,William Raftery,VMI,8-6,8,#FFFFFF,#000000,4,Ind,Virginia,black,1924.0,Return
@@ -32725,7 +32734,7 @@ NCAA 24",24,#033C5A,#FFFFFF,4,Southern,D.C.,black,1950.0,Return
 1963,william-stokes-1,William Stokes,Middle Tenn.,4-8 OVC,9,#FFFFFF,#000000,4,OVC,Tennessee,black,1963.0,Return
 1964,william-stokes-1,William Stokes,Middle Tenn.,5-9 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,1963.0,Return
 1965,william-stokes-1,William Stokes,Middle Tenn.,4-11 OVC,6,#FFFFFF,#000000,4,OVC,Tennessee,black,1963.0,Resigned
-1966,william-stokes-1,William Stokes,Middle Tenn.,Resigned?,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1963.0,Last
+1966,william-stokes-1,William Stokes,Middle Tenn.,Resigned,0,#FFFFFF,#000000,0,OVC,Tennessee,white,1963.0,Last
 1939,william-trautwein-1,William Trautwein,Ohio,12-8,12,#FFFFFF,#000000,4,Ind,Ohio,black,1939.0,Return
 1940,william-trautwein-1,William Trautwein,Ohio,19-6,19,#FFFFFF,#000000,4,Ind,Ohio,black,1939.0,Return
 1941,william-trautwein-1,William Trautwein,Ohio,18-4,18,#FFFFFF,#000000,4,Ind,Ohio,black,1939.0,Return
