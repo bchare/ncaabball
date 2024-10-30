@@ -4,8 +4,8 @@ Abilene Christian,Texas,#4F2170,#,20
 Air Force,Colorado,#003594,#FFFFFF,23
 Akron,Ohio,#041E42,#FFFFFF,24
 Alabama,Alabama,#9E1B32,#FFFFFF,23
-Alabama A&M,Alabama,#A41E4C,#,19
-Alabama St.,Alabama,#F19D17,#,19
+Alabama A&M,Alabama,#61162D,#000000,24
+Alabama St.,Alabama,#C79900,#000000,24
 Alcorn,Mississippi,#512D6D,#FFFFFF,23
 American,D.C.,#10069F,#,20
 App State,North Carolina,#FFCC00,#222222,23
@@ -25,8 +25,8 @@ Bethune-Cookman,Florida,#6F263D,#F2A900,23
 Binghamton,New York,#005A43,#FFFFFF,23
 Boise St.,Idaho,#0033A0,#FFFFFF,23
 Boston College,Massachusetts,#862633,#B29D6C,23
-Boston U.,Massachusetts,#D90400,#,19
-Bowling Green,Ohio,#4F2C1D,#,19
+Boston U.,Massachusetts,#CC0000,#FFFFFF,24
+Bowling Green,Ohio,#FD5000,#FFFFFF,24
 Bradley,Illinois,#A50000,#,20
 Brown,Rhode Island,#ED1C24,#FFFFFF,23
 Bryant,Rhode Island,#826E38,#000000,23
@@ -40,9 +40,9 @@ California,California,#003262,#FDB515,23
 California Baptist,California,#002554,#FFFFFF,23
 Campbell,North Carolina,#EA7125,#FFFFFF,23
 Canisius,New York,#FFBA00,#0C2340,23
-Central Ark.,Arkansas,#53327D,#,19
-Central Conn. St.,Connecticut,#004385,#,19
-Central Mich.,Michigan,#630237,#,19
+Central Ark.,Arkansas,#582C83,#FFFFFF,24
+Central Conn. St.,Connecticut,#205999,#FFFFFF,24
+Central Mich.,Michigan,#6A0032,#FFFFFF,24
 Charleston So.,South Carolina,#002855,#FFFFFF,23
 Charlotte,North Carolina,#005035,#FFFFFF,23
 Chattanooga,Tennessee,#FDB736,#112E51,23
@@ -55,17 +55,17 @@ Col. of Charleston,South Carolina,#660000,#FFFFFF,23
 Colgate,New York,#821019,#FFFFFF,23
 Colorado,Colorado,#CFB87C,#000000,23
 Colorado St.,Colorado,#1E4D2B,#FFFFFF,23
-Columbia,New York,#015289,#,19
+Columbia,New York,#ACCCE6,#003373,24
 Coppin St.,Maryland,#003056,#FFC915,23
-Cornell,New York,#CC3333,#,19
+Cornell,New York,#B31B1B,#FFFFFF,24
 Creighton,Nebraska,#0054A6,#FFFFFF,23
 CSU Bakersfield,California,#005DAB,#,20
-CSUN,California,#C70029,#,19
+CSUN,California,#D22030,#FFFFFF,24
 Dartmouth,New Hampshire,#00693E,#FFFFFF,23
 Davidson,North Carolina,#E51937,#,22
 Dayton,Ohio,#CE0037,#FFFFFF,24
 Delaware,Delaware,#00539F,#,22
-Delaware St.,Delaware,#279FCC,#,19
+Delaware St.,Delaware,#279FCC,#FFFFFF,24
 Denver,Colorado,#BA0C2F,#FFFFFF,23
 DePaul,Illinois,#1A75CF,#,20
 Detroit Mercy,Michigan,#1C64A4,#,20
@@ -74,20 +74,20 @@ Drexel,Pennsylvania,#FFC600,#07294D,23
 Duke,North Carolina,#00539B,#FFFFFF,23
 Duquesne,Pennsylvania,#012169,#FFFFFF,24
 East Carolina,North Carolina,#592A8A,#,20
-Eastern Ill.,Illinois,#0084BE,#,19
+Eastern Ill.,Illinois,#004C97,#FFFFFF,24
 Eastern Ky.,Kentucky,#730B27,#,20
-Eastern Mich.,Michigan,#007C4E,#,19
+Eastern Mich.,Michigan,#046A38,#FFFFFF,24
 Eastern Wash.,Washington,#A10022,#,22
 Elon,North Carolina,#73000A,#B59A57,23
 ETSU,Tennessee,#025BA3,#,20
 Evansville,Indiana,#4C2683,#FFFFFF,23
-Fairfield,Connecticut,#E93337,#,19
+Fairfield,Connecticut,#B3000A,#FFFFFF,24
 FDU,New Jersey,#003882,#FFFFFF,23
 FGCU,Florida,#009569,#,20
 FIU,Florida,#081E3F,#B6862C,24
 Fla. Atlantic,Florida,#003366,#FFFFFF,23
 Florida,Florida,#FA4616,#0021A5,23
-Florida A&M,Florida,#006B25,#,19
+Florida A&M,Florida,#008344,#F4811F,24
 Florida St.,Florida,#782F40,#CEB888,23
 Fordham,New York,#830032,#,20
 Fresno St.,California,#00427A,#,20
@@ -107,23 +107,24 @@ Green Bay,Wisconsin,#006F51,#,20
 Hampton,Virginia,#0067AC,#,20
 Hartford,Connecticut,#DA1A32,#,20
 Harvard,Massachusetts,#C41130,#,20
-Hawaii,Hawaii,#004631,#,19
+Hawaii,Hawaii,#024731,#FFFFFF,24
 High Point,North Carolina,#330072,#FFFFFF,23
 Hofstra,New York,#13579A,#FDC82F,24
 Holy Cross,Massachusetts,#602D89,#,22
 Houston,Texas,#C8102E,#FFFFFF,23
 Houston Christian,Texas,#273A80,#FFFFFF,23
 Howard,D.C.,#003A63,#FFFFFF,23
-Idaho,Idaho,#B58E5B,#,19
-Idaho St.,Idaho,#FF7800,#,19
+Idaho,Idaho,#F1B300,#191919,24
+Idaho St.,Idaho,#F47920,#FFFFFF,24
 Illinois,Illinois,#FF5F05,#13294B,23
-Illinois St.,Illinois,#CA1134,#,19
-Indiana,Indiana,#990000,#EDEBEB,23
-Indiana St.,Indiana,#0046AD,#,19
+Illinois St.,Illinois,#CC0000,#FFFFFF,24
+Indiana,Indiana,#990000,#EDEBEB,24
+Indiana St.,Indiana,#283A97,#FFFFFF,24
 Iona,New York,#6F2C3E,#F0AB00,23
 Iowa,Iowa,#FFCD00,#000000,23
 Iowa St.,Iowa,#C8102E,#F1BE48,23
-IUPUI,Indiana,#990000,#EDEBEB,23
+IU Indy,Indiana,#990000,#EDEBEB,24
+IUPUI,Indiana,#990000,#EDEBEB,99
 Jackson St.,Mississippi,#002147,#FFFFFF,23
 Jacksonville,Florida,#004D40,#FFFFFF,23
 Jacksonville St.,Alabama,#002147,#,20
@@ -153,7 +154,7 @@ Louisville,Kentucky,#AD0000,#FFFFFF,23
 Loyola Chicago,Illinois,#8D0034,#FEBC18,23
 Loyola Maryland,Maryland,#00694E,#,20
 LSU,Louisiana,#461D7C,#,22
-Maine,Maine,#6696BE,#,19
+Maine,Maine,#79BDE8,#003263,24
 Manhattan,New York,#528C39,#,20
 Marist,New York,#D4362A,#,19
 Marquette,Wisconsin,#FFCC00,#003366,23
@@ -163,6 +164,7 @@ Massachusetts,Massachusetts,#9F011A,#,20
 McNeese,Louisiana,#00529B,#FFD204,23
 Memphis,Tennessee,#004991,#FFFFFF,23
 Mercer,Georgia,#F76800,#,20
+Mercyhurst,Pennsylvania,#09584B,#FFFFFF,24
 Merrimack,Massachusetts,#003768,#FFDE00,23
 Miami (FL),Florida,#005030,#FFFFFF,23
 Miami (OH),Ohio,#C3142D,#,20
@@ -194,10 +196,10 @@ New Mexico St.,New Mexico,#8C0B42,#FFFFFF,23
 New Orleans,Louisiana,#003056,#,20
 Niagara,New York,#502D7F,#,19
 Nicholls,Louisiana,#A6192E,#FFFFFF,23
-NIU,Illinois,#B42836,#,19
+NIU,Illinois,#C8102E,#FFFFFF,24
 NJIT,New Jersey,#CC0000,#FFFFFF,23
 Norfolk St.,Virginia,#046546,#,20
-North Ala.,Alabama,#46166B,#,19
+North Ala.,Alabama,#592B8A,#FFFFFF,24
 North Carolina,North Carolina,#4B9CD3,#FFFFFF,23
 North Dakota,North Dakota,#009A44,#,22
 North Dakota St.,North Dakota,#006633,#,22
@@ -243,9 +245,10 @@ Richmond,Virginia,#003256,#,20
 Rider,New Jersey,#9D2235,#FFFFFF,23
 Robert Morris,Pennsylvania,#00214D,#,20
 Rutgers,New Jersey,#CC0033,#,20
-Sacramento St.,California,#005643,#,19
+Sacramento St.,California,#043927,#FFFFFF,24
 Sacred Heart,Connecticut,#A70034,#FFFFFF,23
-Saint Francis (PA),Pennsylvania,#A31100,#,19
+Saint Francis,Pennsylvania,#990000,#FFFFFF,25
+Saint Francis (PA),Pennsylvania,#990000,#FFFFFF,99
 Saint Joseph's,Pennsylvania,#C2071B,#,20
 Saint Louis,Missouri,#00539C,#,20
 Saint Mary's (CA),California,#D80024,#FFFFFF,23
@@ -260,10 +263,10 @@ Santa Clara,California,#690B0B,#,20
 Seattle U,Washington,#AA0000,#FFFFFF,23
 Seton Hall,New Jersey,#004488,#,22
 SFA,Texas,#393996,#,20
-Siena,New York,#04523C,#,19
+Siena,New York,#006B54,#FFFFFF,24
 SIUE,Illinois,#E5182D,#FFFFFF,23
 SMU,Texas,#E32F38,#,20
-South Alabama,Alabama,#EB1E00,#,19
+South Alabama,Alabama,#00205B,#FFFFFF,24
 South Carolina,South Carolina,#73000A,#,22
 South Carolina St.,South Carolina,#7E1812,#,20
 South Dakota,South Dakota,#D21533,#FFFFFF,24
@@ -272,13 +275,13 @@ South Fla.,Florida,#004A36,#,20
 Southeast Mo. St.,Missouri,#C8102E,#000000,23
 Southeastern La.,Louisiana,#1A5632,#FFC629,23
 Southern California,California,#990000,#FFCC00,23
-Southern Ill.,Illinois,#872E3F,#,19
+Southern Ill.,Illinois,#6C0633,#FFFFFF,24
 Southern Ind.,Indiana,#002856,#CF102D,23
 Southern Miss.,Mississippi,#FFAB00,#000000,24
 Southern U.,Louisiana,#62A8E5,#,20
-Southern Utah,Utah,#D8240E,#,19
+Southern Utah,Utah,#E81727,#FFFFFF,24
 St. Bonaventure,New York,#70261D,#,20
-St. Francis Brooklyn,New York,#0060A9,#,19
+St. Francis Brooklyn,New York,#0039A6,#FFFFFF,99
 St. John's (NY),New York,#BA0C2F,#,20
 St. Thomas (MN),Minnesota,#FF0000,#FFFFFF,23
 Stanford,California,#8C1515,#,20
@@ -290,13 +293,13 @@ Tarleton St.,Texas,#4F2D7F,#FFFFFF,23
 TCU,Texas,#4D1979,#FFFFFF,23
 Temple,Pennsylvania,#A80532,#,20
 Tennessee,Tennessee,#FF8200,#FFFFFF,23
-Tennessee St.,Tennessee,#003183,#,19
+Tennessee St.,Tennessee,#00539F,#FFFFFF,24
 Tennessee Tech,Tennessee,#4F2984,#FFDD00,23
 Tex. A&M-Commerce,Texas,#00386C,#F1B20F,23
 Texas,Texas,#BF5700,#FFFFFF,23
 Texas A&M,Texas,#500000,#FFFFFF,23
 Texas Southern,Texas,#75263B,#FFFFFF,23
-Texas St.,Texas,#5A2C34,#,19
+Texas St.,Texas,#501214,#FFFFFF,24
 Texas Tech,Texas,#CC0000,#,22
 The Citadel,South Carolina,#7BADD3,#FFFFFF,23
 Toledo,Ohio,#003E7E,#FFD200,23
@@ -342,19 +345,20 @@ Vermont,Vermont,#007155,#FFFFFF,23
 Villanova,Pennsylvania,#002664,#FFFFFF,23
 Virginia,Virginia,#E57200,#232D4B,23
 Virginia Tech,Virginia,#861F41,#FFFFFF,24
-VMI,Virginia,#C41700,#,19
+VMI,Virginia,#AE122A,#FFFFFF,24
 Wagner,New York,#004331,#FFFFFF,24
 Wake Forest,North Carolina,#9E7E38,#000000,23
 Washington,Washington,#4B2E83,#FFFFFF,23
 Washington St.,Washington,#A60F2D,#FFFFFF,23
 Weber St.,Utah,#492365,#,22
+West Georgia,Georgia,#0065A6,#FFFFFF,24
 West Virginia,West Virginia,#002855,#EAAA00,23
 Western Caro.,North Carolina,#592C88,#C1A875,23
 Western Ill.,Illinois,#663399,#,19
 Western Ky.,Kentucky,#B01E24,#FFFFFF,24
 Western Mich.,Michigan,#7E3E09,#,20
 Wichita St.,Kansas,#FFDB00,#000000,23
-William & Mary,Virginia,#115740,#,19
+William & Mary,Virginia,#115740,#FFFFFF,24
 Winthrop,South Carolina,#660000,#,20
 Wisconsin,Wisconsin,#C5050C,#FFFFFF,23
 Wofford,South Carolina,#886E4C,#000000,23
