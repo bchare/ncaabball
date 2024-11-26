@@ -16,6 +16,8 @@ games = pd.read_csv('ncaab_stats_input_net_2025.csv')
 games['raw_net_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta'])-games['opp_points']/(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
 # games['off_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta']))
 # games['def_eff'] = 100*(games['opp_points']/(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
+games['pts_dif'] = games['points'] - games['opp_points']
+games['avg_pos'] = 0.5*((games['fga']-games['orb']+games['tov']+.475*games['fta'])+(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
 
 # Make dummy variables for each team and opponent
 games_dummy_vars = pd.get_dummies(games[['team', 'opponent', 'hca']])
