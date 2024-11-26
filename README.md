@@ -20,7 +20,9 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 
 Efficiency measures strength (teams at the top win by a lot or lose by a little.) Value measures record (teams at the right have quality wins and few bad losses.)
 
-![Estimated NET Rankings - Top 100](/netscatter/NET%20Scatter%20Top%20100%202024.png)
+![Estimated NET Rankings - Top 100](/netscatter/NET%20Scatter%20Top%20100.png)
+
+![Estimated NET Rankings - ACC](/netscatter/NET%20Scatter%20ACC.png)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
@@ -28,9 +30,9 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 ### FAQ
 
-**How is the NET calculated?**
+**Q: How is the NET calculated?**
 
-There are two regression techniques. Both use the teams and location (home/away/neutral) for inputs. One considers the score and the other doesn't. You can see Python code in the "Code & Data" section.
+A: There are two regression techniques. Both use the teams and location (home/away/neutral) for inputs. One considers the score and the other doesn't. You can see Python code in the "Code & Data" section.
 
 The "Adjusted Net Efficiency" targets the difference in the score per 100 possessions. (Possessions are estimated by the number of field goal attempts minus the number of offensive rebounds plus the number of turnovers plus 0.475 times the number of free throw attempts.) With this method, there is a huge difference between winning by 50 and winning by 1. There is a small difference between winning by 1 and losing by 1. It is adjusted for pace so that winning by 6 points in 60 possessions is equal to winning by 8 points in 80 possessions.
 
@@ -38,17 +40,17 @@ The "Team Value Index" targets whether a team won the game. This is comparable t
 
 For both factors, teams are given a rating between 0-100 based on how they compare to the average. I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team with an Efficiency rating of 90 and a Value rating of 60 would have an overall rating of 84 (90*0.8 + 60*0.2). Or, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13 (10*0.8 + 25*0.2).
 
-**Why is (whatever team) so high or low?**
+**Q: Why is (whatever team) so high or low?**
 
-The NET doesn't have preseason expectations and it doesn't know that some teams are supposed to be better than others. If I tell you, "Team A beat Team B 93-51 and Team C beat Team D 92-89", you would rank Team A the best. But the second that you know that the first game is High Point vs. Coppin State while the second game is Kansas vs. UNC, you'd say that Team C is the best. There is also a big adjustment for home court advantage in the early season considering how many buy games there are. For example, imagine I tell you, "Team 1 wins at home by 30, Team 2 wins at home by 15, Team 3 wins at home by 10, and Team 4 wins at home by 5." These home teams won by an average of 15 points, so you may conclude that playing at home is worth 15 points, so Teams 3 & 4 are actually worse than the teams that they beat. Both of these effects will be a lot more sensible by March when all teams have played dozens of others in various locations.
+A: The NET doesn't have preseason expectations and it doesn't know that some teams are supposed to be better than others. If I tell you, "Team A beat Team B 93-51 and Team C beat Team D 92-89", you would rank Team A the best. But the second that you know that the first game is High Point vs. Coppin State while the second game is Kansas vs. UNC, you'd say that Team C is the best. There is also a big adjustment for home court advantage in the early season considering how many buy games there are. For example, imagine I tell you, "Team 1 wins at home by 30, Team 2 wins at home by 15, Team 3 wins at home by 10, and Team 4 wins at home by 5." These home teams won by an average of 15 points, so you may conclude that playing at home is worth 15 points, so Teams 3 & 4 are actually worse than the teams that they beat. Both of these effects will be a lot more sensible by March when all teams have played dozens of others in various locations.
 
-**What should my team do to have a good NET ranking?**
+**Q: What should my team do to have a good NET ranking?**
 
-Win. Win by a lot. Don't lose. Don’t lose by a lot. If you're winning by a lot at the end of the game, don't make a bad field goal attempt or turnover. It's better to win by 10 in 70 possessions than 71 possessions. I'm not saying that you can't rest your starters or can't play your walk-ons, but every possession counts. It's especially important to do well in non-conference games. For example, if Georgia Tech beats West Georgia and loses to Cincinnati, you can imagine that there's a transfer of credibility from the Atlantic Sun to the ACC, and from the ACC to the Big 12. But if Georgia Tech beats Boston College and loses to Clemson, you can imagine that the credibility gained & lost will recirculate among the 18 teams that are all playing each other.
+A: Win. Win by a lot. Don't lose. Don’t lose by a lot. If you're winning by a lot at the end of the game, don't make a bad field goal attempt or turnover. It's better to win by 10 in 70 possessions than 71 possessions. I'm not saying that you can't rest your starters or can't play your walk-ons, but every possession counts. It's especially important to do well in non-conference games. For example, if Georgia Tech beats West Georgia and loses to Cincinnati, you can imagine that there's a transfer of credibility from the Atlantic Sun to the ACC, and from the ACC to the Big 12. But if Georgia Tech beats Boston College and loses to Clemson, you can imagine that the credibility gained & lost will recirculate among the 18 teams that are all playing each other.
 
-**Can a team manipulate the NET by scheduling bad teams and running up the score?**
+**Q: Can a team manipulate the NET by scheduling bad teams and running up the score?**
 
-Maybe. This will have no benefit to the Value metric. For the Efficiency metric, all the teams will be compared to each other. For example, Iowa State beat Mississippi Valley State by 83-44. You probably think that's a crushing victory and it is. But the NET will think, Iowa State only won by 39 in 74 possessions? That means they're not as good as BYU, who beat the Delta Devils by 44 in 62 possessions. Or Texas, who won by 46 in 64 possessions. Or Missouri, who won by 72 points in 68 possessions! But at least they're way ahead of Kansas State, who stunk with an 18-point win in 66 possessions. However, Mississippi Valley State probably won't lose by the same margins in its conference games, so the high major teams will look better than the SWAC teams.
+A: Maybe. This will have no benefit to the Value metric. For the Efficiency metric, all the teams will be compared to each other. For example, Iowa State beat Mississippi Valley State by 83-44. You probably think that's a crushing victory and it is. But the NET will think, Iowa State only won by 39 in 74 possessions? That means they're not as good as BYU, who beat the Delta Devils by 44 in 62 possessions. Or Texas, who won by 46 in 64 possessions. Or Missouri, who won by 72 points in 68 possessions! But at least they're way ahead of Kansas State, who stunk with an 18-point win in 66 possessions. However, Mississippi Valley State probably won't lose by the same margins in its conference games, so the high major teams will look better than the SWAC teams.
 
 ---
 
