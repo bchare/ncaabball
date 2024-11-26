@@ -38,7 +38,7 @@ The "Adjusted Net Efficiency" targets the difference in the score per 100 posses
 
 The "Team Value Index" targets whether a team won the game. This is comparable to a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams (that beat other teams, and so on.) Each team is assigned a win and a loss against a fictional team so that undefeated or winless teams don't have extremely high or low values.
 
-For both factors, teams are given a rating between 0-100 based on how they compare to the average. I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team with an Efficiency rating of 90 and a Value rating of 60 would have an overall rating of 84 (90*0.8 + 60*0.2). Or, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13 (10*0.8 + 25*0.2).
+For both factors, teams are given a rating between 0-100 based on how they compare to the average. I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team with an Efficiency rating of 90 and a Value rating of 60 would have an overall rating of 84 (90 * 0.8 + 60 * 0.2). Or, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13 (10 * 0.8 + 25 * 0.2).
 
 **Q: Why is (whatever team) so high or low?**
 
