@@ -35,7 +35,7 @@ wab_stats['pythag'] = (wab_stats['off_eff'] ** 11.5) / ((wab_stats['off_eff'] **
 wab_stats['pythag_rank'] = wab_stats['pythag'].rank(ascending=False, method='min').astype(int)
 
 # Need to input the NET rankings
-realnet = pd.read_table('actual_net_selection_2025.txt')
+realnet = pd.read_table('actual_net_20250316.txt')
 wab_stats = wab_stats.merge(realnet[['Team', 'NET Rank']], 
     left_on='team', 
     right_on='Team', 
@@ -84,8 +84,14 @@ wab_results = gamewab.groupby('team')['game_wab'].sum().reset_index().rename(col
 wab_results = wab_results.merge(realnet[['Team', 'WAB']], how='left', left_on='team', right_on='Team').drop('Team', axis=1)
 wab_results['WAB_diff'] = wab_results['Est_WAB'] - wab_results['WAB']
 
+
+
+wab_results = wab_results.sort_values(by=['Est_WAB'], ascending=False)
+wab_results = wab_results.reset_index()
+
+
 # Export results with estimated vs. actual WAB
-wab_results.to_csv('estimated_wab_output_2025.csv', index=False)
+# wab_results.to_csv('estimated_wab_output_2025.csv', index=False)
 
 # Preparing a report of WAB impact per game, sort by team and date
 game_impact_wab = gamewab.sort_values(by=['team', 'date'])
