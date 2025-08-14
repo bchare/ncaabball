@@ -5,7 +5,7 @@ from sklearn import linear_model
 season = 2024
 
 # Read in game stats
-games = pd.read_csv(f'ncaab_stats_input_net_{season}.csv')
+games = pd.read_csv(f'ncaab_stats_input_{season}.csv')
 
 # Subset to games through Selection Sunday
 games = games[games['date'] <= '2024-03-17']
@@ -127,5 +127,6 @@ net_stats['estimated_net'] = net_stats['estimated_net'].astype(int)
 net_stats.insert(0, 'estimated_net', net_stats.pop('estimated_net'))
 
 print(net_stats.to_string(columns=['estimated_net','team','efficiency','value'], index=False))
+
 
 net_stats.to_csv('estimated_net_output.csv', index=False)
