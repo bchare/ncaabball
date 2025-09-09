@@ -94,3 +94,4 @@ net_stats.insert(0, 'estimated_net', net_stats.pop('estimated_net'))
 print(net_stats.to_string(columns=['estimated_net','team','efficiency_rtg','value_rtg'], index=False))
 
 net_stats.to_csv('estimated_net_output.csv', index=False)
+
