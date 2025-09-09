@@ -10,12 +10,15 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 
 ### FAQ
 
-**Q: How is the NET calculated?**
+**Q: What code and data can calculate WAB?**
 
-Python code & input/output data:\
-[Code to estimate NET](/Estimate%20NET.py) (Updated October 2024)\
+[Python code to estimate NET](/Estimate%20NET.py) (Updated October 2024)\
 Input: [2025 game results](/ncaab_stats_input_2025.csv)\
 Output: [Estimated NET on Selection Sunday 2025](/estimated_net_output.csv)
+
+Bonus Output: [2025 NET impact per game](/game_impact_net_2025.txt)
+
+**Q: How is the NET calculated?**
 
 Again, there are two components. Both are calculated with regression techniques.
 
@@ -63,22 +66,26 @@ Win. Win by a lot. Don't lose. Don’t lose by a lot. Avoid bad field goal attem
 
 **Q: Can a team manipulate the NET by scheduling bad teams and running up the score?**
 
-Maybe, but it's usually not that easy. Let's take Iowa State beating Mississippi Valley State 83-44 in November 2024. You probably think that's a dominating victory and it is. But for the NET, it was Iowa State's worst win of the whole season. Here's how:
+Probably not. Well, if you can play like Maryland beating Canisius 108-37, sure, do that. But more often, beating bad teams doesn't really move the needle or it even hurts. There's three reasons:
 
-* The Value metric counts 20% of the NET. The Delta Devils went 1-28 and beating them was basically worthless.
-* The Efficiency metric counts 80% of the NET. Iowa State was 53.2 points per 100 possessions better than Mississippi Valley State, or 48.4 points when adjusted for home court advantage. Well, that's a lot, right? That's better than some teams:
+First, the Value metric counts for 20% of the NET. This metric doesn't use the score and beating a bottom-50 team at home is basically worthless.
 
-* Prairie View beat Mississippi Valley State by only 11.1 points per 100 possessions.
-* Kansas State beat Mississippi Valley State by only 28.6 points per 100 possessions.
-* Ark.-Pine Bluff lost to Mississippi Valley State.
+Second, the Efficiency metric does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (It does help to do well on every possession, on offense and defense.)
 
-But it's worse than several other teams:
+Third, the Efficiency metric adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons.
 
-* Missouri beat Mississippi Valley State by 103.6 points per 100 possessions.
-* Jackson State beat Mississippi Valley State by 78.8 points per 100 possessions.
+* Prairie View beat Mississippi Valley State by 11.1 points per 100 possessions.
+* Kansas State beat Mississippi Valley State by 28.6 points per 100 possessions.
+* **Iowa State beat Mississippi Valley State by 53.2 points per 100 possessions.**
+* Texas Southern beat Mississippi Valley State by 55.0 points per 100 possessions.
+* Tulsa beat Mississippi Valley State by 62.9 points per 100 possessions.
 * North Texas beat Mississippi Valley State by 69.1 points per 100 possessions.
+* Texas beat Mississippi Valley State by 78.3 points per 100 possessions.
+* Jackson State beat Mississippi Valley State by 78.8 points per 100 possessions.
+* LSU beat Mississippi Valley State by 89.0 points per 100 possessions.
+* Missouri beat Mississippi Valley State by 103.6 points per 100 possessions.
 
-By the end of the season, the NET learns that it's not special to crush Mississippi Valley State. Iowa State finished top-10 in the NET despite this game, not because of it.
+Would you call Iowa State a top 10 team because it had the same result that Texas Southern had? Iowa State finished top-10 in the NET despite this game, not because of it.
 
 ### Scatter Plots
 
@@ -94,16 +101,6 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 ---
 
-## Performance Charts
-
-![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
-
-[Code to make performance charts](/Performance%20Charts.py)
-
-See more graphs for coach performance by year hired: [all coaches](/performance_coachhired_full) or [without small conferences or interim coaches](/performance_coachhired_selected).
-
----
-
 ## WAB Estimates 2025
 
 ### Introduction
@@ -114,14 +111,16 @@ The NCAA learned to make WAB from Bart Torvik. Every game has a value based on i
 
 ### FAQ
 
-**Q: How is WAB calculated?**
+**Q: What code and data can calculate WAB?**
 
-Python code & input/output data:\
-[Code to estimate WAB](/Estimate%20WAB.py)\
+[Python code to estimate WAB](/Estimate%20WAB.py)\
 Input: [2025 game results](/ncaab_stats_input_2025.csv)\
 Input: [2025 NET rankings on Selection Sunday](/actual_net_20250316.txt)\
-Output: [2025 Estimated WAB vs. Actual WAB](/estimated_wab_output_2025.csv)\
-Output: [2025 WAB impact per game](/game_impact_wab_2025.txt)
+Output: [2025 Estimated WAB vs. Actual WAB](/estimated_wab_output_2025.csv)
+
+Bonus Output: [2025 WAB impact per game](/game_impact_wab_2025.txt)
+
+**Q: How is WAB calculated?**
 
 The first step is to calculate each team's offensive and defensive efficiencies. This is the number of points per 100 possessions that were scored and allowed, adjusted for the opponent's strength. An elite team may have offense=125 and defense=90. A top-30 team may have offense=120 and defense=95. A bad team may have offense=90 and defense=110. (Note: the NCAA and Bart Torvik calculate efficiency differently. The NCAA counts every game equally. Bart Torvik gives less credit to older games and to blowout wins.)
 
@@ -204,6 +203,18 @@ It's the usual stuff. Have a decent schedule and win games. Take more risk, get 
 There are probably some opportunities to find value. Like, perhaps a home game against George Mason is worth 0.20 WAB. If you think you have a better than 80% chance of winning that game, that's positive value. Or perhaps playing Houston is worth 0.84 at home, 0.90 neutral, and 0.95 away, and you think your chances of beating Houston are 30% at home, 15% neutral, and 5% away. The expected value for that is (0.84 \* 30%) - (0.16 \* 70%) = 0.14 at home, (0.90 \* 15%) - (0.10 \* 85%) = 0.05 neutral, and (0.95 \* 5%) - (0.05 \* 95%) = 0.00 away. So your preference would be to play them at home.
 
 It's probably bad to play teams ranked worse than #300. You get about 0.01 credit for a win and lose 0.99 credit for a loss. A team in the top 200 might be closer to 0.05 credit for a win. That may or may not be a big difference. But note that on Saturday morning before Selection Sunday 2025, when the committee was finalizing their last teams in, North Carolina had a WAB of 0.81 and West Virginia had a WAB of 0.80.
+
+---
+
+## Performance Charts
+
+![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
+
+[Code to make performance charts](/Performance%20Charts.py)
+
+See more graphs for coach performance by year hired: [all coaches](/performance_coachhired_full) or [without small conferences or interim coaches](/performance_coachhired_selected).
+
+---
 
 ## NET Estimates 2024
 
