@@ -13,10 +13,10 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 **Q: What code and data can calculate the NET?**
 
 [Python code to estimate NET](/Estimate_NET.py) (Updated October 2024)\
-Input: [2025 game results](/ncaab_stats_input_2025.csv)\
-Output: [Estimated NET on Selection Sunday 2025](/estimated_net_output.csv)
+Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
+Output: [Estimated NET on Selection Sunday 2025](/2025/estimated_net_output.csv)
 
-Bonus analysis: [2025 NET impact per game](/game_impact_net_2025.txt)
+Bonus analysis: [2025 NET impact per game](/2025/game_impact_net_2025.txt)
 
 **Q: How is the NET calculated?**
 
@@ -121,19 +121,20 @@ The NCAA learned to make WAB from Bart Torvik. Every game has a value based on i
 **Q: What code and data can calculate WAB?**
 
 [Python code to estimate WAB](/Estimate_WAB.py)\
-Input: [2025 game results](/ncaab_stats_input_2025.csv)\
-Input: [2025 NET rankings on Selection Sunday](/actual_net_20250316.txt)\
-Output: [2025 Estimated WAB vs. Actual WAB](/estimated_wab_output_2025.csv)
-Output: [2025 WAB impact per game](/game_impact_wab_2025.txt)
+Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
+Input: [2025 NET rankings on Selection Sunday](/2025/actual_net_20250316.txt)\
+Output: [2025 Estimated WAB vs. Actual WAB](/2025/estimated_wab_output_2025.csv)\
+Output: [2025 WAB impact per game](/2025/game_impact_wab_2025.txt)
 
 **Q: How is WAB calculated?**
 
 The first step is to calculate each team's offensive and defensive efficiencies. This is the number of points per 100 possessions that were scored and allowed, adjusted for the opponent's strength. An elite team may have offense=125 and defense=90. A top-30 team may have offense=120 and defense=95. A bad team may have offense=90 and defense=110. The NCAA and Bart Torvik calculate efficiency differently. The NCAA counts every game equally. Bart Torvik gives less credit to older games and to blowout wins.
 
-Next, use a "Pythagorean expectation" formula to turn the offense and defense into a strength value between 0 and 1.\
-The elite team has a strength of 125^11.5 / (125^11.5 + 90^11.5) = 0.978\
-The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936\
-The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
+Next, use a "Pythagorean expectation" formula to turn the offense and defense into a strength value between 0 and 1.
+
+* The elite team has a strength of 125^11.5 / (125^11.5 + 90^11.5) = 0.978
+* The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936
+* The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
 
 Next, rank teams by this "pythag" strength and decide how to define the "bubble team". Average the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. Using this, perhaps the bubble team has offense=116 and defense=96, so its pythag strength is 116^11.5 / (116^11.5 + 96^11.5) = 0.898.
 
@@ -141,45 +142,42 @@ Then the NCAA assigns the team strengths in order of the NET rankings. For examp
 
 Next, calculate the game's value using your opponent's strength versus the bubble team's strength. This function is called the log5 formula and it has a long history in baseball analytics and other rating systems.\
 game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))\
-Examples:\
-Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.835\
-Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.624\
-Playing against the bad team:    (0.090 \* (1 - 0.898)) / (0.090 \* (1 - 0.898) + 0.898 \* (1 - 0.090)) = 0.011
+
+* Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.835
+* Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.624
+* Playing against the bad team:    (0.090 \* (1 - 0.898)) / (0.090 \* (1 - 0.898) + 0.898 \* (1 - 0.090)) = 0.011
 
 The team earns that value for a win and loses one minus that value for a loss. For example, 0.75 for a win and -0.25 for a loss. Sum every game's value for the team's season total WAB.
 
-A team adds 0.835 to its WAB for beating the elite team, or loses (1 - 0.835) = 0.165 for losing.\
-A team adds 0.624 to its WAB for beating the top-30 team, or loses (1 - 0.624) = 0.376 for losing.\
-A team adds 0.011 to its WAB for beating the bad team, or loses (1 - 0.011) = 0.989 for losing.
+* A team adds 0.835 to its WAB for beating the elite team, or loses (1 - 0.835) = 0.165 for losing.
+* A team adds 0.624 to its WAB for beating the top-30 team, or loses (1 - 0.624) = 0.376 for losing.
+* A team adds 0.011 to its WAB for beating the bad team, or loses (1 - 0.011) = 0.989 for losing.
 
 The above is correct for neutral site games. To account for home court advantage, give a 1.3% advantage to playing at home and a 1.3% disadvantage to playing away. The math looks like this:
 
-The elite team (home) has a strength of (125\*1.013)^11.5 / ((125\*1.013)^11.5 + (90\*0.987)^11.5) = 0.983\
-The elite team (away) has a strength of (125\*0.987)^11.5 / ((125\*0.987)^11.5 + (90\*1.013)^11.5) = 0.970
-
-The top-30 team (home) has a strength of (120\*1.013)^11.5 / ((120\*1.013)^11.5 + (95\*0.987)^11.5) = 0.952\
-The top-30 team (away) has a strength of (120\*0.987)^11.5 / ((120\*0.987)^11.5 + (95\*1.013)^11.5) = 0.916
-
-The bad team (home) has a strength of (90\*1.013)^11.5 / ((90\*1.013)^11.5 + (110\*0.987)^11.5) = 0.118\
-The bad team (away) has a strength of (90\*0.987)^11.5 / ((90\*0.987)^11.5 + (110\*1.013)^11.5) = 0.069
-
-The hypothetical bubble team (home) has a strength of (116\*1.013)^11.5 / ((116\*1.013)^11.5 + (96\*0.987)^11.5) = 0.922\
-The hypothetical bubble team (away) has a strength of (116\*0.987)^11.5 / ((116\*0.987)^11.5 + (96\*1.013)^11.5) = 0.867
+* The elite team (home) has a strength of (125\*1.013)^11.5 / ((125\*1.013)^11.5 + (90\*0.987)^11.5) = 0.983
+* The elite team (away) has a strength of (125\*0.987)^11.5 / ((125\*0.987)^11.5 + (90\*1.013)^11.5) = 0.970
+* The top-30 team (home) has a strength of (120\*1.013)^11.5 / ((120\*1.013)^11.5 + (95\*0.987)^11.5) = 0.952
+* The top-30 team (away) has a strength of (120\*0.987)^11.5 / ((120\*0.987)^11.5 + (95\*1.013)^11.5) = 0.916
+* The bad team (home) has a strength of (90\*1.013)^11.5 / ((90\*1.013)^11.5 + (110\*0.987)^11.5) = 0.118
+* The bad team (away) has a strength of (90\*0.987)^11.5 / ((90\*0.987)^11.5 + (110\*1.013)^11.5) = 0.069
+* The hypothetical bubble team (home) has a strength of (116\*1.013)^11.5 / ((116\*1.013)^11.5 + (96\*0.987)^11.5) = 0.922
+* The hypothetical bubble team (away) has a strength of (116\*0.987)^11.5 / ((116\*0.987)^11.5 + (96\*1.013)^11.5) = 0.867
 
 Reminder: do not consider the strength of the team for which you are calculating the WAB. Use the strength of the hypothetical bubble team against the opponents and adjust both for home and away.
 
-Playing at home against the elite team:  (0.970 \* (1 - 0.922)) / (0.970 \* (1 - 0.922) + 0.922 \* (1 - 0.970)) = 0.732\
-Playing at home against the top-30 team: (0.916 \* (1 - 0.922)) / (0.916 \* (1 - 0.922) + 0.922 \* (1 - 0.916)) = 0.478\
-Playing at home against the bad team:    (0.069 \* (1 - 0.922)) / (0.069 \* (1 - 0.922) + 0.922 \* (1 - 0.069)) = 0.006
+* Playing at home against the elite team:  (0.970 \* (1 - 0.922)) / (0.970 \* (1 - 0.922) + 0.922 \* (1 - 0.970)) = 0.732
+* Playing at home against the top-30 team: (0.916 \* (1 - 0.922)) / (0.916 \* (1 - 0.922) + 0.922 \* (1 - 0.916)) = 0.478
+* Playing at home against the bad team:    (0.069 \* (1 - 0.922)) / (0.069 \* (1 - 0.922) + 0.922 \* (1 - 0.069)) = 0.006
+* Playing on the road against the elite team:  (0.983 \* (1 - 0.867)) / (0.983 \* (1 - 0.867) + 0.867 \* (1 - 0.983)) = 0.900
+* Playing on the road against the top-30 team: (0.952 \* (1 - 0.867)) / (0.952 \* (1 - 0.867) + 0.867 \* (1 - 0.952)) = 0.752
+* Playing on the road against the bad team:    (0.118 \* (1 - 0.867)) / (0.118 \* (1 - 0.867) + 0.867 \* (1 - 0.118)) = 0.020
 
-Playing on the road against the elite team:  (0.983 \* (1 - 0.867)) / (0.983 \* (1 - 0.867) + 0.867 \* (1 - 0.983)) = 0.900\
-Playing on the road against the top-30 team: (0.952 \* (1 - 0.867)) / (0.952 \* (1 - 0.867) + 0.867 \* (1 - 0.952)) = 0.752\
-Playing on the road against the bad team:    (0.118 \* (1 - 0.867)) / (0.118 \* (1 - 0.867) + 0.867 \* (1 - 0.118)) = 0.020
+If you're still struggling with the concept, imagine games that a bubble team would have a 40% chance of winning. For example, a home game against the #15 team, or an away game against the #50 team, or a neutral game against the #33 team. The game values would be 0.6.
 
-If you're still struggling with the concept, imagine games that a bubble team would have a 40% chance of winning. For example, a home game against the #15 team, or an away game against the #50 team, or a neutral game against the #33 team. The game values would be 0.6.\
-If a team plays 10 such games and goes 10-0, its WAB would be 6. (0.6 \* 10)\
-If a team plays 10 such games and goes 0-10, its WAB would be -4. (-0.4 \* 10)\
-If a team plays 10 such games and goes 4-6, its WAB would be 0. (0.6 \* 4 - 0.4 \* 6)
+* If a team plays 10 such games and goes 10-0, its WAB would be 6. (0.6 \* 10)
+* If a team plays 10 such games and goes 0-10, its WAB would be -4. (-0.4 \* 10)
+* If a team plays 10 such games and goes 4-6, its WAB would be 0. (0.6 \* 4 - 0.4 \* 6)
 
 Finally, note that the NCAA only considers division 1 opponents. For Bart Torvik, playing non-D1 teams have basically 0 reward for winning and a -1 penalty for losing.
 
@@ -224,22 +222,22 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ## NET Estimates 2024
 
-[Code to estimate NET](/NET2024/Estimate_NET_2024.py)  (Old 2023-24 version)\
-Input: [2024 game results](/NET2024/ncaab_stats_input_2024.csv)\
-Output: [Estimated NET on Selection Sunday 2024](/NET2024/estimated_net_output.csv)
+[Code to estimate NET](/2024/Estimate_NET_2024.py)  (Old 2023-24 version)\
+Input: [2024 game results](/2024/ncaab_stats_input_2024.csv)\
+Output: [Estimated NET on Selection Sunday 2024](/2024/estimated_net_output.csv)
 
 [Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
 
-![Estimated NET Rankings - Top 100](/NET2024/NET%20Scatter%20Top%20100%202024.png)
+![Estimated NET Rankings - Top 100](/2024/NET%20Scatter%20Top%20100%202024.png)
 
 ---
 
 ## NET Estimates 2023
-[Code to estimate NET](/NET2023/Estimate_NET_2023.py): (Old 2022-23 version)\  
-Input: [2023 game results](/NET2023/ncaab_stats_input_2023.csv)
-Output: [Estimated NET on Selection Sunday 2023](/NET2023/net_estimate_output_selection_sunday_2023.csv): Output, for Selection Sunday 2023.
+[Code to estimate NET](/2023/Estimate_NET_2023.py): (Old 2022-23 version)\  
+Input: [2023 game results](/2023/ncaab_stats_input_2023.csv)
+Output: [Estimated NET on Selection Sunday 2023](/2023/net_estimate_output_selection_sunday_2023.csv): Output, for Selection Sunday 2023.
 
-![Top-50 NET Rankings for Selection Sunday 2023](/NET2023/NET_SS_2023_top50_logos.png)
+![Top-50 NET Rankings for Selection Sunday 2023](/2023/NET_SS_2023_top50_logos.png)
 
 ---
 
