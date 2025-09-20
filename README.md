@@ -147,18 +147,19 @@ Rank teams by this "pythag" strength and decide how to define the "bubble team".
 
 Then the NCAA assigns the team strengths in order of the NET rankings. For example, on Selection Sunday 2025, the top 3 pythag strengths were Duke (0.990), Houston (0.989), and Auburn (0.986). However, the top 3 NET rankings were #1 Duke, #2 Auburn, and #3 Houston. So #1 Duke kept its own strength of 0.990, #2 Auburn got the #2 strength (0.989, from Houston), and #3 Houston got the #3 strength (0.986, from Auburn). Bart Torvik's WAB doesn't use the NET.
 
-Next, calculate the game's value using your opponent's strength versus the bubble team's strength. This function is called the log5 formula and it has a long history in baseball analytics and other rating systems.\
-game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))\
+Next, calculate each game's value using the opponent's strength versus the bubble team's strength. This function is called the log5 formula and it has a long history in baseball analytics and other rating systems.
+
+game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))
 
 * Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.835
 * Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.624
 * Playing against the bad team:    (0.090 \* (1 - 0.898)) / (0.090 \* (1 - 0.898) + 0.898 \* (1 - 0.090)) = 0.011
 
-The team earns that value for a win and loses one minus that value for a loss. For example, 0.75 for a win and -0.25 for a loss. Sum every game's value for the team's season total WAB.
+A team earns that value for a win and loses one minus that value for a loss. Sum every game's value for the team's season total WAB.
 
-* A team adds 0.835 to its WAB for beating the elite team, or loses (1 - 0.835) = 0.165 for losing.
-* A team adds 0.624 to its WAB for beating the top-30 team, or loses (1 - 0.624) = 0.376 for losing.
-* A team adds 0.011 to its WAB for beating the bad team, or loses (1 - 0.011) = 0.989 for losing.
+* A team adds 0.835 to its WAB for beating the elite team, or subtracts (1 - 0.835) = 0.165 for losing.
+* A team adds 0.624 to its WAB for beating the top-30 team, or subtracts (1 - 0.624) = 0.376 for losing.
+* A team adds 0.011 to its WAB for beating the bad team, or subtracts (1 - 0.011) = 0.989 for losing.
 
 The above is correct for neutral site games. To account for home court advantage, give a 1.3% advantage to playing at home and a 1.3% disadvantage to playing away. The math looks like this:
 
@@ -171,26 +172,26 @@ The above is correct for neutral site games. To account for home court advantage
 * The hypothetical bubble team (home) has a strength of (116\*1.013)^11.5 / ((116\*1.013)^11.5 + (96\*0.987)^11.5) = 0.922
 * The hypothetical bubble team (away) has a strength of (116\*0.987)^11.5 / ((116\*0.987)^11.5 + (96\*1.013)^11.5) = 0.867
 
-Reminder: do not consider the strength of the team for which you are calculating the WAB. Use the strength of the hypothetical bubble team against the opponents and adjust both for home and away.
+Reminder: If you want to calculate the WAB for New Mexico, and New Mexico plays Boise State, use the values of Boise State vs. the hypothetical bubble team. Do not consider the strength of New Mexico. Imagine that the hypothetical bubble team is taking the place of New Mexico. Therefore, the hypothetical bubble team is expected to be stronger in home games (in Albuquerque) and weaker in away games (in Boise). And Boise State is expected to be weaker when it is away (in Albuquerque) and stronger at its home (in Boise).
 
 * Playing at home against the elite team:  (0.970 \* (1 - 0.922)) / (0.970 \* (1 - 0.922) + 0.922 \* (1 - 0.970)) = 0.732
-* Playing at home against the top-30 team: (0.916 \* (1 - 0.922)) / (0.916 \* (1 - 0.922) + 0.922 \* (1 - 0.916)) = 0.478
-* Playing at home against the bad team:    (0.069 \* (1 - 0.922)) / (0.069 \* (1 - 0.922) + 0.922 \* (1 - 0.069)) = 0.006
 * Playing on the road against the elite team:  (0.983 \* (1 - 0.867)) / (0.983 \* (1 - 0.867) + 0.867 \* (1 - 0.983)) = 0.900
+* Playing at home against the top-30 team: (0.916 \* (1 - 0.922)) / (0.916 \* (1 - 0.922) + 0.922 \* (1 - 0.916)) = 0.478
 * Playing on the road against the top-30 team: (0.952 \* (1 - 0.867)) / (0.952 \* (1 - 0.867) + 0.867 \* (1 - 0.952)) = 0.752
+* Playing at home against the bad team:    (0.069 \* (1 - 0.922)) / (0.069 \* (1 - 0.922) + 0.922 \* (1 - 0.069)) = 0.006
 * Playing on the road against the bad team:    (0.118 \* (1 - 0.867)) / (0.118 \* (1 - 0.867) + 0.867 \* (1 - 0.118)) = 0.020
 
-If you're still struggling with the concept, imagine games that a bubble team would have a 40% chance of winning. For example, a home game against the #15 team, or an away game against the #50 team, or a neutral game against the #33 team. The game values would be 0.6.
+Again, to get a team's total WAB, add together all of their game values and subtract the number of losses. If you're still struggling with the concept, imagine some games that a bubble team would have a 40% chance of winning. For example, a home game against the #15 team, an away game against the #50 team, or a neutral game against the #33 team. The game value would be 0.6 for each such game.
 
-* If a team plays 10 such games and goes 10-0, its WAB would be 6. (0.6 \* 10)
-* If a team plays 10 such games and goes 0-10, its WAB would be -4. (-0.4 \* 10)
-* If a team plays 10 such games and goes 4-6, its WAB would be 0. (0.6 \* 4 - 0.4 \* 6)
+* If a team plays 10 of these games and goes 10-0, its WAB would be 6. (0.6 \* 10)
+* If a team plays 10 of these games and goes 0-10, its WAB would be -4. (-0.4 \* 10)
+* If a team plays 10 of these games and goes 4-6, its WAB would be 0. (0.6 \* 4 - 0.4 \* 6)
 
 Finally, note that the NCAA only considers division 1 opponents. For Bart Torvik, playing non-D1 teams have basically 0 reward for winning and a -1 penalty for losing.
 
 **Q: How accurate are these calculations?**
 
-For 2025 Selection Sunday:
+For Selection Sunday 2025:
 * I nailed the WAB for Houston at 10.66, for Creighton at 2.69, and for Butler at -6.40.
 * All teams had an estimated WAB value to be accurate within 0.50.
 * 341 of 364 were accurate within 0.25.
