@@ -24,7 +24,7 @@ There are two components. Both are calculated with regression techniques.
 
 The "Adjusted Net Efficiency" looks at the difference in the score per 100 possessions. (Possessions are estimated by the number of field goal attempts minus the number of offensive rebounds plus the number of turnovers plus 0.475 times the number of free throw attempts.) There is a **big** difference between winning by 50 and winning by 1. There is a **small** difference between winning by 1 and losing by 1. Winning by 6 points in 60 possessions is equal to winning by 8 points in 80 possessions.
 
-The "Team Value Index" looks at which team won the game. It considers how all teams have won or lost against all other teams. This is comparable to a popular ranking method called a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams. This is not a shallow calculation of winning percentage like the RPI had. Each game affects every team.
+The "Team Value Index" looks at which team won the game. It considers how all teams have won or lost against all other teams. This is comparable to a popular ranking method called a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams. This is not a shallow calculation of winning percentage like the RPI had. Every game affects all 360+ teams.
 
 I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13.
 
@@ -37,19 +37,19 @@ For the 2024-25 season:
 
 **Q: Why is (some team) ranked so high or low?**
 
-The NET mostly makes sense by the end of the season. In November-December, there's a conflict when humans have preseason expectations and the NET does not. For example, imagine that 2 games have been played and these are the results:
+The NET mostly makes sense by the end of the season. In November-December, there's a conflict where humans have preseason expectations and the NET does not. For example, imagine that only 2 games have been played and these are the results:
 
-* Team A beat Team B 93-51.
-* Team C beat Team D 92-89.
+* Team 1 beat Team 2, 93-51.
+* Team 3 beat Team 4, 92-89.
 
-You would probably rank these, from best to worst: Team A, Team C, Team D, Team B. Now see this:
+You would probably rank Team 1 the best, then Team 3, then Team 4, and last Team 2. Now see this:
 
-* Team A (High Point) beat Team B (Coppin State) 93-51.
-* Team C (Kansas) beat Team D (UNC) 92-89.
+* Team 1 (High Point) beat Team 2 (Coppin State), 93-51.
+* Team 3 (Kansas) beat Team 4 (UNC), 92-89.
 
-And you probably think "Oh, Kansas and UNC! They're better than High Point and Coppin State." The NET doesn't do that.
+And you think "Oh, Kansas and UNC! They must be better than High Point and Coppin State." The NET doesn't do that.
 
-Also, due to buy games, there's a big adjustment for home court advantage in the early season. For example, imagine that these 3 games have happened:
+Also, due to buy games, there's a big adjustment for home court advantage early in the season. For example, imagine that only these 3 games have happened:
 
 * Team A (home) beat Team B by 28.
 * Team C (home) beat Team D by 10.
@@ -112,7 +112,7 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 ### Introduction
 
-Wins Above Bubble (“WAB”) is a measure of a college basketball team's performance. It is the number of wins that a team actually has, minus the expected number of wins for a bubble team playing the same schedule. For example, if Clemson is 23-7 and you would expect the 45th-strongest team to be 20-10 with Clemson's schedule, Clemson's WAB would be 3.
+Wins Above Bubble (“WAB”) is a measure of a college basketball team's performance. It is the number of wins that a team actually has, minus the number of wins that you would expect a bubble team to have if they played the same schedule. For example, if Clemson is 23-7 and you would expect the 45th-strongest team to be 20-10 with Clemson's schedule, Clemson's WAB would be 3.
 
 The NCAA learned to make WAB from Bart Torvik. Every game has a value based on its difficulty. For example, a win against a good team would add 0.80 to your WAB and a loss would subtract 0.20. A win against a bubble team would add 0.50 to your WAB and a loss would subtract 0.50. A win against a bad team would add 0.01 to your WAB and a loss would subtract 0.99.
 
@@ -128,15 +128,22 @@ Output: [2025 WAB impact per game](/2025/game_impact_wab_2025.txt)
 
 **Q: How is WAB calculated?**
 
-The first step is to calculate each team's offensive and defensive efficiencies. This is the number of points per 100 possessions that were scored and allowed, adjusted for the opponent's strength. An elite team may have offense=125 and defense=90. A top-30 team may have offense=120 and defense=95. A bad team may have offense=90 and defense=110. The NCAA and Bart Torvik calculate efficiency differently. The NCAA counts every game equally. Bart Torvik gives less credit to older games and to blowout wins.
+The first step is to calculate each team's offensive and defensive efficiencies. This is the number of points per 100 possessions that were scored and allowed, adjusted for the opponent's strength. The NCAA and Bart Torvik calculate efficiency differently. The NCAA counts every game equally. Bart Torvik gives less credit to older games and to blowout wins.
 
-Next, use a "Pythagorean expectation" formula to turn the offense and defense into a strength value between 0 and 1.
+* An example elite team has offense=125 and defense=90
+* An example top-30 team has offense=120 and defense=95
+* An example bad team has offense=90 and defense=110
+
+Use a "Pythagorean expectation" formula to make a strength value between 0 and 1.
 
 * The elite team has a strength of 125^11.5 / (125^11.5 + 90^11.5) = 0.978
 * The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936
 * The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
 
-Next, rank teams by this "pythag" strength and decide how to define the "bubble team". Average the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. Using this, perhaps the bubble team has offense=116 and defense=96, so its pythag strength is 116^11.5 / (116^11.5 + 96^11.5) = 0.898.
+Rank teams by this "pythag" strength and decide how to define the "bubble team". Average the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. Perhaps the result of this is:
+
+* The hypothetical bubble team has offense=116 and defense=96
+* The hypothetical bubble team has a strength of 116^11.5 / (116^11.5 + 96^11.5) = 0.898
 
 Then the NCAA assigns the team strengths in order of the NET rankings. For example, on Selection Sunday 2025, the top 3 pythag strengths were Duke (0.990), Houston (0.989), and Auburn (0.986). However, the top 3 NET rankings were #1 Duke, #2 Auburn, and #3 Houston. So #1 Duke kept its own strength of 0.990, #2 Auburn got the #2 strength (0.989, from Houston), and #3 Houston got the #3 strength (0.986, from Auburn). Bart Torvik's WAB doesn't use the NET.
 
