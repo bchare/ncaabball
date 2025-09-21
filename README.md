@@ -94,13 +94,15 @@ Third, the Efficiency metric adjusts for opponent quality. Consider Iowa State b
 
 You wouldn't call Iowa State a top 10 team because it had a worse result than Texas Southern had. Iowa State finished #9 in the NET despite this game, not because of it.
 
+**Q: Is the NET a good way to measure that a team deserves to be in the NCAA Tournament?**
+
+The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, loses by 1 at Kentucky, and loses by 1 at UConn. A strength metric would say "They're good because an average team wouldn't be so close in those games." A resume metric would say "They're bad because they went 0-4." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
+
 ### NET Scatter Plots
 
 Efficiency measures strength (teams at the top win by a lot.) Value measures record (teams at the right have quality wins.)
 
 ![Estimated NET Rankings - Top 100](/netscatter/NET%20Scatter%20Top%20100.png)
-
-![Estimated NET Rankings - ACC](/netscatter/NET%20Scatter%20ACC.png)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
