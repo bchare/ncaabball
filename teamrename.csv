@@ -48,20 +48,16 @@ Arkansas,Arkansas
 Arkansas St,Arkansas St.
 Arkansas St.,Arkansas St.
 Arkansas State,Arkansas St.
-Armstrong,Armstrong
 Army,Army West Point
 Army West Point,Army West Point
 Auburn,Auburn
-Augusta State,Augusta State
 Austin Peay,Austin Peay
 Ball St,Ball St.
 Ball St.,Ball St.
 Ball State,Ball St.
-Baltimore,Baltimore
 Baylor,Baylor
 Bellarmine,Bellarmine
 Belmont,Belmont
-Beloit,Beloit
 Bethune Cookman,Bethune-Cookman
 Bethune-Cookman,Bethune-Cookman
 Binghamton,Binghamton
@@ -144,6 +140,7 @@ Coastal Carolina,Coastal Carolina
 Charleston,Col. of Charleston
 Col Charleston,Col. of Charleston
 Col. of Charleston,Col. of Charleston
+Coll of Charleston,Col. of Charleston
 College of Charleston,Col. of Charleston
 Colgate,Colgate
 Colorado,Colorado
@@ -186,6 +183,7 @@ Duke,Duke
 Duquesne,Duquesne
 East Carolina,East Carolina
 ECU,East Carolina
+East Texas A&amp;M,East Texas A&M
 East Texas A&M,East Texas A&M
 Tex. A&M-Commerce,East Texas A&M
 Texas A&amp;M-Commerce,East Texas A&M
@@ -211,6 +209,7 @@ E. Washington,Eastern Wash.
 Eastern Wash.,Eastern Wash.
 Eastern Washington,Eastern Wash.
 Elon,Elon
+E. Tennessee State,ETSU
 East Tennessee St.,ETSU
 East Tennessee State,ETSU
 ETSU,ETSU
@@ -275,6 +274,7 @@ Harvard,Harvard
 Hawaii,Hawaii
 Hawai'i,Hawaii
 High Point,High Point
+High Pt,High Point
 Hofstra,Hofstra
 Holy Cross,Holy Cross
 Houston,Houston
@@ -379,6 +379,8 @@ McNeese,McNeese
 McNeese St,McNeese
 McNeese St.,McNeese
 McNeese State,McNeese
+McNese State,McNeese
+McNesse St,McNeese
 Memphis,Memphis
 Mercer,Mercer
 Merchant Marine Academy,Merchant Marine
@@ -400,7 +402,9 @@ Middle Tennessee,Middle Tenn.
 MTSU,Middle Tenn.
 Milwaukee,Milwaukee
 WI Milwaukee,Milwaukee
+Wisconsin-Milwaukee,Milwaukee
 Minnesota,Minnesota
+Miss State,Mississippi St.
 Miss. St.,Mississippi St.
 Mississippi St,Mississippi St.
 Mississippi St.,Mississippi St.
@@ -429,8 +433,13 @@ Morgan St,Morgan St.
 Morgan St.,Morgan St.
 Morgan State,Morgan St.
 Morris Brown,Morris Brown
+Mount Saint Mary’s,Mount St. Mary's
+Mount St Mary’s,Mount St. Mary's
+Mount St. Mary’s,Mount St. Mary's
 Mount St. Mary's,Mount St. Mary's
 Mt St Mary's,Mount St. Mary's
+Mt. St. Mary’s,Mount St. Mary's
+Mt. St. Marys,Mount St. Mary's
 Mt. St. Mary's,Mount St. Mary's
 Muhlenburg,Muhlenburg
 Murray St,Murray St.
@@ -451,6 +460,7 @@ Nebraska,Nebraska
 Nevada,Nevada
 New Hampshire,New Hampshire
 UNH,New Hampshire
+New Haven,New Haven
 New Mexico,New Mexico
 New Mexico St,New Mexico St.
 New Mexico St.,New Mexico St.
@@ -495,6 +505,7 @@ Northern Colo.,Northern Colo.
 Northern Colorado,Northern Colo.
 N Kentucky,Northern Ky.
 N. Kentucky,Northern Ky.
+No. Kentucky,Northern Ky.
 Northern Kentucky,Northern Ky.
 Northern Ky.,Northern Ky.
 Northwestern,Northwestern
@@ -570,7 +581,9 @@ Sacramento State,Sacramento St.
 Sacred Heart,Sacred Heart
 Saint Francis,Saint Francis
 Saint Francis (PA),Saint Francis
+Saint Francis U,Saint Francis
 St Francis PA,Saint Francis
+St. Francis,Saint Francis
 St. Francis (PA),Saint Francis
 St. Francis PA,Saint Francis
 Saint Joe's,Saint Joseph's
@@ -579,12 +592,17 @@ St Joseph's PA,Saint Joseph's
 St. Joseph's,Saint Joseph's
 Saint Louis,Saint Louis
 St Louis,Saint Louis
+Saint Mary’s,Saint Mary's (CA)
 Saint Mary's,Saint Mary's (CA)
 Saint Mary's (CA),Saint Mary's (CA)
 St Mary's (CA),Saint Mary's (CA)
 St Mary's CA,Saint Mary's (CA)
+St. Mary’s,Saint Mary's (CA)
+St. Mary’s (CA),Saint Mary's (CA)
+St. Mary's,Saint Mary's (CA)
 St. Mary's (CA),Saint Mary's (CA)
 St. Mary's CA,Saint Mary's (CA)
+Saint Peter’s,Saint Peter's
 Saint Peter's,Saint Peter's
 St Peter's,Saint Peter's
 St. Peter's,Saint Peter's
@@ -597,11 +615,13 @@ San Diego,San Diego
 San Diego St,San Diego St.
 San Diego St.,San Diego St.
 San Diego State,San Diego St.
+SDSU,San Diego St.
 San Francisco,San Francisco
 San JosÃƒÂ© State,San Jose St.
 San Jose St,San Jose St.
 San Jose St.,San Jose St.
 San Jose State,San Jose St.
+San José State,San Jose St.
 Santa Clara,Santa Clara
 Savannah State,Savannah State
 Scranton,Scranton
@@ -668,8 +688,11 @@ St Francis NY,St. Francis Brooklyn
 St. Francis (NY),St. Francis Brooklyn
 St. Francis Brooklyn,St. Francis Brooklyn
 St. Francis NY,St. Francis Brooklyn
+Saint John’s,St. John's (NY)
 Saint John's,St. John's (NY)
 St John's,St. John's (NY)
+St. John’s,St. John's (NY)
+St. Johns,St. John's (NY)
 St. John's,St. John's (NY)
 St. John's (NY),St. John's (NY)
 Saint Thomas (Minn.),St. Thomas (MN)
@@ -677,6 +700,7 @@ St Thomas MN,St. Thomas (MN)
 St. Thomas,St. Thomas (MN)
 St. Thomas - Minnesota,St. Thomas (MN)
 St. Thomas (MN),St. Thomas (MN)
+St. Thomas-Minnesota,St. Thomas (MN)
 Stanford,Stanford
 Stetson,Stetson
 Stonehill,Stonehill
@@ -696,6 +720,7 @@ Tennessee State,Tennessee St.
 Tenn. Tech,Tennessee Tech
 Tennessee Tech,Tennessee Tech
 Texas,Texas
+Texas A & M,Texas A&M
 Texas A&amp;M,Texas A&M
 Texas A&M,Texas A&M
 Texas Southern,Texas Southern
@@ -762,12 +787,17 @@ Md.-East. Shore,UMES
 UMES,UMES
 North Carolina-Asheville,UNC Asheville
 UNC Asheville,UNC Asheville
+UNC-Asheville,UNC Asheville
 North Carolina-Greensboro,UNC Greensboro
 UNC Greensboro,UNC Greensboro
 UNCG,UNC Greensboro
+NC Wilmington,UNCW
+NC-Wilmington,UNCW
+North Carolina Wilmington,UNCW
 North Carolina-Wilmington,UNCW
 UNC Wilmington,UNCW
 UNCW,UNCW
+UNC-Wilmington,UNCW
 Northern Iowa,UNI
 UNI,UNI
 Nevada-Las Vegas,UNLV
@@ -804,6 +834,7 @@ UT San Antonio,UTSA
 UTSA,UTSA
 Valparaiso,Valparaiso
 Vanderbilt,Vanderbilt
+Vandy,Vanderbilt
 VCU,VCU
 Virginia Commonwealth,VCU
 Vermont,Vermont
@@ -825,8 +856,8 @@ Weber St,Weber St.
 Weber St.,Weber St.
 Weber State,Weber St.
 West Chester,West Chester
-West Ga.,West Georgia
-West Georgia,West Georgia
+West Ga.,West Ga.
+West Georgia,West Ga.
 West Texas A&M,West Texas A&M
 West Virginia,West Virginia
 West Virginia Tech,West Virginia Tech
