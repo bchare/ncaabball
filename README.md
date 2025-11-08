@@ -39,15 +39,15 @@ For the 2024-25 season:
 
 The NET mostly makes sense by the end of the season. In November-December, there's a conflict where humans have preseason expectations and the NET does not. For example, imagine that only 2 games have been played and these are the results:
 
-* Team 1 beat Team 2, 93-51.
-* Team 3 beat Team 4, 92-89.
+* Team 1 beat Team 2, 103-74.
+* Team 3 beat Team 4, 93-87.
 
-You would probably rank Team 1 the best, then Team 3, then Team 4, and last Team 2. Now see this:
+You would rank Team 1 the best, then Team 3, then Team 4, and last Team 2. Now see this:
 
-* Team 1 (High Point) beat Team 2 (Coppin State), 93-51.
-* Team 3 (Kansas) beat Team 4 (UNC), 92-89.
+* Team 1 (VCU) beat Team 2 (Wagner), 103-74.
+* Team 3 (Arizona) beat Team 4 (Florida), 93-87.
 
-And you think "Oh, Kansas and UNC! They must be better than High Point and Coppin State." The NET doesn't do that.
+And you think "Oh, Arizona and Florida are better than VCU and Wagner!" The NET doesn't do that. Every team starts the season as equals.
 
 Also, due to buy games, there's a big adjustment for home court advantage early in the season. For example, imagine that only these 3 games have happened:
 
@@ -59,9 +59,9 @@ You would probably rank these: Team A, Team C, Team E, Team F, Team D, Team B.
 
 But wait a minute. The home teams won by an average of 15 points. It's only fair to adjust for a home court advantage. Maybe this makes more sense:
 
-* Team A is 13 points better than Team B.
-* Team C is 5 points worse than Team D.
-* Team E is 8 points worse than Team F.
+* Team A is (28 - 15) 13 points better than Team B.
+* Team C is (10 - 15) 5 points WORSE than Team D.
+* Team E is (7 - 15) 8 points WORSE than Team F.
 
 So then they should be ranked: Team A, Team F, Team D, Team C, Team E, Team B.
 
@@ -69,17 +69,23 @@ This effect will be lower by March when all teams have played dozens of others i
 
 **Q: What can my team do to have a good NET ranking?**
 
-Win. Win by a lot. Don't lose. Don’t lose by a lot. Avoid bad field goal attempts and turnovers. Every possession counts. It's especially important to do well in non-conference games. For example, if Baylor beats Norfolk State, you can imagine that there's a transfer of credibility from Norfolk State to Baylor. And then there will be more credibility in the Big 12 and less credibility in the MEAC. But if Georgia Tech beats Syracuse and Syracuse beats Wake Forest and Wake Forest beats Georgia Tech, you can imagine that the credibility just recirculates around the ACC.
+1. Win. Win by a lot.
+2. Don't lose. Don’t lose by a lot.
+3. Avoid bad field goal attempts and turnovers. Play defense. Every possession counts!
+4. Do well in non-conference games. If Michigan beats Oakland, Michigan gains credibility and Oakland loses credibility, and then there is more credibility in the Big Ten and less credibility in the Horizon League. But if Georgia Tech beats Syracuse and Syracuse beats Wake Forest and Wake Forest beats Georgia Tech, you can imagine that the credibility just recirculates around the ACC.
+5. Schedule your earliest games against teams with mostly freshmen or transfers. If those opponents are weaker when you play them in November and stronger when they gel in January, you'll look good in comparison.
+6. Play an away game in November, preferably at a school that you can blow out. (Like Missouri did at Howard.) This won't actually be very helpful in March, but you'll look good when the NET is released in December and that can shape your narrative in the national media.
+7. Neutral wins are better than home wins, but not by much. Don't play in an empty arena for the NET's benefit. It barely matters.
 
 **Q: Can a team manipulate the NET by scheduling bad teams and running up the score?**
 
-Probably not. Well, if you can play like Maryland beating Canisius 108-37, sure, do that. But more often, beating bad teams will hurt more than it helps. There's three reasons:
+Probably not. Well, if you can play like UConn beating UMass Lowell 110-47, sure, do that. But more often, beating bad teams will hurt more than it helps. There's three reasons:
 
 First, the Value metric counts for 20% of the NET. This metric doesn't use the score and beating a bottom-50 team at home is basically worthless.
 
 Second, the Efficiency metric does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (It does help to do well on every possession, on offense and defense.)
 
-Third, the Efficiency metric adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
+Third, the Efficiency metric adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
 
 * **Prairie View** beat Mississippi Valley State by **11.1** points per 100 possessions.
 * **Kansas State** beat Mississippi Valley State by **28.6** points per 100 possessions.
@@ -96,7 +102,7 @@ You wouldn't call Iowa State a top 10 team because it had a worse result than Te
 
 **Q: Is the NET a good way to measure that a team deserves to be in the NCAA Tournament?**
 
-The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, loses by 1 at Kentucky, and loses by 1 at UConn. A strength metric would say "They're good because an average team wouldn't be so close in those games." A resume metric would say "They're bad because they went 0-4." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
+The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, and loses by 1 at Kentucky. A strength metric would say "They're good because a team that is 1 possession away from beating tough teams on the road should be favored to beat anyone at a neutral site." A resume metric would say "They're bad because they went 0-3." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the selection committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
 
 ### NET Scatter Plots
 
@@ -243,7 +249,7 @@ Output: [Estimated NET on Selection Sunday 2024](/2024/estimated_net_output.csv)
 ---
 
 ## NET Estimates 2023
-[Code to estimate NET](/2023/Estimate_NET_2023.py): (Old 2022-23 version)\  
+[Code to estimate NET](/2023/Estimate_NET_2023.py): (Old 2022-23 version)
 Input: [2023 game results](/2023/ncaab_stats_input_2023.csv)
 Output: [Estimated NET on Selection Sunday 2023](/2023/net_estimate_output_selection_sunday_2023.csv): Output, for Selection Sunday 2023.
 
