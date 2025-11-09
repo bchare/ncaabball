@@ -2,7 +2,9 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
-## NET Estimates 2025
+## NET Estimates 2026
+
+![Projected NET Rankings](/NETprojection.png)
 
 ### Introduction
 
@@ -12,11 +14,9 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 
 **Q: What code and data can calculate the NET?**
 
-[Python code to estimate NET](/Estimate_NET.py) (Updated October 2024)\
-Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
-Output: [Estimated NET on Selection Sunday 2025](/2025/estimated_net_output.csv)
-
-Bonus analysis: [2025 NET impact per game](/2025/game_impact_net_2025.txt)
+[Python code to estimate NET](/Estimate_NET.py) (Updated Fall 2025)\
+Input: [2026 game results](/ncaab_stats_input_2026.csv)\
+Output: [Estimated NET rankings](/estimated_net_output.csv)
 
 **Q: How is the NET calculated?**
 
@@ -27,13 +27,6 @@ The "Adjusted Net Efficiency" looks at the difference in the score per 100 posse
 The "Team Value Index" looks at which team won the game. It considers how all teams have won or lost against all other teams. This is comparable to a popular ranking method called a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams. This is not a shallow calculation of winning percentage like the RPI had. Every game affects all 360+ teams.
 
 I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13.
-
-**Q: How accurate are these calculations?**
-
-For the 2024-25 season:
-
-* For the first NET release (games through December 1): 47 of 364 teams had exactly the right rank, 199/364 were within 2 spots, and 313/364 were within 5 spots.
-* For Selection Sunday: 142 of 364 teams had exactly the right rank, 337/364 were within 2 spots, and 363/364 were within 5 spots. (Sorry to Army. I predicted #301, actual was #307.)
 
 **Q: Why is (some team) ranked so high or low?**
 
@@ -104,11 +97,20 @@ You wouldn't call Iowa State a top 10 team because it had a worse result than Te
 
 The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, and loses by 1 at Kentucky. A strength metric would say "They're good because a team that is 1 possession away from beating tough teams on the road should be favored to beat anyone at a neutral site." A resume metric would say "They're bad because they went 0-3." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the selection committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
 
+**Q: How accurate are these calculations?**
+
+I have a new formula for the 2025-26 season and I'm expecting most of the top and bottom teams to be right, or at least within 2, by early December.
+
+For the 2024-25 season:
+
+* For the first NET release (games through December 1): 47 of 364 teams had exactly the right rank, 199/364 were within 2 spots, and 313/364 were within 5 spots.
+* For Selection Sunday: 142 of 364 teams had exactly the right rank, 337/364 were within 2 spots, and 363/364 were within 5 spots. (Sorry to Army. I predicted #301, actual was #307.)
+
 ### NET Scatter Plots
 
 Efficiency measures strength (teams at the top win by a lot.) Value measures record (teams at the right have quality wins.)
 
-![Estimated NET Rankings - Top 100](/netscatter/NET%20Scatter%20Top%20100.png)
+(Not done yet for 2026 season.)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
@@ -236,6 +238,16 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ---
 
+## NET Estimates 2025
+
+[Python code to estimate NET](/2025/Estimate_NET_2025.py) (Old 2024-25 version)\
+Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
+Output: [Estimated NET on Selection Sunday 2025](/2025/estimated_net_output.csv)
+
+Bonus analysis: [2025 NET impact per game](/2025/game_impact_net_2025.txt)
+
+---
+
 ## NET Estimates 2024
 
 [Code to estimate NET](/2024/Estimate_NET_2024.py)  (Old 2023-24 version)\
@@ -244,16 +256,12 @@ Output: [Estimated NET on Selection Sunday 2024](/2024/estimated_net_output.csv)
 
 [Writeup](https://www.backingthepack.com/nc-state-basketball/2023/10/24/23928786/casting-a-wide-net-finding-the-basketball-rankings)
 
-![Estimated NET Rankings - Top 100](/2024/NET%20Scatter%20Top%20100%202024.png)
-
 ---
 
 ## NET Estimates 2023
 [Code to estimate NET](/2023/Estimate_NET_2023.py): (Old 2022-23 version)
-Input: [2023 game results](/2023/ncaab_stats_input_2023.csv)
-Output: [Estimated NET on Selection Sunday 2023](/2023/net_estimate_output_selection_sunday_2023.csv): Output, for Selection Sunday 2023.
-
-![Top-50 NET Rankings for Selection Sunday 2023](/2023/NET_SS_2023_top50_logos.png)
+Input: [2023 game results](/2023/ncaab_stats_input_2023.csv)\
+Output: [Estimated NET on Selection Sunday 2023](/2023/net_estimate_output_selection_sunday_2023.csv)
 
 ---
 
