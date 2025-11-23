@@ -1,8 +1,7 @@
 import pandas as pd
-import numpy as np
+# import numpy as np
 from sklearn import linear_model
 from sklearn.linear_model import LogisticRegression
-import scipy.stats
 
 # Read in game stats
 games = pd.read_csv('ncaab_stats_input_2026.csv')
@@ -35,12 +34,11 @@ print("Home Court Advantage is", round(home_court_advantage,2), "Points Per 100 
 net_stats = net_stats[net_stats['team'].str.startswith('team_')]
 net_stats['team'] = net_stats['team'].str[5:]
 
-# Calculate rating, ranking, and normalized score
-net_stats['efficiency_rtg'] = 100*scipy.stats.norm.cdf(net_stats['efficiency'], net_stats['efficiency'].mean(), net_stats['efficiency'].std())
+# Calculate ranking and normalized score
 net_stats['efficiency_rank'] = net_stats['efficiency'].rank(ascending=False, method='min')
 eff_min = net_stats['efficiency'].min()
 eff_max = net_stats['efficiency'].max()
-net_stats['efficiency_norm'] = (net_stats['efficiency'] - eff_min) / (eff_max - eff_min + 1e-6)
+net_stats['efficiency_norm'] = (net_stats['efficiency'] - eff_min) / (eff_max - eff_min)
 
 # Credit for the Bradley-Terry ranking code goes to:
 # https://datascience.oneoffcoder.com/btl-model.html
@@ -84,12 +82,11 @@ teamvalue.rename(columns={'index': 'team', 0: 'value'}, inplace=True)
 teamvalue = teamvalue[teamvalue['team'] != 'ZZZ_FICTIONAL']
 teamvalue = teamvalue[teamvalue['team'] != 'hca']
 
-# Calculate rating, ranking, and normalized score
-teamvalue['value_rtg'] = 100*scipy.stats.norm.cdf(teamvalue['value'], teamvalue['value'].mean(), teamvalue['value'].std())
+# Calculate ranking, and normalized score
 teamvalue['value_rank'] = teamvalue['value'].rank(ascending=False, method='min')
 val_min = teamvalue['value'].min()
 val_max = teamvalue['value'].max()
-teamvalue['value_norm'] = (teamvalue['value'] - val_min) / (val_max - val_min + 1e-6)
+teamvalue['value_norm'] = (teamvalue['value'] - val_min) / (val_max - val_min)
 
 # Combine efficiency and value numbers
 net_stats = net_stats.merge(teamvalue,on='team')
