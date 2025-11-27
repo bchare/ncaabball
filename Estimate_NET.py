@@ -82,7 +82,7 @@ teamvalue.rename(columns={'index': 'team', 0: 'value'}, inplace=True)
 teamvalue = teamvalue[teamvalue['team'] != 'ZZZ_FICTIONAL']
 teamvalue = teamvalue[teamvalue['team'] != 'hca']
 
-# Calculate ranking, and normalized score
+# Calculate ranking and normalized score
 teamvalue['value_rank'] = teamvalue['value'].rank(ascending=False, method='min')
 val_min = teamvalue['value'].min()
 val_max = teamvalue['value'].max()
@@ -91,7 +91,8 @@ teamvalue['value_norm'] = (teamvalue['value'] - val_min) / (val_max - val_min)
 # Combine efficiency and value numbers
 net_stats = net_stats.merge(teamvalue,on='team')
 # Combine the normalized efficiency (worth 80%) and normalized value (worth 20%) and rank
-net_stats['estimated_net'] = (0.8 * net_stats['efficiency_norm'] + 0.2 * net_stats['value_norm']).rank(ascending=False, method='min')
+net_stats['combine_norm'] = 0.8 * net_stats['efficiency_norm'] + 0.2 * net_stats['value_norm']
+net_stats['estimated_net'] = net_stats['combine_norm'].rank(ascending=False, method='min')
 net_stats.sort_values(by='estimated_net', inplace=True)
 
 # Turn ranks into integers
