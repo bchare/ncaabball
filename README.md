@@ -108,9 +108,9 @@ For the 2024-25 season:
 
 ### NET Scatter Plots
 
-Efficiency measures strength (teams at the top win by a lot.) Value measures record (teams at the right have quality wins.)
+Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
 
-(Not done yet for 2026 season.)
+![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
