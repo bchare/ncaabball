@@ -99,9 +99,11 @@ The NET is 80% a strength metric and 20% a resume metric. Imagine a team that lo
 
 **Q: How accurate are these calculations?**
 
-I have a new formula for the 2025-26 season and I'm expecting most of the top and bottom teams to be right, or at least within 2, by early December.
+For the 2025-26 season:
 
-For the 2024-25 season:
+* For the first NET release (games through November 30): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
+
+For the 2024-25 season (old formula):
 
 * For the first NET release (games through December 1): 47 of 364 teams had exactly the right rank, 199/364 were within 2 spots, and 313/364 were within 5 spots.
 * For Selection Sunday: 142 of 364 teams had exactly the right rank, 337/364 were within 2 spots, and 363/364 were within 5 spots. (Sorry to Army. I predicted #301, actual was #307.)
