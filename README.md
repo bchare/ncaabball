@@ -4,7 +4,7 @@ College basketball analysis with a focus on the NET, WAB, and making cool graphs
 
 ## NET Estimates 2026
 
-![Projected NET Rankings](/NETprojection.png)
+![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
 
 ### Introduction
 
@@ -112,7 +112,7 @@ For the 2024-25 season (old formula):
 
 Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
 
-![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
+![Scatter Plot - ACC](/netscatter/NET%20Scatter%20ACC.png)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
