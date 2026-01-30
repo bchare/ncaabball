@@ -2,6 +2,8 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
+Updated weekly-ish or upon request.
+
 ## NET Estimates 2026
 
 ![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
@@ -101,7 +103,8 @@ The NET is 80% a strength metric and 20% a resume metric. Imagine a team that lo
 
 For the 2025-26 season:
 
-* For the first NET release (games through November 30): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
+* For the first NET release on December 1 (games through November 30): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
+* After stat corrections (like a team having 8 turnovers instead of 9): 39 of 365 teams had exactly the right rank, 176/365 were within 2 spots, and 281/365 were within 5 spots.
 
 For the 2024-25 season (old formula):
 
@@ -270,6 +273,8 @@ Output: [Estimated NET on Selection Sunday 2023](/2023/net_estimate_output_selec
 ## Data Sources
 * The NCAA
 * [CollegeBasketballData.com](https://collegebasketballdata.com/)
+* [KenPom](https://kenpom.com/cbbga26.txt)
+* [Bart Torvik](https://barttorvik.com/2026_season.json)
 * [sports-reference.com](https://www.sports-reference.com/cbb/)
 * [Team Color Data](teamcolors.csv) (from various school websites)
 * Logos are from [SportsLogos.net](https://www.sportslogos.net/) and are not provided here
