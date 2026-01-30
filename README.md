@@ -2,7 +2,7 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
-Updated weekly-ish or upon request.
+(Updated weekly-ish or upon request.)
 
 ## NET Estimates 2026
 
@@ -76,11 +76,11 @@ This effect will be lower by March when all teams have played dozens of others i
 
 Probably not. Well, if you can play like UConn beating UMass Lowell 110-47, sure, do that. But more often, beating bad teams will hurt more than it helps. There's three reasons:
 
-First, the Value metric counts for 20% of the NET. This metric doesn't use the score and beating a bottom-50 team at home is basically worthless.
+First, 20% of the NET uses the Value metric. This doesn't use the score and beating a bottom-50 team at home is basically worthless.
 
-Second, the Efficiency metric does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (It does help to do well on every possession, on offense and defense.)
+Second, the other 80% of the NET, the Efficiency metric, does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (Every possession does count though, on offense and defense.)
 
-Third, the Efficiency metric adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
+Third, the Efficiency metric also adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
 
 * **Prairie View** beat Mississippi Valley State by **11.1** points per 100 possessions.
 * **Kansas State** beat Mississippi Valley State by **28.6** points per 100 possessions.
@@ -103,8 +103,8 @@ The NET is 80% a strength metric and 20% a resume metric. Imagine a team that lo
 
 For the 2025-26 season:
 
-* For the first NET release on December 1 (games through November 30): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
-* After stat corrections (like a team having 8 turnovers instead of 9): 39 of 365 teams had exactly the right rank, 176/365 were within 2 spots, and 281/365 were within 5 spots.
+* For the first NET release ([see image created November 30](NETprojection.png)): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
+* After stat corrections: 39 of 365 teams had exactly the right rank, 176/365 were within 2 spots, and 281/365 were within 5 spots.
 
 For the 2024-25 season (old formula):
 
@@ -162,7 +162,7 @@ Rank teams by this "pythag" strength and decide how to define the "bubble team".
 
 Then the NCAA assigns the team strengths in order of the NET rankings. For example, on Selection Sunday 2025, the top 3 pythag strengths were Duke (0.990), Houston (0.989), and Auburn (0.986). However, the top 3 NET rankings were #1 Duke, #2 Auburn, and #3 Houston. So #1 Duke kept its own strength of 0.990, #2 Auburn got the #2 strength (0.989, from Houston), and #3 Houston got the #3 strength (0.986, from Auburn). Bart Torvik's WAB doesn't use the NET.
 
-Next, calculate each game's value using the opponent's strength versus the bubble team's strength. This function is called the log5 formula and it has a long history in baseball analytics and other rating systems.
+Next, calculate each game's value using the opponent's strength versus the bubble team's strength. This function is called the "log5" formula and it has a long history in baseball analytics and other rating systems.
 
 game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))
 
@@ -219,7 +219,7 @@ I'm only calculating the NCAA's version of the WAB. I can calculate Bart Torvik'
 
 It's clearly doing something right. It's undeniable that the teams with the best results are at the top of the rankings. I love the idea to judge teams by their total wins vs. expected wins. Most people put too much focus on big games. For example, in 2023, Arizona State made a buzzer beating halfcourt shot to beat #7 Arizona on the road. Arizona State was one of the last teams in the tournament and wouldn't have made it without that win. Now imagine a scenario where Arizona State missed that shot, but it replaced losses against USC and Colorado with wins. Its WAB would be better in this scenario, but it would probably miss the tournament because it didn't have a signature win. How can going 1-2 against Arizona/USC/Colorado be better than going 2-1 against those same teams? I think the humans have it wrong and WAB has it right.
 
-I do think that WAB could be better. It can fluctuate a lot based on which teams are ranked 44-46 and how teams enter and exit that range. I think it's bad that about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid. That means there are about 5 teams that have more wins than "a bubble quality team would be expected to have", yet they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have wins "above" the bubble, do they? I think both issues could be improved by using the average strength of teams ranked 40-46 instead of 44-46. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
+I do think that WAB could be better. It can fluctuate based on which teams are ranked 44-46 and how teams enter and exit that range. I don't like how about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid. That means there are about 5 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I think both issues could be solved by using the average strength of teams ranked 40-46 instead of 44-46. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
 
 I also don't like how the NCAA forces the team strength to be in order of the NET rankings. On Selection Sunday 2025, Houston was the 2nd-strongest team by efficiency and #3 in the NET. And Auburn was the 3rd-strongest team by efficiency and #2 in the NET. So if a team played Houston, it got credit for playing Auburn. And if a team played Auburn, it got credit for playing Houston. Does that make sense? It seems dumb. I mean, it's probably fine, and I can understand that the NCAA wanted to make sure that beating the #1 NET team is more valuable than beating the #2 NET team, or that beating the #50 NET team is more valuable than beating the #51 NET team. But I think it makes sense how Bart Torvik creates a resume metric (WAB) from a strength metric (Barthag). When the NCAA adds the NET (which is a combination of a strength metric and a resume metric), they're double counting the results. This basically means that you get rewarded for playing low power teams with good results and you get punished for playing high power teams with bad results. For example, if you played NET #35 UC San Diego, you got credit for playing the 35th-strongest team, Arkansas. And if you played NET #133 Syracuse, you got credit for playing the 133rd-strongest team, St. Thomas (MN).
 
@@ -234,6 +234,10 @@ It's probably bad to play teams ranked worse than #300. You get about 0.01 credi
 ---
 
 ## Performance Charts
+
+![High Major Coaches Most Likely To Be FIRED](MostLikelyFired.png)
+
+![Coaches Most Likely To Take Another Job](MostLikelyLeave.png)
 
 ![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
 
