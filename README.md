@@ -123,7 +123,7 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 ---
 
-## WAB Estimates 2025
+## WAB Estimates 2026
 
 ### Introduction
 
@@ -136,10 +136,10 @@ The NCAA learned to make WAB from Bart Torvik. Every game has a value based on i
 **Q: What code and data can calculate WAB?**
 
 [Python code to estimate WAB](/Estimate_WAB.py)\
-Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
-Input: [2025 NET rankings on Selection Sunday](/2025/actual_net_20250316.txt)\
-Output: [2025 Estimated WAB vs. Actual WAB](/2025/estimated_wab_output_2025.csv)\
-Output: [2025 WAB impact per game](/2025/game_impact_wab_2025.txt)
+Input: [2026 game results](/ncaab_stats_input_2026.csv)\
+Input: [2026 NET rankings](/actual_net.txt)\
+Output: [2026 Estimated WAB vs. Actual WAB](/estimated_wab_output_2026.csv)\
+Output: [2026 WAB impact per game](/game_impact_wab_2026.txt)
 
 **Q: How is WAB calculated?**
 
@@ -237,7 +237,11 @@ It's probably bad to play teams ranked worse than #300. You get about 0.01 credi
 
 ![High Major Coaches Most Likely To Be FIRED](MostLikelyFired.png)
 
+---
+
 ![Coaches Most Likely To Take Another Job](MostLikelyLeave.png)
+
+---
 
 ![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
 
@@ -247,13 +251,18 @@ See more graphs for coach performance by year hired: [all coaches](/performance_
 
 ---
 
-## NET Estimates 2025
+## NET & WAB Estimates 2025
 
 [Python code to estimate NET](/2025/Estimate_NET_2025.py) (Old 2024-25 version)\
 Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
 Output: [Estimated NET on Selection Sunday 2025](/2025/estimated_net_output.csv)
-
 Bonus analysis: [2025 NET impact per game](/2025/game_impact_net_2025.txt)
+
+[Python code to estimate WAB](/Estimate_WAB.py)\
+Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
+Input: [2025 NET rankings on Selection Sunday](/2025/actual_net_20250316.txt)\
+Output: [2025 Estimated WAB vs. Actual WAB](/2025/estimated_wab_output_2025.csv)\
+Output: [2025 WAB impact per game](/2025/game_impact_wab_2025.txt)
 
 ---
 
