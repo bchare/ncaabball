@@ -1,11 +1,16 @@
 import pandas as pd
 from sklearn import linear_model
 
-# Input game results
-games = pd.read_csv('ncaab_stats_input_2025.csv')
+season = 2026
 
-# Subset to games by Selection Sunday
-games = games[games['date'] <= '2025-03-16']
+# Input the games and find the most recent date
+try:
+    games = pd.read_csv(f'ncaab_stats_input_{season}.csv')
+    # Subset to games by Selection Sunday
+    # games = games[games['date'] <= '2025-03-16']
+    maxdate = games['date'].max()
+except:
+    maxdate = str(season)
 
 # For each game, calculate offensive and defensive efficiency (points per 100 possessions)
 games['off_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta']))
@@ -35,7 +40,7 @@ wab_stats['pythag'] = (wab_stats['off_eff'] ** 11.5) / ((wab_stats['off_eff'] **
 wab_stats['pythag_rank'] = wab_stats['pythag'].rank(ascending=False, method='min').astype(int)
 
 # Need to input the NET rankings
-realnet = pd.read_table('actual_net_20250316.txt')
+realnet = pd.read_table('actual_net.txt')
 wab_stats = wab_stats.merge(realnet[['Team', 'NET Rank']], 
     left_on='team', 
     right_on='Team', 
@@ -85,7 +90,7 @@ wab_results = wab_results.merge(realnet[['Team', 'WAB']], how='left', left_on='t
 wab_results['WAB_diff'] = wab_results['Est_WAB'] - wab_results['WAB']
 
 # Export results with estimated vs. actual WAB
-wab_results.to_csv('estimated_wab_output_2025.csv', index=False)
+wab_results.to_csv(f'estimated_wab_output_{season}.csv', index=False)
 
 # Preparing a report of WAB impact per game, sort by team and date
 game_impact_wab = gamewab.sort_values(by=['team', 'date'])
@@ -106,14 +111,14 @@ game_impact_wab['description'] = game_impact_wab.apply(
 game_impact_wab = game_impact_wab.merge(realnet[['Team', 'WAB']], how='left', left_on='team', right_on='Team').drop('Team', axis=1)
 
 # Generate a text file with a report of WAB impact per game
-with open('game_impact_wab_2025.txt', 'w') as f:
+with open(f'game_impact_wab_{season}.txt', 'w') as f:
     f.write('----------------------------------------------------------------\n')
     for team, group in game_impact_wab.groupby('team'):
-        f.write(f"2025 Estimated WAB - {team}\n")
+        f.write(f"{season} Estimated WAB - {team}\n")
         f.write("Date:       Result:           Opponent:           Value:    Sum:\n")
         for desc in group['description']:
             f.write(f"{desc}\n")
         wab_str = f"{group['WAB'].iloc[0]:.2f}"
-        spaces = ' ' * (63 - len("Actual NCAA WAB on Selection Sunday:") - len(wab_str))
-        f.write(f"Actual NCAA WAB on Selection Sunday:{spaces}{wab_str}\n")
+        spaces = ' ' * (63 - len("Actual NCAA WAB:") - len(wab_str))
+        f.write(f"Actual NCAA WAB:{spaces}{wab_str}\n")
         f.write('----------------------------------------------------------------\n')
