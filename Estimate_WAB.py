@@ -47,7 +47,7 @@ wab_stats = wab_stats.merge(realnet[['Team', 'NET Rank']],
     how='left').drop('Team', axis=1)
 
 # Team strengths must be put in order of the NET rankings
-# Also define the bubble strength as the average of the 44th, 45th, and 46th teams
+# Also define the bubble strength as the average of the 40th-45th strongest teams by pythag
 wab_stats = wab_stats.merge(
     wab_stats[['pythag_rank', 'off_eff', 'def_eff', 'pythag']], 
     how='left', 
@@ -55,8 +55,8 @@ wab_stats = wab_stats.merge(
     right_on='pythag_rank', 
     suffixes=('', '_rerank')
 ).drop(columns='pythag_rank_rerank').assign(
-    bubble_off=lambda x: x[x['pythag_rank'].between(44, 46)]['off_eff'].mean(),
-    bubble_def=lambda x: x[x['pythag_rank'].between(44, 46)]['def_eff'].mean()
+    bubble_off=lambda x: x[x['pythag_rank'].between(40, 45)]['off_eff'].mean(),
+    bubble_def=lambda x: x[x['pythag_rank'].between(40, 45)]['def_eff'].mean()
 )
 
 # For each game, get the offensive and defensive numbers for the opponent and the bubble team
@@ -89,6 +89,9 @@ wab_results = gamewab.groupby('team')['game_wab'].sum().reset_index().rename(col
 wab_results = wab_results.merge(realnet[['Team', 'WAB']], how='left', left_on='team', right_on='Team').drop('Team', axis=1)
 wab_results['WAB_diff'] = wab_results['Est_WAB'] - wab_results['WAB']
 
+# Round to 0.001
+wab_results[['Est_WAB', 'WAB_diff']] = wab_results[['Est_WAB', 'WAB_diff']].round(3)
+
 # Export results with estimated vs. actual WAB
 wab_results.to_csv(f'estimated_wab_output_{season}.csv', index=False)
 
@@ -119,6 +122,6 @@ with open(f'game_impact_wab_{season}.txt', 'w') as f:
         for desc in group['description']:
             f.write(f"{desc}\n")
         wab_str = f"{group['WAB'].iloc[0]:.2f}"
-        spaces = ' ' * (63 - len("Actual NCAA WAB:") - len(wab_str))
-        f.write(f"Actual NCAA WAB:{spaces}{wab_str}\n")
+        spaces = ' ' * (62 - len("Actual NCAA WAB through {maxdate}:") - len(wab_str))
+        f.write(f"Actual NCAA WAB through {maxdate}:{spaces}{wab_str}\n")
         f.write('----------------------------------------------------------------\n')
