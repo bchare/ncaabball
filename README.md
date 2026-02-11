@@ -125,6 +125,8 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 ## WAB Estimates 2026
 
+![WAB values for top 100 teams](/WAB%20Values%202026.png)
+
 ### Introduction
 
 Wins Above Bubble (“WAB”) is a measure of a college basketball team's performance. It is the number of wins that a team actually has, minus the number of wins that you would expect a bubble team to have if they played the same schedule. For example, if Clemson is 23-7 and you would expect the 45th-strongest team to be 20-10 with Clemson's schedule, Clemson's WAB would be 3.
