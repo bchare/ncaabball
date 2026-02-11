@@ -129,13 +129,13 @@ More graphs are in the [netscatter](/netscatter) directory.
 
 Wins Above Bubble (“WAB”) is a measure of a college basketball team's performance. It is the number of wins that a team actually has, minus the number of wins that you would expect a bubble team to have if they played the same schedule. For example, if Clemson is 23-7 and you would expect the 45th-strongest team to be 20-10 with Clemson's schedule, Clemson's WAB would be 3.
 
-The NCAA learned to make WAB from Bart Torvik. Every game has a value based on its difficulty. For example, a win against a good team would add 0.80 to your WAB and a loss would subtract 0.20. A win against a bubble team would add 0.50 to your WAB and a loss would subtract 0.50. A win against a bad team would add 0.01 to your WAB and a loss would subtract 0.99.
+WAB was invented by Seth Burn and made popular by Bart Torvik, who taught it to the NCAA. Every game has a value based on its difficulty. For example, a win against a good team would add 0.80 to your WAB and a loss would subtract 0.20. A win against a bubble team would add 0.50 to your WAB and a loss would subtract 0.50. A win against a bad team would add 0.01 to your WAB and a loss would subtract 0.99.
 
 ### FAQ
 
 **Q: What code and data can calculate WAB?**
 
-[Python code to estimate WAB](/Estimate_WAB.py)\
+[Python code to estimate WAB](/Estimate_WAB.py) (Updated February 2026)\
 Input: [2026 game results](/ncaab_stats_input_2026.csv)\
 Input: [2026 NET rankings](/actual_net.txt)\
 Output: [2026 Estimated WAB vs. Actual WAB](/estimated_wab_output_2026.csv)\
@@ -155,7 +155,7 @@ Use a "Pythagorean expectation" formula to make a strength value between 0 and 1
 * The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936
 * The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
 
-Rank teams by this "pythag" strength and decide how to define the "bubble team". Average the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. Perhaps the result of this is:
+Then decide how to define the "bubble team". Bart Torvik averages the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. The NCAA claims to use the team ranked 45th in the NET, but I get a closer match to their official WAB numbers when I use the average efficiencies of the 40th-45th strongest teams. Either way, we'll use these numbers for the example calculations:
 
 * The hypothetical bubble team has offense=116 and defense=96
 * The hypothetical bubble team has a strength of 116^11.5 / (116^11.5 + 96^11.5) = 0.898
@@ -219,7 +219,7 @@ I'm only calculating the NCAA's version of the WAB. I can calculate Bart Torvik'
 
 It's clearly doing something right. It's undeniable that the teams with the best results are at the top of the rankings. I love the idea to judge teams by their total wins vs. expected wins. Most people put too much focus on big games. For example, in 2023, Arizona State made a buzzer beating halfcourt shot to beat #7 Arizona on the road. Arizona State was one of the last teams in the tournament and wouldn't have made it without that win. Now imagine a scenario where Arizona State missed that shot, but it replaced losses against USC and Colorado with wins. Its WAB would be better in this scenario, but it would probably miss the tournament because it didn't have a signature win. How can going 1-2 against Arizona/USC/Colorado be better than going 2-1 against those same teams? I think the humans have it wrong and WAB has it right.
 
-I do think that WAB could be better. It can fluctuate based on which teams are ranked 44-46 and how teams enter and exit that range. I don't like how about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid. That means there are about 5 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I think both issues could be solved by using the average strength of teams ranked 40-46 instead of 44-46. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
+I do think that WAB could be better. It can fluctuate based on which teams are ranked 44-46 (or however the bubble team is defined) and how teams enter and exit that range. I don't like how about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid. That means there are about 5 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I'd recommend averaging more teams and using teams closer to #40 than #45. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
 
 I also don't like how the NCAA forces the team strength to be in order of the NET rankings. On Selection Sunday 2025, Houston was the 2nd-strongest team by efficiency and #3 in the NET. And Auburn was the 3rd-strongest team by efficiency and #2 in the NET. So if a team played Houston, it got credit for playing Auburn. And if a team played Auburn, it got credit for playing Houston. Does that make sense? It seems dumb. I mean, it's probably fine, and I can understand that the NCAA wanted to make sure that beating the #1 NET team is more valuable than beating the #2 NET team, or that beating the #50 NET team is more valuable than beating the #51 NET team. But I think it makes sense how Bart Torvik creates a resume metric (WAB) from a strength metric (Barthag). When the NCAA adds the NET (which is a combination of a strength metric and a resume metric), they're double counting the results. This basically means that you get rewarded for playing low power teams with good results and you get punished for playing high power teams with bad results. For example, if you played NET #35 UC San Diego, you got credit for playing the 35th-strongest team, Arkansas. And if you played NET #133 Syracuse, you got credit for playing the 133rd-strongest team, St. Thomas (MN).
 
@@ -258,7 +258,7 @@ Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
 Output: [Estimated NET on Selection Sunday 2025](/2025/estimated_net_output.csv)
 Bonus analysis: [2025 NET impact per game](/2025/game_impact_net_2025.txt)
 
-[Python code to estimate WAB](/Estimate_WAB.py)\
+[Python code to estimate WAB](/2025/Estimate_WAB_2025.py) (Old 2024-25 version)\
 Input: [2025 game results](/2025/ncaab_stats_input_2025.csv)\
 Input: [2025 NET rankings on Selection Sunday](/2025/actual_net_20250316.txt)\
 Output: [2025 Estimated WAB vs. Actual WAB](/2025/estimated_wab_output_2025.csv)\
