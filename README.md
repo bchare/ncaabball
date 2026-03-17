@@ -2,7 +2,7 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
-(Updated weekly-ish or upon request.)
+(Updated through Selection Sunday.)
 
 ## NET Estimates 2026
 
@@ -19,6 +19,7 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 [Python code to estimate NET](/Estimate_NET.py) (Updated Fall 2025)\
 Input: [2026 game results](/ncaab_stats_input_2026.csv)\
 Output: [Estimated NET rankings](/estimated_net_output.csv)
+Bonus analysis: [2026 NET impact per game](/game_impact_net_2026.txt)
 
 **Q: How is the NET calculated?**
 
@@ -236,14 +237,6 @@ It's probably bad to play teams ranked worse than #300. You get about 0.01 credi
 ---
 
 ## Performance Charts
-
-![High Major Coaches Most Likely To Be FIRED](MostLikelyFired.png)
-
----
-
-![Coaches Most Likely To Take Another Job](MostLikelyLeave.png)
-
----
 
 ![Performance of selected coaches hired in 2017-18](/performance_coachhired_selected/CoachTeamResults2018_selected.png)
 
