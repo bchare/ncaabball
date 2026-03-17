@@ -1,4 +1,4 @@
-description
+Each team's games, from best to worst impact on the NET, compared to if that one game didn't happen. Through games 2026-03-15.
 A&M-Corpus Christi: NET +7 (Strength +5, Resume +9) Away win: A&M-Corpus Christi vs. UTRGV 63-59 (2026-01-03)
 A&M-Corpus Christi: NET +6 (Strength +7, Resume +6) Away win: A&M-Corpus Christi vs. Houston Christian 81-65 (2026-01-05)
 A&M-Corpus Christi: NET +5 (Strength +5, Resume +7) Neutral win: A&M-Corpus Christi vs. New Orleans 74-61 (2026-03-09)

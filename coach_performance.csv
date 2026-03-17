@@ -84,7 +84,7 @@ season,coachid,coach,team,todisplay,score,bgcolor,fgcolor,isseason,conference,st
 1913,aa-mason-1,A.A. Mason,Tulane,7-3,7,#FFFFFF,#000000,4,Ind,Louisiana,black,1913.0,Last,7,3,,,0.0
 2024,aaron-fearne-1,Aaron Fearne,Charlotte,13-5 Amer,19,#FFFFFF,#000000,4,AAC,North Carolina,black,2024.0,Return,19,12,13,5,0.0
 2025,aaron-fearne-1,Aaron Fearne,Charlotte,3-15 Amer,11,#FFFFFF,#000000,4,AAC,North Carolina,black,2024.0,Return,11,22,3,15,0.0
-2026,aaron-fearne-1,Aaron Fearne,Charlotte,9-9 Amer,15,#FFFFFF,#000000,4,American,North Carolina,black,2024.0,Last,15,16,9,9,0.0
+2026,aaron-fearne-1,Aaron Fearne,Charlotte,9-9 Amer,17,#FFFFFF,#000000,4,American,North Carolina,black,2024.0,Last,17,17,9,9,0.0
 1990,aaron-james-1,Aaron James,Grambling,5-9 SWAC,9,#FFFFFF,#000000,4,SWAC,Louisiana,black,1990.0,Return,9,19,5,9,0.0
 1991,aaron-james-1,Aaron James,Grambling,3-9 SWAC,6,#FFFFFF,#000000,4,SWAC,Louisiana,black,1990.0,Return,6,22,3,9,0.0
 1992,aaron-james-1,Aaron James,Grambling,2-12 SWAC,4,#FFFFFF,#000000,4,SWAC,Louisiana,black,1990.0,Return,4,24,2,12,0.0
@@ -224,7 +224,8 @@ Sweet 16",42,#0033A0,#FFFFFF,4,SEC,Kentucky,black,1931.0,Return,22,6,16,2,0.2
 Elite 8",46,#0033A0,#FFFFFF,4,SEC,Kentucky,black,1931.0,Last,21,7,14,4,0.25
 2024,adrian-autry-2,Adrian Autry,Syracuse,11-9 ACC,20,#FFFFFF,#000000,4,ACC,New York,black,2024.0,Return,20,12,11,9,0.0
 2025,adrian-autry-2,Adrian Autry,Syracuse,7-13 ACC,14,#FFFFFF,#000000,4,ACC,New York,black,2024.0,Return,14,19,7,13,0.0
-2026,adrian-autry-2,Adrian Autry,Syracuse,6-12 ACC,15,#FFFFFF,#000000,4,ACC,New York,black,2024.0,Last,15,17,6,12,0.0
+2026,adrian-autry-2,Adrian Autry,Syracuse,6-12 ACC,15,#FFFFFF,#000000,4,ACC,New York,black,2024.0,Fired,15,17,6,12,0.0
+2027,adrian-autry-2,Adrian Autry,Syracuse,Fired,0,#FFFFFF,#000000,0,ACC,New York,white,2024.0,Last,,,,,
 1973,adrian-buoncristiani-1,Adrian Buoncristiani,Gonzaga,6-8 BSky,14,#FFFFFF,#000000,4,Big Sky,Washington,black,1973.0,Return,14,12,6,8,0.0
 1974,adrian-buoncristiani-1,Adrian Buoncristiani,Gonzaga,7-7 BSky,13,#FFFFFF,#000000,4,Big Sky,Washington,black,1973.0,Return,13,13,7,7,0.0
 1975,adrian-buoncristiani-1,Adrian Buoncristiani,Gonzaga,7-7 BSky,13,#FFFFFF,#000000,4,Big Sky,Washington,black,1973.0,Return,13,13,7,7,0.0
@@ -444,7 +445,8 @@ Sweet 16",39,#C8102E,#FFFFFF,4,MVC,Texas,black,1951.0,Last,19,7,9,3,0.2
 2026,alex-jensen-2,Alex Jensen,Utah,2-16 B12,10,#FFFFFF,#000000,4,Big 12,Utah,black,2026.0,Last,10,22,2,16,0.0
 2024,alex-pribble-1,Alex Pribble,Idaho,5-13 BSky,11,#FFFFFF,#000000,4,Big Sky,Idaho,black,2024.0,Return,11,21,5,13,0.0
 2025,alex-pribble-1,Alex Pribble,Idaho,8-10 BSky,14,#FFFFFF,#000000,4,Big Sky,Idaho,black,2024.0,Return,14,19,8,10,0.0
-2026,alex-pribble-1,Alex Pribble,Idaho,9-9 BSky,21,#FFFFFF,#000000,4,Big Sky,Idaho,black,2024.0,Last,21,14,9,9,0.0
+2026,alex-pribble-1,Alex Pribble,Idaho,"9-9 BSky
+NCAA 64",31,#F1B300,#191919,4,Big Sky,Idaho,black,2024.0,Last,21,14,9,9,0.1
 1937,alex-severence-1,Alex Severence,Villanova,15-8,15,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1937.0,Return,15,8,,,0.0
 1938,alex-severence-1,Alex Severence,Villanova,25-5,25,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1937.0,Return,25,5,,,0.0
 1939,alex-severence-1,Alex Severence,Villanova,"20-5
@@ -514,7 +516,7 @@ Sweet 16",38,#002664,#FFFFFF,4,Ind,Pennsylvania,black,1937.0,Return,18,10,,,0.2
 1915,alfred-westphal-1,Alfred Westphal,Indiana St.,7-6,7,#FFFFFF,#000000,4,Ind,Indiana,black,1913.0,Return,7,6,,,0.0
 1916,alfred-westphal-1,Alfred Westphal,Indiana St.,8-6,8,#FFFFFF,#000000,4,Ind,Indiana,black,1913.0,Return,8,6,,,0.0
 1917,alfred-westphal-1,Alfred Westphal,Indiana St.,13-4,13,#FFFFFF,#000000,4,Ind,Indiana,black,1913.0,Last,13,4,,,0.0
-2026,ali-farokhmanesh-1,Ali Farokhmanesh,Colorado St.,11-9 MWC,21,#FFFFFF,#000000,4,MWC,Colorado,black,2026.0,Last,21,11,11,9,0.0
+2026,ali-farokhmanesh-1,Ali Farokhmanesh,Colorado St.,11-9 MWC,21,#FFFFFF,#000000,4,MWC,Colorado,black,2026.0,Last,21,12,11,9,0.0
 1974,allan-freund-1,Allan Freund,Eastern Mich.,8-18,8,#FFFFFF,#000000,4,Ind,Michigan,black,1974.0,Return,8,18,,,0.0
 1975,allan-freund-1,Allan Freund,Eastern Mich.,4-9 MAC,12,#FFFFFF,#000000,4,MAC,Michigan,black,1974.0,Return,12,14,4,9,0.0
 1976,allan-freund-1,Allan Freund,Eastern Mich.,1-15 MAC,7,#FFFFFF,#000000,4,MAC,Michigan,black,1974.0,Unknown,7,20,1,15,0.0
@@ -563,7 +565,8 @@ Sweet 16",38,#002664,#FFFFFF,4,Ind,Pennsylvania,black,1937.0,Return,18,10,,,0.2
 2023,alvin-brooks-2,Alvin Brooks,Lamar University,5-13 SLC,9,#FFFFFF,#000000,4,Southland,Texas,black,2022.0,Return,9,22,5,13,0.0
 2024,alvin-brooks-2,Alvin Brooks,Lamar University,12-6 SLC,19,#FFFFFF,#000000,4,Southland,Texas,black,2022.0,Return,19,14,12,6,0.0
 2025,alvin-brooks-2,Alvin Brooks,Lamar University,14-6 SLC,20,#FFFFFF,#000000,4,Southland,Texas,black,2022.0,Return,20,13,14,6,0.0
-2026,alvin-brooks-2,Alvin Brooks,Lamar University,7-15 SLC,12,#FFFFFF,#000000,4,Southland,Texas,black,2022.0,Last,12,19,7,15,0.0
+2026,alvin-brooks-2,Alvin Brooks,Lamar University,7-15 SLC,12,#FFFFFF,#000000,4,Southland,Texas,black,2022.0,Fired,12,19,7,15,0.0
+2027,alvin-brooks-2,Alvin Brooks,Lamar University,Fired,0,#FFFFFF,#000000,0,Southland,Texas,white,2022.0,Last,,,,,
 1921,alvin-twitchell-1,Alvin Twitchell,BYU,10-2,10,#FFFFFF,#000000,4,Ind,Utah,black,1921.0,Return,10,2,,,0.0
 1922,alvin-twitchell-1,Alvin Twitchell,BYU,9-3,9,#FFFFFF,#000000,4,Ind,Utah,black,1921.0,Return,9,3,,,0.0
 1923,alvin-twitchell-1,Alvin Twitchell,BYU,7-5,7,#FFFFFF,#000000,4,Ind,Utah,black,1921.0,Return,7,5,,,0.0
@@ -626,7 +629,8 @@ NCAA 64",36,#14234B,#FFFFFF,4,Horizon,Pennsylvania,black,2011.0,Return,26,9,15,5
 Sweet 16",46,#00794C,#FFFFFF,4,A-Sun,Florida,black,2012.0,Left,26,11,13,5,0.2
 2014,andy-enfield-1,Andy Enfield,FGCU,Southern California,0,#FFFFFF,#000000,0,A-Sun,Florida,white,2012.0,Last,,,,,
 2025,andy-enfield-1,Andy Enfield,SMU,13-7 ACC,24,#FFFFFF,#000000,4,ACC,Texas,black,2025.0,Return,24,11,13,7,0.0
-2026,andy-enfield-1,Andy Enfield,SMU,8-10 ACC,20,#FFFFFF,#000000,4,ACC,Texas,black,2025.0,Last,20,13,8,10,0.0
+2026,andy-enfield-1,Andy Enfield,SMU,"8-10 ACC
+NCAA 68",25,#CC0035,#FFFFFF,4,ACC,Texas,black,2025.0,Last,20,13,8,10,0.05
 2014,andy-enfield-1,Andy Enfield,Southern California,2-16 P12,11,#FFFFFF,#000000,4,Pac-12,California,black,2014.0,Return,11,21,2,16,0.0
 2015,andy-enfield-1,Andy Enfield,Southern California,3-15 P12,12,#FFFFFF,#000000,4,Pac-12,California,black,2014.0,Return,12,20,3,15,0.0
 2016,andy-enfield-1,Andy Enfield,Southern California,"9-9 P12
@@ -671,11 +675,11 @@ NCAA 64",37,#1E6B52,#FFFFFF,4,CUSA,Alabama,black,2021.0,Return,27,8,14,4,0.1
 2024,andy-kennedy-1,Andy Kennedy,UAB,"12-6 Amer
 NCAA 64",33,#1E6B52,#FFFFFF,4,AAC,Alabama,black,2021.0,Return,23,12,12,6,0.1
 2025,andy-kennedy-1,Andy Kennedy,UAB,13-5 Amer,24,#FFFFFF,#000000,4,AAC,Alabama,black,2021.0,Return,24,13,13,5,0.0
-2026,andy-kennedy-1,Andy Kennedy,UAB,11-7 Amer,20,#FFFFFF,#000000,4,American,Alabama,black,2021.0,Last,20,11,11,7,0.0
+2026,andy-kennedy-1,Andy Kennedy,UAB,11-7 Amer,20,#FFFFFF,#000000,4,American,Alabama,black,2021.0,Last,20,12,11,7,0.0
 1951,andy-mooradian-1,Andy Mooradian,New Hampshire,4-12,4,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1951.0,Last,4,12,,,0.0
 2024,andy-newman-1,Andy Newman,CSUN,9-11 BWst,19,#FFFFFF,#000000,4,Big West,California,black,2024.0,Return,19,15,9,11,0.0
 2025,andy-newman-1,Andy Newman,CSUN,14-6 BWst,22,#FFFFFF,#000000,4,Big West,California,black,2024.0,Return,22,11,14,6,0.0
-2026,andy-newman-1,Andy Newman,CSUN,12-8 BWst,19,#FFFFFF,#000000,4,Big West,California,black,2024.0,Last,19,13,12,8,0.0
+2026,andy-newman-1,Andy Newman,CSUN,12-8 BWst,20,#FFFFFF,#000000,4,Big West,California,black,2024.0,Last,20,14,12,8,0.0
 2013,andy-newman-1,Andy Newman,Cal St. Fullerton,6-12 BWst,14,#FFFFFF,#000000,4,Big West,California,black,2013.0,Resigned,14,18,6,12,0.0
 2014,andy-newman-1,Andy Newman,Cal St. Fullerton,Resigned,0,#FFFFFF,#000000,0,Big West,California,white,2013.0,Last,,,,,
 1980,andy-russo-1,Andy Russo,Louisiana Tech,4-6 SLC,17,#FFFFFF,#000000,4,Southland,Louisiana,black,1980.0,Return,17,10,4,6,0.0
@@ -776,7 +780,7 @@ NCAA Lock",44,#CE0037,#FFFFFF,4,A-10,Ohio,black,2018.0,Return,29,2,18,0,0.15
 2024,anthony-grant-2,Anthony Grant,Dayton,"14-4 A10
 NCAA 32",40,#CE0037,#FFFFFF,4,A-10,Ohio,black,2018.0,Return,25,8,14,4,0.15
 2025,anthony-grant-2,Anthony Grant,Dayton,12-6 A10,23,#FFFFFF,#000000,4,A-10,Ohio,black,2018.0,Return,23,11,12,6,0.0
-2026,anthony-grant-2,Anthony Grant,Dayton,12-6 A10,21,#FFFFFF,#000000,4,A-10,Ohio,black,2018.0,Last,21,10,12,6,0.0
+2026,anthony-grant-2,Anthony Grant,Dayton,12-6 A10,23,#FFFFFF,#000000,4,A-10,Ohio,black,2018.0,Last,23,11,12,6,0.0
 2016,anthony-grant-2,Anthony Grant,Thunder,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2017,anthony-grant-2,Anthony Grant,Thunder,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2007,anthony-grant-2,Anthony Grant,VCU,"16-2 CAA
@@ -833,7 +837,8 @@ NCAA 64",34,#FFB300,#000000,4,CAA,Virginia,black,2007.0,Left,24,10,14,4,0.1
 2021,anthony-stewart-1,Anthony Stewart,UT Martin,Health,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2017.0,Last,,,,,
 2024,antoine-pettway-1,Antoine Pettway,Kennesaw St.,6-10 ASun,15,#FFFFFF,#000000,4,A-Sun,Georgia,black,2024.0,Return,15,16,6,10,0.0
 2025,antoine-pettway-1,Antoine Pettway,Kennesaw St.,10-8 CUSA,19,#FFFFFF,#000000,4,CUSA,Georgia,black,2024.0,Return,19,14,10,8,0.0
-2026,antoine-pettway-1,Antoine Pettway,Kennesaw St.,10-10 CUSA,18,#FFFFFF,#000000,4,CUSA,Georgia,black,2024.0,Last,18,13,10,10,0.0
+2026,antoine-pettway-1,Antoine Pettway,Kennesaw St.,"10-10 CUSA
+NCAA 64",31,#FFC629,#231F20,4,CUSA,Georgia,black,2024.0,Last,21,13,10,10,0.1
 1911,ar-hackett-1,A.R. Hackett,Drake,0-2 MVC,0,#FFFFFF,#000000,4,MVC,Iowa,black,1911.0,Return,0,6,0,2,0.0
 1912,ar-hackett-1,A.R. Hackett,Drake,0-8 MVC,1,#FFFFFF,#000000,4,MVC,Iowa,black,1911.0,Last,1,8,0,8,0.0
 1904,ar-scott-1,A.R. Scott,Syracuse,11-8,11,#FFFFFF,#000000,4,Ind,New York,black,1904.0,Return,11,8,,,0.0
@@ -872,7 +877,7 @@ Bubble",35,#990000,#EDEBEB,4,Big Ten,Indiana,black,2018.0,Return,20,12,9,11,0.15
 2023,archie-miller-1,Archie Miller,Rhode Island,5-13 A10,9,#FFFFFF,#000000,4,A-10,Rhode Island,black,2023.0,Return,9,22,5,13,0.0
 2024,archie-miller-1,Archie Miller,Rhode Island,6-12 A10,12,#FFFFFF,#000000,4,A-10,Rhode Island,black,2023.0,Return,12,20,6,12,0.0
 2025,archie-miller-1,Archie Miller,Rhode Island,7-11 A10,18,#FFFFFF,#000000,4,A-10,Rhode Island,black,2023.0,Return,18,13,7,11,0.0
-2026,archie-miller-1,Archie Miller,Rhode Island,7-11 A10,16,#FFFFFF,#000000,4,A-10,Rhode Island,black,2023.0,Last,16,15,7,11,0.0
+2026,archie-miller-1,Archie Miller,Rhode Island,7-11 A10,16,#FFFFFF,#000000,4,A-10,Rhode Island,black,2023.0,Last,16,16,7,11,0.0
 1959,archie-oldham-1,Archie Oldham,Columbia,2-12 Ivy,3,#FFFFFF,#000000,4,Ivy,New York,black,1959.0,Return,3,21,2,12,0.0
 1960,archie-oldham-1,Archie Oldham,Columbia,2-12 Ivy,9,#FFFFFF,#000000,4,Ivy,New York,black,1959.0,Unknown,9,14,2,12,0.0
 1961,archie-oldham-1,Archie Oldham,Columbia,?,0,#FFFFFF,#000000,0,Ivy,New York,white,1959.0,Last,,,,,
@@ -1362,7 +1367,8 @@ NCAA 32",38,#500778,#FFB500,4,MVC,Iowa,black,2007.0,Return,23,13,11,7,0.15
 2023,ben-jacobson-4,Ben Jacobson,UNI,9-11 MVC,14,#FFFFFF,#000000,4,MVC,Iowa,black,2007.0,Return,14,18,9,11,0.0
 2024,ben-jacobson-4,Ben Jacobson,UNI,12-8 MVC,19,#FFFFFF,#000000,4,MVC,Iowa,black,2007.0,Return,19,14,12,8,0.0
 2025,ben-jacobson-4,Ben Jacobson,UNI,14-6 MVC,20,#FFFFFF,#000000,4,MVC,Iowa,black,2007.0,Return,20,13,14,6,0.0
-2026,ben-jacobson-4,Ben Jacobson,UNI,11-9 MVC,23,#FFFFFF,#000000,4,MVC,Iowa,black,2007.0,Last,23,12,11,9,0.0
+2026,ben-jacobson-4,Ben Jacobson,UNI,"11-9 MVC
+NCAA 64",33,#500778,#FFB500,4,MVC,Iowa,black,2007.0,Last,23,12,11,9,0.1
 1979,ben-jobe-1,Ben Jobe,Denver,15-12,15,#FFFFFF,#000000,4,Ind,Colorado,black,1979.0,Left,15,12,,,0.0
 1980,ben-jobe-1,Ben Jobe,Denver,Denver Nuggets (asst.),0,#FFFFFF,#000000,0,Ind,Colorado,white,1979.0,Last,,,,,
 1972,ben-jobe-1,Ben Jobe,South Carolina St.,15-11,15,#FFFFFF,#000000,4,MEAC,South Carolina,black,1972.0,Return,15,11,,,0.0
@@ -1410,7 +1416,8 @@ NCAA 32",36,#69B3E7,#FFFFFF,4,SWAC,Louisiana,black,1987.0,Return,21,10,9,5,0.15
 2025,ben-mccollum-1,Ben McCollum,Drake,"17-3 MVC
 NCAA 32",46,#004A7C,#FFFFFF,4,MVC,Iowa,black,2025.0,Left,31,4,17,3,0.15
 2026,ben-mccollum-1,Ben McCollum,Drake,Iowa,0,#FFFFFF,#000000,0,MVC,Iowa,white,2025.0,Last,,,,,
-2026,ben-mccollum-1,Ben McCollum,Iowa,10-10 B1G,21,#FFFFFF,#000000,4,Big Ten,Iowa,black,2026.0,Last,21,11,10,10,0.0
+2026,ben-mccollum-1,Ben McCollum,Iowa,"10-10 B1G
+NCAA 64",31,#FFCD00,#000000,4,Big Ten,Iowa,black,2026.0,Last,21,12,10,10,0.1
 1940,ben-parker-1,Ben Parker,The Citadel,6-5 SoCon,4,#FFFFFF,#000000,4,Southern,South Carolina,black,1940.0,Return,4,5,6,5,0.0
 1941,ben-parker-1,Ben Parker,The Citadel,1-8 SoCon,5,#FFFFFF,#000000,4,Southern,South Carolina,black,1940.0,Last,5,13,1,8,0.0
 1950,ben-reiges-1,Ben Reiges,Northern Ariz.,3-19,3,#FFFFFF,#000000,4,BIAA,Arizona,black,1950.0,Last,3,19,,,0.0
@@ -1549,7 +1556,8 @@ Sweet 16",44,#A00B0B,#FFFFFF,4,Southland,Louisiana,black,1972.0,Resigned,24,5,8,
 1974,beryl-shipley-1,Beryl Shipley,Louisiana,Resigned,0,#FFFFFF,#000000,0,Southland,Louisiana,white,1972.0,Last,,,,,
 1908,bh-koehler-1,B.H. Koehler,Army West Point,9-3,9,#FFFFFF,#000000,4,Ind,New York,black,1908.0,Last,9,3,,,0.0
 1920,bill-allen-1,Bill Allen,Bradley,2-4,2,#FFFFFF,#000000,4,Ind,Illinois,black,1920.0,Last,2,4,,,0.0
-2026,bill-armstrong-1,Bill Armstrong,McNeese,19-3 SLC,28,#FFFFFF,#000000,4,Southland,Louisiana,black,2026.0,Last,28,5,19,3,0.0
+2026,bill-armstrong-1,Bill Armstrong,McNeese,"19-3 SLC
+NCAA 64",38,#00529B,#FFD204,4,Southland,Louisiana,black,2026.0,Last,28,5,19,3,0.1
 1996,bill-bayno-1,Bill Bayno,UNLV,7-11 BWst,10,#FFFFFF,#000000,4,Big West,Nevada,black,1996.0,Return,10,16,7,11,0.0
 1997,bill-bayno-1,Bill Bayno,UNLV,11-5 WAC,22,#FFFFFF,#000000,4,WAC,Nevada,black,1996.0,Return,22,10,11,5,0.0
 1998,bill-bayno-1,Bill Bayno,UNLV,"7-7 WAC
@@ -2227,7 +2235,8 @@ NCAA 32",39,#0051BA,#FFFFFF,4,Big 12,Kansas,black,2004.0,Return,24,8,13,5,0.15
 NCAA 32",38,#0051BA,#FFFFFF,4,Big 12,Kansas,black,2004.0,Return,23,11,10,8,0.15
 2025,bill-self-1,Bill Self,Kansas,"11-9 B12
 NCAA 64",31,#0051BA,#FFFFFF,4,Big 12,Kansas,black,2004.0,Return,21,13,11,9,0.1
-2026,bill-self-1,Bill Self,Kansas,12-6 B12,22,#FFFFFF,#000000,4,Big 12,Kansas,black,2004.0,Last,22,9,12,6,0.0
+2026,bill-self-1,Bill Self,Kansas,"12-6 B12
+NCAA 64",33,#0051BA,#FFFFFF,4,Big 12,Kansas,black,2004.0,Last,23,10,12,6,0.1
 1994,bill-self-1,Bill Self,Oral Roberts,6-21,6,#FFFFFF,#000000,4,Ind,Oklahoma,black,1994.0,Return,6,21,,,0.0
 1995,bill-self-1,Bill Self,Oral Roberts,10-17,10,#FFFFFF,#000000,4,Ind,Oklahoma,black,1994.0,Return,10,17,,,0.0
 1996,bill-self-1,Bill Self,Oral Roberts,18-9,18,#FFFFFF,#000000,4,Ind,Oklahoma,black,1994.0,Return,18,9,,,0.0
@@ -2381,7 +2390,8 @@ NCAA 64",28,#0033A0,#FFFFFF,4,SEC,Kentucky,black,2008.0,Return,18,13,12,4,0.1
 2023,billy-gillispie-1,Billy Gillispie,Tarleton St.,8-9 WAC,17,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Return,17,17,8,9,0.0
 2024,billy-gillispie-1,Billy Gillispie,Tarleton St.,16-4 WAC,25,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Return,25,10,16,4,0.0
 2025,billy-gillispie-1,Billy Gillispie,Tarleton St.,7-9 WAC,12,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Return,12,20,7,9,0.0
-2026,billy-gillispie-1,Billy Gillispie,Tarleton St.,5-13 WAC,14,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Last,14,18,5,13,0.0
+2026,billy-gillispie-1,Billy Gillispie,Tarleton St.,5-13 WAC,14,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Health,14,18,5,13,0.0
+2027,billy-gillispie-1,Billy Gillispie,Tarleton St.,Health,0,#FFFFFF,#000000,0,WAC,Texas,white,2021.0,Last,,,,,
 2005,billy-gillispie-1,Billy Gillispie,Texas A&M,8-8 B12,21,#FFFFFF,#000000,4,Big 12,Texas,black,2005.0,Return,21,10,8,8,0.0
 2006,billy-gillispie-1,Billy Gillispie,Texas A&M,"10-6 B12
 NCAA 32",37,#500000,#FFFFFF,4,Big 12,Texas,black,2005.0,Return,22,9,10,6,0.15
@@ -3293,7 +3303,8 @@ NCAA 64",26,#0039A6,#FFFFFF,4,TAAC,Georgia,black,1986.0,Return,16,15,7,7,0.1
 NCAA 32",43,#582C83,#FFFFFF,4,Southern,South Carolina,black,2018.0,Return,28,8,15,3,0.15
 2024,bob-richey-1,Bob Richey,Furman,10-8 SoCon,17,#FFFFFF,#000000,4,Southern,South Carolina,black,2018.0,Return,17,16,10,8,0.0
 2025,bob-richey-1,Bob Richey,Furman,11-7 SoCon,25,#FFFFFF,#000000,4,Southern,South Carolina,black,2018.0,Return,25,10,11,7,0.0
-2026,bob-richey-1,Bob Richey,Furman,10-8 SoCon,22,#FFFFFF,#000000,4,Southern,South Carolina,black,2018.0,Last,22,12,10,8,0.0
+2026,bob-richey-1,Bob Richey,Furman,"10-8 SoCon
+NCAA 64",32,#582C83,#FFFFFF,4,Southern,South Carolina,black,2018.0,Last,22,12,10,8,0.1
 1943,bob-ruess-1,Bob Ruess,Cincinnati,9-10,9,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return,9,10,,,0.0
 1944,bob-ruess-1,Bob Ruess,Cincinnati,6-5,6,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Last,6,5,,,0.0
 1981,bob-rupert-1,Bob Rupert,Akron,5-9 OVC,8,#FFFFFF,#000000,4,OVC,Ohio,black,1981.0,Return,8,18,5,9,0.0
@@ -3675,7 +3686,8 @@ Bubble",35,#FFC627,#8C1D40,4,Pac-12,Arizona,black,2016.0,Return,20,11,11,7,0.15
 NCAA 64",33,#FFC627,#8C1D40,4,Pac-12,Arizona,black,2016.0,Return,23,13,11,9,0.1
 2024,bobby-hurley-1,Bobby Hurley,Arizona St.,8-12 P12,14,#FFFFFF,#000000,4,Pac-12,Arizona,black,2016.0,Return,14,18,8,12,0.0
 2025,bobby-hurley-1,Bobby Hurley,Arizona St.,4-16 B12,13,#FFFFFF,#000000,4,Big 12,Arizona,black,2016.0,Return,13,20,4,16,0.0
-2026,bobby-hurley-1,Bobby Hurley,Arizona St.,7-11 B12,17,#FFFFFF,#000000,4,Big 12,Arizona,black,2016.0,Last,17,16,7,11,0.0
+2026,bobby-hurley-1,Bobby Hurley,Arizona St.,7-11 B12,17,#FFFFFF,#000000,4,Big 12,Arizona,black,2016.0,Fired,17,16,7,11,0.0
+2027,bobby-hurley-1,Bobby Hurley,Arizona St.,Fired,0,#FFFFFF,#000000,0,Big 12,Arizona,white,2016.0,Last,,,,,
 2014,bobby-hurley-1,Bobby Hurley,Buffalo,13-5 MAC,19,#FFFFFF,#000000,4,MAC,New York,black,2014.0,Return,19,10,13,5,0.0
 2015,bobby-hurley-1,Bobby Hurley,Buffalo,"12-6 MAC
 NCAA 64",33,#005BBB,#FFFFFF,4,MAC,New York,black,2014.0,Left,23,10,12,6,0.1
@@ -3838,7 +3850,8 @@ NCAA 64",26,#F56600,#FFFFFF,4,ACC,South Carolina,black,2011.0,Return,16,8,10,6,0
 Elite 8",49,#F56600,#FFFFFF,4,ACC,South Carolina,black,2011.0,Return,24,12,11,9,0.25
 2025,brad-brownell-1,Brad Brownell,Clemson,"18-2 ACC
 NCAA 64",37,#F56600,#FFFFFF,4,ACC,South Carolina,black,2011.0,Return,27,7,18,2,0.1
-2026,brad-brownell-1,Brad Brownell,Clemson,12-6 ACC,23,#FFFFFF,#000000,4,ACC,South Carolina,black,2011.0,Last,23,9,12,6,0.0
+2026,brad-brownell-1,Brad Brownell,Clemson,"12-6 ACC
+NCAA 64",34,#F56600,#FFFFFF,4,ACC,South Carolina,black,2011.0,Last,24,10,12,6,0.1
 2003,brad-brownell-1,Brad Brownell,UNCW,"15-3 CAA
 NCAA 64",34,#007680,#FFFFFF,4,CAA,North Carolina,black,2003.0,Return,24,7,15,3,0.1
 2004,brad-brownell-1,Brad Brownell,UNCW,9-9 CAA,15,#FFFFFF,#000000,4,CAA,North Carolina,black,2003.0,Return,15,15,9,9,0.0
@@ -3939,7 +3952,8 @@ NCAA 64",30,#FF5F05,#13294B,4,Big Ten,Illinois,black,2018.0,Return,20,13,11,9,0.
 Elite 8",54,#FF5F05,#13294B,4,Big Ten,Illinois,black,2018.0,Return,29,9,14,6,0.25
 2025,brad-underwood-1,Brad Underwood,Illinois,"12-8 B1G
 NCAA 32",37,#FF5F05,#13294B,4,Big Ten,Illinois,black,2018.0,Return,22,13,12,8,0.15
-2026,brad-underwood-1,Brad Underwood,Illinois,15-5 B1G,24,#FFFFFF,#000000,4,Big Ten,Illinois,black,2018.0,Last,24,7,15,5,0.0
+2026,brad-underwood-1,Brad Underwood,Illinois,"15-5 B1G
+NCAA 64",34,#FF5F05,#13294B,4,Big Ten,Illinois,black,2018.0,Last,24,8,15,5,0.1
 2007,brad-underwood-1,Brad Underwood,Kansas St.,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2008,brad-underwood-1,Brad Underwood,Kansas St.,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2009,brad-underwood-1,Brad Underwood,Kansas St.,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -4061,12 +4075,13 @@ NCAA 32",42,#502D0E,#FFFFFF,4,Patriot,Pennsylvania,black,2008.0,Return,27,8,11,3
 2023,brett-reed-1,Brett Reed,Lehigh,11-7 Pat,16,#FFFFFF,#000000,4,Patriot,Pennsylvania,black,2008.0,Return,16,14,11,7,0.0
 2024,brett-reed-1,Brett Reed,Lehigh,9-9 Pat,14,#FFFFFF,#000000,4,Patriot,Pennsylvania,black,2008.0,Return,14,18,9,9,0.0
 2025,brett-reed-1,Brett Reed,Lehigh,6-12 Pat,11,#FFFFFF,#000000,4,Patriot,Pennsylvania,black,2008.0,Return,11,19,6,12,0.0
-2026,brett-reed-1,Brett Reed,Lehigh,11-7 Pat,18,#FFFFFF,#000000,4,Patriot,Pennsylvania,black,2008.0,Last,18,16,11,7,0.0
+2026,brett-reed-1,Brett Reed,Lehigh,"11-7 Pat
+NCAA 68",23,#502D0E,#FFFFFF,4,Patriot,Pennsylvania,black,2008.0,Last,18,16,11,7,0.05
 2022,brette-tanner-1,Brette Tanner,Abilene Christian,11-7 WAC,25,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Return,25,11,11,7,0.0
 2023,brette-tanner-1,Brette Tanner,Abilene Christian,5-11 WAC,13,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Return,13,17,5,11,0.0
 2024,brette-tanner-1,Brette Tanner,Abilene Christian,10-10 WAC,16,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Return,16,18,10,10,0.0
 2025,brette-tanner-1,Brette Tanner,Abilene Christian,8-8 WAC,16,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Return,16,16,8,8,0.0
-2026,brette-tanner-1,Brette Tanner,Abilene Christian,5-13 WAC,14,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Last,14,18,5,13,0.0
+2026,brette-tanner-1,Brette Tanner,Abilene Christian,5-13 WAC,14,#FFFFFF,#000000,4,WAC,Texas,black,2022.0,Last,14,19,5,13,0.0
 2020,brian-barone-1,Brian Barone,SIUE,5-13 OVC,8,#FFFFFF,#000000,4,OVC,Illinois,black,2020.0,Return,8,23,5,13,0.0
 2021,brian-barone-1,Brian Barone,SIUE,7-12 OVC,9,#FFFFFF,#000000,4,OVC,Illinois,black,2020.0,Return,9,17,7,12,0.0
 2022,brian-barone-1,Brian Barone,SIUE,5-13 OVC,11,#FFFFFF,#000000,4,OVC,Illinois,black,2020.0,Return,11,21,5,13,0.0
@@ -4102,7 +4117,7 @@ Runner-up",67,#A6192E,#FFFFFF,4,MWC,California,black,2018.0,Return,32,7,15,3,0.3
 Sweet 16",46,#A6192E,#FFFFFF,4,MWC,California,black,2018.0,Return,26,11,11,7,0.2
 2025,brian-dutcher-1,Brian Dutcher,San Diego St.,"14-6 MWC
 NCAA 68",26,#A6192E,#FFFFFF,4,MWC,California,black,2018.0,Return,21,10,14,6,0.05
-2026,brian-dutcher-1,Brian Dutcher,San Diego St.,14-6 MWC,20,#FFFFFF,#000000,4,MWC,California,black,2018.0,Last,20,10,14,6,0.0
+2026,brian-dutcher-1,Brian Dutcher,San Diego St.,14-6 MWC,22,#FFFFFF,#000000,4,MWC,California,black,2018.0,Last,22,11,14,6,0.0
 2017,brian-earl-1,Brian Earl,Cornell,4-10 Ivy,8,#FFFFFF,#000000,4,Ivy,New York,black,2017.0,Return,8,21,4,10,0.0
 2018,brian-earl-1,Brian Earl,Cornell,6-8 Ivy,12,#FFFFFF,#000000,4,Ivy,New York,black,2017.0,Return,12,16,6,8,0.0
 2019,brian-earl-1,Brian Earl,Cornell,7-7 Ivy,15,#FFFFFF,#000000,4,Ivy,New York,black,2017.0,Return,15,16,7,7,0.0
@@ -4481,7 +4496,8 @@ NCAA 64",31,#9D2235,#FFFFFF,4,A-10,Massachusetts,black,1997.0,Return,21,11,12,4,
 2024,bryan-hodgson-1,Bryan Hodgson,Arkansas St.,11-7 SB,20,#FFFFFF,#000000,4,Sun Belt,Arkansas,black,2024.0,Return,20,17,11,7,0.0
 2025,bryan-hodgson-1,Bryan Hodgson,Arkansas St.,13-5 SB,25,#FFFFFF,#000000,4,Sun Belt,Arkansas,black,2024.0,Left,25,11,13,5,0.0
 2026,bryan-hodgson-1,Bryan Hodgson,Arkansas St.,South Fla.,0,#FFFFFF,#000000,0,Sun Belt,Arkansas,white,2024.0,Last,,,,,
-2026,bryan-hodgson-1,Bryan Hodgson,South Fla.,15-3 Amer,23,#FFFFFF,#000000,4,American,Florida,black,2026.0,Last,23,8,15,3,0.0
+2026,bryan-hodgson-1,Bryan Hodgson,South Fla.,"15-3 Amer
+NCAA 64",35,#006747,#FFFFFF,4,American,Florida,black,2026.0,Last,25,8,15,3,0.1
 1921,bryan-morse-1,Bryan Morse,George Washington,4-10,4,#FFFFFF,#000000,4,Ind,D.C.,black,1921.0,Return,4,10,,,0.0
 1922,bryan-morse-1,Bryan Morse,George Washington,8-6,8,#FFFFFF,#000000,4,Ind,D.C.,black,1921.0,Return,8,6,,,0.0
 1923,bryan-morse-1,Bryan Morse,George Washington,4-11,4,#FFFFFF,#000000,4,Ind,D.C.,black,1921.0,Last,4,11,,,0.0
@@ -4501,7 +4517,7 @@ NCAA 64",34,#552B9A,#FFFFFF,4,WAC,Arizona,black,2021.0,Return,24,12,10,7,0.1
 NCAA 32",45,#552B9A,#FFFFFF,4,WAC,Arizona,black,2021.0,Return,30,5,17,3,0.15
 2025,bryce-drew-1,Bryce Drew,Grand Canyon,"13-3 WAC
 NCAA 64",36,#552B9A,#FFFFFF,4,WAC,Arizona,black,2021.0,Return,26,8,13,3,0.1
-2026,bryce-drew-1,Bryce Drew,Grand Canyon,13-7 MWC,20,#FFFFFF,#000000,4,MWC,Arizona,black,2021.0,Last,20,11,13,7,0.0
+2026,bryce-drew-1,Bryce Drew,Grand Canyon,13-7 MWC,20,#FFFFFF,#000000,4,MWC,Arizona,black,2021.0,Last,20,12,13,7,0.0
 2012,bryce-drew-1,Bryce Drew,Valparaiso,14-4 Hrz,22,#FFFFFF,#000000,4,Horizon,Indiana,black,2012.0,Return,22,12,14,4,0.0
 2013,bryce-drew-1,Bryce Drew,Valparaiso,"13-3 Hrz
 NCAA 64",36,#FFE300,#000000,4,Horizon,Indiana,black,2012.0,Return,26,8,13,3,0.1
@@ -4531,7 +4547,8 @@ NCAA 64",29,#CFAE70,#1C1C1C,4,SEC,Tennessee,black,2017.0,Return,19,16,10,8,0.1
 NCAA 64",39,#0C2340,#FFFFFF,4,Southern,Alabama,black,2021.0,Return,29,6,15,3,0.1
 2025,bucky-mcmillan-1,Bucky McMillan,Samford,12-6 SoCon,22,#FFFFFF,#000000,4,Southern,Alabama,black,2021.0,Left,22,11,12,6,0.0
 2026,bucky-mcmillan-1,Bucky McMillan,Samford,Texas A&M,0,#FFFFFF,#000000,0,Southern,Alabama,white,2021.0,Last,,,,,
-2026,bucky-mcmillan-1,Bucky McMillan,Texas A&M,11-7 SEC,21,#FFFFFF,#000000,4,SEC,Texas,black,2026.0,Last,21,10,11,7,0.0
+2026,bucky-mcmillan-1,Bucky McMillan,Texas A&M,"11-7 SEC
+NCAA 64",31,#500000,#FFFFFF,4,SEC,Texas,black,2026.0,Last,21,11,11,7,0.1
 1952,bucky-oconnor-1,Bucky O'Connor,Iowa,11-3 B1G,19,#FFFFFF,#000000,4,Big Ten,Iowa,black,1952.0,Return,19,3,11,3,0.0
 1953,bucky-oconnor-1,Bucky O'Connor,Iowa,9-9 B1G,12,#FFFFFF,#000000,4,Big Ten,Iowa,black,1952.0,Return,12,10,9,9,0.0
 1954,bucky-oconnor-1,Bucky O'Connor,Iowa,11-3 B1G,17,#FFFFFF,#000000,4,Big Ten,Iowa,black,1952.0,Return,17,5,11,3,0.0
@@ -4903,8 +4920,7 @@ Likely AQ",34,#582C83,#EAAA00,4,SWAC,Texas,black,2016.0,Return,19,13,14,4,0.15
 2022,byron-smith-2,Byron Smith,Prairie View,8-8 SWAC,8,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Return,8,19,8,8,0.0
 2023,byron-smith-2,Byron Smith,Prairie View,9-9 SWAC,13,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Return,13,19,9,9,0.0
 2024,byron-smith-2,Byron Smith,Prairie View,5-13 SWAC,10,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Return,10,21,5,13,0.0
-2025,byron-smith-2,Byron Smith,Prairie View,4-14 SWAC,5,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Return,5,27,4,14,0.0
-2026,byron-smith-2,Byron Smith,Prairie View,9-9 SWAC,16,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Last,16,17,9,9,0.0
+2025,byron-smith-2,Byron Smith,Prairie View,4-14 SWAC,5,#FFFFFF,#000000,4,SWAC,Texas,black,2016.0,Last,5,27,4,14,0.0
 1912,c-fulmer-1,C. Fulmer,Bucknell,10-6,10,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1912.0,Last,10,6,,,0.0
 1914,ca-reed-1,C.A. Reed,Dartmouth,1-9 Ivy,4,#FFFFFF,#000000,4,Ivy,New Hampshire,black,1914.0,Last,4,13,1,9,0.0
 1910,ca-schroetter-1,C.A. Schroetter,Cincinnati,3-2,3,#FFFFFF,#000000,4,Ind,Ohio,black,1910.0,Last,3,2,,,0.0
@@ -5146,7 +5162,8 @@ NCAA AQ",41,#001D54,#FFFFFF,4,OVC,Tennessee,black,2020.0,Return,26,7,15,3,0.15
 2023,casey-alexander-1,Casey Alexander,Belmont,14-6 MVC,21,#FFFFFF,#000000,4,MVC,Tennessee,black,2020.0,Return,21,11,14,6,0.0
 2024,casey-alexander-1,Casey Alexander,Belmont,12-8 MVC,20,#FFFFFF,#000000,4,MVC,Tennessee,black,2020.0,Return,20,13,12,8,0.0
 2025,casey-alexander-1,Casey Alexander,Belmont,13-7 MVC,22,#FFFFFF,#000000,4,MVC,Tennessee,black,2020.0,Return,22,11,13,7,0.0
-2026,casey-alexander-1,Casey Alexander,Belmont,16-4 MVC,26,#FFFFFF,#000000,4,MVC,Tennessee,black,2020.0,Last,26,6,16,4,0.0
+2026,casey-alexander-1,Casey Alexander,Belmont,16-4 MVC,26,#FFFFFF,#000000,4,MVC,Tennessee,black,2020.0,Left,26,6,16,4,0.0
+2027,casey-alexander-1,Casey Alexander,Belmont,Kansas St.,0,#FFFFFF,#000000,0,MVC,Tennessee,white,2020.0,Last,,,,,
 2014,casey-alexander-1,Casey Alexander,Lipscomb,10-8 ASun,15,#FFFFFF,#000000,4,A-Sun,Tennessee,black,2014.0,Return,15,15,10,8,0.0
 2015,casey-alexander-1,Casey Alexander,Lipscomb,7-7 ASun,14,#FFFFFF,#000000,4,A-Sun,Tennessee,black,2014.0,Return,14,17,7,7,0.0
 2016,casey-alexander-1,Casey Alexander,Lipscomb,7-7 ASun,12,#FFFFFF,#000000,4,A-Sun,Tennessee,black,2014.0,Return,12,21,7,7,0.0
@@ -5427,7 +5444,7 @@ Sweet 16",46,#AE122A,#FFFFFF,4,Southern,Virginia,black,1977.0,Return,26,4,10,2,0
 1981,charlie-schmaus-1,Charlie Schmaus,VMI,3-13 SoCon,4,#FFFFFF,#000000,4,Southern,Virginia,black,1977.0,Return,4,23,3,13,0.0
 1982,charlie-schmaus-1,Charlie Schmaus,VMI,1-15 SoCon,1,#FFFFFF,#000000,4,Southern,Virginia,black,1977.0,Fired,1,25,1,15,0.0
 1983,charlie-schmaus-1,Charlie Schmaus,VMI,Fired,0,#FFFFFF,#000000,0,Southern,Virginia,white,1977.0,Last,,,,,
-2026,charlie-ward-1,Charlie Ward Jr.,Florida A&M,11-7 SWAC,15,#FFFFFF,#000000,4,SWAC,Florida,black,2026.0,Last,15,15,11,7,0.0
+2026,charlie-ward-1,Charlie Ward Jr.,Florida A&M,11-7 SWAC,15,#FFFFFF,#000000,4,SWAC,Florida,black,2026.0,Last,15,16,11,7,0.0
 1934,charlie-willard-1,Charlie Willard,The Citadel,8-7,8,#FFFFFF,#000000,4,Ind,South Carolina,black,1934.0,Return,8,7,,,0.0
 1935,charlie-willard-1,Charlie Willard,The Citadel,6-9,6,#FFFFFF,#000000,4,Ind,South Carolina,black,1934.0,Last,6,9,,,0.0
 2010,charlton-young-1,Charlton Young,Ga. Southern,6-12 SoCon,9,#FFFFFF,#000000,4,Southern,Georgia,black,2010.0,Return,9,23,6,12,0.0
@@ -5507,7 +5524,7 @@ NCAA 32",45,#6E2639,#FFFFFF,4,Sun Belt,Arkansas,black,2016.0,Left,30,5,17,3,0.15
 2024,chris-beard-1,Chris Beard,Ole Miss,7-11 SEC,20,#FFFFFF,#000000,4,SEC,Mississippi,black,2024.0,Return,20,12,7,11,0.0
 2025,chris-beard-1,Chris Beard,Ole Miss,"10-8 SEC
 Sweet 16",44,#C21F2C,#FFFFFF,4,SEC,Mississippi,black,2024.0,Return,24,12,10,8,0.2
-2026,chris-beard-1,Chris Beard,Ole Miss,4-14 SEC,13,#FFFFFF,#000000,4,SEC,Mississippi,black,2024.0,Last,13,19,4,14,0.0
+2026,chris-beard-1,Chris Beard,Ole Miss,4-14 SEC,15,#FFFFFF,#000000,4,SEC,Mississippi,black,2024.0,Last,15,20,4,14,0.0
 2022,chris-beard-1,Chris Beard,Texas,"10-8 B12
 NCAA 32",37,#BF5700,#FFFFFF,4,Big 12,Texas,black,2022.0,Return,22,12,10,8,0.15
 2023,chris-beard-1,Chris Beard,Texas,7-1,7,#FFFFFF,#000000,3,Big 12,Texas,black,2022.0,Scandal,,,,,
@@ -5525,7 +5542,7 @@ NCAA 32",33,#E90802,#FFFFFF,4,Big 12,Texas,black,2017.0,Left,18,11,9,8,0.15
 2023,chris-caputo-1,Chris Caputo,George Washington,10-8 A10,16,#FFFFFF,#000000,4,A-10,D.C.,black,2023.0,Return,16,16,10,8,0.0
 2024,chris-caputo-1,Chris Caputo,George Washington,4-14 A10,15,#FFFFFF,#000000,4,A-10,D.C.,black,2023.0,Return,15,17,4,14,0.0
 2025,chris-caputo-1,Chris Caputo,George Washington,9-9 A10,21,#FFFFFF,#000000,4,A-10,D.C.,black,2023.0,Return,21,13,9,9,0.0
-2026,chris-caputo-1,Chris Caputo,George Washington,8-10 A10,17,#FFFFFF,#000000,4,A-10,D.C.,black,2023.0,Last,17,14,8,10,0.0
+2026,chris-caputo-1,Chris Caputo,George Washington,8-10 A10,18,#FFFFFF,#000000,4,A-10,D.C.,black,2023.0,Last,18,15,8,10,0.0
 2024,chris-casey-1,Chris Casey,Fairfield,14-6 MAAC,24,#FFFFFF,#000000,4,MAAC,Connecticut,black,2024.0,Return,24,13,14,6,0.0
 2025,chris-casey-1,Chris Casey,Fairfield,8-12 MAAC,12,#FFFFFF,#000000,4,MAAC,Connecticut,black,2024.0,Return,12,20,8,12,0.0
 2026,chris-casey-1,Chris Casey,Fairfield,11-9 MAAC,21,#FFFFFF,#000000,4,MAAC,Connecticut,black,2024.0,Last,21,13,11,9,0.0
@@ -5554,7 +5571,7 @@ NCAA 32",37,#4E2A84,#FFFFFF,4,Big Ten,Illinois,black,2014.0,Return,22,12,12,8,0.
 2024,chris-collins-3,Chris Collins,Northwestern,"12-8 B1G
 NCAA 32",37,#4E2A84,#FFFFFF,4,Big Ten,Illinois,black,2014.0,Return,22,12,12,8,0.15
 2025,chris-collins-3,Chris Collins,Northwestern,7-13 B1G,17,#FFFFFF,#000000,4,Big Ten,Illinois,black,2014.0,Return,17,16,7,13,0.0
-2026,chris-collins-3,Chris Collins,Northwestern,5-15 B1G,15,#FFFFFF,#000000,4,Big Ten,Illinois,black,2014.0,Last,15,18,5,15,0.0
+2026,chris-collins-3,Chris Collins,Northwestern,5-15 B1G,15,#FFFFFF,#000000,4,Big Ten,Illinois,black,2014.0,Last,15,19,5,15,0.0
 2023,chris-crutchfield-1,Chris Crutchfield,Omaha,4-14 Sum,9,#FFFFFF,#000000,4,Summit,Nebraska,black,2023.0,Return,9,23,4,14,0.0
 2024,chris-crutchfield-1,Chris Crutchfield,Omaha,7-9 Sum,15,#FFFFFF,#000000,4,Summit,Nebraska,black,2023.0,Return,15,18,7,9,0.0
 2025,chris-crutchfield-1,Chris Crutchfield,Omaha,"13-3 Sum
@@ -5713,7 +5730,7 @@ NCAA 32",39,#000066,#FFFFFF,4,A-10,Virginia,black,2006.0,Return,24,13,10,8,0.15
 2026,chris-mooney-1,Chris Mooney,Richmond,5-13 A10,15,#FFFFFF,#000000,4,A-10,Virginia,black,2006.0,Last,15,17,5,13,0.0
 2024,chris-mudge-1,Chris Mudge,Sam Houston,13-3 CUSA,21,#FFFFFF,#000000,4,CUSA,Texas,black,2024.0,Return,21,12,13,3,0.0
 2025,chris-mudge-1,Chris Mudge,Sam Houston,6-12 CUSA,13,#FFFFFF,#000000,4,CUSA,Texas,black,2024.0,Return,13,19,6,12,0.0
-2026,chris-mudge-1,Chris Mudge,Sam Houston,13-7 CUSA,22,#FFFFFF,#000000,4,CUSA,Texas,black,2024.0,Last,22,10,13,7,0.0
+2026,chris-mudge-1,Chris Mudge,Sam Houston,13-7 CUSA,22,#FFFFFF,#000000,4,CUSA,Texas,black,2024.0,Last,22,11,13,7,0.0
 2016,chris-mullin-1,Chris Mullin,St. John's (NY),1-17 BE,8,#FFFFFF,#000000,4,Big East,New York,black,2016.0,Return,8,24,1,17,0.0
 2017,chris-mullin-1,Chris Mullin,St. John's (NY),7-11 BE,14,#FFFFFF,#000000,4,Big East,New York,black,2016.0,Return,14,19,7,11,0.0
 2018,chris-mullin-1,Chris Mullin,St. John's (NY),4-14 BE,16,#FFFFFF,#000000,4,Big East,New York,black,2016.0,Return,16,17,4,14,0.0
@@ -5962,7 +5979,7 @@ NCAA 32",38,#B01E24,#FFFFFF,4,Sun Belt,Kentucky,black,1981.0,Left,23,8,10,4,0.15
 2014,clemon-johnson-1,Clemon Johnson,Florida A&M,8-8 MEAC,14,#FFFFFF,#000000,4,MEAC,Florida,black,2012.0,Fired,14,18,8,8,0.0
 2015,clemon-johnson-1,Clemon Johnson,Florida A&M,Fired,0,#FFFFFF,#000000,0,MEAC,Florida,white,2012.0,Last,,,,,
 2025,cleo-hill-jr-1,Cleo Hill Jr.,UMES,2-12 MEAC,6,#FFFFFF,#000000,4,MEAC,Maryland,black,2025.0,Return,6,25,2,12,0.0
-2026,cleo-hill-jr-1,Cleo Hill Jr.,UMES,5-9 MEAC,9,#FFFFFF,#000000,4,MEAC,Maryland,black,2025.0,Last,9,22,5,9,0.0
+2026,cleo-hill-jr-1,Cleo Hill Jr.,UMES,5-9 MEAC,9,#FFFFFF,#000000,4,MEAC,Maryland,black,2025.0,Last,9,23,5,9,0.0
 1995,cleveland-edwards-1,Cleveland Edwards,UNLV,7-11 BWst,5,#FFFFFF,#000000,4,Big West,Nevada,black,1995.0,Unknown,5,9,7,11,0.0
 1996,cleveland-edwards-1,Cleveland Edwards,UNLV,?,0,#FFFFFF,#000000,0,Big West,Nevada,white,1995.0,Last,,,,,
 1943,cliff-battles-1,Cliff Battles,Columbia,5-7 Ivy,8,#FFFFFF,#000000,4,Ivy,New York,black,1943.0,Last,8,8,5,7,0.0
@@ -6079,10 +6096,11 @@ NCAA 48",38,#00205B,#FFFFFF,4,Sun Belt,Alabama,black,1976.0,Return,23,6,12,2,0.1
 1961,clifford-wells-1,Clifford Wells,Tulane,6-8 SEC,11,#FFFFFF,#000000,4,SEC,Louisiana,black,1946.0,Return,11,13,6,8,0.0
 1962,clifford-wells-1,Clifford Wells,Tulane,6-8 SEC,12,#FFFFFF,#000000,4,SEC,Louisiana,black,1946.0,Return,12,10,6,8,0.0
 1963,clifford-wells-1,Clifford Wells,Tulane,4-10 SEC,6,#FFFFFF,#000000,4,SEC,Louisiana,black,1946.0,Last,6,16,4,10,0.0
-2026,clint-allard-1,Clint Allard,UC San Diego,12-8 BWst,23,#FFFFFF,#000000,4,Big West,California,black,2026.0,Last,23,10,12,8,0.0
+2026,clint-allard-1,Clint Allard,UC San Diego,12-8 BWst,23,#FFFFFF,#000000,4,Big West,California,black,2026.0,Last,23,11,12,8,0.0
 1992,clint-bryant-1,,Augusta State,Augusta State (AD),0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 2025,clint-sargent-1,Clint Sargent,Wright St.,8-12 Hrz,15,#FFFFFF,#000000,4,Horizon,Ohio,black,2025.0,Return,15,18,8,12,0.0
-2026,clint-sargent-1,Clint Sargent,Wright St.,15-5 Hrz,23,#FFFFFF,#000000,4,Horizon,Ohio,black,2025.0,Last,23,11,15,5,0.0
+2026,clint-sargent-1,Clint Sargent,Wright St.,"15-5 Hrz
+NCAA 64",33,#046A38,#FFFFFF,4,Horizon,Ohio,black,2025.0,Last,23,11,15,5,0.1
 1950,clyde-barker-1,,Muhlenburg,?,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 1943,clyde-carpenter-1,Clyde Carpenter,Montana,6-3,6,#FFFFFF,#000000,4,Ind,Montana,black,1943.0,Last,6,3,,,0.0
 1999,clyde-drexler-1,Clyde Drexler,Houston,5-11 CUSA,10,#FFFFFF,#000000,4,CUSA,Texas,black,1999.0,Return,10,17,5,11,0.0
@@ -6290,7 +6308,7 @@ NCAA 64",26,#F1B82D,#000000,4,SEC,Missouri,black,2018.0,Return,16,10,8,8,0.1
 2011,cuonzo-martin-1,Cuonzo Martin,Missouri St.,15-3 MVC,26,#FFFFFF,#000000,4,MVC,Missouri,black,2009.0,Return,26,9,15,3,0.0
 2012,cuonzo-martin-1,Cuonzo Martin,Missouri St.,Tennessee,0,#FFFFFF,#000000,0,MVC,Missouri,white,2009.0,Return,,,,,
 2025,cuonzo-martin-1,Cuonzo Martin,Missouri St.,2-18 MVC,9,#FFFFFF,#000000,4,MVC,Missouri,black,2025.0,Return,9,23,2,18,0.0
-2026,cuonzo-martin-1,Cuonzo Martin,Missouri St.,8-12 CUSA,16,#FFFFFF,#000000,4,CUSA,Missouri,black,2025.0,Last,16,17,8,12,0.0
+2026,cuonzo-martin-1,Cuonzo Martin,Missouri St.,8-12 CUSA,16,#FFFFFF,#000000,4,CUSA,Missouri,black,2025.0,Last,16,18,8,12,0.0
 2012,cuonzo-martin-1,Cuonzo Martin,Tennessee,10-6 SEC,19,#FFFFFF,#000000,4,SEC,Tennessee,black,2012.0,Return,19,15,10,6,0.0
 2013,cuonzo-martin-1,Cuonzo Martin,Tennessee,11-7 SEC,20,#FFFFFF,#000000,4,SEC,Tennessee,black,2012.0,Return,20,13,11,7,0.0
 2014,cuonzo-martin-1,Cuonzo Martin,Tennessee,"11-7 SEC
@@ -6436,7 +6454,8 @@ NCAA 68",20,#0A254E,#FFFFFF,4,Big South,Virginia,black,2010.0,Return,15,21,6,10,
 2023,damon-stoudamire-1,Damon Stoudamire,Celtics,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2024,damon-stoudamire-1,Damon Stoudamire,Georgia Tech,7-13 ACC,14,#FFFFFF,#000000,4,ACC,Georgia,black,2024.0,Return,14,18,7,13,0.0
 2025,damon-stoudamire-1,Damon Stoudamire,Georgia Tech,10-10 ACC,17,#FFFFFF,#000000,4,ACC,Georgia,black,2024.0,Return,17,17,10,10,0.0
-2026,damon-stoudamire-1,Damon Stoudamire,Georgia Tech,2-16 ACC,11,#FFFFFF,#000000,4,ACC,Georgia,black,2024.0,Last,11,20,2,16,0.0
+2026,damon-stoudamire-1,Damon Stoudamire,Georgia Tech,2-16 ACC,11,#FFFFFF,#000000,4,ACC,Georgia,black,2024.0,Fired,11,20,2,16,0.0
+2027,damon-stoudamire-1,Damon Stoudamire,Georgia Tech,Fired,0,#FFFFFF,#000000,0,ACC,Georgia,white,2024.0,Last,,,,,
 2012,damon-stoudamire-1,Damon Stoudamire,Memphis,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2013,damon-stoudamire-1,Damon Stoudamire,Memphis,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2016,damon-stoudamire-1,Damon Stoudamire,Memphis,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
@@ -6588,7 +6607,8 @@ Champion",131,#000E2F,#FFFFFF,4,Big East,Connecticut,black,2019.0,Return,31,8,13
 Champion",137,#000E2F,#FFFFFF,4,Big East,Connecticut,black,2019.0,Return,37,3,18,2,1.0
 2025,dan-hurley-1,Dan Hurley,UConn,"14-6 BE
 NCAA 32",39,#000E2F,#FFFFFF,4,Big East,Connecticut,black,2019.0,Return,24,11,14,6,0.15
-2026,dan-hurley-1,Dan Hurley,UConn,17-3 BE,27,#FFFFFF,#000000,4,Big East,Connecticut,black,2019.0,Last,27,4,17,3,0.0
+2026,dan-hurley-1,Dan Hurley,UConn,"17-3 BE
+NCAA 64",39,#000E2F,#FFFFFF,4,Big East,Connecticut,black,2019.0,Last,29,5,17,3,0.1
 2011,dan-hurley-1,Dan Hurley,Wagner,9-9 NEC,13,#FFFFFF,#000000,4,NEC,New York,black,2011.0,Return,13,17,9,9,0.0
 2012,dan-hurley-1,Dan Hurley,Wagner,15-3 NEC,25,#FFFFFF,#000000,4,NEC,New York,black,2011.0,Left,25,6,15,3,0.0
 2013,dan-hurley-1,Dan Hurley,Wagner,Rhode Island,0,#FFFFFF,#000000,0,NEC,New York,white,2011.0,Last,,,,,
@@ -6842,7 +6862,7 @@ NCAA 32",43,#004991,#FFFFFF,4,Metro,Tennessee,black,1980.0,Scandal,28,6,9,3,0.15
 2024,daniyal-robinson-1,Daniyal Robinson,Cleveland St.,11-9 Hrz,21,#FFFFFF,#000000,4,Horizon,Ohio,black,2023.0,Return,21,15,11,9,0.0
 2025,daniyal-robinson-1,Daniyal Robinson,Cleveland St.,14-6 Hrz,23,#FFFFFF,#000000,4,Horizon,Ohio,black,2023.0,Left,23,13,14,6,0.0
 2026,daniyal-robinson-1,Daniyal Robinson,Cleveland St.,North Texas,0,#FFFFFF,#000000,0,Horizon,Ohio,white,2023.0,Last,,,,,
-2026,daniyal-robinson-1,Daniyal Robinson,North Texas,9-9 Amer,18,#FFFFFF,#000000,4,American,Texas,black,2026.0,Last,18,13,9,9,0.0
+2026,daniyal-robinson-1,Daniyal Robinson,North Texas,9-9 Amer,19,#FFFFFF,#000000,4,American,Texas,black,2026.0,Last,19,14,9,9,0.0
 1948,danny-doyle-1,Danny Doyle,Auburn,7-7 SEC,12,#FFFFFF,#000000,4,SEC,Alabama,black,1948.0,Return,12,10,7,7,0.0
 1949,danny-doyle-1,Danny Doyle,Auburn,5-11 SEC,9,#FFFFFF,#000000,4,SEC,Alabama,black,1948.0,Last,9,15,5,11,0.0
 2001,danny-kaspar-1,Danny Kaspar,SFA,6-14 SLC,9,#FFFFFF,#000000,4,Southland,Texas,black,2001.0,Return,9,17,6,14,0.0
@@ -6950,7 +6970,7 @@ NCAA 64",35,#003399,#FFFFFF,4,Big Sky,Montana,black,2020.0,Left,25,10,15,3,0.1
 NCAA 32",43,#0F2439,#FFFFFF,4,MWC,Utah,black,2024.0,Left,28,7,14,4,0.15
 2025,danny-sprinkle-1,Danny Sprinkle,Utah St.,Washington,0,#FFFFFF,#000000,0,MWC,Utah,white,2024.0,Last,,,,,
 2025,danny-sprinkle-1,Danny Sprinkle,Washington,4-16 B1G,13,#FFFFFF,#000000,4,Big Ten,Washington,black,2025.0,Return,13,18,4,16,0.0
-2026,danny-sprinkle-1,Danny Sprinkle,Washington,7-13 B1G,16,#FFFFFF,#000000,4,Big Ten,Washington,black,2025.0,Last,16,16,7,13,0.0
+2026,danny-sprinkle-1,Danny Sprinkle,Washington,7-13 B1G,16,#FFFFFF,#000000,4,Big Ten,Washington,black,2025.0,Last,16,17,7,13,0.0
 1999,darelle-porter-1,Darelle Porter,Duquesne,1-15 A10,5,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1999.0,Return,5,23,1,15,0.0
 2000,darelle-porter-1,Darelle Porter,Duquesne,4-12 A10,9,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1999.0,Return,9,20,4,12,0.0
 2001,darelle-porter-1,Darelle Porter,Duquesne,3-13 A10,9,#FFFFFF,#000000,4,A-10,Pennsylvania,black,1999.0,Fired,9,21,3,13,0.0
@@ -7005,7 +7025,8 @@ Likely AQ",36,#6E2639,#FFFFFF,4,Sun Belt,Arkansas,black,2019.0,Return,21,10,15,5
 2023,darrell-walker-1,Darrell Walker,Little Rock,6-12 OVC,10,#FFFFFF,#000000,4,OVC,Arkansas,black,2019.0,Return,10,21,6,12,0.0
 2024,darrell-walker-1,Darrell Walker,Little Rock,14-4 OVC,21,#FFFFFF,#000000,4,OVC,Arkansas,black,2019.0,Return,21,13,14,4,0.0
 2025,darrell-walker-1,Darrell Walker,Little Rock,12-8 OVC,19,#FFFFFF,#000000,4,OVC,Arkansas,black,2019.0,Return,19,14,12,8,0.0
-2026,darrell-walker-1,Darrell Walker,Little Rock,9-11 OVC,12,#FFFFFF,#000000,4,OVC,Arkansas,black,2019.0,Last,12,20,9,11,0.0
+2026,darrell-walker-1,Darrell Walker,Little Rock,9-11 OVC,12,#FFFFFF,#000000,4,OVC,Arkansas,black,2019.0,Fired,12,20,9,11,0.0
+2027,darrell-walker-1,Darrell Walker,Little Rock,Fired,0,#FFFFFF,#000000,0,OVC,Arkansas,white,2019.0,Last,,,,,
 2020,darrin-horn-1,Darrin Horn,Northern Ky.,"13-5 Hrz
 NCAA AQ",38,#FFC72C,#000000,4,Horizon,Kentucky,black,2020.0,Return,23,9,13,5,0.15
 2021,darrin-horn-1,Darrin Horn,Northern Ky.,11-7 Hrz,14,#FFFFFF,#000000,4,Horizon,Kentucky,black,2020.0,Return,14,11,11,7,0.0
@@ -7556,7 +7577,8 @@ NCAA 32",38,#9E1B32,#FFFFFF,4,SEC,Alabama,black,1993.0,Return,23,10,10,6,0.15
 2023,david-mclaughlin-1,David McLaughlin,Dartmouth,6-8 Ivy,10,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return,10,18,6,8,0.0
 2024,david-mclaughlin-1,David McLaughlin,Dartmouth,2-12 Ivy,6,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return,6,21,2,12,0.0
 2025,david-mclaughlin-1,David McLaughlin,Dartmouth,8-6 Ivy,14,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Return,14,14,8,6,0.0
-2026,david-mclaughlin-1,David McLaughlin,Dartmouth,5-9 Ivy,11,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Last,11,16,5,9,0.0
+2026,david-mclaughlin-1,David McLaughlin,Dartmouth,5-9 Ivy,11,#FFFFFF,#000000,4,Ivy,New Hampshire,black,2017.0,Fired,11,16,5,9,0.0
+2027,david-mclaughlin-1,David McLaughlin,Dartmouth,Fired,0,#FFFFFF,#000000,0,Ivy,New Hampshire,white,2017.0,Last,,,,,
 2018,david-padgett-1,David Padgett,Louisville,9-9 ACC,22,#FFFFFF,#000000,4,ACC,Kentucky,black,2018.0,Interim,22,14,9,9,0.0
 2019,david-padgett-1,David Padgett,Louisville,Interim,0,#FFFFFF,#000000,0,ACC,Kentucky,white,2018.0,Last,,,,,
 2023,david-patrick-1,David Patrick,Sacramento St.,7-11 BSky,14,#FFFFFF,#000000,4,Big Sky,California,black,2023.0,Return,14,18,7,11,0.0
@@ -7607,7 +7629,8 @@ NCAA AQ",40,#005643,#FFC82E,4,Summit,North Dakota,black,2015.0,Return,25,8,13,3,
 2023,david-richman-1,David Richman,North Dakota St.,11-7 Sum,16,#FFFFFF,#000000,4,Summit,North Dakota,black,2015.0,Return,16,17,11,7,0.0
 2024,david-richman-1,David Richman,North Dakota St.,8-8 Sum,15,#FFFFFF,#000000,4,Summit,North Dakota,black,2015.0,Return,15,17,8,8,0.0
 2025,david-richman-1,David Richman,North Dakota St.,10-6 Sum,21,#FFFFFF,#000000,4,Summit,North Dakota,black,2015.0,Return,21,11,10,6,0.0
-2026,david-richman-1,David Richman,North Dakota St.,14-2 Sum,27,#FFFFFF,#000000,4,Summit,North Dakota,black,2015.0,Last,27,7,14,2,0.0
+2026,david-richman-1,David Richman,North Dakota St.,"14-2 Sum
+NCAA 64",37,#005643,#FFC82E,4,Summit,North Dakota,black,2015.0,Last,27,7,14,2,0.1
 2022,david-riley-1,David Riley,Eastern Wash.,11-9 BSky,18,#FFFFFF,#000000,4,Big Sky,Washington,black,2022.0,Return,18,16,11,9,0.0
 2023,david-riley-1,David Riley,Eastern Wash.,16-2 BSky,23,#FFFFFF,#000000,4,Big Sky,Washington,black,2022.0,Return,23,11,16,2,0.0
 2024,david-riley-1,David Riley,Eastern Wash.,15-3 BSky,21,#FFFFFF,#000000,4,Big Sky,Washington,black,2022.0,Left,21,11,15,3,0.0
@@ -7713,7 +7736,7 @@ NCAA 64",31,#00244E,#FF7900,4,Big West,California,black,2014.0,Return,21,11,12,5
 2023,dedrique-taylor-1,Dedrique Taylor,Cal St. Fullerton,12-6 BWst,20,#FFFFFF,#000000,4,Big West,California,black,2014.0,Return,20,13,12,6,0.0
 2024,dedrique-taylor-1,Dedrique Taylor,Cal St. Fullerton,7-13 BWst,14,#FFFFFF,#000000,4,Big West,California,black,2014.0,Return,14,18,7,13,0.0
 2025,dedrique-taylor-1,Dedrique Taylor,Cal St. Fullerton,1-19 BWst,6,#FFFFFF,#000000,4,Big West,California,black,2014.0,Return,6,26,1,19,0.0
-2026,dedrique-taylor-1,Dedrique Taylor,Cal St. Fullerton,12-8 BWst,17,#FFFFFF,#000000,4,Big West,California,black,2014.0,Last,17,15,12,8,0.0
+2026,dedrique-taylor-1,Dedrique Taylor,Cal St. Fullerton,12-8 BWst,18,#FFFFFF,#000000,4,Big West,California,black,2014.0,Last,18,16,12,8,0.0
 1969,dee-nutt-1,Dee Nutt,Abilene Christian,5-20,5,#FFFFFF,#000000,4,Southland,Texas,black,1969.0,Unknown,5,20,,,0.0
 1970,dee-nutt-1,Dee Nutt,Abilene Christian,?,0,#FFFFFF,#000000,0,Southland,Texas,white,1969.0,Last,,,,,
 1970,dee-rowe-1,Dee Rowe,UConn,8-2 Yank,14,#FFFFFF,#000000,4,Yankee,Connecticut,black,1970.0,Return,14,9,8,2,0.0
@@ -7773,7 +7796,8 @@ NCAA 32",40,#F1B82D,#000000,4,SEC,Missouri,black,2023.0,Return,25,10,11,7,0.15
 2024,dennis-gates-1,Dennis Gates,Missouri,0-18 SEC,8,#FFFFFF,#000000,4,SEC,Missouri,black,2023.0,Return,8,24,0,18,0.0
 2025,dennis-gates-1,Dennis Gates,Missouri,"10-8 SEC
 NCAA 64",32,#F1B82D,#000000,4,SEC,Missouri,black,2023.0,Return,22,12,10,8,0.1
-2026,dennis-gates-1,Dennis Gates,Missouri,10-8 SEC,20,#FFFFFF,#000000,4,SEC,Missouri,black,2023.0,Last,20,11,10,8,0.0
+2026,dennis-gates-1,Dennis Gates,Missouri,"10-8 SEC
+NCAA 64",30,#F1B82D,#000000,4,SEC,Missouri,black,2023.0,Last,20,12,10,8,0.1
 1913,dennis-grady-1,Dennis Grady,Northwestern,7-2 Western,14,#FFFFFF,#000000,4,Western,Illinois,black,1913.0,Return,14,4,7,2,0.0
 1914,dennis-grady-1,Dennis Grady,Northwestern,6-5 Western,11,#FFFFFF,#000000,4,Western,Illinois,black,1913.0,Last,11,6,6,5,0.0
 1991,dennis-harp-1,,Hardin-Simmons,?,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
@@ -8993,7 +9017,7 @@ NCAA 32",40,#0033A0,#FFCF00,4,OVC,Kentucky,black,2007.0,Return,25,10,13,5,0.15
 2025,donny-lind-1,Donny Lind,Mount St. Mary's,"12-8 MAAC
 NCAA 64",33,#002855,#FFFFFF,4,MAAC,Maryland,black,2025.0,Return,23,13,12,8,0.1
 2026,donny-lind-1,Donny Lind,Mount St. Mary's,11-9 MAAC,15,#FFFFFF,#000000,4,MAAC,Maryland,black,2025.0,Last,15,17,11,9,0.0
-2026,donte-jackson-1,Donte Jackson,Alabama A&M,10-8 SWAC,17,#FFFFFF,#000000,4,SWAC,Alabama,black,2026.0,Last,17,14,10,8,0.0
+2026,donte-jackson-1,Donte Jackson,Alabama A&M,10-8 SWAC,18,#FFFFFF,#000000,4,SWAC,Alabama,black,2026.0,Last,18,15,10,8,0.0
 2018,donte-jackson-1,Donte Jackson,Grambling,13-5 SWAC,17,#FFFFFF,#000000,4,SWAC,Louisiana,black,2018.0,Return,17,14,13,5,0.0
 2019,donte-jackson-1,Donte Jackson,Grambling,10-8 SWAC,17,#FFFFFF,#000000,4,SWAC,Louisiana,black,2018.0,Return,17,17,10,8,0.0
 2020,donte-jackson-1,Donte Jackson,Grambling,11-7 SWAC,17,#FFFFFF,#000000,4,SWAC,Louisiana,black,2018.0,Return,17,15,11,7,0.0
@@ -9073,9 +9097,9 @@ NCAA 64",35,#8D0034,#FEBC18,4,MVC,Illinois,black,2022.0,Return,25,8,13,5,0.1
 2023,drew-valentine-1,Drew Valentine,Loyola Chicago,4-14 A10,10,#FFFFFF,#000000,4,A-10,Illinois,black,2022.0,Return,10,21,4,14,0.0
 2024,drew-valentine-1,Drew Valentine,Loyola Chicago,15-3 A10,23,#FFFFFF,#000000,4,A-10,Illinois,black,2022.0,Return,23,10,15,3,0.0
 2025,drew-valentine-1,Drew Valentine,Loyola Chicago,12-6 A10,25,#FFFFFF,#000000,4,A-10,Illinois,black,2022.0,Return,25,12,12,6,0.0
-2026,drew-valentine-1,Drew Valentine,Loyola Chicago,4-14 A10,9,#FFFFFF,#000000,4,A-10,Illinois,black,2022.0,Last,9,23,4,14,0.0
+2026,drew-valentine-1,Drew Valentine,Loyola Chicago,4-14 A10,9,#FFFFFF,#000000,4,A-10,Illinois,black,2022.0,Last,9,24,4,14,0.0
 2025,dru-joyce-1,Dru Joyce III,Duquesne,8-10 A10,13,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2025.0,Return,13,19,8,10,0.0
-2026,dru-joyce-1,Dru Joyce III,Duquesne,9-9 A10,17,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2025.0,Last,17,14,9,9,0.0
+2026,dru-joyce-1,Dru Joyce III,Duquesne,9-9 A10,18,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2025.0,Last,18,15,9,9,0.0
 2007,duane-reboul-1,,Birmingham-S,School left D1,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 2024,duane-simpkins-1,Duane Simpkins,American,10-8 Pat,16,#FFFFFF,#000000,4,Patriot,D.C.,black,2024.0,Return,16,16,10,8,0.0
 2025,duane-simpkins-1,Duane Simpkins,American,"13-5 Pat
@@ -9173,7 +9197,7 @@ NCAA 64",35,#003366,#FFFFFF,4,AAC,Florida,black,2019.0,Left,25,9,14,4,0.1
 2025,dusty-may-1,Dusty May,Fla. Atlantic,Michigan,0,#FFFFFF,#000000,0,AAC,Florida,white,2019.0,Last,,,,,
 2025,dusty-may-1,Dusty May,Michigan,"14-6 B1G
 Sweet 16",47,#00274C,#FFCB05,4,Big Ten,Michigan,black,2025.0,Return,27,10,14,6,0.2
-2026,dusty-may-1,Dusty May,Michigan,19-1 B1G,29,#FFFFFF,#000000,4,Big Ten,Michigan,black,2025.0,Last,29,2,19,1,0.0
+2026,dusty-may-1,Dusty May,Michigan,19-1 B1G,31,#FFFFFF,#000000,4,Big Ten,Michigan,black,2025.0,Last,31,3,19,1,0.0
 1974,dutch-belnap-1,Dutch Belnap,Utah St.,16-10,16,#FFFFFF,#000000,4,Ind,Utah,black,1974.0,Return,16,10,,,0.0
 1975,dutch-belnap-1,Dutch Belnap,Utah St.,"21-6
 NCAA 32",36,#0F2439,#FFFFFF,4,Ind,Utah,black,1974.0,Return,21,6,,,0.15
@@ -9248,7 +9272,8 @@ NCAA 40",34,#0F2439,#FFFFFF,4,PCAA,Utah,black,1974.0,Unknown,19,11,9,5,0.15
 2023,dwayne-stephens-2,Dwayne Stephens,Western Mich.,4-14 MAC,8,#FFFFFF,#000000,4,MAC,Michigan,black,2023.0,Return,8,23,4,14,0.0
 2024,dwayne-stephens-2,Dwayne Stephens,Western Mich.,9-9 MAC,12,#FFFFFF,#000000,4,MAC,Michigan,black,2023.0,Return,12,20,9,9,0.0
 2025,dwayne-stephens-2,Dwayne Stephens,Western Mich.,9-9 MAC,12,#FFFFFF,#000000,4,MAC,Michigan,black,2023.0,Return,12,20,9,9,0.0
-2026,dwayne-stephens-2,Dwayne Stephens,Western Mich.,4-14 MAC,10,#FFFFFF,#000000,4,MAC,Michigan,black,2023.0,Last,10,21,4,14,0.0
+2026,dwayne-stephens-2,Dwayne Stephens,Western Mich.,4-14 MAC,10,#FFFFFF,#000000,4,MAC,Michigan,black,2023.0,Fired,10,21,4,14,0.0
+2027,dwayne-stephens-2,Dwayne Stephens,Western Mich.,Fired,0,#FFFFFF,#000000,0,MAC,Michigan,white,2023.0,Last,,,,,
 1991,dwight-freeman-1,Dwight Freeman,Marshall,7-7 SoCon,14,#FFFFFF,#000000,4,Southern,West Virginia,black,1991.0,Return,14,14,7,7,0.0
 1992,dwight-freeman-1,Dwight Freeman,Marshall,3-11 SoCon,7,#FFFFFF,#000000,4,Southern,West Virginia,black,1991.0,Return,7,22,3,11,0.0
 1993,dwight-freeman-1,Dwight Freeman,Marshall,11-7 SoCon,16,#FFFFFF,#000000,4,Southern,West Virginia,black,1991.0,Return,16,11,11,7,0.0
@@ -9349,7 +9374,8 @@ Runner-up",54,#00693E,#FFFFFF,4,Ivy,New Hampshire,black,1944.0,Last,19,2,8,0,0.3
 2023,earl-grant-1,Earl Grant,Boston College,9-11 ACC,16,#FFFFFF,#000000,4,ACC,Massachusetts,black,2022.0,Return,16,17,9,11,0.0
 2024,earl-grant-1,Earl Grant,Boston College,8-12 ACC,20,#FFFFFF,#000000,4,ACC,Massachusetts,black,2022.0,Return,20,16,8,12,0.0
 2025,earl-grant-1,Earl Grant,Boston College,4-16 ACC,12,#FFFFFF,#000000,4,ACC,Massachusetts,black,2022.0,Return,12,19,4,16,0.0
-2026,earl-grant-1,Earl Grant,Boston College,4-14 ACC,11,#FFFFFF,#000000,4,ACC,Massachusetts,black,2022.0,Last,11,20,4,14,0.0
+2026,earl-grant-1,Earl Grant,Boston College,4-14 ACC,11,#FFFFFF,#000000,4,ACC,Massachusetts,black,2022.0,Fired,11,20,4,14,0.0
+2027,earl-grant-1,Earl Grant,Boston College,Fired,0,#FFFFFF,#000000,0,ACC,Massachusetts,white,2022.0,Last,,,,,
 2015,earl-grant-1,Earl Grant,Col. of Charleston,3-15 CAA,9,#FFFFFF,#000000,4,CAA,South Carolina,black,2015.0,Return,9,24,3,15,0.0
 2016,earl-grant-1,Earl Grant,Col. of Charleston,8-10 CAA,17,#FFFFFF,#000000,4,CAA,South Carolina,black,2015.0,Return,17,14,8,10,0.0
 2017,earl-grant-1,Earl Grant,Col. of Charleston,14-4 CAA,25,#FFFFFF,#000000,4,CAA,South Carolina,black,2015.0,Return,25,10,14,4,0.0
@@ -9456,7 +9482,7 @@ NCAA 40",36,#861F41,#FFFFFF,4,OVC,Kentucky,black,1977.0,Return,21,8,9,3,0.15
 2012,ed-cooley-1,Ed Cooley,Fairfield,Providence,0,#FFFFFF,#000000,0,MAAC,Connecticut,white,2007.0,Last,,,,,
 2024,ed-cooley-1,Ed Cooley,Georgetown,2-18 BE,9,#FFFFFF,#000000,4,Big East,D.C.,black,2024.0,Return,9,23,2,18,0.0
 2025,ed-cooley-1,Ed Cooley,Georgetown,8-12 BE,18,#FFFFFF,#000000,4,Big East,D.C.,black,2024.0,Return,18,16,8,12,0.0
-2026,ed-cooley-1,Ed Cooley,Georgetown,6-14 BE,15,#FFFFFF,#000000,4,Big East,D.C.,black,2024.0,Last,15,17,6,14,0.0
+2026,ed-cooley-1,Ed Cooley,Georgetown,6-14 BE,16,#FFFFFF,#000000,4,Big East,D.C.,black,2024.0,Last,16,18,6,14,0.0
 2012,ed-cooley-1,Ed Cooley,Providence,4-14 BE,15,#FFFFFF,#000000,4,Big East,Rhode Island,black,2012.0,Return,15,17,4,14,0.0
 2013,ed-cooley-1,Ed Cooley,Providence,9-9 BE,19,#FFFFFF,#000000,4,Big East,Rhode Island,black,2012.0,Return,19,15,9,9,0.0
 2014,ed-cooley-1,Ed Cooley,Providence,"10-8 BE
@@ -9577,7 +9603,8 @@ Runner-up",61,#E00122,#FFFFFF,4,MVC,Ohio,black,1961.0,Return,26,2,11,1,0.3500000
 1913,ed-sandborn-1,E.D. Sandborn,NC State,3-7,3,#FFFFFF,#000000,4,Ind,North Carolina,black,1913.0,Return,3,7,,,0.0
 1916,ed-sandborn-1,E.D. Sandborn,NC State,2-5,2,#FFFFFF,#000000,4,Ind,North Carolina,black,1916.0,Last,2,5,,,0.0
 2025,ed-schilling-1,Ed Schilling,Pepperdine,4-14 WCC,13,#FFFFFF,#000000,4,WCC,California,black,2025.0,Return,13,22,4,14,0.0
-2026,ed-schilling-1,Ed Schilling,Pepperdine,4-14 WCC,9,#FFFFFF,#000000,4,WCC,California,black,2025.0,Last,9,23,4,14,0.0
+2026,ed-schilling-1,Ed Schilling,Pepperdine,4-14 WCC,9,#FFFFFF,#000000,4,WCC,California,black,2025.0,Fired,9,23,4,14,0.0
+2027,ed-schilling-1,Ed Schilling,Pepperdine,Fired,0,#FFFFFF,#000000,0,WCC,California,white,2025.0,Last,,,,,
 1998,ed-schilling-1,Ed Schilling,Wright St.,3-11 MCC,10,#FFFFFF,#000000,4,MW Coll,Ohio,black,1998.0,Return,10,18,3,11,0.0
 1999,ed-schilling-1,Ed Schilling,Wright St.,4-10 MCC,9,#FFFFFF,#000000,4,MW Coll,Ohio,black,1998.0,Return,9,18,4,10,0.0
 2000,ed-schilling-1,Ed Schilling,Wright St.,6-8 MCC,11,#FFFFFF,#000000,4,MW Coll,Ohio,black,1998.0,Return,11,17,6,8,0.0
@@ -10235,12 +10262,14 @@ NCAA 32",43,#024731,#FFFFFF,4,Big West,Hawaii,black,2016.0,Return,28,6,13,3,0.15
 2023,eran-ganot-1,Eran Ganot,Hawaii,13-7 BWst,22,#FFFFFF,#000000,4,Big West,Hawaii,black,2016.0,Return,22,11,13,7,0.0
 2024,eran-ganot-1,Eran Ganot,Hawaii,11-9 BWst,20,#FFFFFF,#000000,4,Big West,Hawaii,black,2016.0,Return,20,14,11,9,0.0
 2025,eran-ganot-1,Eran Ganot,Hawaii,7-13 BWst,15,#FFFFFF,#000000,4,Big West,Hawaii,black,2016.0,Return,15,16,7,13,0.0
-2026,eran-ganot-1,Eran Ganot,Hawaii,14-6 BWst,22,#FFFFFF,#000000,4,Big West,Hawaii,black,2016.0,Last,22,8,14,6,0.0
+2026,eran-ganot-1,Eran Ganot,Hawaii,"14-6 BWst
+NCAA 64",34,#024731,#FFFFFF,4,Big West,Hawaii,black,2016.0,Last,24,8,14,6,0.1
 1909,erastus-milne-1,Erastus Milne,Utah,3-8,3,#FFFFFF,#000000,4,Ind,Utah,black,1909.0,Last,3,8,,,0.0
 2023,eric-duft-1,Eric Duft,Weber St.,12-6 BSky,18,#FFFFFF,#000000,4,Big Sky,Utah,black,2023.0,Return,18,15,12,6,0.0
 2024,eric-duft-1,Eric Duft,Weber St.,11-7 BSky,20,#FFFFFF,#000000,4,Big Sky,Utah,black,2023.0,Return,20,12,11,7,0.0
 2025,eric-duft-1,Eric Duft,Weber St.,5-13 BSky,12,#FFFFFF,#000000,4,Big Sky,Utah,black,2023.0,Return,12,22,5,13,0.0
-2026,eric-duft-1,Eric Duft,Weber St.,10-8 BSky,16,#FFFFFF,#000000,4,Big Sky,Utah,black,2023.0,Last,16,16,10,8,0.0
+2026,eric-duft-1,Eric Duft,Weber St.,10-8 BSky,16,#FFFFFF,#000000,4,Big Sky,Utah,black,2023.0,Fired,16,16,10,8,0.0
+2027,eric-duft-1,Eric Duft,Weber St.,Reassigned,0,#FFFFFF,#000000,0,Big Sky,Utah,white,2023.0,Last,,,,,
 2026,eric-henderson-1,Eric Henderson,Drake,6-14 MVC,14,#FFFFFF,#000000,4,MVC,Iowa,black,2026.0,Last,14,20,6,14,0.0
 2020,eric-henderson-1,Eric Henderson,South Dakota St.,13-3 Sum,22,#FFFFFF,#000000,4,Summit,South Dakota,black,2020.0,Return,22,10,13,3,0.0
 2021,eric-henderson-1,Eric Henderson,South Dakota St.,9-3 Sum,16,#FFFFFF,#000000,4,Summit,South Dakota,black,2020.0,Return,16,7,9,3,0.0
@@ -10262,7 +10291,7 @@ NCAA 64",32,#0033A0,#FFD100,4,Summit,South Dakota,black,2020.0,Return,22,13,12,4
 2023,eric-konkol-1,Eric Konkol,Tulsa,1-17 Amer,5,#FFFFFF,#000000,4,AAC,Oklahoma,black,2023.0,Return,5,25,1,17,0.0
 2024,eric-konkol-1,Eric Konkol,Tulsa,7-11 Amer,16,#FFFFFF,#000000,4,AAC,Oklahoma,black,2023.0,Return,16,15,7,11,0.0
 2025,eric-konkol-1,Eric Konkol,Tulsa,6-12 Amer,13,#FFFFFF,#000000,4,AAC,Oklahoma,black,2023.0,Return,13,20,6,12,0.0
-2026,eric-konkol-1,Eric Konkol,Tulsa,13-5 Amer,25,#FFFFFF,#000000,4,American,Oklahoma,black,2023.0,Last,25,6,13,5,0.0
+2026,eric-konkol-1,Eric Konkol,Tulsa,13-5 Amer,26,#FFFFFF,#000000,4,American,Oklahoma,black,2023.0,Last,26,7,13,5,0.0
 2020,eric-musselman-1,Eric Musselman,Arkansas,7-11 SEC,20,#FFFFFF,#000000,4,SEC,Arkansas,black,2020.0,Return,20,12,7,11,0.0
 2021,eric-musselman-1,Eric Musselman,Arkansas,"13-4 SEC
 Elite 8",50,#9D2235,#FFFFFF,4,SEC,Arkansas,black,2020.0,Return,25,7,13,4,0.25
@@ -10283,7 +10312,7 @@ NCAA 64",39,#041E42,#FFFFFF,4,MWC,Nevada,black,2016.0,Left,29,5,15,3,0.1
 2020,eric-musselman-1,Eric Musselman,Nevada,Arkansas,0,#FFFFFF,#000000,0,MWC,Nevada,white,2016.0,Last,,,,,
 2025,eric-musselman-1,Eric Musselman,Southern California,7-13 B1G,17,#FFFFFF,#000000,4,Big Ten,California,black,2025.0,Return,17,18,7,13,0.0
 2026,eric-musselman-1,Eric Musselman,Southern California,7-13 B1G,18,#FFFFFF,#000000,4,Big Ten,California,black,2025.0,Last,18,14,7,13,0.0
-2026,eric-olen-1,Eric Olen,New Mexico,13-7 MWC,22,#FFFFFF,#000000,4,MWC,New Mexico,black,2026.0,Last,22,9,13,7,0.0
+2026,eric-olen-1,Eric Olen,New Mexico,13-7 MWC,23,#FFFFFF,#000000,4,MWC,New Mexico,black,2026.0,Last,23,10,13,7,0.0
 2021,eric-olen-1,Eric Olen,UC San Diego,4-10 BWst,7,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,7,10,4,10,0.0
 2022,eric-olen-1,Eric Olen,UC San Diego,7-11 BWst,13,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,13,16,7,11,0.0
 2023,eric-olen-1,Eric Olen,UC San Diego,5-13 BWst,10,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,10,20,5,13,0.0
@@ -10313,7 +10342,7 @@ NCAA 64",40,#182B49,#FFCD00,4,Big West,California,black,2021.0,Left,30,5,18,2,0.
 2023,erik-martin-1,Erik Martin,South Carolina St.,2-12 MEAC,5,#FFFFFF,#000000,4,MEAC,South Carolina,black,2023.0,Return,5,26,2,12,0.0
 2024,erik-martin-1,Erik Martin,South Carolina St.,9-5 MEAC,14,#FFFFFF,#000000,4,MEAC,South Carolina,black,2023.0,Return,14,18,9,5,0.0
 2025,erik-martin-1,Erik Martin,South Carolina St.,11-3 MEAC,20,#FFFFFF,#000000,4,MEAC,South Carolina,black,2023.0,Return,20,13,11,3,0.0
-2026,erik-martin-1,Erik Martin,South Carolina St.,7-7 MEAC,9,#FFFFFF,#000000,4,MEAC,South Carolina,black,2023.0,Last,9,21,7,7,0.0
+2026,erik-martin-1,Erik Martin,South Carolina St.,7-7 MEAC,10,#FFFFFF,#000000,4,MEAC,South Carolina,black,2023.0,Last,10,22,7,7,0.0
 1926,ernest-bearg-1,Ernest Bearg,Nebraska,7-7 MVC,8,#FFFFFF,#000000,4,MVC,Nebraska,black,1926.0,Last,8,10,7,7,0.0
 1926,ernest-blood-1,Ernest Blood,Army West Point,11-6,11,#FFFFFF,#000000,4,Ind,New York,black,1926.0,Last,11,6,,,0.0
 1958,ernest-calverley-1,Ernest Calverley,Rhode Island,4-17,4,#FFFFFF,#000000,4,Yankee,Rhode Island,black,1958.0,Return,4,17,1,1,0.0
@@ -10637,7 +10666,8 @@ Elite 8",45,#A41034,#FFFFFF,4,Ind,Massachusetts,black,1944.0,Last,20,3,,,0.25
 1948,flucie-stewart-1,Flucie Stewart,Maryland,9-6 SoCon,11,#FFFFFF,#000000,4,Southern,Maryland,black,1948.0,Return,11,14,9,6,0.0
 1949,flucie-stewart-1,Flucie Stewart,Maryland,7-7 SoCon,9,#FFFFFF,#000000,4,Southern,Maryland,black,1948.0,Return,9,17,7,7,0.0
 1950,flucie-stewart-1,Flucie Stewart,Maryland,5-13 SoCon,7,#FFFFFF,#000000,4,Southern,Maryland,black,1948.0,Last,7,18,5,13,0.0
-2026,flynn-clayman-2,Flynn Clayman,High Point,15-1 BSth,30,#FFFFFF,#000000,4,Big South,North Carolina,black,2026.0,Last,30,4,15,1,0.0
+2026,flynn-clayman-2,Flynn Clayman,High Point,"15-1 BSth
+NCAA 64",40,#330072,#FFFFFF,4,Big South,North Carolina,black,2026.0,Last,30,4,15,1,0.1
 1908,fm-crawford-1,F.M. Crawford,William & Mary,1-4,1,#FFFFFF,#000000,4,Ind,Virginia,black,1908.0,Return,1,4,,,0.0
 1909,fm-crawford-1,F.M. Crawford,William & Mary,7-3,7,#FFFFFF,#000000,4,Ind,Virginia,black,1908.0,Return,7,3,,,0.0
 1910,fm-crawford-1,F.M. Crawford,William & Mary,1-3,1,#FFFFFF,#000000,4,Ind,Virginia,black,1908.0,Return,1,3,,,0.0
@@ -10795,7 +10825,8 @@ NCAA 64",29,#FFCD00,#000000,4,Big Ten,Iowa,black,2011.0,Return,19,14,11,9,0.1
 1988,fran-mccaffery-1,Fran McCaffery,Lehigh,"8-6 ECC
 NCAA 64",31,#502D0E,#FFFFFF,4,ECC,Pennsylvania,black,1986.0,Unknown,21,10,8,6,0.1
 1989,fran-mccaffery-1,Fran McCaffery,Lehigh,?,0,#FFFFFF,#000000,0,ECC,Pennsylvania,white,1986.0,Last,,,,,
-2026,fran-mccaffery-1,Fran McCaffery,Penn,9-5 Ivy,16,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,2026.0,Last,16,11,9,5,0.0
+2026,fran-mccaffery-1,Fran McCaffery,Penn,"9-5 Ivy
+NCAA 64",28,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,2026.0,Last,18,11,9,5,0.1
 2006,fran-mccaffery-1,Fran McCaffery,Siena,10-8 MAAC,15,#FFFFFF,#000000,4,MAAC,New York,black,2006.0,Return,15,13,10,8,0.0
 2007,fran-mccaffery-1,Fran McCaffery,Siena,12-6 MAAC,20,#FFFFFF,#000000,4,MAAC,New York,black,2006.0,Return,20,12,12,6,0.0
 2008,fran-mccaffery-1,Fran McCaffery,Siena,"13-5 MAAC
@@ -11136,7 +11167,7 @@ NCAA 32",37,#512888,#FFFFFF,4,Big 12,Kansas,black,2008.0,Left,22,11,10,8,0.15
 2023,frank-martin-1,Frank Martin,Massachusetts,6-12 A10,15,#FFFFFF,#000000,4,A-10,Massachusetts,black,2023.0,Return,15,16,6,12,0.0
 2024,frank-martin-1,Frank Martin,Massachusetts,11-7 A10,20,#FFFFFF,#000000,4,A-10,Massachusetts,black,2023.0,Return,20,11,11,7,0.0
 2025,frank-martin-1,Frank Martin,Massachusetts,7-11 A10,12,#FFFFFF,#000000,4,A-10,Massachusetts,black,2023.0,Return,12,20,7,11,0.0
-2026,frank-martin-1,Frank Martin,Massachusetts,7-11 MAC,16,#FFFFFF,#000000,4,MAC,Massachusetts,black,2023.0,Last,16,15,7,11,0.0
+2026,frank-martin-1,Frank Martin,Massachusetts,7-11 MAC,17,#FFFFFF,#000000,4,MAC,Massachusetts,black,2023.0,Last,17,16,7,11,0.0
 2013,frank-martin-1,Frank Martin,South Carolina,4-14 SEC,14,#FFFFFF,#000000,4,SEC,South Carolina,black,2013.0,Return,14,18,4,14,0.0
 2014,frank-martin-1,Frank Martin,South Carolina,5-13 SEC,14,#FFFFFF,#000000,4,SEC,South Carolina,black,2013.0,Return,14,20,5,13,0.0
 2015,frank-martin-1,Frank Martin,South Carolina,6-12 SEC,17,#FFFFFF,#000000,4,SEC,South Carolina,black,2013.0,Return,17,16,6,12,0.0
@@ -11444,7 +11475,8 @@ NCAA 64",35,#C8102E,#F1BE48,4,Big 12,Iowa,black,2011.0,Left,25,9,12,6,0.1
 2024,fred-hoiberg-1,Fred Hoiberg,Nebraska,"12-8 B1G
 NCAA 64",33,#D00000,#F5F1E7,4,Big Ten,Nebraska,black,2020.0,Return,23,11,12,8,0.1
 2025,fred-hoiberg-1,Fred Hoiberg,Nebraska,7-13 B1G,21,#FFFFFF,#000000,4,Big Ten,Nebraska,black,2020.0,Return,21,14,7,13,0.0
-2026,fred-hoiberg-1,Fred Hoiberg,Nebraska,15-5 B1G,26,#FFFFFF,#000000,4,Big Ten,Nebraska,black,2020.0,Last,26,5,15,5,0.0
+2026,fred-hoiberg-1,Fred Hoiberg,Nebraska,"15-5 B1G
+NCAA 64",36,#D00000,#F5F1E7,4,Big Ten,Nebraska,black,2020.0,Last,26,6,15,5,0.1
 1976,fred-j-crowell-1,Fred J. Crowell,Samford,3-23,3,#FFFFFF,#000000,4,Ind,Alabama,black,1976.0,Return,3,23,,,0.0
 1977,fred-j-crowell-1,Fred J. Crowell,Samford,7-19,7,#FFFFFF,#000000,4,Ind,Alabama,black,1976.0,Return,7,19,,,0.0
 1978,fred-j-crowell-1,Fred J. Crowell,Samford,8-19,8,#FFFFFF,#000000,4,Ind,Alabama,black,1976.0,Return,8,19,,,0.0
@@ -12232,7 +12264,7 @@ NCAA 64",29,#73000A,#FFFFFF,4,Metro,South Carolina,black,1987.0,Return,19,11,8,4
 1909,george-grebenstein-1,George Grebenstein,Harvard,1-7,1,#FFFFFF,#000000,4,Ind,Massachusetts,black,1908.0,Last,1,7,,,0.0
 2024,george-halcovage-1,George Halcovage III,Buffalo,2-16 MAC,4,#FFFFFF,#000000,4,MAC,New York,black,2024.0,Return,4,27,2,16,0.0
 2025,george-halcovage-1,George Halcovage III,Buffalo,4-14 MAC,9,#FFFFFF,#000000,4,MAC,New York,black,2024.0,Return,9,22,4,14,0.0
-2026,george-halcovage-1,George Halcovage III,Buffalo,7-11 MAC,17,#FFFFFF,#000000,4,MAC,New York,black,2024.0,Last,17,14,7,11,0.0
+2026,george-halcovage-1,George Halcovage III,Buffalo,7-11 MAC,17,#FFFFFF,#000000,4,MAC,New York,black,2024.0,Last,17,15,7,11,0.0
 1911,george-hammer-1,George Hammer,Saint Mary's (CA),2-1,2,#FFFFFF,#000000,4,Ind,California,black,1911.0,Last,2,1,,,0.0
 1971,george-hanson-1,George Hanson,Minnesota,5-9 B1G,11,#FFFFFF,#000000,4,Big Ten,Minnesota,black,1971.0,Resigned,11,13,5,9,0.0
 1972,george-hanson-1,George Hanson,Minnesota,Resigned,0,#FFFFFF,#000000,0,Big Ten,Minnesota,white,1971.0,Last,,,,,
@@ -12565,7 +12597,8 @@ NCAA 64",27,#E90802,#FFFFFF,4,SWC,Texas,black,1972.0,Return,17,14,9,7,0.1
 1985,gerry-gimelstob-1,Gerry Gimelstob,George Washington,9-9 A10,14,#FFFFFF,#000000,4,A-10,D.C.,black,1982.0,Resigned,14,14,9,9,0.0
 1986,gerry-gimelstob-1,Gerry Gimelstob,George Washington,Resigned,0,#FFFFFF,#000000,0,A-10,D.C.,white,1982.0,Last,,,,,
 2025,gerry-mcnamara-1,Gerry McNamara,Siena,9-11 MAAC,14,#FFFFFF,#000000,4,MAAC,New York,black,2025.0,Return,14,18,9,11,0.0
-2026,gerry-mcnamara-1,Gerry McNamara,Siena,13-7 MAAC,23,#FFFFFF,#000000,4,MAAC,New York,black,2025.0,Last,23,11,13,7,0.0
+2026,gerry-mcnamara-1,Gerry McNamara,Siena,"13-7 MAAC
+NCAA 64",33,#006B54,#FFFFFF,4,MAAC,New York,black,2025.0,Last,23,11,13,7,0.1
 2023,gg-smith-1,G.G. Smith,High Point,6-12 BSth,14,#FFFFFF,#000000,4,Big South,North Carolina,black,2023.0,Fired,14,17,6,12,0.0
 2024,gg-smith-1,G.G. Smith,High Point,Fired,0,#FFFFFF,#000000,0,Big South,North Carolina,white,2023.0,Last,,,,,
 2014,gg-smith-1,G.G. Smith,Loyola Maryland,6-12 Pat,11,#FFFFFF,#000000,4,Patriot,Maryland,black,2014.0,Return,11,19,6,12,0.0
@@ -12761,7 +12794,8 @@ Elite 8",45,#ACCCE6,#003373,4,Ivy,New York,black,1947.0,Return,20,3,11,1,0.25
 2023,grant-leonard-1,Grant Leonard,Queens (NC),7-11 ASun,18,#FFFFFF,#000000,4,A-Sun,North Carolina,black,2023.0,Return,18,15,7,11,0.0
 2024,grant-leonard-1,Grant Leonard,Queens (NC),7-9 ASun,14,#FFFFFF,#000000,4,A-Sun,North Carolina,black,2023.0,Return,14,19,7,9,0.0
 2025,grant-leonard-1,Grant Leonard,Queens (NC),11-7 ASun,20,#FFFFFF,#000000,4,A-Sun,North Carolina,black,2023.0,Return,20,15,11,7,0.0
-2026,grant-leonard-1,Grant Leonard,Queens (NC),13-5 ASun,21,#FFFFFF,#000000,4,A-Sun,North Carolina,black,2023.0,Last,21,13,13,5,0.0
+2026,grant-leonard-1,Grant Leonard,Queens (NC),"13-5 ASun
+NCAA 64",31,#00205B,#FFFFFF,4,A-Sun,North Carolina,black,2023.0,Last,21,13,13,5,0.1
 2017,grant-mccasland-1,Grant McCasland,Arkansas St.,11-7 SB,20,#FFFFFF,#000000,4,Sun Belt,Arkansas,black,2017.0,Left,20,12,11,7,0.0
 2018,grant-mccasland-1,Grant McCasland,Arkansas St.,North Texas,0,#FFFFFF,#000000,0,Sun Belt,Arkansas,white,2017.0,Last,,,,,
 2018,grant-mccasland-1,Grant McCasland,North Texas,8-10 CUSA,20,#FFFFFF,#000000,4,CUSA,Texas,black,2018.0,Return,20,18,8,10,0.0
@@ -12777,7 +12811,8 @@ NCAA 32",33,#059033,#FFFFFF,4,CUSA,Texas,black,2018.0,Return,18,10,9,5,0.15
 NCAA 64",33,#E90802,#FFFFFF,4,Big 12,Texas,black,2024.0,Return,23,11,11,7,0.1
 2025,grant-mccasland-1,Grant McCasland,Texas Tech,"15-5 B12
 Elite 8",53,#E90802,#FFFFFF,4,Big 12,Texas,black,2024.0,Return,28,9,15,5,0.25
-2026,grant-mccasland-1,Grant McCasland,Texas Tech,12-6 B12,22,#FFFFFF,#000000,4,Big 12,Texas,black,2024.0,Last,22,9,12,6,0.0
+2026,grant-mccasland-1,Grant McCasland,Texas Tech,"12-6 B12
+NCAA 64",32,#E90802,#FFFFFF,4,Big 12,Texas,black,2024.0,Last,22,10,12,6,0.1
 2012,gravelle-craig-1,Gravelle Craig,Bethune-Cookman,11-5 MEAC,18,#FFFFFF,#000000,4,MEAC,Florida,black,2012.0,Return,18,17,11,5,0.0
 2013,gravelle-craig-1,Gravelle Craig,Bethune-Cookman,7-9 MEAC,14,#FFFFFF,#000000,4,MEAC,Florida,black,2012.0,Return,14,20,7,9,0.0
 2014,gravelle-craig-1,Gravelle Craig,Bethune-Cookman,5-11 MEAC,7,#FFFFFF,#000000,4,MEAC,Florida,black,2012.0,Return,7,25,5,11,0.0
@@ -12808,7 +12843,8 @@ NCAA 32",40,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,2016.0,Return,25,8,15,5,0.
 NCAA 64",32,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,2016.0,Return,22,14,11,9,0.1
 2025,greg-gard-1,Greg Gard,Wisconsin,"13-7 B1G
 NCAA 32",42,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,2016.0,Return,27,10,13,7,0.15
-2026,greg-gard-1,Greg Gard,Wisconsin,14-6 B1G,22,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,2016.0,Last,22,9,14,6,0.0
+2026,greg-gard-1,Greg Gard,Wisconsin,"14-6 B1G
+NCAA 64",34,#C5050C,#FFFFFF,4,Big Ten,Wisconsin,black,2016.0,Last,24,10,14,6,0.1
 2011,greg-gary-1,,Centenary LA,Fired,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 2020,greg-gary-1,Greg Gary,Mercer,11-7 SoCon,17,#FFFFFF,#000000,4,Southern,Georgia,black,2020.0,Return,17,15,11,7,0.0
 2021,greg-gary-1,Greg Gary,Mercer,8-9 SoCon,18,#FFFFFF,#000000,4,Southern,Georgia,black,2020.0,Return,18,11,8,9,0.0
@@ -12926,7 +12962,7 @@ Elite 8",49,#0054A6,#FFFFFF,4,Big East,Nebraska,black,2011.0,Return,24,13,14,6,0
 Sweet 16",45,#0054A6,#FFFFFF,4,Big East,Nebraska,black,2011.0,Return,25,10,14,6,0.2
 2025,greg-mcdermott-1,Greg McDermott,Creighton,"15-5 BE
 NCAA 32",40,#0054A6,#FFFFFF,4,Big East,Nebraska,black,2011.0,Return,25,11,15,5,0.15
-2026,greg-mcdermott-1,Greg McDermott,Creighton,9-11 BE,15,#FFFFFF,#000000,4,Big East,Nebraska,black,2011.0,Last,15,16,9,11,0.0
+2026,greg-mcdermott-1,Greg McDermott,Creighton,9-11 BE,15,#FFFFFF,#000000,4,Big East,Nebraska,black,2011.0,Last,15,17,9,11,0.0
 2007,greg-mcdermott-1,Greg McDermott,Iowa St.,6-10 B12,15,#FFFFFF,#000000,4,Big 12,Iowa,black,2007.0,Return,15,16,6,10,0.0
 2008,greg-mcdermott-1,Greg McDermott,Iowa St.,4-12 B12,14,#FFFFFF,#000000,4,Big 12,Iowa,black,2007.0,Return,14,18,4,12,0.0
 2009,greg-mcdermott-1,Greg McDermott,Iowa St.,4-12 B12,15,#FFFFFF,#000000,4,Big 12,Iowa,black,2007.0,Return,15,17,4,12,0.0
@@ -13313,7 +13349,7 @@ Elite 8",45,#FE5C00,#000000,4,Big 8,Oklahoma,black,1935.0,Return,20,7,13,3,0.25
 1970,hank-iba-1,Hank Iba,Oklahoma St.,5-12 B8,14,#FFFFFF,#000000,4,Big 8,Oklahoma,black,1935.0,Last,14,12,5,12,0.0
 1960,hank-kuzma-1,,Loyola (LA),?,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 2025,hank-plona-1,Hank Plona,Western Ky.,8-10 CUSA,17,#FFFFFF,#000000,4,CUSA,Kentucky,black,2025.0,Return,17,15,8,10,0.0
-2026,hank-plona-1,Hank Plona,Western Ky.,11-9 CUSA,18,#FFFFFF,#000000,4,CUSA,Kentucky,black,2025.0,Last,18,13,11,9,0.0
+2026,hank-plona-1,Hank Plona,Western Ky.,11-9 CUSA,18,#FFFFFF,#000000,4,CUSA,Kentucky,black,2025.0,Last,18,14,11,9,0.0
 1978,hank-raymonds-1,Hank Raymonds,Marquette,"24-4
 NCAA 32",39,#FFCC00,#003366,4,Ind,Wisconsin,black,1978.0,Return,24,4,,,0.15
 1979,hank-raymonds-1,Hank Raymonds,Marquette,"22-7
@@ -13872,7 +13908,8 @@ NCAA 32",37,#CC0000,#FFFFFF,4,ACC,North Carolina,black,1997.0,Left,22,10,10,6,0.
 2023,herb-sendek-1,Herb Sendek,Santa Clara,11-5 WCC,23,#FFFFFF,#000000,4,WCC,California,black,2017.0,Return,23,10,11,5,0.0
 2024,herb-sendek-1,Herb Sendek,Santa Clara,10-6 WCC,20,#FFFFFF,#000000,4,WCC,California,black,2017.0,Return,20,13,10,6,0.0
 2025,herb-sendek-1,Herb Sendek,Santa Clara,12-6 WCC,21,#FFFFFF,#000000,4,WCC,California,black,2017.0,Return,21,13,12,6,0.0
-2026,herb-sendek-1,Herb Sendek,Santa Clara,15-3 WCC,26,#FFFFFF,#000000,4,WCC,California,black,2017.0,Last,26,8,15,3,0.0
+2026,herb-sendek-1,Herb Sendek,Santa Clara,"15-3 WCC
+NCAA 64",36,#A32035,#FFFFFF,4,WCC,California,black,2017.0,Last,26,8,15,3,0.1
 1991,herb-williams-2,Herb Williams,Idaho St.,7-9 BSky,11,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Return,11,18,7,9,0.0
 1992,herb-williams-2,Herb Williams,Idaho St.,6-10 BSky,9,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Return,9,21,6,10,0.0
 1993,herb-williams-2,Herb Williams,Idaho St.,5-9 BSky,10,#FFFFFF,#000000,4,Big Sky,Idaho,black,1991.0,Return,10,18,5,9,0.0
@@ -14223,7 +14260,8 @@ Runner-up",64,#4B9CD3,#FFFFFF,4,ACC,North Carolina,black,2022.0,Return,29,10,15,
 Sweet 16",49,#4B9CD3,#FFFFFF,4,ACC,North Carolina,black,2022.0,Return,29,8,17,3,0.2
 2025,hubert-davis-1,Hubert Davis,North Carolina,"13-7 ACC
 NCAA 64",33,#4B9CD3,#FFFFFF,4,ACC,North Carolina,black,2022.0,Return,23,14,13,7,0.1
-2026,hubert-davis-1,Hubert Davis,North Carolina,12-6 ACC,24,#FFFFFF,#000000,4,ACC,North Carolina,black,2022.0,Left,24,7,12,6,0.0
+2026,hubert-davis-1,Hubert Davis,North Carolina,"12-6 ACC
+NCAA 64",34,#4B9CD3,#FFFFFF,4,ACC,North Carolina,black,2022.0,Left,24,8,12,6,0.1
 2014,hubert-davis-1,Hubert Davis,North Carolina,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2015,hubert-davis-1,Hubert Davis,North Carolina,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2016,hubert-davis-1,Hubert Davis,North Carolina,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -14820,7 +14858,8 @@ Sweet 16",43,#ACCCE6,#003373,4,Ivy,New York,black,1962.0,Return,23,5,13,2,0.2
 1973,jackson-spencer-1,Jackson Spencer,Nevada,?,0,#FFFFFF,#000000,0,WCAC,Nevada,white,1970.0,Last,,,,,
 1915,jacob-devers-1,Jacob Devers,Army West Point,11-2,11,#FFFFFF,#000000,4,Ind,New York,black,1915.0,Return,11,2,,,0.0
 1916,jacob-devers-1,Jacob Devers,Army West Point,5-7,5,#FFFFFF,#000000,4,Ind,New York,black,1915.0,Last,5,7,,,0.0
-2026,jai-lucas-1,Jai Lucas,Miami (FL),13-5 ACC,24,#FFFFFF,#000000,4,ACC,Florida,black,2026.0,Last,24,7,13,5,0.0
+2026,jai-lucas-1,Jai Lucas,Miami (FL),"13-5 ACC
+NCAA 64",35,#005030,#FFFFFF,4,ACC,Florida,black,2026.0,Last,25,8,13,5,0.1
 2021,jai-steadman-1,Jai Steadman,UTRGV,2-5 WAC,1,#FFFFFF,#000000,4,WAC,Texas,black,2021.0,Interim,1,6,2,5,0.0
 2022,jai-steadman-1,Jai Steadman,UTRGV,Interim,0,#FFFFFF,#000000,0,WAC,Texas,white,2021.0,Last,,,,,
 1930,jake-christiansen-1,Jake Christiansen,Valparaiso,4-11,4,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Return,4,11,,,0.0
@@ -14836,7 +14875,8 @@ Sweet 16",43,#ACCCE6,#003373,4,Ivy,New York,black,1962.0,Return,23,5,13,2,0.2
 1940,jake-christiansen-1,Jake Christiansen,Valparaiso,6-14,6,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Return,6,14,,,0.0
 1941,jake-christiansen-1,Jake Christiansen,Valparaiso,4-12,4,#FFFFFF,#000000,4,Ind,Indiana,black,1930.0,Last,4,12,,,0.0
 2025,jake-diebler-1,Jake Diebler,Ohio St.,9-11 B1G,17,#FFFFFF,#000000,4,Big Ten,Ohio,black,2025.0,Return,17,15,9,11,0.0
-2026,jake-diebler-1,Jake Diebler,Ohio St.,12-8 B1G,20,#FFFFFF,#000000,4,Big Ten,Ohio,black,2025.0,Last,20,11,12,8,0.0
+2026,jake-diebler-1,Jake Diebler,Ohio St.,"12-8 B1G
+NCAA 64",31,#BA0C2F,#FFFFFF,4,Big Ten,Ohio,black,2025.0,Last,21,12,12,8,0.1
 1943,jake-lawlor-1,Jake Lawlor,Nevada,14-4,14,#FFFFFF,#000000,4,Ind,Nevada,black,1943.0,Return,14,4,,,0.0
 1946,jake-lawlor-1,Jake Lawlor,Nevada,28-5,28,#FFFFFF,#000000,4,Ind,Nevada,black,1946.0,Return,28,5,,,0.0
 1947,jake-lawlor-1,Jake Lawlor,Nevada,19-13,19,#FFFFFF,#000000,4,Ind,Nevada,black,1946.0,Return,19,13,,,0.0
@@ -14977,7 +15017,7 @@ NCAA 64",29,#263867,#FFFFFF,4,Ivy,Connecticut,black,2000.0,Return,19,12,11,3,0.1
 NCAA 32",38,#263867,#FFFFFF,4,Ivy,Connecticut,black,2000.0,Return,23,10,11,3,0.15
 2025,james-jones-3,James Jones,Yale,"13-1 Ivy
 NCAA 64",32,#263867,#FFFFFF,4,Ivy,Connecticut,black,2000.0,Return,22,8,13,1,0.1
-2026,james-jones-3,James Jones,Yale,11-3 Ivy,23,#FFFFFF,#000000,4,Ivy,Connecticut,black,2000.0,Last,23,5,11,3,0.0
+2026,james-jones-3,James Jones,Yale,11-3 Ivy,24,#FFFFFF,#000000,4,Ivy,Connecticut,black,2000.0,Last,24,6,11,3,0.0
 1912,james-kase-1,James Kase,Indiana,1-9 Western,6,#FFFFFF,#000000,4,Western,Indiana,black,1912.0,Last,6,11,1,9,0.0
 1926,james-lemon-1,James Lemon,George Washington,5-9,5,#FFFFFF,#000000,4,Ind,D.C.,black,1926.0,Return,5,9,,,0.0
 1927,james-lemon-1,James Lemon,George Washington,8-7,8,#FFFFFF,#000000,4,Ind,D.C.,black,1926.0,Last,8,7,,,0.0
@@ -15184,7 +15224,8 @@ NCAA 32",37,#4D1979,#FFFFFF,4,Big 12,Texas,black,2017.0,Return,22,13,9,9,0.15
 2024,jamie-dixon-1,Jamie Dixon,TCU,"9-9 B12
 NCAA 64",31,#4D1979,#FFFFFF,4,Big 12,Texas,black,2017.0,Return,21,13,9,9,0.1
 2025,jamie-dixon-1,Jamie Dixon,TCU,9-11 B12,16,#FFFFFF,#000000,4,Big 12,Texas,black,2017.0,Return,16,16,9,11,0.0
-2026,jamie-dixon-1,Jamie Dixon,TCU,11-7 B12,22,#FFFFFF,#000000,4,Big 12,Texas,black,2017.0,Last,22,10,11,7,0.0
+2026,jamie-dixon-1,Jamie Dixon,TCU,"11-7 B12
+NCAA 64",32,#4D1979,#FFFFFF,4,Big 12,Texas,black,2017.0,Last,22,11,11,7,0.1
 2026,jamion-christian-1,Jamion Christian,Bryant,5-11 AmEast,9,#FFFFFF,#000000,4,AmEast,Rhode Island,black,2026.0,Last,9,22,5,11,0.0
 2020,jamion-christian-1,Jamion Christian,George Washington,6-12 A10,12,#FFFFFF,#000000,4,A-10,D.C.,black,2020.0,Return,12,20,6,12,0.0
 2021,jamion-christian-1,Jamion Christian,George Washington,3-5 A10,5,#FFFFFF,#000000,4,A-10,D.C.,black,2020.0,Return,5,12,3,5,0.0
@@ -15522,7 +15563,7 @@ NCAA 32",32,#00694E,#FFFFFF,4,MAC,Ohio,black,2020.0,Return,17,8,9,5,0.15
 2023,jeff-boals-1,Jeff Boals,Ohio,10-8 MAC,19,#FFFFFF,#000000,4,MAC,Ohio,black,2020.0,Return,19,14,10,8,0.0
 2024,jeff-boals-1,Jeff Boals,Ohio,13-5 MAC,20,#FFFFFF,#000000,4,MAC,Ohio,black,2020.0,Return,20,13,13,5,0.0
 2025,jeff-boals-1,Jeff Boals,Ohio,10-8 MAC,16,#FFFFFF,#000000,4,MAC,Ohio,black,2020.0,Return,16,16,10,8,0.0
-2026,jeff-boals-1,Jeff Boals,Ohio,9-9 MAC,15,#FFFFFF,#000000,4,MAC,Ohio,black,2020.0,Last,15,16,9,9,0.0
+2026,jeff-boals-1,Jeff Boals,Ohio,9-9 MAC,15,#FFFFFF,#000000,4,MAC,Ohio,black,2020.0,Last,15,17,9,9,0.0
 2017,jeff-boals-1,Jeff Boals,Stony Brook,12-4 AEC,18,#FFFFFF,#000000,4,AEC,New York,black,2017.0,Return,18,14,12,4,0.0
 2018,jeff-boals-1,Jeff Boals,Stony Brook,7-9 AEC,13,#FFFFFF,#000000,4,AEC,New York,black,2017.0,Return,13,19,7,9,0.0
 2019,jeff-boals-1,Jeff Boals,Stony Brook,12-4 AEC,24,#FFFFFF,#000000,4,AEC,New York,black,2017.0,Left,24,9,12,4,0.0
@@ -15795,7 +15836,8 @@ NCAA 64",33,#6F2C3E,#F0AB00,4,MAAC,New York,black,1999.0,Return,23,8,13,5,0.1
 2023,jeremy-ballard-1,Jeremy Ballard,FIU,8-12 CUSA,14,#FFFFFF,#000000,4,CUSA,Florida,black,2019.0,Return,14,18,8,12,0.0
 2024,jeremy-ballard-1,Jeremy Ballard,FIU,5-11 CUSA,11,#FFFFFF,#000000,4,CUSA,Florida,black,2019.0,Return,11,22,5,11,0.0
 2025,jeremy-ballard-1,Jeremy Ballard,FIU,3-15 CUSA,10,#FFFFFF,#000000,4,CUSA,Florida,black,2019.0,Return,10,23,3,15,0.0
-2026,jeremy-ballard-1,Jeremy Ballard,FIU,8-12 CUSA,15,#FFFFFF,#000000,4,CUSA,Florida,black,2019.0,Last,15,17,8,12,0.0
+2026,jeremy-ballard-1,Jeremy Ballard,FIU,8-12 CUSA,15,#FFFFFF,#000000,4,CUSA,Florida,black,2019.0,Fired,15,17,8,12,0.0
+2027,jeremy-ballard-1,Jeremy Ballard,FIU,Fired,0,#FFFFFF,#000000,0,CUSA,Florida,white,2019.0,Last,,,,,
 2025,jeremy-luther-1,Jeremy Luther,Gardner-Webb,5-11 BSth,11,#FFFFFF,#000000,4,Big South,North Carolina,black,2025.0,Return,11,20,5,11,0.0
 2026,jeremy-luther-1,Jeremy Luther,Gardner-Webb,1-15 BSth,4,#FFFFFF,#000000,4,Big South,North Carolina,black,2025.0,Last,4,29,1,15,0.0
 2025,jeremy-shulman-1,Jeremy Shulman,UT Martin,9-11 OVC,14,#FFFFFF,#000000,4,OVC,Tennessee,black,2025.0,Return,14,19,9,11,0.0
@@ -15843,7 +15885,8 @@ Elite 8",51,#512888,#FFFFFF,4,Big 12,Kansas,black,2023.0,Return,26,10,11,7,0.25
 2027,jerome-tang-1,Jerome Tang,Kansas St.,Fired,0,#FFFFFF,#000000,0,Big 12,Kansas,white,2023.0,Last,,,,,
 2025,jerrod-calhoun-1,Jerrod Calhoun,Utah St.,"15-5 MWC
 NCAA 64",36,#0F2439,#FFFFFF,4,MWC,Utah,black,2025.0,Return,26,8,15,5,0.1
-2026,jerrod-calhoun-1,Jerrod Calhoun,Utah St.,15-5 MWC,25,#FFFFFF,#000000,4,MWC,Utah,black,2025.0,Last,25,6,15,5,0.0
+2026,jerrod-calhoun-1,Jerrod Calhoun,Utah St.,"15-5 MWC
+NCAA 64",38,#0F2439,#FFFFFF,4,MWC,Utah,black,2025.0,Last,28,6,15,5,0.1
 2018,jerrod-calhoun-1,Jerrod Calhoun,Youngstown St.,6-12 Hrz,8,#FFFFFF,#000000,4,Horizon,Ohio,black,2018.0,Return,8,24,6,12,0.0
 2019,jerrod-calhoun-1,Jerrod Calhoun,Youngstown St.,8-10 Hrz,12,#FFFFFF,#000000,4,Horizon,Ohio,black,2018.0,Return,12,20,8,10,0.0
 2020,jerrod-calhoun-1,Jerrod Calhoun,Youngstown St.,10-8 Hrz,18,#FFFFFF,#000000,4,Horizon,Ohio,black,2018.0,Return,18,15,10,8,0.0
@@ -16625,7 +16668,8 @@ NCAA 64",35,#000000,#FFFFFF,4,NEC,New York,black,2003.0,Left,25,9,16,2,0.1
 2023,jim-ferry-1,Jim Ferry,UMBC,8-8 AEC,18,#FFFFFF,#000000,4,AEC,Maryland,black,2022.0,Return,18,14,8,8,0.0
 2024,jim-ferry-1,Jim Ferry,UMBC,6-10 AEC,11,#FFFFFF,#000000,4,AEC,Maryland,black,2022.0,Return,11,21,6,10,0.0
 2025,jim-ferry-1,Jim Ferry,UMBC,5-11 AmEast,13,#FFFFFF,#000000,4,AmEast,Maryland,black,2022.0,Return,13,19,5,11,0.0
-2026,jim-ferry-1,Jim Ferry,UMBC,14-2 AmEast,23,#FFFFFF,#000000,4,AmEast,Maryland,black,2022.0,Last,23,8,14,2,0.0
+2026,jim-ferry-1,Jim Ferry,UMBC,"14-2 AmEast
+NCAA 68",29,#B18906,#000000,4,AmEast,Maryland,black,2022.0,Last,24,8,14,2,0.05
 1911,jim-flanagan-1,Jim Flanagan,Seton Hall,4-0,4,#FFFFFF,#000000,4,Ind,New Jersey,black,1911.0,Last,4,0,,,0.0
 2015,jim-fox-1,Jim Fox,App State,9-11 SB,12,#FFFFFF,#000000,4,Sun Belt,North Carolina,black,2015.0,Return,12,17,9,11,0.0
 2016,jim-fox-1,Jim Fox,App State,7-13 SB,9,#FFFFFF,#000000,4,Sun Belt,North Carolina,black,2015.0,Return,9,22,7,13,0.0
@@ -16875,7 +16919,7 @@ NCAA 64",33,#022851,#FFBF00,4,Big West,California,black,2012.0,Return,23,13,11,5
 2023,jim-les-1,Jim Les,UC Davis,11-8 BWst,18,#FFFFFF,#000000,4,Big West,California,black,2012.0,Return,18,14,11,8,0.0
 2024,jim-les-1,Jim Les,UC Davis,14-6 BWst,20,#FFFFFF,#000000,4,Big West,California,black,2012.0,Return,20,13,14,6,0.0
 2025,jim-les-1,Jim Les,UC Davis,9-11 BWst,15,#FFFFFF,#000000,4,Big West,California,black,2012.0,Return,15,17,9,11,0.0
-2026,jim-les-1,Jim Les,UC Davis,11-9 BWst,19,#FFFFFF,#000000,4,Big West,California,black,2012.0,Last,19,13,11,9,0.0
+2026,jim-les-1,Jim Les,UC Davis,11-9 BWst,19,#FFFFFF,#000000,4,Big West,California,black,2012.0,Last,19,14,11,9,0.0
 1974,jim-lynam-1,Jim Lynam,American,7-2 MidA,16,#FFFFFF,#000000,4,Mid-Atl,D.C.,black,1974.0,Return,16,10,7,2,0.0
 1975,jim-lynam-1,Jim Lynam,American,5-2 ECC,16,#FFFFFF,#000000,4,ECC,D.C.,black,1974.0,Return,16,10,5,2,0.0
 1976,jim-lynam-1,Jim Lynam,American,2-5 ECC,9,#FFFFFF,#000000,4,ECC,D.C.,black,1974.0,Return,9,16,2,5,0.0
@@ -17888,7 +17932,7 @@ NCAA 64",33,#007155,#FFFFFF,4,AEC,Vermont,black,2012.0,Return,23,11,14,2,0.1
 2024,john-becker-1,John Becker,Vermont,"15-1 AEC
 NCAA 64",38,#007155,#FFFFFF,4,AEC,Vermont,black,2012.0,Return,28,7,15,1,0.1
 2025,john-becker-1,John Becker,Vermont,13-3 AmEast,21,#FFFFFF,#000000,4,AmEast,Vermont,black,2012.0,Return,21,12,13,3,0.0
-2026,john-becker-1,John Becker,Vermont,12-4 AmEast,22,#FFFFFF,#000000,4,AmEast,Vermont,black,2012.0,Last,22,11,12,4,0.0
+2026,john-becker-1,John Becker,Vermont,12-4 AmEast,22,#FFFFFF,#000000,4,AmEast,Vermont,black,2012.0,Last,22,12,12,4,0.0
 1993,john-beilein-1,John Beilein,Canisius,5-9 MAAC,10,#FFFFFF,#000000,4,MAAC,New York,black,1993.0,Return,10,18,5,9,0.0
 1994,john-beilein-1,John Beilein,Canisius,12-2 MAAC,22,#FFFFFF,#000000,4,MAAC,New York,black,1993.0,Return,22,7,12,2,0.0
 1995,john-beilein-1,John Beilein,Canisius,10-4 MAAC,21,#FFFFFF,#000000,4,MAAC,New York,black,1993.0,Return,21,14,10,4,0.0
@@ -18048,7 +18092,8 @@ Sweet 16",39,#00053E,#FFC72C,4,OVC,Tennessee,black,1958.0,Return,19,8,11,5,0.2
 1967,john-burke-2,John Burke Jr,Boston U.,?,0,#FFFFFF,#000000,0,Ind,Massachusetts,white,1960.0,Last,,,,,
 2025,john-calipari-1,John Calipari,Arkansas,"8-10 SEC
 Sweet 16",42,#9D2235,#FFFFFF,4,SEC,Arkansas,black,2025.0,Return,22,14,8,10,0.2
-2026,john-calipari-1,John Calipari,Arkansas,13-5 SEC,23,#FFFFFF,#000000,4,SEC,Arkansas,black,2025.0,Last,23,8,13,5,0.0
+2026,john-calipari-1,John Calipari,Arkansas,"13-5 SEC
+NCAA 64",36,#9D2235,#FFFFFF,4,SEC,Arkansas,black,2025.0,Last,26,8,13,5,0.1
 2010,john-calipari-1,John Calipari,Kentucky,"14-2 SEC
 Elite 8",60,#0033A0,#FFFFFF,4,SEC,Kentucky,black,2010.0,Return,35,3,14,2,0.25
 2011,john-calipari-1,John Calipari,Kentucky,"10-6 SEC
@@ -18447,7 +18492,8 @@ NCAA 64",34,#041E42,#FFFFFF,4,MAC,Ohio,black,2018.0,Return,24,10,14,6,0.1
 NCAA 64",34,#041E42,#FFFFFF,4,MAC,Ohio,black,2018.0,Return,24,11,13,5,0.1
 2025,john-groce-1,John Groce,Akron,"17-1 MAC
 NCAA 64",38,#041E42,#FFFFFF,4,MAC,Ohio,black,2018.0,Return,28,7,17,1,0.1
-2026,john-groce-1,John Groce,Akron,17-1 MAC,26,#FFFFFF,#000000,4,MAC,Ohio,black,2018.0,Last,26,5,17,1,0.0
+2026,john-groce-1,John Groce,Akron,"17-1 MAC
+NCAA 64",39,#041E42,#FFFFFF,4,MAC,Ohio,black,2018.0,Last,29,5,17,1,0.1
 2013,john-groce-1,John Groce,Illinois,"8-10 B1G
 NCAA 32",38,#FF5F05,#13294B,4,Big Ten,Illinois,black,2013.0,Return,23,13,8,10,0.15
 2014,john-groce-1,John Groce,Illinois,7-11 B1G,20,#FFFFFF,#000000,4,Big Ten,Illinois,black,2013.0,Return,20,15,7,11,0.0
@@ -18493,7 +18539,7 @@ Sweet 16",49,#00694E,#FFFFFF,4,MAC,Ohio,black,2009.0,Left,29,8,11,5,0.2
 1971,john-hiller-1,John Hiller,Saint Francis,15-10,15,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1970.0,Unknown,15,10,,,0.0
 1972,john-hiller-1,John Hiller,Saint Francis,?,0,#FFFFFF,#000000,0,Ind,Pennsylvania,white,1970.0,Last,,,,,
 2025,john-jakus-1,John Jakus,Fla. Atlantic,10-8 Amer,18,#FFFFFF,#000000,4,AAC,Florida,black,2025.0,Return,18,16,10,8,0.0
-2026,john-jakus-1,John Jakus,Fla. Atlantic,9-9 Amer,18,#FFFFFF,#000000,4,American,Florida,black,2025.0,Last,18,14,9,9,0.0
+2026,john-jakus-1,John Jakus,Fla. Atlantic,9-9 Amer,18,#FFFFFF,#000000,4,American,Florida,black,2025.0,Last,18,15,9,9,0.0
 1935,john-jeffries-1,John Jeffries Jr,Princeton,4-8 Ivy,6,#FFFFFF,#000000,4,Ivy,New Jersey,black,1935.0,Last,6,14,4,8,0.0
 1951,john-jordan-1,John Jordan,Loyola Chicago,15-14,15,#FFFFFF,#000000,4,Ind,Illinois,black,1951.0,Left,15,14,,,0.0
 1952,john-jordan-1,John Jordan,Loyola Chicago,Notre Dame,0,#FFFFFF,#000000,0,Ind,Illinois,white,1951.0,Last,,,,,
@@ -18815,7 +18861,8 @@ NCAA 64",34,#00205B,#FFFFFF,4,Sun Belt,Alabama,black,2003.0,Return,24,7,12,3,0.1
 2023,john-pelphrey-1,John Pelphrey,Tennessee Tech,11-7 OVC,16,#FFFFFF,#000000,4,OVC,Tennessee,black,2020.0,Return,16,17,11,7,0.0
 2024,john-pelphrey-1,John Pelphrey,Tennessee Tech,5-13 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,2020.0,Return,10,21,5,13,0.0
 2025,john-pelphrey-1,John Pelphrey,Tennessee Tech,10-10 OVC,15,#FFFFFF,#000000,4,OVC,Tennessee,black,2020.0,Return,15,17,10,10,0.0
-2026,john-pelphrey-1,John Pelphrey,Tennessee Tech,8-12 OVC,13,#FFFFFF,#000000,4,OVC,Tennessee,black,2020.0,Last,13,18,8,12,0.0
+2026,john-pelphrey-1,John Pelphrey,Tennessee Tech,8-12 OVC,13,#FFFFFF,#000000,4,OVC,Tennessee,black,2020.0,Fired,13,18,8,12,0.0
+2027,john-pelphrey-1,John Pelphrey,Tennessee Tech,Fired,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2020.0,Last,,,,,
 1907,john-phelan-1,John Phelan,Maine,7-4,7,#FFFFFF,#000000,4,Ind,Maine,black,1907.0,Return,7,4,,,0.0
 1908,john-phelan-1,John Phelan,Maine,5-5,5,#FFFFFF,#000000,4,Ind,Maine,black,1907.0,Last,5,5,,,0.0
 2002,john-phillips-1,John Phillips,Tulsa,"15-3 WAC
@@ -19153,7 +19200,8 @@ NCAA 32",39,#FFC904,#000000,4,AAC,Florida,black,2017.0,Return,24,9,13,5,0.15
 2023,johnny-dawkins-1,Johnny Dawkins Jr,UCF,8-10 Amer,19,#FFFFFF,#000000,4,AAC,Florida,black,2017.0,Return,19,15,8,10,0.0
 2024,johnny-dawkins-1,Johnny Dawkins Jr,UCF,7-11 B12,17,#FFFFFF,#000000,4,Big 12,Florida,black,2017.0,Return,17,16,7,11,0.0
 2025,johnny-dawkins-1,Johnny Dawkins Jr,UCF,7-13 B12,20,#FFFFFF,#000000,4,Big 12,Florida,black,2017.0,Return,20,17,7,13,0.0
-2026,johnny-dawkins-1,Johnny Dawkins Jr,UCF,9-9 B12,21,#FFFFFF,#000000,4,Big 12,Florida,black,2017.0,Last,21,10,9,9,0.0
+2026,johnny-dawkins-1,Johnny Dawkins Jr,UCF,"9-9 B12
+NCAA 64",31,#FFC904,#000000,4,Big 12,Florida,black,2017.0,Last,21,11,9,9,0.1
 1953,johnny-dee-1,Johnny Dee Jr,Alabama,7-7 SEC,12,#FFFFFF,#000000,4,SEC,Alabama,black,1953.0,Return,12,9,7,7,0.0
 1954,johnny-dee-1,Johnny Dee Jr,Alabama,12-4 SEC,16,#FFFFFF,#000000,4,SEC,Alabama,black,1953.0,Return,16,8,12,4,0.0
 1955,johnny-dee-1,Johnny Dee Jr,Alabama,11-3 SEC,19,#FFFFFF,#000000,4,SEC,Alabama,black,1953.0,Return,19,5,11,3,0.0
@@ -19209,7 +19257,7 @@ NCAA 64",29,#75263B,#FFFFFF,4,SWAC,Texas,black,2019.0,Return,19,13,13,5,0.1
 NCAA 68",19,#75263B,#FFFFFF,4,SWAC,Texas,black,2019.0,Return,14,21,7,11,0.05
 2024,johnny-jones-2,Johnny Jones,Texas Southern,12-6 SWAC,16,#FFFFFF,#000000,4,SWAC,Texas,black,2019.0,Return,16,17,12,6,0.0
 2025,johnny-jones-2,Johnny Jones,Texas Southern,12-6 SWAC,15,#FFFFFF,#000000,4,SWAC,Texas,black,2019.0,Return,15,17,12,6,0.0
-2026,johnny-jones-2,Johnny Jones,Texas Southern,10-8 SWAC,12,#FFFFFF,#000000,4,SWAC,Texas,black,2019.0,Last,12,17,10,8,0.0
+2026,johnny-jones-2,Johnny Jones,Texas Southern,10-8 SWAC,12,#FFFFFF,#000000,4,SWAC,Texas,black,2019.0,Last,12,18,10,8,0.0
 1981,johnny-jones-3,Johnny Jones,South Carolina St.,5-6 MEAC,11,#FFFFFF,#000000,4,MEAC,South Carolina,black,1981.0,Return,11,15,5,6,0.0
 1982,johnny-jones-3,Johnny Jones,South Carolina St.,7-5 MEAC,10,#FFFFFF,#000000,4,MEAC,South Carolina,black,1981.0,Return,10,15,7,5,0.0
 1983,johnny-jones-3,Johnny Jones,South Carolina St.,5-7 MEAC,13,#FFFFFF,#000000,4,MEAC,South Carolina,black,1981.0,Unknown,13,15,5,7,0.0
@@ -19287,14 +19335,14 @@ NCAA 25",30,#4D1979,#FFFFFF,4,SWC,Texas,black,1968.0,Return,15,12,11,3,0.15
 2019,jon-harris-4,Jon Harris,SIUE,6-12 OVC,10,#FFFFFF,#000000,4,OVC,Illinois,black,2016.0,Fired,10,21,6,12,0.0
 2020,jon-harris-4,Jon Harris,SIUE,Fired,0,#FFFFFF,#000000,0,OVC,Illinois,white,2016.0,Last,,,,,
 2025,jon-jaques-1,Jon Jaques,Cornell,9-5 Ivy,18,#FFFFFF,#000000,4,Ivy,New York,black,2025.0,Return,18,11,9,5,0.0
-2026,jon-jaques-1,Jon Jaques,Cornell,8-6 Ivy,15,#FFFFFF,#000000,4,Ivy,New York,black,2025.0,Last,15,12,8,6,0.0
+2026,jon-jaques-1,Jon Jaques,Cornell,8-6 Ivy,15,#FFFFFF,#000000,4,Ivy,New York,black,2025.0,Last,15,13,8,6,0.0
 2026,jon-jordan-1,Jon Jordan,Air Force,0-20 MWC,0,#FFFFFF,#000000,4,MWC,Colorado,black,2026.0,Last,0,12,0,20,0.0
 2021,jon-judkins-1,Jon Judkins,Utah Tech,4-10 WAC,8,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Return,8,13,4,10,0.0
 2022,jon-judkins-1,Jon Judkins,Utah Tech,6-12 WAC,13,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Return,13,18,6,12,0.0
 2023,jon-judkins-1,Jon Judkins,Utah Tech,5-13 WAC,14,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Return,14,19,5,13,0.0
 2024,jon-judkins-1,Jon Judkins,Utah Tech,7-13 WAC,11,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Return,11,20,7,13,0.0
 2025,jon-judkins-1,Jon Judkins,Utah Tech,2-14 WAC,7,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Return,7,26,2,14,0.0
-2026,jon-judkins-1,Jon Judkins,Utah Tech,11-7 WAC,18,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Last,18,14,11,7,0.0
+2026,jon-judkins-1,Jon Judkins,Utah Tech,11-7 WAC,19,#FFFFFF,#000000,4,WAC,Utah,black,2021.0,Last,19,15,11,7,0.0
 2026,jon-perry-1,Jon Perry,Navy,17-1 Pat,26,#FFFFFF,#000000,4,Patriot,Maryland,black,2026.0,Last,26,7,17,1,0.0
 2023,jon-scheyer-1,Jon Scheyer,Duke,"14-6 ACC
 NCAA 32",42,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Return,27,9,14,6,0.15
@@ -19302,7 +19350,8 @@ NCAA 32",42,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Return,27,9,14,6,0
 Elite 8",52,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Return,27,9,15,5,0.25
 2025,jon-scheyer-1,Jon Scheyer,Duke,"19-1 ACC
 Final 4",65,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Return,35,4,19,1,0.3
-2026,jon-scheyer-1,Jon Scheyer,Duke,17-1 ACC,29,#FFFFFF,#000000,4,ACC,North Carolina,black,2023.0,Left,29,2,17,1,0.0
+2026,jon-scheyer-1,Jon Scheyer,Duke,"17-1 ACC
+NCAA 64",42,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Left,32,2,17,1,0.1
 2016,jon-scheyer-1,Jon Scheyer,Duke,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2017,jon-scheyer-1,Jon Scheyer,Duke,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2018,jon-scheyer-1,Jon Scheyer,Duke,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -19313,7 +19362,8 @@ Final 4",65,#00539B,#FFFFFF,4,ACC,North Carolina,black,2023.0,Return,35,4,19,1,0
 2023,jonas-hayes-1,Jonas Hayes,Georgia St.,3-15 SB,10,#FFFFFF,#000000,4,Sun Belt,Georgia,black,2023.0,Return,10,21,3,15,0.0
 2024,jonas-hayes-1,Jonas Hayes,Georgia St.,8-10 SB,14,#FFFFFF,#000000,4,Sun Belt,Georgia,black,2023.0,Return,14,17,8,10,0.0
 2025,jonas-hayes-1,Jonas Hayes,Georgia St.,8-10 SB,14,#FFFFFF,#000000,4,Sun Belt,Georgia,black,2023.0,Return,14,19,8,10,0.0
-2026,jonas-hayes-1,Jonas Hayes,Georgia St.,7-11 SB,10,#FFFFFF,#000000,4,Sun Belt,Georgia,black,2023.0,Last,10,22,7,11,0.0
+2026,jonas-hayes-1,Jonas Hayes,Georgia St.,7-11 SB,10,#FFFFFF,#000000,4,Sun Belt,Georgia,black,2023.0,Fired,10,22,7,11,0.0
+2027,jonas-hayes-1,Jonas Hayes,Georgia St.,Fired,0,#FFFFFF,#000000,0,Sun Belt,Georgia,white,2023.0,Last,,,,,
 2025,jonathan-mattox-1,Jonathan Mattox,Morehead St.,10-10 OVC,15,#FFFFFF,#000000,4,OVC,Kentucky,black,2025.0,Return,15,17,10,10,0.0
 2026,jonathan-mattox-1,Jonathan Mattox,Morehead St.,15-5 OVC,20,#FFFFFF,#000000,4,OVC,Kentucky,black,2025.0,Last,20,13,15,5,0.0
 2022,jordan-mincy-1,Jordan Mincy,Jacksonville,11-5 ASun,21,#FFFFFF,#000000,4,A-Sun,Florida,black,2022.0,Return,21,10,11,5,0.0
@@ -19492,13 +19542,14 @@ NCAA 32",39,#004991,#FFFFFF,4,AAC,Tennessee,black,2010.0,Return,24,10,12,6,0.15
 2015,josh-pastner-1,Josh Pastner,Memphis,10-8 Amer,18,#FFFFFF,#000000,4,AAC,Tennessee,black,2010.0,Return,18,14,10,8,0.0
 2016,josh-pastner-1,Josh Pastner,Memphis,8-10 Amer,19,#FFFFFF,#000000,4,AAC,Tennessee,black,2010.0,Left,19,15,8,10,0.0
 2017,josh-pastner-1,Josh Pastner,Memphis,Georgia Tech,0,#FFFFFF,#000000,0,AAC,Tennessee,white,2010.0,Last,,,,,
-2026,josh-pastner-1,Josh Pastner,UNLV,11-9 MWC,17,#FFFFFF,#000000,4,MWC,Nevada,black,2026.0,Last,17,15,11,9,0.0
+2026,josh-pastner-1,Josh Pastner,UNLV,11-9 MWC,17,#FFFFFF,#000000,4,MWC,Nevada,black,2026.0,Last,17,16,11,9,0.0
 2022,josh-schertz-1,Josh Schertz,Indiana St.,4-14 MVC,11,#FFFFFF,#000000,4,MVC,Indiana,black,2022.0,Return,11,20,4,14,0.0
 2023,josh-schertz-1,Josh Schertz,Indiana St.,13-7 MVC,23,#FFFFFF,#000000,4,MVC,Indiana,black,2022.0,Return,23,13,13,7,0.0
 2024,josh-schertz-1,Josh Schertz,Indiana St.,17-3 MVC,32,#FFFFFF,#000000,4,MVC,Indiana,black,2022.0,Left,32,7,17,3,0.0
 2025,josh-schertz-1,Josh Schertz,Indiana St.,Saint Louis,0,#FFFFFF,#000000,0,MVC,Indiana,white,2022.0,Last,,,,,
 2025,josh-schertz-1,Josh Schertz,Saint Louis,11-7 A10,19,#FFFFFF,#000000,4,A-10,Missouri,black,2025.0,Return,19,15,11,7,0.0
-2026,josh-schertz-1,Josh Schertz,Saint Louis,15-3 A10,27,#FFFFFF,#000000,4,A-10,Missouri,black,2025.0,Last,27,4,15,3,0.0
+2026,josh-schertz-1,Josh Schertz,Saint Louis,"15-3 A10
+NCAA 64",38,#003DA5,#FFFFFF,4,A-10,Missouri,black,2025.0,Last,28,5,15,3,0.1
 2005,jp-piper-1,J.P. Piper,Nicholls,1-15 SLC,6,#FFFFFF,#000000,4,Southland,Louisiana,black,2005.0,Return,6,21,1,15,0.0
 2006,jp-piper-1,J.P. Piper,Nicholls,5-11 SLC,9,#FFFFFF,#000000,4,Southland,Louisiana,black,2005.0,Return,9,18,5,11,0.0
 2007,jp-piper-1,J.P. Piper,Nicholls,7-9 SLC,8,#FFFFFF,#000000,4,Southland,Louisiana,black,2005.0,Return,8,22,7,9,0.0
@@ -19756,7 +19807,8 @@ Sweet 16",53,#C8102E,#FFFFFF,4,AAC,Texas,black,2015.0,Return,33,4,17,1,0.2
 Sweet 16",52,#C8102E,#FFFFFF,4,Big 12,Texas,black,2015.0,Return,32,5,15,3,0.2
 2025,kelvin-sampson-1,Kelvin Sampson,Houston,"19-1 B12
 Runner-up",70,#C8102E,#FFFFFF,4,Big 12,Texas,black,2015.0,Return,35,5,19,1,0.35000000000000003
-2026,kelvin-sampson-1,Kelvin Sampson,Houston,14-4 B12,26,#FFFFFF,#000000,4,Big 12,Texas,black,2015.0,Last,26,5,14,4,0.0
+2026,kelvin-sampson-1,Kelvin Sampson,Houston,"14-4 B12
+NCAA 64",38,#C8102E,#FFFFFF,4,Big 12,Texas,black,2015.0,Last,28,6,14,4,0.1
 2007,kelvin-sampson-1,Kelvin Sampson,Indiana,"10-6 B1G
 NCAA 32",36,#990000,#EDEBEB,4,Big Ten,Indiana,black,2007.0,Return,21,11,10,6,0.15
 2008,kelvin-sampson-1,Kelvin Sampson,Indiana,"14-4 B1G
@@ -19969,7 +20021,8 @@ NCAA 64",32,#003A63,#FFFFFF,4,MEAC,D.C.,black,2020.0,Return,22,13,11,3,0.1
 2024,kenny-blakeney-1,Kenneth Blakeney,Howard,"9-5 MEAC
 NCAA 68",23,#003A63,#FFFFFF,4,MEAC,D.C.,black,2020.0,Return,18,17,9,5,0.05
 2025,kenny-blakeney-1,Kenneth Blakeney,Howard,7-7 MEAC,12,#FFFFFF,#000000,4,MEAC,D.C.,black,2020.0,Return,12,20,7,7,0.0
-2026,kenny-blakeney-1,Kenneth Blakeney,Howard,11-3 MEAC,21,#FFFFFF,#000000,4,MEAC,D.C.,black,2020.0,Last,21,10,11,3,0.0
+2026,kenny-blakeney-1,Kenneth Blakeney,Howard,"11-3 MEAC
+NCAA 68",28,#003A63,#FFFFFF,4,MEAC,D.C.,black,2020.0,Last,23,10,11,3,0.05
 2014,kenny-payne-1,Kenny Payne,Kentucky,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2015,kenny-payne-1,Kenny Payne,Kentucky,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2016,kenny-payne-1,Kenny Payne,Kentucky,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -20145,7 +20198,7 @@ NCAA 64",33,#005A43,#FFFFFF,4,AEC,New York,black,2008.0,Scandal,23,9,13,3,0.1
 2006,kevin-johnson-4,,Centenary LA,Resigned,0,#FFFFFF,#000000,0,,,white,,Last,,,,,
 2024,kevin-johnson-4,Kevin Johnson,Southern U.,12-6 SWAC,18,#FFFFFF,#000000,4,SWAC,Louisiana,black,2024.0,Return,18,14,12,6,0.0
 2025,kevin-johnson-4,Kevin Johnson,Southern U.,15-3 SWAC,20,#FFFFFF,#000000,4,SWAC,Louisiana,black,2024.0,Return,20,12,15,3,0.0
-2026,kevin-johnson-4,Kevin Johnson,Southern U.,11-7 SWAC,15,#FFFFFF,#000000,4,SWAC,Louisiana,black,2024.0,Last,15,16,11,7,0.0
+2026,kevin-johnson-4,Kevin Johnson,Southern U.,11-7 SWAC,17,#FFFFFF,#000000,4,SWAC,Louisiana,black,2024.0,Last,17,17,11,7,0.0
 2004,kevin-jones-6,Kevin Jones,Chicago St.,9-7 MidC,12,#FFFFFF,#000000,4,Mid-Cont,Illinois,black,2004.0,Return,12,20,9,7,0.0
 2005,kevin-jones-6,Kevin Jones,Chicago St.,7-9 MidC,9,#FFFFFF,#000000,4,Mid-Cont,Illinois,black,2004.0,Return,9,19,7,9,0.0
 2006,kevin-jones-6,Kevin Jones,Chicago St.,8-8 MidC,11,#FFFFFF,#000000,4,Mid-Cont,Illinois,black,2004.0,Return,11,19,8,8,0.0
@@ -20332,10 +20385,11 @@ NCAA Lock",35,#004488,#FFFFFF,4,Big East,New Jersey,black,2011.0,Return,20,9,13,
 2022,kevin-willard-1,Kevin Willard,Seton Hall,"11-8 BE
 NCAA 64",31,#004488,#FFFFFF,4,Big East,New Jersey,black,2011.0,Left,21,11,11,8,0.1
 2023,kevin-willard-1,Kevin Willard,Seton Hall,Maryland,0,#FFFFFF,#000000,0,Big East,New Jersey,white,2011.0,Last,,,,,
-2026,kevin-willard-1,Kevin Willard,Villanova,15-5 BE,24,#FFFFFF,#000000,4,Big East,Pennsylvania,black,2026.0,Last,24,7,15,5,0.0
+2026,kevin-willard-1,Kevin Willard,Villanova,"15-5 BE
+NCAA 64",34,#002664,#FFFFFF,4,Big East,Pennsylvania,black,2026.0,Last,24,8,15,5,0.1
 2025,kevin-young-5,Kevin Young,BYU,"14-6 B12
 Sweet 16",46,#002E5D,#FFFFFF,4,Big 12,Utah,black,2025.0,Return,26,10,14,6,0.2
-2026,kevin-young-5,Kevin Young,BYU,9-9 B12,23,#FFFFFF,#000000,4,Big 12,Utah,black,2025.0,Last,23,10,9,9,0.0
+2026,kevin-young-5,Kevin Young,BYU,9-9 B12,23,#FFFFFF,#000000,4,Big 12,Utah,black,2025.0,Last,23,11,9,9,0.0
 1926,kid-gore-1,Kid Gore,Massachusetts,12-2,12,#FFFFFF,#000000,4,Ind,Massachusetts,black,1926.0,Last,12,2,,,0.0
 2024,kieran-donohue-1,Kieran Donohue,Old Dominion,3-15 SB,4,#FFFFFF,#000000,4,Sun Belt,Virginia,black,2024.0,Interim,4,19,3,15,0.0
 2025,kieran-donohue-1,Kieran Donohue,Old Dominion,Interim,0,#FFFFFF,#000000,0,Sun Belt,Virginia,white,2024.0,Last,,,,,
@@ -20348,7 +20402,8 @@ Sweet 16",46,#002E5D,#FFFFFF,4,Big 12,Utah,black,2025.0,Return,26,10,14,6,0.2
 2024,kim-english-1,Kim English,George Mason,Providence,0,#FFFFFF,#000000,0,A-10,Virginia,white,2022.0,Last,,,,,
 2024,kim-english-1,Kim English,Providence,10-10 BE,21,#FFFFFF,#000000,4,Big East,Rhode Island,black,2024.0,Return,21,14,10,10,0.0
 2025,kim-english-1,Kim English,Providence,6-14 BE,12,#FFFFFF,#000000,4,Big East,Rhode Island,black,2024.0,Return,12,20,6,14,0.0
-2026,kim-english-1,Kim English,Providence,7-13 BE,15,#FFFFFF,#000000,4,Big East,Rhode Island,black,2024.0,Last,15,17,7,13,0.0
+2026,kim-english-1,Kim English,Providence,7-13 BE,15,#FFFFFF,#000000,4,Big East,Rhode Island,black,2024.0,Fired,15,18,7,13,0.0
+2027,kim-english-1,Kim English,Providence,Fired,0,#FFFFFF,#000000,0,Big East,Rhode Island,white,2024.0,Last,,,,,
 2020,kim-english-1,Kim English,Tennessee,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2021,kim-english-1,Kim English,Tennessee,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2012,king-rice-1,King Rice,Monmouth,10-8 NEC,12,#FFFFFF,#000000,4,NEC,New Jersey,black,2012.0,Return,12,20,10,8,0.0
@@ -20418,7 +20473,7 @@ NCAA 64",34,#FFC904,#000000,4,A-Sun,Florida,black,1994.0,Return,24,9,13,7,0.1
 2021,kt-turner-1,KT Turner,Texas,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2024,kt-turner-1,KT Turner,UT Arlington,13-7 WAC,20,#FFFFFF,#000000,4,WAC,Texas,black,2024.0,Return,20,14,13,7,0.0
 2025,kt-turner-1,KT Turner,UT Arlington,6-10 WAC,13,#FFFFFF,#000000,4,WAC,Texas,black,2024.0,Return,13,18,6,10,0.0
-2026,kt-turner-1,KT Turner,UT Arlington,9-9 WAC,17,#FFFFFF,#000000,4,WAC,Texas,black,2024.0,Last,17,13,9,9,0.0
+2026,kt-turner-1,KT Turner,UT Arlington,9-9 WAC,18,#FFFFFF,#000000,4,WAC,Texas,black,2024.0,Last,18,14,9,9,0.0
 1997,kurt-kanaskie-1,Kurt Kanaskie,Drake,0-18 MVC,2,#FFFFFF,#000000,4,MVC,Iowa,black,1997.0,Return,2,26,0,18,0.0
 1998,kurt-kanaskie-1,Kurt Kanaskie,Drake,0-18 MVC,3,#FFFFFF,#000000,4,MVC,Iowa,black,1997.0,Return,3,24,0,18,0.0
 1999,kurt-kanaskie-1,Kurt Kanaskie,Drake,5-13 MVC,10,#FFFFFF,#000000,4,MVC,Iowa,black,1997.0,Return,10,17,5,13,0.0
@@ -21301,7 +21356,7 @@ Likely AQ",33,#862633,#FFFFFF,4,MEAC,North Carolina,black,2010.0,Return,18,13,13
 2023,levelle-moton-1,LeVelle Moton,N.C. Central,10-4 MEAC,18,#FFFFFF,#000000,4,MEAC,North Carolina,black,2010.0,Return,18,12,10,4,0.0
 2024,levelle-moton-1,LeVelle Moton,N.C. Central,9-5 MEAC,18,#FFFFFF,#000000,4,MEAC,North Carolina,black,2010.0,Return,18,13,9,5,0.0
 2025,levelle-moton-1,LeVelle Moton,N.C. Central,6-8 MEAC,14,#FFFFFF,#000000,4,MEAC,North Carolina,black,2010.0,Return,14,19,6,8,0.0
-2026,levelle-moton-1,LeVelle Moton,N.C. Central,8-6 MEAC,12,#FFFFFF,#000000,4,MEAC,North Carolina,black,2010.0,Last,12,17,8,6,0.0
+2026,levelle-moton-1,LeVelle Moton,N.C. Central,8-6 MEAC,14,#FFFFFF,#000000,4,MEAC,North Carolina,black,2010.0,Last,14,18,8,6,0.0
 1925,lew-andreas-1,Lew Andreas,Syracuse,15-2,15,#FFFFFF,#000000,4,Ind,New York,black,1925.0,Return,15,2,,,0.0
 1926,lew-andreas-1,Lew Andreas,Syracuse,19-1,19,#FFFFFF,#000000,4,Ind,New York,black,1925.0,Return,19,1,,,0.0
 1927,lew-andreas-1,Lew Andreas,Syracuse,15-4,15,#FFFFFF,#000000,4,Ind,New York,black,1925.0,Return,15,4,,,0.0
@@ -21812,7 +21867,7 @@ NCAA 64",28,#004488,#FFFFFF,4,Big East,New Jersey,black,2002.0,Fired,18,12,9,7,0
 1907,lt-coburn-1,Lt. Coburn,Wyoming,3-4,3,#FFFFFF,#000000,4,Ind,Wyoming,black,1907.0,Return,3,4,,,0.0
 1908,lt-coburn-1,Lt. Coburn,Wyoming,2-3,2,#FFFFFF,#000000,4,Ind,Wyoming,black,1907.0,Last,2,3,,,0.0
 1922,lt-smith-1,L.T. Smith,Western Ky.,3-1,3,#FFFFFF,#000000,4,Ind,Kentucky,black,1922.0,Last,3,1,,,0.0
-2026,luke-loucks-1,Luke Loucks,Florida St.,10-8 ACC,18,#FFFFFF,#000000,4,ACC,Florida,black,2026.0,Last,18,14,10,8,0.0
+2026,luke-loucks-1,Luke Loucks,Florida St.,10-8 ACC,18,#FFFFFF,#000000,4,ACC,Florida,black,2026.0,Last,18,15,10,8,0.0
 2026,luke-mcconnell-1,Luke McConnell,Saint Francis,5-13 NEC,7,#FFFFFF,#000000,4,NEC,Pennsylvania,black,2026.0,Last,7,24,5,13,0.0
 1922,luke-urban-1,Luke Urban,Canisius,6-4,6,#FFFFFF,#000000,4,Ind,New York,black,1922.0,Return,6,4,,,0.0
 1924,luke-urban-1,Luke Urban,Canisius,8-1,8,#FFFFFF,#000000,4,Ind,New York,black,1922.0,Return,8,1,,,0.0
@@ -22118,7 +22173,8 @@ NCAA 32",47,#450084,#CBB677,4,Sun Belt,Virginia,black,2021.0,Left,32,4,15,3,0.15
 2025,mark-byington-1,Mark Byington,James Madison,Vanderbilt,0,#FFFFFF,#000000,0,Sun Belt,Virginia,white,2021.0,Last,,,,,
 2025,mark-byington-1,Mark Byington,Vanderbilt,"8-10 SEC
 NCAA 64",30,#CFAE70,#1C1C1C,4,SEC,Tennessee,black,2025.0,Return,20,13,8,10,0.1
-2026,mark-byington-1,Mark Byington,Vanderbilt,11-7 SEC,24,#FFFFFF,#000000,4,SEC,Tennessee,black,2025.0,Last,24,7,11,7,0.0
+2026,mark-byington-1,Mark Byington,Vanderbilt,"11-7 SEC
+NCAA 64",36,#CFAE70,#1C1C1C,4,SEC,Tennessee,black,2025.0,Last,26,8,11,7,0.1
 1943,mark-duncan-1,Mark Duncan,Denver,8-3,8,#FFFFFF,#000000,4,Ind,Colorado,black,1943.0,Last,8,3,,,0.0
 2000,mark-few-1,Mark Few,Gonzaga,"11-3 WCC
 Sweet 16",46,#041E42,#FFFFFF,4,WCC,Washington,black,2000.0,Return,26,9,11,3,0.2
@@ -22172,7 +22228,8 @@ Elite 8",56,#041E42,#FFFFFF,4,WCC,Washington,black,2000.0,Return,31,6,14,2,0.25
 Sweet 16",47,#041E42,#FFFFFF,4,WCC,Washington,black,2000.0,Return,27,8,14,2,0.2
 2025,mark-few-1,Mark Few,Gonzaga,"14-4 WCC
 NCAA 32",41,#041E42,#FFFFFF,4,WCC,Washington,black,2000.0,Return,26,9,14,4,0.15
-2026,mark-few-1,Mark Few,Gonzaga,16-2 WCC,30,#FFFFFF,#000000,4,WCC,Washington,black,2000.0,Last,30,3,16,2,0.0
+2026,mark-few-1,Mark Few,Gonzaga,"16-2 WCC
+NCAA 64",40,#041E42,#FFFFFF,4,WCC,Washington,black,2000.0,Last,30,3,16,2,0.1
 2020,mark-fox-1,Mark Fox,California,7-11 P12,14,#FFFFFF,#000000,4,Pac-12,California,black,2020.0,Return,14,18,7,11,0.0
 2021,mark-fox-1,Mark Fox,California,3-17 P12,9,#FFFFFF,#000000,4,Pac-12,California,black,2020.0,Return,9,20,3,17,0.0
 2022,mark-fox-1,Mark Fox,California,5-15 P12,12,#FFFFFF,#000000,4,Pac-12,California,black,2020.0,Return,12,20,5,15,0.0
@@ -22294,7 +22351,8 @@ NCAA 64",33,#002E5D,#FFFFFF,4,Big 12,Utah,black,2020.0,Left,23,11,10,8,0.1
 2025,mark-pope-1,Mark Pope,BYU,Kentucky,0,#FFFFFF,#000000,0,Big 12,Utah,white,2020.0,Last,,,,,
 2025,mark-pope-1,Mark Pope,Kentucky,"10-8 SEC
 Sweet 16",44,#0033A0,#FFFFFF,4,SEC,Kentucky,black,2025.0,Return,24,12,10,8,0.2
-2026,mark-pope-1,Mark Pope,Kentucky,10-8 SEC,20,#FFFFFF,#000000,4,SEC,Kentucky,black,2025.0,Last,20,12,10,8,0.0
+2026,mark-pope-1,Mark Pope,Kentucky,"10-8 SEC
+NCAA 64",31,#0033A0,#FFFFFF,4,SEC,Kentucky,black,2025.0,Last,21,13,10,8,0.1
 2016,mark-pope-1,Mark Pope,Utah Valley,6-8 WAC,12,#FFFFFF,#000000,4,WAC,Utah,black,2016.0,Return,12,18,6,8,0.0
 2017,mark-pope-1,Mark Pope,Utah Valley,6-8 WAC,17,#FFFFFF,#000000,4,WAC,Utah,black,2016.0,Return,17,17,6,8,0.0
 2018,mark-pope-1,Mark Pope,Utah Valley,10-4 WAC,23,#FFFFFF,#000000,4,WAC,Utah,black,2016.0,Return,23,11,10,4,0.0
@@ -22350,7 +22408,8 @@ NCAA 64",26,#2B150E,#FFFFFF,4,A-10,New York,black,2008.0,Return,16,5,11,4,0.1
 2023,mark-schmidt-1,Mark Schmidt,St. Bonaventure,8-10 A10,14,#FFFFFF,#000000,4,A-10,New York,black,2008.0,Return,14,18,8,10,0.0
 2024,mark-schmidt-1,Mark Schmidt,St. Bonaventure,9-9 A10,20,#FFFFFF,#000000,4,A-10,New York,black,2008.0,Return,20,13,9,9,0.0
 2025,mark-schmidt-1,Mark Schmidt,St. Bonaventure,9-9 A10,22,#FFFFFF,#000000,4,A-10,New York,black,2008.0,Return,22,12,9,9,0.0
-2026,mark-schmidt-1,Mark Schmidt,St. Bonaventure,4-14 A10,16,#FFFFFF,#000000,4,A-10,New York,black,2008.0,Last,16,16,4,14,0.0
+2026,mark-schmidt-1,Mark Schmidt,St. Bonaventure,4-14 A10,17,#FFFFFF,#000000,4,A-10,New York,black,2008.0,Retired,17,17,4,14,0.0
+2027,mark-schmidt-1,Mark Schmidt,St. Bonaventure,Retired,0,#FFFFFF,#000000,0,A-10,New York,white,2008.0,Last,,,,,
 2000,mark-simons-1,Mark Simons,Elon,7-7 BSth,13,#FFFFFF,#000000,4,Big South,North Carolina,black,2000.0,Return,13,15,7,7,0.0
 2001,mark-simons-1,Mark Simons,Elon,4-10 BSth,9,#FFFFFF,#000000,4,Big South,North Carolina,black,2000.0,Return,9,20,4,10,0.0
 2002,mark-simons-1,Mark Simons,Elon,7-7 BSth,13,#FFFFFF,#000000,4,Big South,North Carolina,black,2000.0,Return,13,16,7,7,0.0
@@ -22572,7 +22631,8 @@ NCAA 64",32,#4B2E83,#FFFFFF,4,Pac-10,Washington,black,1972.0,Fired,22,10,13,5,0.
 2023,marvin-menzies-1,Marvin Menzies,Kansas City,7-11 Sum,11,#FFFFFF,#000000,4,Summit,Missouri,black,2023.0,Return,11,21,7,11,0.0
 2024,marvin-menzies-1,Marvin Menzies,Kansas City,10-6 Sum,16,#FFFFFF,#000000,4,Summit,Missouri,black,2023.0,Return,16,16,10,6,0.0
 2025,marvin-menzies-1,Marvin Menzies,Kansas City,4-12 Sum,13,#FFFFFF,#000000,4,Summit,Missouri,black,2023.0,Return,13,20,4,12,0.0
-2026,marvin-menzies-1,Marvin Menzies,Kansas City,1-15 Sum,4,#FFFFFF,#000000,4,Summit,Missouri,black,2023.0,Last,4,27,1,15,0.0
+2026,marvin-menzies-1,Marvin Menzies,Kansas City,1-15 Sum,4,#FFFFFF,#000000,4,Summit,Missouri,black,2023.0,Fired,4,27,1,15,0.0
+2027,marvin-menzies-1,Marvin Menzies,Kansas City,Fired,0,#FFFFFF,#000000,0,Summit,Missouri,white,2023.0,Last,,,,,
 2008,marvin-menzies-1,Marvin Menzies,New Mexico St.,12-4 WAC,21,#FFFFFF,#000000,4,WAC,New Mexico,black,2008.0,Return,21,14,12,4,0.0
 2009,marvin-menzies-1,Marvin Menzies,New Mexico St.,9-7 WAC,17,#FFFFFF,#000000,4,WAC,New Mexico,black,2008.0,Return,17,15,9,7,0.0
 2010,marvin-menzies-1,Marvin Menzies,New Mexico St.,"11-5 WAC
@@ -22732,7 +22792,7 @@ NCAA 64",39,#FDB736,#112E51,4,Southern,Tennessee,black,2016.0,Return,29,6,15,3,0
 2023,matt-mckillop-1,Matt McKillop,Davidson,8-10 A10,16,#FFFFFF,#000000,4,A-10,North Carolina,black,2023.0,Return,16,16,8,10,0.0
 2024,matt-mckillop-1,Matt McKillop,Davidson,5-13 A10,15,#FFFFFF,#000000,4,A-10,North Carolina,black,2023.0,Return,15,17,5,13,0.0
 2025,matt-mckillop-1,Matt McKillop,Davidson,6-12 A10,17,#FFFFFF,#000000,4,A-10,North Carolina,black,2023.0,Return,17,16,6,12,0.0
-2026,matt-mckillop-1,Matt McKillop,Davidson,10-8 A10,19,#FFFFFF,#000000,4,A-10,North Carolina,black,2023.0,Last,19,12,10,8,0.0
+2026,matt-mckillop-1,Matt McKillop,Davidson,10-8 A10,20,#FFFFFF,#000000,4,A-10,North Carolina,black,2023.0,Last,20,13,10,8,0.0
 2023,matt-mcmahon-1,Matt McMahon,LSU,2-16 SEC,14,#FFFFFF,#000000,4,SEC,Louisiana,black,2023.0,Return,14,19,2,16,0.0
 2024,matt-mcmahon-1,Matt McMahon,LSU,9-9 SEC,17,#FFFFFF,#000000,4,SEC,Louisiana,black,2023.0,Return,17,16,9,9,0.0
 2025,matt-mcmahon-1,Matt McMahon,LSU,3-15 SEC,14,#FFFFFF,#000000,4,SEC,Louisiana,black,2023.0,Return,14,18,3,15,0.0
@@ -22784,7 +22844,8 @@ NCAA 64",39,#CFB991,#000000,4,Big Ten,Indiana,black,2006.0,Return,29,6,15,5,0.1
 Runner-up",69,#CFB991,#000000,4,Big Ten,Indiana,black,2006.0,Return,34,5,17,3,0.35000000000000003
 2025,matt-painter-1,Matt Painter,Purdue,"13-7 B1G
 Sweet 16",44,#CFB991,#000000,4,Big Ten,Indiana,black,2006.0,Return,24,12,13,7,0.2
-2026,matt-painter-1,Matt Painter,Purdue,13-7 B1G,23,#FFFFFF,#000000,4,Big Ten,Indiana,black,2006.0,Last,23,8,13,7,0.0
+2026,matt-painter-1,Matt Painter,Purdue,"13-7 B1G
+NCAA 64",37,#CFB991,#000000,4,Big Ten,Indiana,black,2006.0,Last,27,8,13,7,0.1
 2004,matt-painter-1,Matt Painter,Southern Ill.,"17-1 MVC
 NCAA 64",35,#6C0633,#FFFFFF,4,MVC,Illinois,black,2004.0,Left,25,5,17,1,0.1
 2005,matt-painter-1,Matt Painter,Southern Ill.,Purdue (asst.),0,#FFFFFF,#000000,0,MVC,Illinois,white,2004.0,Last,,,,,
@@ -23050,7 +23111,8 @@ NCAA 32",36,#FE5C00,#000000,4,Big 12,Oklahoma,black,2018.0,Return,21,9,11,7,0.15
 2023,michael-lewis-1,Michael Lewis,Ball St.,11-7 MAC,20,#FFFFFF,#000000,4,MAC,Indiana,black,2023.0,Return,20,12,11,7,0.0
 2024,michael-lewis-1,Michael Lewis,Ball St.,7-11 MAC,15,#FFFFFF,#000000,4,MAC,Indiana,black,2023.0,Return,15,16,7,11,0.0
 2025,michael-lewis-1,Michael Lewis,Ball St.,7-11 MAC,14,#FFFFFF,#000000,4,MAC,Indiana,black,2023.0,Return,14,17,7,11,0.0
-2026,michael-lewis-1,Michael Lewis,Ball St.,7-11 MAC,12,#FFFFFF,#000000,4,MAC,Indiana,black,2023.0,Last,12,19,7,11,0.0
+2026,michael-lewis-1,Michael Lewis,Ball St.,7-11 MAC,12,#FFFFFF,#000000,4,MAC,Indiana,black,2023.0,Fired,12,19,7,11,0.0
+2027,michael-lewis-1,Michael Lewis,Ball St.,Fired,0,#FFFFFF,#000000,0,MAC,Indiana,white,2023.0,Last,,,,,
 2015,michael-lewis-1,Michael Lewis,Butler,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2016,michael-lewis-1,Michael Lewis,Butler,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2017,michael-lewis-1,Michael Lewis,Nebraska,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -23100,7 +23162,8 @@ NCAA 32",30,#FA4616,#0021A5,4,SEC,Florida,black,2016.0,Return,15,10,9,7,0.15
 2024,michael-white-1,Michael White,Georgia,6-12 SEC,20,#FFFFFF,#000000,4,SEC,Georgia,black,2023.0,Return,20,17,6,12,0.0
 2025,michael-white-1,Michael White,Georgia,"8-10 SEC
 NCAA 64",30,#BA0C2F,#FFFFFF,4,SEC,Georgia,black,2023.0,Return,20,13,8,10,0.1
-2026,michael-white-1,Michael White,Georgia,10-8 SEC,22,#FFFFFF,#000000,4,SEC,Georgia,black,2023.0,Last,22,9,10,8,0.0
+2026,michael-white-1,Michael White,Georgia,"10-8 SEC
+NCAA 64",32,#BA0C2F,#FFFFFF,4,SEC,Georgia,black,2023.0,Last,22,10,10,8,0.1
 2012,michael-white-1,Michael White,Louisiana Tech,6-8 WAC,18,#FFFFFF,#000000,4,WAC,Louisiana,black,2012.0,Return,18,16,6,8,0.0
 2013,michael-white-1,Michael White,Louisiana Tech,16-2 WAC,27,#FFFFFF,#000000,4,WAC,Louisiana,black,2012.0,Return,27,7,16,2,0.0
 2014,michael-white-1,Michael White,Louisiana Tech,13-3 CUSA,29,#FFFFFF,#000000,4,CUSA,Louisiana,black,2012.0,Return,29,8,13,3,0.0
@@ -23146,7 +23209,8 @@ Sweet 16",51,#2774AE,#FFD100,4,Pac-12,California,black,2020.0,Return,31,6,18,2,0
 2024,mick-cronin-1,Mick Cronin,UCLA,10-10 P12,16,#FFFFFF,#000000,4,Pac-12,California,black,2020.0,Return,16,17,10,10,0.0
 2025,mick-cronin-1,Mick Cronin,UCLA,"13-7 B1G
 NCAA 32",38,#2774AE,#FFD100,4,Big Ten,California,black,2020.0,Return,23,11,13,7,0.15
-2026,mick-cronin-1,Mick Cronin,UCLA,13-7 B1G,21,#FFFFFF,#000000,4,Big Ten,California,black,2020.0,Last,21,10,13,7,0.0
+2026,mick-cronin-1,Mick Cronin,UCLA,"13-7 B1G
+NCAA 64",33,#2774AE,#FFD100,4,Big Ten,California,black,2020.0,Last,23,11,13,7,0.1
 1991,mick-durham-1,Mick Durham,Montana St.,6-10 BSky,12,#FFFFFF,#000000,4,Big Sky,Montana,black,1991.0,Return,12,16,6,10,0.0
 1992,mick-durham-1,Mick Durham,Montana St.,6-10 BSky,14,#FFFFFF,#000000,4,Big Sky,Montana,black,1991.0,Return,14,14,6,10,0.0
 1993,mick-durham-1,Mick Durham,Montana St.,5-9 BSky,9,#FFFFFF,#000000,4,Big Sky,Montana,black,1991.0,Return,9,18,5,9,0.0
@@ -23612,7 +23676,8 @@ NCAA 64",33,#C2011B,#FFFFFF,4,Big South,Virginia,black,2012.0,Return,23,13,12,6,
 2023,mike-jones-7,Mike Jones,UNC Greensboro,14-4 SoCon,20,#FFFFFF,#000000,4,Southern,North Carolina,black,2022.0,Return,20,12,14,4,0.0
 2024,mike-jones-7,Mike Jones,UNC Greensboro,12-6 SoCon,21,#FFFFFF,#000000,4,Southern,North Carolina,black,2022.0,Return,21,11,12,6,0.0
 2025,mike-jones-7,Mike Jones,UNC Greensboro,13-5 SoCon,20,#FFFFFF,#000000,4,Southern,North Carolina,black,2022.0,Return,20,12,13,5,0.0
-2026,mike-jones-7,Mike Jones,UNC Greensboro,9-9 SoCon,15,#FFFFFF,#000000,4,Southern,North Carolina,black,2022.0,Last,15,19,9,9,0.0
+2026,mike-jones-7,Mike Jones,UNC Greensboro,9-9 SoCon,15,#FFFFFF,#000000,4,Southern,North Carolina,black,2022.0,Fired,15,19,9,9,0.0
+2027,mike-jones-7,Mike Jones,UNC Greensboro,Fired,0,#FFFFFF,#000000,0,Southern,North Carolina,white,2022.0,Last,,,,,
 1900,mike-kelly-1,Mike Kelly,Butler,2-1,2,#FFFFFF,#000000,4,Ind,Indiana,black,1900.0,Return,2,1,,,0.0
 1901,mike-kelly-1,Mike Kelly,Butler,2-1,2,#FFFFFF,#000000,4,Ind,Indiana,black,1900.0,Return,2,1,,,0.0
 1902,mike-kelly-1,Mike Kelly,Butler,1-3,1,#FFFFFF,#000000,4,Ind,Indiana,black,1900.0,Return,1,3,,,0.0
@@ -23737,7 +23802,7 @@ NCAA 64",35,#007155,#FFFFFF,4,AEC,Vermont,black,2006.0,Return,25,10,12,4,0.1
 2005,mike-macdonald-1,Mike MacDonald,Canisius,8-10 MAAC,11,#FFFFFF,#000000,4,MAAC,New York,black,1998.0,Return,11,18,8,10,0.0
 2006,mike-macdonald-1,Mike MacDonald,Canisius,6-12 MAAC,9,#FFFFFF,#000000,4,MAAC,New York,black,1998.0,Fired,9,20,6,12,0.0
 2007,mike-macdonald-1,Mike MacDonald,Canisius,Fired,0,#FFFFFF,#000000,0,MAAC,New York,white,1998.0,Last,,,,,
-2026,mike-magpayo-1,Mike Magpayo,Fordham,8-10 A10,17,#FFFFFF,#000000,4,A-10,New York,black,2026.0,Last,17,14,8,10,0.0
+2026,mike-magpayo-1,Mike Magpayo,Fordham,8-10 A10,17,#FFFFFF,#000000,4,A-10,New York,black,2026.0,Last,17,15,8,10,0.0
 2021,mike-magpayo-1,Mike Magpayo,UC Riverside,10-5 BWst,14,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,14,8,10,5,0.0
 2022,mike-magpayo-1,Mike Magpayo,UC Riverside,10-7 BWst,16,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,16,12,10,7,0.0
 2023,mike-magpayo-1,Mike Magpayo,UC Riverside,14-6 BWst,22,#FFFFFF,#000000,4,Big West,California,black,2021.0,Return,22,12,14,6,0.0
@@ -23969,7 +24034,8 @@ NCAA 64",33,#14234B,#FFFFFF,4,NEC,Pennsylvania,black,2008.0,Left,23,12,15,3,0.1
 1971,mike-schuler-1,Mike Schuler,VMI,1-12 SoCon,1,#FFFFFF,#000000,4,Southern,Virginia,black,1970.0,Return,1,25,1,12,0.0
 1972,mike-schuler-1,Mike Schuler,VMI,2-10 SoCon,6,#FFFFFF,#000000,4,Southern,Virginia,black,1970.0,Unknown,6,19,2,10,0.0
 1973,mike-schuler-1,Mike Schuler,VMI,?,0,#FFFFFF,#000000,0,Southern,Virginia,white,1970.0,Last,,,,,
-2026,mike-scott-3,Mike Scott,CSU Bakersfield,2-18 BWst,8,#FFFFFF,#000000,4,Big West,California,black,2026.0,Last,8,24,2,18,0.0
+2026,mike-scott-3,Mike Scott,CSU Bakersfield,2-18 BWst,8,#FFFFFF,#000000,4,Big West,California,black,2026.0,Interim,8,24,2,18,0.0
+2027,mike-scott-3,Mike Scott,CSU Bakersfield,Interim,0,#FFFFFF,#000000,0,Big West,California,white,2026.0,Last,,,,,
 1988,mike-steele-1,Mike Steele,East Carolina,3-11 CAA,8,#FFFFFF,#000000,4,CAA,North Carolina,black,1988.0,Return,8,20,3,11,0.0
 1989,mike-steele-1,Mike Steele,East Carolina,6-8 CAA,15,#FFFFFF,#000000,4,CAA,North Carolina,black,1988.0,Return,15,14,6,8,0.0
 1990,mike-steele-1,Mike Steele,East Carolina,6-8 CAA,13,#FFFFFF,#000000,4,CAA,North Carolina,black,1988.0,Return,13,18,6,8,0.0
@@ -24353,7 +24419,8 @@ Sweet 16",51,#9E1B32,#FFFFFF,4,SEC,Alabama,black,2020.0,Return,31,6,16,2,0.2
 Final 4",55,#9E1B32,#FFFFFF,4,SEC,Alabama,black,2020.0,Return,25,12,13,5,0.3
 2025,nate-oats-1,Nate Oats,Alabama,"13-5 SEC
 Elite 8",53,#9E1B32,#FFFFFF,4,SEC,Alabama,black,2020.0,Return,28,9,13,5,0.25
-2026,nate-oats-1,Nate Oats,Alabama,13-5 SEC,23,#FFFFFF,#000000,4,SEC,Alabama,black,2020.0,Last,23,8,13,5,0.0
+2026,nate-oats-1,Nate Oats,Alabama,"13-5 SEC
+NCAA 64",33,#9E1B32,#FFFFFF,4,SEC,Alabama,black,2020.0,Last,23,9,13,5,0.1
 2016,nate-oats-1,Nate Oats,Buffalo,"10-8 MAC
 NCAA 64",30,#005BBB,#FFFFFF,4,MAC,New York,black,2016.0,Return,20,15,10,8,0.1
 2017,nate-oats-1,Nate Oats,Buffalo,11-7 MAC,17,#FFFFFF,#000000,4,MAC,New York,black,2016.0,Return,17,15,11,7,0.0
@@ -24606,7 +24673,7 @@ NCAA 64",28,#7E072A,#FFFFFF,4,Patriot,New York,black,1988.0,Return,18,13,11,3,0.
 2023,nick-mcdevitt-1,Nick McDevitt,Middle Tenn.,11-9 CUSA,19,#FFFFFF,#000000,4,CUSA,Tennessee,black,2019.0,Return,19,14,11,9,0.0
 2024,nick-mcdevitt-1,Nick McDevitt,Middle Tenn.,7-9 CUSA,14,#FFFFFF,#000000,4,CUSA,Tennessee,black,2019.0,Return,14,19,7,9,0.0
 2025,nick-mcdevitt-1,Nick McDevitt,Middle Tenn.,12-6 CUSA,22,#FFFFFF,#000000,4,CUSA,Tennessee,black,2019.0,Return,22,12,12,6,0.0
-2026,nick-mcdevitt-1,Nick McDevitt,Middle Tenn.,11-9 CUSA,17,#FFFFFF,#000000,4,CUSA,Tennessee,black,2019.0,Last,17,14,11,9,0.0
+2026,nick-mcdevitt-1,Nick McDevitt,Middle Tenn.,11-9 CUSA,17,#FFFFFF,#000000,4,CUSA,Tennessee,black,2019.0,Last,17,15,11,9,0.0
 2014,nick-mcdevitt-1,Nick McDevitt,UNC Asheville,10-6 BSth,17,#FFFFFF,#000000,4,Big South,North Carolina,black,2014.0,Return,17,15,10,6,0.0
 2015,nick-mcdevitt-1,Nick McDevitt,UNC Asheville,10-8 BSth,15,#FFFFFF,#000000,4,Big South,North Carolina,black,2014.0,Return,15,16,10,8,0.0
 2016,nick-mcdevitt-1,Nick McDevitt,UNC Asheville,"12-6 BSth
@@ -24689,7 +24756,8 @@ NCAA 64",33,#003595,#FFFFFF,4,MVC,Oklahoma,black,1981.0,Left,23,8,12,4,0.1
 2001,nolan-richardson-2,Nolan Richardson III,Tennessee St.,7-9 OVC,10,#FFFFFF,#000000,4,OVC,Tennessee,black,2001.0,Return,10,19,7,9,0.0
 2002,nolan-richardson-2,Nolan Richardson III,Tennessee St.,7-9 OVC,11,#FFFFFF,#000000,4,OVC,Tennessee,black,2001.0,Scandal,11,17,7,9,0.0
 2003,nolan-richardson-2,Nolan Richardson III,Tennessee St.,Conduct,0,#FFFFFF,#000000,0,OVC,Tennessee,white,2001.0,Last,,,,,
-2026,nolan-smith-1,Nolan Smith,Tennessee St.,15-5 OVC,23,#FFFFFF,#000000,4,OVC,Tennessee,black,2026.0,Last,23,9,15,5,0.0
+2026,nolan-smith-1,Nolan Smith,Tennessee St.,"15-5 OVC
+NCAA 64",33,#00539F,#FFFFFF,4,OVC,Tennessee,black,2026.0,Last,23,9,15,5,0.1
 1919,norbert-keefe-1,Norbert Keefe,Santa Clara,14-1,14,#FFFFFF,#000000,4,Ind,California,black,1919.0,Last,14,1,,,0.0
 1942,norm-cooper-1,Norm Cooper,Vanderbilt,3-8 SEC,7,#FFFFFF,#000000,4,SEC,Tennessee,black,1942.0,Return,7,9,3,8,0.0
 1943,norm-cooper-1,Norm Cooper,Vanderbilt,9-7 SEC,10,#FFFFFF,#000000,4,SEC,Tennessee,black,1942.0,Return,10,8,9,7,0.0
@@ -25067,7 +25135,8 @@ NCAA 64",37,#660000,#FFFFFF,4,CAA,South Carolina,black,2022.0,Left,27,8,15,3,0.1
 2025,pat-kelsey-1,Pat Kelsey,Col. of Charleston,Louisville,0,#FFFFFF,#000000,0,CAA,South Carolina,white,2022.0,Last,,,,,
 2025,pat-kelsey-1,Pat Kelsey,Louisville,"18-2 ACC
 NCAA 64",37,#AD0000,#FFFFFF,4,ACC,Kentucky,black,2025.0,Return,27,8,18,2,0.1
-2026,pat-kelsey-1,Pat Kelsey,Louisville,11-7 ACC,23,#FFFFFF,#000000,4,ACC,Kentucky,black,2025.0,Last,23,9,11,7,0.0
+2026,pat-kelsey-1,Pat Kelsey,Louisville,"11-7 ACC
+NCAA 64",33,#AD0000,#FFFFFF,4,ACC,Kentucky,black,2025.0,Last,23,10,11,7,0.1
 2013,pat-kelsey-1,Pat Kelsey,Winthrop,6-10 BSth,14,#FFFFFF,#000000,4,Big South,South Carolina,black,2013.0,Return,14,17,6,10,0.0
 2014,pat-kelsey-1,Pat Kelsey,Winthrop,10-6 BSth,20,#FFFFFF,#000000,4,Big South,South Carolina,black,2013.0,Return,20,13,10,6,0.0
 2015,pat-kelsey-1,Pat Kelsey,Winthrop,12-6 BSth,19,#FFFFFF,#000000,4,Big South,South Carolina,black,2013.0,Return,19,13,12,6,0.0
@@ -25450,7 +25519,7 @@ NCAA 64",40,#002462,#DAC792,4,Summit,Oklahoma,black,2018.0,Left,30,5,18,0,0.1
 2024,paul-mills-1,Paul Mills,Oral Roberts,Wichita St.,0,#FFFFFF,#000000,0,Summit,Oklahoma,white,2018.0,Last,,,,,
 2024,paul-mills-1,Paul Mills,Wichita St.,5-13 Amer,15,#FFFFFF,#000000,4,AAC,Kansas,black,2024.0,Return,15,19,5,13,0.0
 2025,paul-mills-1,Paul Mills,Wichita St.,8-10 Amer,19,#FFFFFF,#000000,4,AAC,Kansas,black,2024.0,Return,19,15,8,10,0.0
-2026,paul-mills-1,Paul Mills,Wichita St.,13-5 Amer,21,#FFFFFF,#000000,4,American,Kansas,black,2024.0,Last,21,10,13,5,0.0
+2026,paul-mills-1,Paul Mills,Wichita St.,13-5 Amer,22,#FFFFFF,#000000,4,American,Kansas,black,2024.0,Last,22,11,13,5,0.0
 1934,paul-mooney-1,Paul Mooney,Columbia,3-9 Ivy,5,#FFFFFF,#000000,4,Ivy,New York,black,1934.0,Return,5,14,3,9,0.0
 1935,paul-mooney-1,Paul Mooney,Columbia,10-2 Ivy,13,#FFFFFF,#000000,4,Ivy,New York,black,1934.0,Return,13,6,10,2,0.0
 1936,paul-mooney-1,Paul Mooney,Columbia,12-0 Ivy,19,#FFFFFF,#000000,4,Ivy,New York,black,1934.0,Return,19,3,12,0,0.0
@@ -25811,7 +25880,8 @@ NCAA 64",32,#862633,#FFFFFF,4,Sun Belt,Alabama,black,2014.0,Return,22,15,10,8,0.
 2018,phil-cunningham-1,Phil Cunningham,Troy,9-9 SB,16,#FFFFFF,#000000,4,Sun Belt,Alabama,black,2014.0,Return,16,17,9,9,0.0
 2019,phil-cunningham-1,Phil Cunningham,Troy,5-13 SB,12,#FFFFFF,#000000,4,Sun Belt,Alabama,black,2014.0,Fired,12,18,5,13,0.0
 2020,phil-cunningham-1,Phil Cunningham,Troy,Fired,0,#FFFFFF,#000000,0,Sun Belt,Alabama,white,2014.0,Last,,,,,
-2026,phil-cunningham-1,Phil Cunningham,ULM,1-17 SB,4,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,2026.0,Last,4,28,1,17,0.0
+2026,phil-cunningham-1,Phil Cunningham,ULM,1-17 SB,4,#FFFFFF,#000000,4,Sun Belt,Louisiana,black,2026.0,Fired,4,28,1,17,0.0
+2027,phil-cunningham-1,Phil Cunningham,ULM,Fired,0,#FFFFFF,#000000,0,Sun Belt,Louisiana,white,2026.0,Last,,,,,
 1996,phil-hopkins-1,Phil Hopkins,Western Caro.,"10-4 SoCon
 NCAA 64",27,#592C88,#C1A875,4,Southern,North Carolina,black,1996.0,Return,17,13,10,4,0.1
 1997,phil-hopkins-1,Phil Hopkins,Western Caro.,7-7 SoCon,14,#FFFFFF,#000000,4,Southern,North Carolina,black,1996.0,Return,14,13,7,7,0.0
@@ -25870,7 +25940,8 @@ NCAA 32",43,#9E1B32,#FFFFFF,4,A-10,Pennsylvania,black,1996.0,Return,28,8,13,5,0.
 2025,phil-martelli-2,Phil Martelli Jr.,Bryant,"14-2 AmEast
 NCAA 64",33,#826E38,#000000,4,AmEast,Rhode Island,black,2024.0,Left,23,12,14,2,0.1
 2026,phil-martelli-2,Phil Martelli Jr.,Bryant,VCU,0,#FFFFFF,#000000,0,AmEast,Rhode Island,white,2024.0,Last,,,,,
-2026,phil-martelli-2,Phil Martelli Jr.,VCU,15-3 A10,24,#FFFFFF,#000000,4,A-10,Virginia,black,2026.0,Last,24,7,15,3,0.0
+2026,phil-martelli-2,Phil Martelli Jr.,VCU,"15-3 A10
+NCAA 64",37,#FFB300,#000000,4,A-10,Virginia,black,2026.0,Last,27,7,15,3,0.1
 2000,phil-rowe-1,Phil Rowe,New Hampshire,2-16 AEC,3,#FFFFFF,#000000,4,AEC,New Hampshire,black,2000.0,Return,3,25,2,16,0.0
 2001,phil-rowe-1,Phil Rowe,New Hampshire,6-12 AEC,7,#FFFFFF,#000000,4,AEC,New Hampshire,black,2000.0,Return,7,21,6,12,0.0
 2002,phil-rowe-1,Phil Rowe,New Hampshire,8-8 AEC,11,#FFFFFF,#000000,4,AEC,New Hampshire,black,2000.0,Return,11,17,8,8,0.0
@@ -26114,7 +26185,7 @@ Sweet 16",46,#8D0034,#FEBC18,4,MVC,Illinois,black,2012.0,Left,26,5,16,2,0.2
 2024,porter-moser-1,Porter Moser,Oklahoma,8-10 B12,20,#FFFFFF,#000000,4,Big 12,Oklahoma,black,2022.0,Return,20,12,8,10,0.0
 2025,porter-moser-1,Porter Moser,Oklahoma,"6-12 SEC
 NCAA 64",30,#841617,#FFFFFF,4,SEC,Oklahoma,black,2022.0,Return,20,14,6,12,0.1
-2026,porter-moser-1,Porter Moser,Oklahoma,7-11 SEC,18,#FFFFFF,#000000,4,SEC,Oklahoma,black,2022.0,Last,18,14,7,11,0.0
+2026,porter-moser-1,Porter Moser,Oklahoma,7-11 SEC,19,#FFFFFF,#000000,4,SEC,Oklahoma,black,2022.0,Last,19,15,7,11,0.0
 1950,presley-askew-1,Presley Askew,Arkansas,8-4 SWC,12,#FFFFFF,#000000,4,SWC,Arkansas,black,1950.0,Return,12,12,8,4,0.0
 1951,presley-askew-1,Presley Askew,Arkansas,7-5 SWC,13,#FFFFFF,#000000,4,SWC,Arkansas,black,1950.0,Return,13,11,7,5,0.0
 1952,presley-askew-1,Presley Askew,Arkansas,5-10 SWC,10,#FFFFFF,#000000,4,SWC,Arkansas,black,1950.0,Fired,10,14,5,10,0.0
@@ -26419,7 +26490,8 @@ NCAA 32",42,#D80024,#FFFFFF,4,WCC,California,black,2002.0,Return,27,8,14,2,0.15
 NCAA 64",36,#D80024,#FFFFFF,4,WCC,California,black,2002.0,Return,26,8,15,1,0.1
 2025,randy-bennett-1,Randy Bennett,Saint Mary's (CA),"17-1 WCC
 NCAA 32",44,#D80024,#FFFFFF,4,WCC,California,black,2002.0,Return,29,6,17,1,0.15
-2026,randy-bennett-1,Randy Bennett,Saint Mary's (CA),16-2 WCC,27,#FFFFFF,#000000,4,WCC,California,black,2002.0,Last,27,5,16,2,0.0
+2026,randy-bennett-1,Randy Bennett,Saint Mary's (CA),"16-2 WCC
+NCAA 64",37,#D80024,#FFFFFF,4,WCC,California,black,2002.0,Last,27,5,16,2,0.1
 1996,randy-brown-2,Randy Brown,Stetson,6-10 TAAC,10,#FFFFFF,#000000,4,TAAC,Florida,black,1996.0,Return,10,17,6,10,0.0
 1997,randy-brown-2,Randy Brown,Stetson,5-11 TAAC,9,#FFFFFF,#000000,4,TAAC,Florida,black,1996.0,Fired,9,18,5,11,0.0
 1998,randy-brown-2,Randy Brown,Stetson,Fired,0,#FFFFFF,#000000,0,TAAC,Florida,white,1996.0,Last,,,,,
@@ -26506,7 +26578,8 @@ NCAA 64",36,#492365,#FFFFFF,4,Big Sky,Utah,black,2007.0,Return,26,9,15,3,0.1
 2023,rashon-burno-1,Rashon Burno,NIU,9-9 MAC,13,#FFFFFF,#000000,4,MAC,Illinois,black,2022.0,Return,13,19,9,9,0.0
 2024,rashon-burno-1,Rashon Burno,NIU,5-13 MAC,11,#FFFFFF,#000000,4,MAC,Illinois,black,2022.0,Return,11,20,5,13,0.0
 2025,rashon-burno-1,Rashon Burno,NIU,2-16 MAC,6,#FFFFFF,#000000,4,MAC,Illinois,black,2022.0,Return,6,25,2,16,0.0
-2026,rashon-burno-1,Rashon Burno,NIU,4-14 MAC,9,#FFFFFF,#000000,4,MAC,Illinois,black,2022.0,Last,9,21,4,14,0.0
+2026,rashon-burno-1,Rashon Burno,NIU,4-14 MAC,9,#FFFFFF,#000000,4,MAC,Illinois,black,2022.0,Fired,9,21,4,14,0.0
+2027,rashon-burno-1,Rashon Burno,NIU,Fired,0,#FFFFFF,#000000,0,MAC,Illinois,white,2022.0,Last,,,,,
 1924,ray-b-mccandless-1,Ray B. McCandless,Bowling Green,3-15,3,#FFFFFF,#000000,4,Ind,Ohio,black,1924.0,Last,3,15,,,0.0
 1976,ray-carazo-1,Ray Carazo,Yale,5-9 Ivy,7,#FFFFFF,#000000,4,Ivy,Connecticut,black,1976.0,Return,7,21,5,9,0.0
 1977,ray-carazo-1,Ray Carazo,Yale,4-10 Ivy,6,#FFFFFF,#000000,4,Ivy,Connecticut,black,1976.0,Return,6,20,4,10,0.0
@@ -27123,7 +27196,7 @@ NCAA 64",36,#BA0C2F,#FFFFFF,4,MWC,New Mexico,black,2022.0,Return,26,10,10,8,0.1
 2025,richard-pitino-1,Richard Pitino,New Mexico,"17-3 MWC
 NCAA 32",42,#BA0C2F,#FFFFFF,4,MWC,New Mexico,black,2022.0,Left,27,8,17,3,0.15
 2026,richard-pitino-1,Richard Pitino,New Mexico,Xavier,0,#FFFFFF,#000000,0,MWC,New Mexico,white,2022.0,Last,,,,,
-2026,richard-pitino-1,Richard Pitino,Xavier,6-14 BE,15,#FFFFFF,#000000,4,Big East,Ohio,black,2026.0,Last,15,17,6,14,0.0
+2026,richard-pitino-1,Richard Pitino,Xavier,6-14 BE,15,#FFFFFF,#000000,4,Big East,Ohio,black,2026.0,Last,15,18,6,14,0.0
 1961,richard-regan-1,Richard Regan,Seton Hall,15-9,15,#FFFFFF,#000000,4,Ind,New Jersey,black,1961.0,Return,15,9,,,0.0
 1962,richard-regan-1,Richard Regan,Seton Hall,15-9,15,#FFFFFF,#000000,4,Ind,New Jersey,black,1961.0,Return,15,9,,,0.0
 1963,richard-regan-1,Richard Regan,Seton Hall,16-7,16,#FFFFFF,#000000,4,Ind,New Jersey,black,1961.0,Return,16,7,,,0.0
@@ -27214,7 +27287,7 @@ Sweet 16",45,#FF8200,#FFFFFF,4,SEC,Tennessee,black,2016.0,Return,25,11,11,7,0.2
 Elite 8",52,#FF8200,#FFFFFF,4,SEC,Tennessee,black,2016.0,Return,27,9,14,4,0.25
 2025,rick-barnes-1,Rick Barnes,Tennessee,"12-6 SEC
 Elite 8",55,#FF8200,#FFFFFF,4,SEC,Tennessee,black,2016.0,Return,30,8,12,6,0.25
-2026,rick-barnes-1,Rick Barnes,Tennessee,11-7 SEC,21,#FFFFFF,#000000,4,SEC,Tennessee,black,2016.0,Last,21,10,11,7,0.0
+2026,rick-barnes-1,Rick Barnes,Tennessee,11-7 SEC,22,#FFFFFF,#000000,4,SEC,Tennessee,black,2016.0,Last,22,11,11,7,0.0
 1999,rick-barnes-1,Rick Barnes,Texas,"13-3 B12
 NCAA 64",29,#BF5700,#FFFFFF,4,Big 12,Texas,black,1999.0,Return,19,13,13,3,0.1
 2000,rick-barnes-1,Rick Barnes,Texas,"13-3 B12
@@ -27289,7 +27362,8 @@ NCAA 64",37,#001D54,#FFFFFF,4,OVC,Tennessee,black,2000.0,Retired,27,6,16,2,0.1
 2023,rick-croy-1,Rick Croy,California Baptist,7-10 WAC,17,#FFFFFF,#000000,4,WAC,California,black,2019.0,Return,17,16,7,10,0.0
 2024,rick-croy-1,Rick Croy,California Baptist,8-12 WAC,16,#FFFFFF,#000000,4,WAC,California,black,2019.0,Return,16,17,8,12,0.0
 2025,rick-croy-1,Rick Croy,California Baptist,9-7 WAC,17,#FFFFFF,#000000,4,WAC,California,black,2019.0,Return,17,15,9,7,0.0
-2026,rick-croy-1,Rick Croy,California Baptist,13-5 WAC,23,#FFFFFF,#000000,4,WAC,California,black,2019.0,Last,23,8,13,5,0.0
+2026,rick-croy-1,Rick Croy,California Baptist,"13-5 WAC
+NCAA 64",35,#002554,#FFFFFF,4,WAC,California,black,2019.0,Last,25,8,13,5,0.1
 1984,rick-huckabay-1,Rick Huckabay,Marshall,"13-3 SoCon
 NCAA 53",40,#00AC3E,#FFFFFF,4,Southern,West Virginia,black,1984.0,Return,25,6,13,3,0.15
 1985,rick-huckabay-1,Rick Huckabay,Marshall,"12-4 SoCon
@@ -27406,7 +27480,8 @@ Final 4",55,#8A8D8F,#000000,4,Big East,Rhode Island,black,1986.0,Left,25,9,10,6,
 2024,rick-pitino-1,Rick Pitino,St. John's (NY),11-9 BE,20,#FFFFFF,#000000,4,Big East,New York,black,2024.0,Return,20,13,11,9,0.0
 2025,rick-pitino-1,Rick Pitino,St. John's (NY),"18-2 BE
 NCAA 32",46,#CF102D,#FFFFFF,4,Big East,New York,black,2024.0,Return,31,5,18,2,0.15
-2026,rick-pitino-1,Rick Pitino,St. John's (NY),18-2 BE,25,#FFFFFF,#000000,4,Big East,New York,black,2024.0,Last,25,6,18,2,0.0
+2026,rick-pitino-1,Rick Pitino,St. John's (NY),"18-2 BE
+NCAA 64",38,#CF102D,#FFFFFF,4,Big East,New York,black,2024.0,Last,28,6,18,2,0.1
 1991,rick-pryor-1,Rick Pryor,Chicago St.,4-24,4,#FFFFFF,#000000,4,Ind,Illinois,black,1991.0,Return,4,24,,,0.0
 1992,rick-pryor-1,Rick Pryor,Chicago St.,7-21,7,#FFFFFF,#000000,4,Ind,Illinois,black,1991.0,Return,7,21,,,0.0
 1993,rick-pryor-1,Rick Pryor,Chicago St.,4-23,4,#FFFFFF,#000000,4,Ind,Illinois,black,1991.0,Return,4,23,,,0.0
@@ -27661,7 +27736,7 @@ NCAA 64",31,#0066CC,#FFFFFF,4,Horizon,Wisconsin,black,2006.0,Return,21,14,7,9,0.
 2017,rob-jeter-1,Rob Jeter,Milwaukee,Fired,0,#FFFFFF,#000000,0,Horizon,Wisconsin,white,2006.0,Last,,,,,
 2024,rob-jeter-1,Rob Jeter,Southern Utah,5-15 WAC,10,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Return,10,21,5,15,0.0
 2025,rob-jeter-1,Rob Jeter,Southern Utah,4-12 WAC,12,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Return,12,19,4,12,0.0
-2026,rob-jeter-1,Rob Jeter,Southern Utah,6-12 WAC,10,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Last,10,21,6,12,0.0
+2026,rob-jeter-1,Rob Jeter,Southern Utah,6-12 WAC,10,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Last,10,22,6,12,0.0
 2021,rob-jeter-1,Rob Jeter,Western Ill.,5-9 Sum,7,#FFFFFF,#000000,4,Summit,Illinois,black,2021.0,Return,7,15,5,9,0.0
 2022,rob-jeter-1,Rob Jeter,Western Ill.,7-11 Sum,16,#FFFFFF,#000000,4,Summit,Illinois,black,2021.0,Return,16,16,7,11,0.0
 2023,rob-jeter-1,Rob Jeter,Western Ill.,9-9 Sum,16,#FFFFFF,#000000,4,Summit,Illinois,black,2021.0,Left,16,14,9,9,0.0
@@ -27731,7 +27806,7 @@ NCAA 64",32,#002664,#EAAB00,4,MAC,Ohio,black,2012.0,Return,22,14,10,8,0.1
 NCAA 64",38,#002664,#EAAB00,4,MAC,Ohio,black,2012.0,Return,28,7,15,3,0.1
 2024,rob-senderoff-1,Rob Senderoff,Kent St.,8-10 MAC,17,#FFFFFF,#000000,4,MAC,Ohio,black,2012.0,Return,17,17,8,10,0.0
 2025,rob-senderoff-1,Rob Senderoff,Kent St.,11-7 MAC,24,#FFFFFF,#000000,4,MAC,Ohio,black,2012.0,Return,24,12,11,7,0.0
-2026,rob-senderoff-1,Rob Senderoff,Kent St.,14-4 MAC,23,#FFFFFF,#000000,4,MAC,Ohio,black,2012.0,Last,23,8,14,4,0.0
+2026,rob-senderoff-1,Rob Senderoff,Kent St.,14-4 MAC,24,#FFFFFF,#000000,4,MAC,Ohio,black,2012.0,Last,24,9,14,4,0.0
 1997,rob-spivery-1,Rob Spivery,Alabama St.,5-9 SWAC,8,#FFFFFF,#000000,4,SWAC,Alabama,black,1997.0,Return,8,21,5,9,0.0
 1998,rob-spivery-1,Rob Spivery,Alabama St.,6-10 SWAC,11,#FFFFFF,#000000,4,SWAC,Alabama,black,1997.0,Return,11,17,6,10,0.0
 1999,rob-spivery-1,Rob Spivery,Alabama St.,8-8 SWAC,11,#FFFFFF,#000000,4,SWAC,Alabama,black,1997.0,Return,11,16,8,8,0.0
@@ -27849,7 +27924,7 @@ NCAA 64",34,#007A53,#FFFFFF,4,MEAC,Virginia,black,2014.0,Return,24,7,12,2,0.1
 2024,robert-jones-1,Robert Jones,Norfolk St.,11-3 MEAC,24,#FFFFFF,#000000,4,MEAC,Virginia,black,2014.0,Return,24,11,11,3,0.0
 2025,robert-jones-1,Robert Jones,Norfolk St.,"11-3 MEAC
 NCAA 64",34,#007A53,#FFFFFF,4,MEAC,Virginia,black,2014.0,Return,24,11,11,3,0.1
-2026,robert-jones-1,Robert Jones,Norfolk St.,8-6 MEAC,15,#FFFFFF,#000000,4,MEAC,Virginia,black,2014.0,Last,15,16,8,6,0.0
+2026,robert-jones-1,Robert Jones,Norfolk St.,8-6 MEAC,15,#FFFFFF,#000000,4,MEAC,Virginia,black,2014.0,Last,15,17,8,6,0.0
 1953,robert-kerr-1,Robert Kerr,New Hampshire,8-10,8,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1953.0,Return,8,10,,,0.0
 1954,robert-kerr-1,Robert Kerr,New Hampshire,8-10,8,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1953.0,Return,8,10,,,0.0
 1955,robert-kerr-1,Robert Kerr,New Hampshire,4-14,4,#FFFFFF,#000000,4,Yankee,New Hampshire,black,1953.0,Return,4,14,,,0.0
@@ -28060,7 +28135,8 @@ NCAA 64",30,#C21F2C,#FFFFFF,4,SEC,Mississippi,black,1999.0,Return,20,11,9,7,0.1
 2023,rod-strickland-1,Rod Strickland,LIU,1-15 NEC,3,#FFFFFF,#000000,4,NEC,New York,black,2023.0,Return,3,26,1,15,0.0
 2024,rod-strickland-1,Rod Strickland,LIU,6-10 NEC,7,#FFFFFF,#000000,4,NEC,New York,black,2023.0,Return,7,22,6,10,0.0
 2025,rod-strickland-1,Rod Strickland,LIU,12-4 NEC,17,#FFFFFF,#000000,4,NEC,New York,black,2023.0,Return,17,16,12,4,0.0
-2026,rod-strickland-1,Rod Strickland,LIU,15-3 NEC,24,#FFFFFF,#000000,4,NEC,New York,black,2023.0,Last,24,10,15,3,0.0
+2026,rod-strickland-1,Rod Strickland,LIU,"15-3 NEC
+NCAA 64",34,#69B3E7,#FFC72C,4,NEC,New York,black,2023.0,Last,24,10,15,3,0.1
 1980,rod-tueller-1,Rod Tueller,Utah St.,"11-2 PCAA
 NCAA 48",33,#0F2439,#FFFFFF,4,PCAA,Utah,black,1980.0,Return,18,9,11,2,0.15
 1981,rod-tueller-1,Rod Tueller,Utah St.,5-9 PCAA,12,#FFFFFF,#000000,4,PCAA,Utah,black,1980.0,Return,12,16,5,9,0.0
@@ -28395,7 +28471,7 @@ NCAA 64",30,#990000,#EDEBEB,4,Mid-Cont,Indiana,black,1999.0,Return,20,14,10,4,0.
 2023,ron-hunter-1,Ron Hunter,Tulane,12-6 Amer,20,#FFFFFF,#000000,4,AAC,Louisiana,black,2020.0,Return,20,11,12,6,0.0
 2024,ron-hunter-1,Ron Hunter,Tulane,5-13 Amer,14,#FFFFFF,#000000,4,AAC,Louisiana,black,2020.0,Return,14,17,5,13,0.0
 2025,ron-hunter-1,Ron Hunter,Tulane,12-6 Amer,19,#FFFFFF,#000000,4,AAC,Louisiana,black,2020.0,Return,19,15,12,6,0.0
-2026,ron-hunter-1,Ron Hunter,Tulane,8-10 Amer,18,#FFFFFF,#000000,4,American,Louisiana,black,2020.0,Last,18,14,8,10,0.0
+2026,ron-hunter-1,Ron Hunter,Tulane,8-10 Amer,18,#FFFFFF,#000000,4,American,Louisiana,black,2020.0,Last,18,15,8,10,0.0
 1980,ron-jacobs-1,Ron Jacobs,LMU (CA),"10-6 WCAC
 NCAA 48",29,#AB0C2F,#FFFFFF,4,WCAC,California,black,1980.0,Resigned,14,14,10,6,0.15
 1981,ron-jacobs-1,Ron Jacobs,LMU (CA),Resigned,0,#FFFFFF,#000000,0,WCAC,California,white,1980.0,Last,,,,,
@@ -28892,7 +28968,7 @@ Likely AQ",36,#255799,#FECC07,4,Big West,California,black,2011.0,Return,21,11,13
 2023,russ-turner-1,Russ Turner,UC Irvine,15-5 BWst,23,#FFFFFF,#000000,4,Big West,California,black,2011.0,Return,23,12,15,5,0.0
 2024,russ-turner-1,Russ Turner,UC Irvine,17-3 BWst,24,#FFFFFF,#000000,4,Big West,California,black,2011.0,Return,24,10,17,3,0.0
 2025,russ-turner-1,Russ Turner,UC Irvine,17-3 BWst,32,#FFFFFF,#000000,4,Big West,California,black,2011.0,Return,32,7,17,3,0.0
-2026,russ-turner-1,Russ Turner,UC Irvine,15-5 BWst,22,#FFFFFF,#000000,4,Big West,California,black,2011.0,Last,22,10,15,5,0.0
+2026,russ-turner-1,Russ Turner,UC Irvine,15-5 BWst,23,#FFFFFF,#000000,4,Big West,California,black,2011.0,Last,23,11,15,5,0.0
 1925,russel-meredith-1,Russel Meredith,Marshall,12-6,12,#FFFFFF,#000000,4,Ind,West Virginia,black,1925.0,Last,12,6,,,0.0
 1943,russell-beichly-1,Russell Beichly,Akron,18-3,18,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return,18,3,,,0.0
 1944,russell-beichly-1,Russell Beichly,Akron,10-5,10,#FFFFFF,#000000,4,Ind,Ohio,black,1943.0,Return,10,5,,,0.0
@@ -28965,7 +29041,8 @@ NCAA 64",36,#0F2439,#FFFFFF,4,MWC,Utah,black,2022.0,Left,26,9,13,5,0.1
 2025,ryan-odom-1,Ryan Odom,VCU,"15-3 A10
 NCAA 64",38,#FFB300,#000000,4,A-10,Virginia,black,2024.0,Left,28,7,15,3,0.1
 2026,ryan-odom-1,Ryan Odom,VCU,Virginia,0,#FFFFFF,#000000,0,A-10,Virginia,white,2024.0,Last,,,,,
-2026,ryan-odom-1,Ryan Odom,Virginia,15-3 ACC,27,#FFFFFF,#000000,4,ACC,Virginia,black,2026.0,Last,27,4,15,3,0.0
+2026,ryan-odom-1,Ryan Odom,Virginia,"15-3 ACC
+NCAA 64",39,#E57200,#232D4B,4,ACC,Virginia,black,2026.0,Last,29,5,15,3,0.1
 2026,ryan-pannone-1,Ryan Pannone,Arkansas St.,11-7 SB,20,#FFFFFF,#000000,4,Sun Belt,Arkansas,black,2026.0,Last,20,12,11,7,0.0
 2023,ryan-pedon-1,Ryan Pedon,Illinois St.,6-14 MVC,11,#FFFFFF,#000000,4,MVC,Illinois,black,2023.0,Return,11,21,6,14,0.0
 2024,ryan-pedon-1,Ryan Pedon,Illinois St.,9-11 MVC,15,#FFFFFF,#000000,4,MVC,Illinois,black,2023.0,Return,15,17,9,11,0.0
@@ -29135,7 +29212,8 @@ NCAA 32",41,#005643,#FFC82E,4,Summit,North Dakota,black,2008.0,Left,26,7,12,2,0.
 2024,scott-cross-1,Scott Cross,Troy,13-5 SB,20,#FFFFFF,#000000,4,Sun Belt,Alabama,black,2020.0,Return,20,12,13,5,0.0
 2025,scott-cross-1,Scott Cross,Troy,"13-5 SB
 NCAA 64",33,#862633,#FFFFFF,4,Sun Belt,Alabama,black,2020.0,Return,23,11,13,5,0.1
-2026,scott-cross-1,Scott Cross,Troy,12-6 SB,22,#FFFFFF,#000000,4,Sun Belt,Alabama,black,2020.0,Last,22,11,12,6,0.0
+2026,scott-cross-1,Scott Cross,Troy,"12-6 SB
+NCAA 64",32,#862633,#FFFFFF,4,Sun Belt,Alabama,black,2020.0,Last,22,11,12,6,0.1
 2007,scott-cross-1,Scott Cross,UT Arlington,8-8 SLC,13,#FFFFFF,#000000,4,Southland,Texas,black,2007.0,Return,13,17,8,8,0.0
 2008,scott-cross-1,Scott Cross,UT Arlington,"7-9 SLC
 NCAA 64",31,#0064B1,#FFFFFF,4,Southland,Texas,black,2007.0,Return,21,12,7,9,0.1
@@ -29361,7 +29439,8 @@ NCAA 64",37,#AB0520,#FFFFFF,4,Pac-12,Arizona,black,2010.0,Return,27,8,14,4,0.1
 NCAA Lock",36,#AB0520,#FFFFFF,4,Pac-12,Arizona,black,2010.0,Return,21,11,10,8,0.15
 2021,sean-miller-1,Sean Miller,Arizona,11-9 P12,17,#FFFFFF,#000000,4,Pac-12,Arizona,black,2010.0,Fired,17,9,11,9,0.0
 2022,sean-miller-1,Sean Miller,Arizona,Fired,0,#FFFFFF,#000000,0,Pac-12,Arizona,white,2010.0,Last,,,,,
-2026,sean-miller-1,Sean Miller,Texas,9-9 SEC,18,#FFFFFF,#000000,4,SEC,Texas,black,2026.0,Last,18,14,9,9,0.0
+2026,sean-miller-1,Sean Miller,Texas,"9-9 SEC
+NCAA 68",23,#BF5700,#FFFFFF,4,SEC,Texas,black,2026.0,Last,18,14,9,9,0.05
 2005,sean-miller-1,Sean Miller,Xavier,10-6 A10,17,#FFFFFF,#000000,4,A-10,Ohio,black,2005.0,Return,17,12,10,6,0.0
 2006,sean-miller-1,Sean Miller,Xavier,"8-8 A10
 NCAA 64",31,#0C2340,#FFFFFF,4,A-10,Ohio,black,2005.0,Return,21,11,8,8,0.1
@@ -29444,7 +29523,7 @@ Elite 8",47,#1A3B72,#FFFFFF,4,MAAC,New Jersey,black,2019.0,Left,22,12,14,6,0.25
 2023,shaheen-holloway-1,Shaheen Holloway,Seton Hall,10-10 BE,17,#FFFFFF,#000000,4,Big East,New Jersey,black,2023.0,Return,17,16,10,10,0.0
 2024,shaheen-holloway-1,Shaheen Holloway,Seton Hall,13-7 BE,25,#FFFFFF,#000000,4,Big East,New Jersey,black,2023.0,Return,25,12,13,7,0.0
 2025,shaheen-holloway-1,Shaheen Holloway,Seton Hall,2-18 BE,7,#FFFFFF,#000000,4,Big East,New Jersey,black,2023.0,Return,7,25,2,18,0.0
-2026,shaheen-holloway-1,Shaheen Holloway,Seton Hall,10-10 BE,20,#FFFFFF,#000000,4,Big East,New Jersey,black,2023.0,Last,20,11,10,10,0.0
+2026,shaheen-holloway-1,Shaheen Holloway,Seton Hall,10-10 BE,21,#FFFFFF,#000000,4,Big East,New Jersey,black,2023.0,Last,21,12,10,10,0.0
 2009,shaka-smart-1,Shaka Smart,Florida,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2022,shaka-smart-1,Shaka Smart,Marquette,"11-8 BE
 NCAA 64",29,#FFCC00,#003366,4,Big East,Wisconsin,black,2022.0,Return,19,13,11,8,0.1
@@ -29745,7 +29824,7 @@ NCAA 64",33,#A6192E,#FFFFFF,4,WAC,California,black,1980.0,Return,23,8,11,5,0.1
 2023,solomon-bozeman-1,Solomon Bozeman,Ark.-Pine Bluff,6-12 SWAC,10,#FFFFFF,#000000,4,SWAC,Arkansas,black,2022.0,Return,10,21,6,12,0.0
 2024,solomon-bozeman-1,Solomon Bozeman,Ark.-Pine Bluff,8-10 SWAC,13,#FFFFFF,#000000,4,SWAC,Arkansas,black,2022.0,Return,13,18,8,10,0.0
 2025,solomon-bozeman-1,Solomon Bozeman,Ark.-Pine Bluff,3-15 SWAC,6,#FFFFFF,#000000,4,SWAC,Arkansas,black,2022.0,Return,6,25,3,15,0.0
-2026,solomon-bozeman-1,Solomon Bozeman,Ark.-Pine Bluff,10-8 SWAC,13,#FFFFFF,#000000,4,SWAC,Arkansas,black,2022.0,Last,13,18,10,8,0.0
+2026,solomon-bozeman-1,Solomon Bozeman,Ark.-Pine Bluff,10-8 SWAC,13,#FFFFFF,#000000,4,SWAC,Arkansas,black,2022.0,Last,13,19,10,8,0.0
 1981,sonny-allen-1,Sonny Allen,Nevada,5-9 BSky,11,#FFFFFF,#000000,4,Big Sky,Nevada,black,1981.0,Return,11,15,5,9,0.0
 1982,sonny-allen-1,Sonny Allen,Nevada,9-5 BSky,19,#FFFFFF,#000000,4,Big Sky,Nevada,black,1981.0,Return,19,9,9,5,0.0
 1983,sonny-allen-1,Sonny Allen,Nevada,10-4 BSky,18,#FFFFFF,#000000,4,Big Sky,Nevada,black,1981.0,Return,18,11,10,4,0.0
@@ -29854,7 +29933,8 @@ Sweet 16",41,#CFB87C,#000000,4,Big 8,Colorado,black,1957.0,Return,21,7,12,5,0.2
 2023,speedy-claxton-1,Speedy Claxton,Hofstra,16-2 CAA,25,#FFFFFF,#000000,4,CAA,New York,black,2022.0,Return,25,10,16,2,0.0
 2024,speedy-claxton-1,Speedy Claxton,Hofstra,12-6 CAA,20,#FFFFFF,#000000,4,CAA,New York,black,2022.0,Return,20,13,12,6,0.0
 2025,speedy-claxton-1,Speedy Claxton,Hofstra,6-12 CAA,15,#FFFFFF,#000000,4,CAA,New York,black,2022.0,Return,15,18,6,12,0.0
-2026,speedy-claxton-1,Speedy Claxton,Hofstra,12-6 CAA,24,#FFFFFF,#000000,4,CAA,New York,black,2022.0,Left,24,10,12,6,0.0
+2026,speedy-claxton-1,Speedy Claxton,Hofstra,"12-6 CAA
+NCAA 64",34,#13579A,#FDC82F,4,CAA,New York,black,2022.0,Left,24,10,12,6,0.1
 2014,speedy-claxton-1,Speedy Claxton,Hofstra,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2015,speedy-claxton-1,Speedy Claxton,Hofstra,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
 2016,speedy-claxton-1,Speedy Claxton,Hofstra,Asst.,0,#FFFFFF,#000000,1,,,white,,Left,,,,,
@@ -29917,7 +29997,8 @@ NCAA 64",31,#9D2235,#FFFFFF,4,SEC,Arkansas,black,2003.0,Fired,21,14,7,9,0.1
 2023,stan-heath-1,Stan Heath,Eastern Mich.,5-13 MAC,8,#FFFFFF,#000000,4,MAC,Michigan,black,2022.0,Return,8,23,5,13,0.0
 2024,stan-heath-1,Stan Heath,Eastern Mich.,6-12 MAC,13,#FFFFFF,#000000,4,MAC,Michigan,black,2022.0,Return,13,18,6,12,0.0
 2025,stan-heath-1,Stan Heath,Eastern Mich.,9-9 MAC,16,#FFFFFF,#000000,4,MAC,Michigan,black,2022.0,Return,16,16,9,9,0.0
-2026,stan-heath-1,Stan Heath,Eastern Mich.,4-14 MAC,10,#FFFFFF,#000000,4,MAC,Michigan,black,2022.0,Last,10,21,4,14,0.0
+2026,stan-heath-1,Stan Heath,Eastern Mich.,4-14 MAC,10,#FFFFFF,#000000,4,MAC,Michigan,black,2022.0,Fired,10,21,4,14,0.0
+2027,stan-heath-1,Stan Heath,Eastern Mich.,Fired,0,#FFFFFF,#000000,0,MAC,Michigan,white,2022.0,Last,,,,,
 2002,stan-heath-1,Stan Heath,Kent St.,"17-1 MAC
 Elite 8",55,#002664,#EAAB00,4,MAC,Ohio,black,2002.0,Left,30,6,17,1,0.25
 2003,stan-heath-1,Stan Heath,Kent St.,Arkansas,0,#FFFFFF,#000000,0,MAC,Ohio,white,2002.0,Last,,,,,
@@ -29992,7 +30073,7 @@ NCAA 32",37,#0066CC,#FFFFFF,4,OVC,Tennessee,black,1980.0,Return,22,8,12,4,0.15
 2023,stan-waterman-1,Stan Waterman,Delaware St.,4-11 MEAC,6,#FFFFFF,#000000,4,MEAC,Delaware,black,2022.0,Return,6,24,4,11,0.0
 2024,stan-waterman-1,Stan Waterman,Delaware St.,6-8 MEAC,15,#FFFFFF,#000000,4,MEAC,Delaware,black,2022.0,Return,15,19,6,8,0.0
 2025,stan-waterman-1,Stan Waterman,Delaware St.,8-6 MEAC,16,#FFFFFF,#000000,4,MEAC,Delaware,black,2022.0,Return,16,14,8,6,0.0
-2026,stan-waterman-1,Stan Waterman,Delaware St.,2-12 MEAC,8,#FFFFFF,#000000,4,MEAC,Delaware,black,2022.0,Last,8,22,2,12,0.0
+2026,stan-waterman-1,Stan Waterman,Delaware St.,2-12 MEAC,8,#FFFFFF,#000000,4,MEAC,Delaware,black,2022.0,Last,8,23,2,12,0.0
 1950,stan-watts-1,Stan Watts,BYU,"16-6 MSAC
 Elite 8",47,#002E5D,#FFFFFF,4,MSAC,Utah,black,1950.0,Return,22,12,16,6,0.25
 1951,stan-watts-1,Stan Watts,BYU,"16-6 MSAC
@@ -30086,7 +30167,7 @@ NCAA 68",27,#041E42,#FFFFFF,4,MWC,Nevada,black,2020.0,Return,22,11,12,6,0.05
 2024,steve-alford-1,Steve Alford,Nevada,"13-5 MWC
 NCAA 64",36,#041E42,#FFFFFF,4,MWC,Nevada,black,2020.0,Return,26,8,13,5,0.1
 2025,steve-alford-1,Steve Alford,Nevada,8-12 MWC,17,#FFFFFF,#000000,4,MWC,Nevada,black,2020.0,Return,17,16,8,12,0.0
-2026,steve-alford-1,Steve Alford,Nevada,12-8 MWC,21,#FFFFFF,#000000,4,MWC,Nevada,black,2020.0,Last,21,11,12,8,0.0
+2026,steve-alford-1,Steve Alford,Nevada,12-8 MWC,22,#FFFFFF,#000000,4,MWC,Nevada,black,2020.0,Last,22,12,12,8,0.0
 2008,steve-alford-1,Steve Alford,New Mexico,11-5 MWC,24,#FFFFFF,#000000,4,MWC,New Mexico,black,2008.0,Return,24,9,11,5,0.0
 2009,steve-alford-1,Steve Alford,New Mexico,12-4 MWC,22,#FFFFFF,#000000,4,MWC,New Mexico,black,2008.0,Return,22,12,12,4,0.0
 2010,steve-alford-1,Steve Alford,New Mexico,"14-2 MWC
@@ -30203,7 +30284,7 @@ NCAA 64",34,#011F5B,#FFFFFF,4,Ivy,Pennsylvania,black,2016.0,Return,24,9,12,2,0.1
 2024,steve-donahue-1,Steve Donahue,Penn,3-11 Ivy,11,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,2016.0,Return,11,18,3,11,0.0
 2025,steve-donahue-1,Steve Donahue,Penn,4-10 Ivy,8,#FFFFFF,#000000,4,Ivy,Pennsylvania,black,2016.0,Fired,8,19,4,10,0.0
 2026,steve-donahue-1,Steve Donahue,Penn,Fired,0,#FFFFFF,#000000,0,Ivy,Pennsylvania,white,2016.0,Last,,,,,
-2026,steve-donahue-1,Steve Donahue,Saint Joseph's,13-5 A10,21,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2026.0,Last,21,10,13,5,0.0
+2026,steve-donahue-1,Steve Donahue,Saint Joseph's,13-5 A10,22,#FFFFFF,#000000,4,A-10,Pennsylvania,black,2026.0,Last,22,11,13,5,0.0
 1989,steve-fisher-1,Steve Fisher,Michigan,"6-0
 Champion",106,#00274C,#FFCB05,3,,,black,1989.0,Return,,,,,
 1990,steve-fisher-1,Steve Fisher,Michigan,"12-6 B1G
@@ -30456,7 +30537,7 @@ NCAA 68",23,#CC0033,#FFFFFF,4,Big Ten,New Jersey,black,2017.0,Return,18,14,12,8,
 2023,steve-pikiell-1,Steve Pikiell,Rutgers,10-10 B1G,19,#FFFFFF,#000000,4,Big Ten,New Jersey,black,2017.0,Return,19,15,10,10,0.0
 2024,steve-pikiell-1,Steve Pikiell,Rutgers,7-13 B1G,15,#FFFFFF,#000000,4,Big Ten,New Jersey,black,2017.0,Return,15,17,7,13,0.0
 2025,steve-pikiell-1,Steve Pikiell,Rutgers,8-12 B1G,15,#FFFFFF,#000000,4,Big Ten,New Jersey,black,2017.0,Return,15,17,8,12,0.0
-2026,steve-pikiell-1,Steve Pikiell,Rutgers,6-14 B1G,14,#FFFFFF,#000000,4,Big Ten,New Jersey,black,2017.0,Last,14,18,6,14,0.0
+2026,steve-pikiell-1,Steve Pikiell,Rutgers,6-14 B1G,14,#FFFFFF,#000000,4,Big Ten,New Jersey,black,2017.0,Last,14,19,6,14,0.0
 2006,steve-pikiell-1,Steve Pikiell,Stony Brook,2-14 AEC,4,#FFFFFF,#000000,4,AEC,New York,black,2006.0,Return,4,24,2,14,0.0
 2007,steve-pikiell-1,Steve Pikiell,Stony Brook,4-12 AEC,9,#FFFFFF,#000000,4,AEC,New York,black,2006.0,Return,9,20,4,12,0.0
 2008,steve-pikiell-1,Steve Pikiell,Stony Brook,3-13 AEC,7,#FFFFFF,#000000,4,AEC,New York,black,2006.0,Return,7,23,3,13,0.0
@@ -30611,7 +30692,7 @@ NCAA 48",35,#BA0C2F,#FFFFFF,4,MAC,Indiana,black,1978.0,Return,20,10,10,6,0.15
 1991,steve-yoder-1,Steve Yoder,Wisconsin,8-10 B1G,15,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,1983.0,Return,15,15,8,10,0.0
 1992,steve-yoder-1,Steve Yoder,Wisconsin,4-14 B1G,13,#FFFFFF,#000000,4,Big Ten,Wisconsin,black,1983.0,Unknown,13,18,4,14,0.0
 1993,steve-yoder-1,Steve Yoder,Wisconsin,?,0,#FFFFFF,#000000,0,Big Ten,Wisconsin,white,1983.0,Last,,,,,
-2026,steven-pearl-1,Steven Pearl,Auburn,7-11 SEC,17,#FFFFFF,#000000,4,SEC,Alabama,black,2026.0,Last,17,15,7,11,0.0
+2026,steven-pearl-1,Steven Pearl,Auburn,7-11 SEC,17,#FFFFFF,#000000,4,SEC,Alabama,black,2026.0,Last,17,16,7,11,0.0
 1992,stew-morrill-1,Stew Morrill,Colorado St.,8-8 WAC,14,#FFFFFF,#000000,4,WAC,Colorado,black,1992.0,Return,14,17,8,8,0.0
 1993,stew-morrill-1,Stew Morrill,Colorado St.,9-9 WAC,17,#FFFFFF,#000000,4,WAC,Colorado,black,1992.0,Return,17,12,9,9,0.0
 1994,stew-morrill-1,Stew Morrill,Colorado St.,8-10 WAC,15,#FFFFFF,#000000,4,WAC,Colorado,black,1992.0,Return,15,13,8,10,0.0
@@ -30779,7 +30860,7 @@ NCAA 64",37,#007680,#FFFFFF,4,CAA,North Carolina,black,2021.0,Return,27,8,14,4,0
 2023,talvin-hester-1,Talvin Hester,Louisiana Tech,7-13 CUSA,15,#FFFFFF,#000000,4,CUSA,Louisiana,black,2023.0,Return,15,18,7,13,0.0
 2024,talvin-hester-1,Talvin Hester,Louisiana Tech,12-4 CUSA,22,#FFFFFF,#000000,4,CUSA,Louisiana,black,2023.0,Return,22,10,12,4,0.0
 2025,talvin-hester-1,Talvin Hester,Louisiana Tech,9-9 CUSA,20,#FFFFFF,#000000,4,CUSA,Louisiana,black,2023.0,Return,20,12,9,9,0.0
-2026,talvin-hester-1,Talvin Hester,Louisiana Tech,11-9 CUSA,18,#FFFFFF,#000000,4,CUSA,Louisiana,black,2023.0,Last,18,13,11,9,0.0
+2026,talvin-hester-1,Talvin Hester,Louisiana Tech,11-9 CUSA,20,#FFFFFF,#000000,4,CUSA,Louisiana,black,2023.0,Last,20,14,11,9,0.0
 1932,taps-gallagher-1,Taps Gallagher,Niagara,19-5,19,#FFFFFF,#000000,4,Ind,New York,black,1932.0,Return,19,5,,,0.0
 1933,taps-gallagher-1,Taps Gallagher,Niagara,13-6,13,#FFFFFF,#000000,4,Ind,New York,black,1932.0,Return,13,6,,,0.0
 1934,taps-gallagher-1,Taps Gallagher,Niagara,11-9,11,#FFFFFF,#000000,4,Ind,New York,black,1932.0,Return,11,9,,,0.0
@@ -31096,7 +31177,8 @@ NCAA 32",39,#13294B,#FFFFFF,4,MW Coll,Indiana,black,2001.0,Return,24,8,11,3,0.15
 2023,thad-matta-1,Thad Matta,Butler,6-14 BE,14,#FFFFFF,#000000,4,Big East,Indiana,black,2023.0,Return,14,18,6,14,0.0
 2024,thad-matta-1,Thad Matta,Butler,9-11 BE,18,#FFFFFF,#000000,4,Big East,Indiana,black,2023.0,Return,18,15,9,11,0.0
 2025,thad-matta-1,Thad Matta,Butler,6-14 BE,15,#FFFFFF,#000000,4,Big East,Indiana,black,2023.0,Return,15,20,6,14,0.0
-2026,thad-matta-1,Thad Matta,Butler,7-13 BE,16,#FFFFFF,#000000,4,Big East,Indiana,black,2023.0,Last,16,16,7,13,0.0
+2026,thad-matta-1,Thad Matta,Butler,7-13 BE,16,#FFFFFF,#000000,4,Big East,Indiana,black,2023.0,Retired,16,16,7,13,0.0
+2027,thad-matta-1,Thad Matta,Butler,Retired,0,#FFFFFF,#000000,0,Big East,Indiana,white,2023.0,Last,,,,,
 2022,thad-matta-1,Thad Matta,Indiana,Assoc. AD,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2005,thad-matta-1,Thad Matta,Ohio St.,8-8 B1G,20,#FFFFFF,#000000,4,Big Ten,Ohio,black,2005.0,Return,20,12,8,8,0.0
 2006,thad-matta-1,Thad Matta,Ohio St.,"12-4 B1G
@@ -31471,7 +31553,7 @@ NCAA 64",29,#D00000,#F5F1E7,4,Big Ten,Nebraska,black,2013.0,Return,19,13,11,7,0.
 2023,tim-miles-1,Tim Miles,San Jose St.,10-8 MWC,21,#FFFFFF,#000000,4,MWC,California,black,2022.0,Return,21,14,10,8,0.0
 2024,tim-miles-1,Tim Miles,San Jose St.,2-16 MWC,9,#FFFFFF,#000000,4,MWC,California,black,2022.0,Return,9,23,2,16,0.0
 2025,tim-miles-1,Tim Miles,San Jose St.,7-13 MWC,15,#FFFFFF,#000000,4,MWC,California,black,2022.0,Return,15,20,7,13,0.0
-2026,tim-miles-1,Tim Miles,San Jose St.,3-17 MWC,9,#FFFFFF,#000000,4,MWC,California,black,2022.0,Last,9,23,3,17,0.0
+2026,tim-miles-1,Tim Miles,San Jose St.,3-17 MWC,9,#FFFFFF,#000000,4,MWC,California,black,2022.0,Last,9,24,3,17,0.0
 2009,tim-oshea-1,Tim O'Shea,Bryant,8-21,8,#FFFFFF,#000000,4,Ind,Rhode Island,black,2009.0,Return,8,21,,,0.0
 2010,tim-oshea-1,Tim O'Shea,Bryant,1-17 NEC,1,#FFFFFF,#000000,4,NEC,Rhode Island,black,2009.0,Return,1,29,1,17,0.0
 2011,tim-oshea-1,Tim O'Shea,Bryant,7-11 NEC,9,#FFFFFF,#000000,4,NEC,Rhode Island,black,2009.0,Return,9,21,7,11,0.0
@@ -31582,7 +31664,8 @@ NCAA 64",29,#C8102E,#F1BE48,4,Big 12,Iowa,black,2022.0,Return,19,14,9,9,0.1
 Sweet 16",49,#C8102E,#F1BE48,4,Big 12,Iowa,black,2022.0,Return,29,8,13,5,0.2
 2025,tj-otzelberger-1,T.J. Otzelberger,Iowa St.,"13-7 B12
 NCAA 32",40,#C8102E,#F1BE48,4,Big 12,Iowa,black,2022.0,Return,25,10,13,7,0.15
-2026,tj-otzelberger-1,T.J. Otzelberger,Iowa St.,12-6 B12,26,#FFFFFF,#000000,4,Big 12,Iowa,black,2022.0,Left,26,6,12,6,0.0
+2026,tj-otzelberger-1,T.J. Otzelberger,Iowa St.,"12-6 B12
+NCAA 64",37,#C8102E,#F1BE48,4,Big 12,Iowa,black,2022.0,Left,27,7,12,6,0.1
 2016,tj-otzelberger-1,T.J. Otzelberger,Iowa St.,Asst.,0,#FFFFFF,#000000,1,,,white,,Last,,,,,
 2017,tj-otzelberger-1,T.J. Otzelberger,South Dakota St.,"8-8 Sum
 NCAA 64",28,#0033A0,#FFD100,4,Summit,South Dakota,black,2017.0,Return,18,17,8,8,0.1
@@ -31627,7 +31710,7 @@ NCAA 32",36,#003882,#FFFFFF,4,NEC,New Jersey,black,2023.0,Left,21,16,10,6,0.15
 2023,tod-kowalczyk-1,Tod Kowalczyk,Toledo,16-2 MAC,27,#FFFFFF,#000000,4,MAC,Ohio,black,2011.0,Return,27,8,16,2,0.0
 2024,tod-kowalczyk-1,Tod Kowalczyk,Toledo,14-4 MAC,20,#FFFFFF,#000000,4,MAC,Ohio,black,2011.0,Return,20,12,14,4,0.0
 2025,tod-kowalczyk-1,Tod Kowalczyk,Toledo,10-8 MAC,18,#FFFFFF,#000000,4,MAC,Ohio,black,2011.0,Return,18,15,10,8,0.0
-2026,tod-kowalczyk-1,Tod Kowalczyk,Toledo,11-7 MAC,17,#FFFFFF,#000000,4,MAC,Ohio,black,2011.0,Last,17,14,11,7,0.0
+2026,tod-kowalczyk-1,Tod Kowalczyk,Toledo,11-7 MAC,19,#FFFFFF,#000000,4,MAC,Ohio,black,2011.0,Last,19,15,11,7,0.0
 1994,todd-bozeman-1,Todd Bozeman,California,"13-5 P10
 NCAA 64",32,#003262,#FDB515,4,Pac-10,California,black,1994.0,Return,22,8,13,5,0.1
 1995,todd-bozeman-1,Todd Bozeman,California,5-13 P10,13,#FFFFFF,#000000,4,Pac-10,California,black,1994.0,Return,13,14,5,13,0.0
@@ -31655,7 +31738,7 @@ NCAA 64",37,#F47937,#1B4383,4,MEAC,Maryland,black,2007.0,Return,27,10,15,1,0.1
 NCAA 64",34,#FA4616,#0021A5,4,SEC,Florida,black,2023.0,Return,24,12,11,7,0.1
 2025,todd-golden-1,Todd Golden,Florida,"14-4 SEC
 Champion",136,#FA4616,#0021A5,4,SEC,Florida,black,2023.0,Return,36,4,14,4,1.0
-2026,todd-golden-1,Todd Golden,Florida,16-2 SEC,25,#FFFFFF,#000000,4,SEC,Florida,black,2023.0,Last,25,6,16,2,0.0
+2026,todd-golden-1,Todd Golden,Florida,16-2 SEC,26,#FFFFFF,#000000,4,SEC,Florida,black,2023.0,Last,26,7,16,2,0.0
 2020,todd-golden-1,Todd Golden,San Francisco,9-7 WCC,22,#FFFFFF,#000000,4,WCC,California,black,2020.0,Return,22,12,9,7,0.0
 2021,todd-golden-1,Todd Golden,San Francisco,4-9 WCC,11,#FFFFFF,#000000,4,WCC,California,black,2020.0,Return,11,14,4,9,0.0
 2022,todd-golden-1,Todd Golden,San Francisco,"10-6 WCC
@@ -31689,10 +31772,10 @@ Sweet 16",49,#13294B,#FFFFFF,4,Horizon,Indiana,black,2002.0,Left,29,7,13,3,0.2
 2011,todd-lickliter-1,Todd Lickliter,Iowa,Fired,0,#FFFFFF,#000000,0,Big Ten,Iowa,white,2008.0,Last,,,,,
 2024,todd-phillips-1,Todd Phillips,Utah Valley,11-9 WAC,16,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Return,16,16,11,9,0.0
 2025,todd-phillips-1,Todd Phillips,Utah Valley,15-1 WAC,25,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Return,25,9,15,1,0.0
-2026,todd-phillips-1,Todd Phillips,Utah Valley,14-4 WAC,24,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Last,24,7,14,4,0.0
+2026,todd-phillips-1,Todd Phillips,Utah Valley,14-4 WAC,25,#FFFFFF,#000000,4,WAC,Utah,black,2024.0,Last,25,8,14,4,0.0
 2024,todd-simon-1,Todd Simon,Bowling Green,10-8 MAC,20,#FFFFFF,#000000,4,MAC,Ohio,black,2024.0,Return,20,14,10,8,0.0
 2025,todd-simon-1,Todd Simon,Bowling Green,8-10 MAC,14,#FFFFFF,#000000,4,MAC,Ohio,black,2024.0,Return,14,18,8,10,0.0
-2026,todd-simon-1,Todd Simon,Bowling Green,9-9 MAC,18,#FFFFFF,#000000,4,MAC,Ohio,black,2024.0,Last,18,13,9,9,0.0
+2026,todd-simon-1,Todd Simon,Bowling Green,9-9 MAC,18,#FFFFFF,#000000,4,MAC,Ohio,black,2024.0,Last,18,14,9,9,0.0
 2017,todd-simon-1,Todd Simon,Southern Utah,3-15 BSky,6,#FFFFFF,#000000,4,Big Sky,Utah,black,2017.0,Return,6,27,3,15,0.0
 2018,todd-simon-1,Todd Simon,Southern Utah,5-13 BSky,13,#FFFFFF,#000000,4,Big Sky,Utah,black,2017.0,Return,13,19,5,13,0.0
 2019,todd-simon-1,Todd Simon,Southern Utah,9-11 BSky,17,#FFFFFF,#000000,4,Big Sky,Utah,black,2017.0,Return,17,17,9,11,0.0
@@ -32020,7 +32103,8 @@ Sweet 16",41,#18453B,#FFFFFF,4,Big Ten,Michigan,black,1996.0,Return,21,13,11,8,0
 NCAA 32",35,#18453B,#FFFFFF,4,Big Ten,Michigan,black,1996.0,Return,20,15,10,10,0.15
 2025,tom-izzo-1,Tom Izzo,Michigan St.,"17-3 B1G
 Elite 8",55,#18453B,#FFFFFF,4,Big Ten,Michigan,black,1996.0,Return,30,7,17,3,0.25
-2026,tom-izzo-1,Tom Izzo,Michigan St.,15-5 B1G,25,#FFFFFF,#000000,4,Big Ten,Michigan,black,1996.0,Last,25,6,15,5,0.0
+2026,tom-izzo-1,Tom Izzo,Michigan St.,"15-5 B1G
+NCAA 64",35,#18453B,#FFFFFF,4,Big Ten,Michigan,black,1996.0,Last,25,7,15,5,0.1
 1911,tom-keady-1,Tom Keady,Dartmouth,5-6,5,#FFFFFF,#000000,4,Ind,New Hampshire,black,1911.0,Last,5,6,,,0.0
 1913,tom-keady-1,Tom Keady,Lehigh,12-2,12,#FFFFFF,#000000,4,Ind,Pennsylvania,black,1913.0,Last,12,2,,,0.0
 1922,tom-keady-1,Tom Keady,Vermont,15-4,15,#FFFFFF,#000000,4,Ind,Vermont,black,1922.0,Return,15,4,,,0.0
@@ -32266,7 +32350,7 @@ NCAA 64",32,#A41034,#FFFFFF,4,Ivy,Massachusetts,black,2008.0,Return,22,8,12,3,0.
 2023,tommy-amaker-1,Tommy Amaker,Harvard,5-9 Ivy,14,#FFFFFF,#000000,4,Ivy,Massachusetts,black,2008.0,Return,14,14,5,9,0.0
 2024,tommy-amaker-1,Tommy Amaker,Harvard,5-9 Ivy,14,#FFFFFF,#000000,4,Ivy,Massachusetts,black,2008.0,Return,14,13,5,9,0.0
 2025,tommy-amaker-1,Tommy Amaker,Harvard,7-7 Ivy,12,#FFFFFF,#000000,4,Ivy,Massachusetts,black,2008.0,Return,12,15,7,7,0.0
-2026,tommy-amaker-1,Tommy Amaker,Harvard,10-4 Ivy,17,#FFFFFF,#000000,4,Ivy,Massachusetts,black,2008.0,Last,17,11,10,4,0.0
+2026,tommy-amaker-1,Tommy Amaker,Harvard,10-4 Ivy,17,#FFFFFF,#000000,4,Ivy,Massachusetts,black,2008.0,Last,17,12,10,4,0.0
 2002,tommy-amaker-1,Tommy Amaker,Michigan,5-11 B1G,11,#FFFFFF,#000000,4,Big Ten,Michigan,black,2002.0,Return,11,18,5,11,0.0
 2003,tommy-amaker-1,Tommy Amaker,Michigan,10-6 B1G,17,#FFFFFF,#000000,4,Big Ten,Michigan,black,2002.0,Return,17,13,10,6,0.0
 2004,tommy-amaker-1,Tommy Amaker,Michigan,8-8 B1G,23,#FFFFFF,#000000,4,Big Ten,Michigan,black,2002.0,Return,23,11,8,8,0.0
@@ -32350,7 +32434,8 @@ NCAA 64",38,#AB0520,#FFFFFF,4,Pac-12,Arizona,black,2022.0,Return,28,7,14,6,0.1
 Sweet 16",47,#AB0520,#FFFFFF,4,Pac-12,Arizona,black,2022.0,Return,27,9,15,5,0.2
 2025,tommy-lloyd-1,Tommy Lloyd,Arizona,"14-6 B12
 Sweet 16",44,#AB0520,#FFFFFF,4,Big 12,Arizona,black,2022.0,Return,24,13,14,6,0.2
-2026,tommy-lloyd-1,Tommy Lloyd,Arizona,16-2 B12,29,#FFFFFF,#000000,4,Big 12,Arizona,black,2022.0,Last,29,2,16,2,0.0
+2026,tommy-lloyd-1,Tommy Lloyd,Arizona,"16-2 B12
+NCAA 64",42,#AB0520,#FFFFFF,4,Big 12,Arizona,black,2022.0,Last,32,2,16,2,0.1
 1984,tommy-newman-1,Tommy Newman,North Texas,3-9 SLC,9,#FFFFFF,#000000,4,Southland,Texas,black,1984.0,Return,9,19,3,9,0.0
 1985,tommy-newman-1,Tommy Newman,North Texas,1-11 SLC,5,#FFFFFF,#000000,4,Southland,Texas,black,1984.0,Return,5,23,1,11,0.0
 1986,tommy-newman-1,Tommy Newman,North Texas,4-8 SLC,10,#FFFFFF,#000000,4,Southland,Texas,black,1984.0,Resigned,10,18,4,8,0.0
@@ -32579,7 +32664,7 @@ NCAA 64",30,#C79900,#000000,4,SWAC,Alabama,black,2023.0,Return,20,16,12,6,0.1
 2001,tony-sheals-1,Tony Sheals,Delaware St.,Assault (alleged),0,#FFFFFF,#000000,0,MEAC,Delaware,white,2000.0,Last,,,,,
 2024,tony-skinn-1,Tony Skinn,George Mason,9-9 A10,20,#FFFFFF,#000000,4,A-10,Virginia,black,2024.0,Return,20,12,9,9,0.0
 2025,tony-skinn-1,Tony Skinn,George Mason,15-3 A10,27,#FFFFFF,#000000,4,A-10,Virginia,black,2024.0,Return,27,9,15,3,0.0
-2026,tony-skinn-1,Tony Skinn,George Mason,11-7 A10,23,#FFFFFF,#000000,4,A-10,Virginia,black,2024.0,Last,23,8,11,7,0.0
+2026,tony-skinn-1,Tony Skinn,George Mason,11-7 A10,23,#FFFFFF,#000000,4,A-10,Virginia,black,2024.0,Last,23,9,11,7,0.0
 2022,tony-stubblefield-1,Tony Stubblefield,DePaul,6-14 BE,15,#FFFFFF,#000000,4,Big East,Illinois,black,2022.0,Return,15,16,6,14,0.0
 2023,tony-stubblefield-1,Tony Stubblefield,DePaul,3-17 BE,10,#FFFFFF,#000000,4,Big East,Illinois,black,2022.0,Return,10,23,3,17,0.0
 2024,tony-stubblefield-1,Tony Stubblefield,DePaul,0-7 BE,3,#FFFFFF,#000000,3,Big East,Illinois,black,2022.0,Fired,,,,,
@@ -32672,7 +32757,8 @@ NCAA 64",33,#003DA5,#FFFFFF,4,A-10,Missouri,black,2017.0,Return,23,13,10,8,0.1
 2023,travis-steele-1,Travis Steele,Miami (OH),6-12 MAC,12,#FFFFFF,#000000,4,MAC,Ohio,black,2023.0,Return,12,20,6,12,0.0
 2024,travis-steele-1,Travis Steele,Miami (OH),9-9 MAC,15,#FFFFFF,#000000,4,MAC,Ohio,black,2023.0,Return,15,17,9,9,0.0
 2025,travis-steele-1,Travis Steele,Miami (OH),14-4 MAC,25,#FFFFFF,#000000,4,MAC,Ohio,black,2023.0,Return,25,9,14,4,0.0
-2026,travis-steele-1,Travis Steele,Miami (OH),18-0 MAC,31,#FFFFFF,#000000,4,MAC,Ohio,black,2023.0,Last,31,0,18,0,0.0
+2026,travis-steele-1,Travis Steele,Miami (OH),"18-0 MAC
+NCAA 68",36,#C41230,#FFFFFF,4,MAC,Ohio,black,2023.0,Last,31,1,18,0,0.05
 2019,travis-steele-1,Travis Steele,Xavier,9-9 BE,19,#FFFFFF,#000000,4,Big East,Ohio,black,2019.0,Return,19,16,9,9,0.0
 2020,travis-steele-1,Travis Steele,Xavier,"8-10 BE
 Bubble",34,#0C2340,#FFFFFF,4,Big East,Ohio,black,2019.0,Return,19,13,8,10,0.15
@@ -33197,7 +33283,8 @@ Elite 8",45,#D73F09,#FFFFFF,4,Pac-12,Oregon,black,2015.0,Return,20,13,10,10,0.25
 2023,wayne-tinkle-1,Wayne Tinkle,Oregon St.,5-15 P12,11,#FFFFFF,#000000,4,Pac-12,Oregon,black,2015.0,Return,11,21,5,15,0.0
 2024,wayne-tinkle-1,Wayne Tinkle,Oregon St.,5-15 P12,13,#FFFFFF,#000000,4,Pac-12,Oregon,black,2015.0,Return,13,19,5,15,0.0
 2025,wayne-tinkle-1,Wayne Tinkle,Oregon St.,10-8 WCC,20,#FFFFFF,#000000,4,WCC,Oregon,black,2015.0,Return,20,13,10,8,0.0
-2026,wayne-tinkle-1,Wayne Tinkle,Oregon St.,9-9 WCC,17,#FFFFFF,#000000,4,WCC,Oregon,black,2015.0,Last,17,16,9,9,0.0
+2026,wayne-tinkle-1,Wayne Tinkle,Oregon St.,9-9 WCC,17,#FFFFFF,#000000,4,WCC,Oregon,black,2015.0,Fired,17,16,9,9,0.0
+2027,wayne-tinkle-1,Wayne Tinkle,Oregon St.,Fired,0,#FFFFFF,#000000,0,WCC,Oregon,white,2015.0,Last,,,,,
 1975,wayne-yates-1,Wayne Yates,Memphis,20-7,20,#FFFFFF,#000000,4,Ind,Tennessee,black,1975.0,Return,20,7,,,0.0
 1976,wayne-yates-1,Wayne Yates,Memphis,"21-9
 NCAA 32",36,#004991,#FFFFFF,4,Metro,Tennessee,black,1975.0,Return,21,9,1,1,0.15
@@ -33252,7 +33339,8 @@ NCAA 25",27,#AE122A,#FFFFFF,4,Southern,Virginia,black,1959.0,Resigned,12,12,7,7,
 2023,wes-miller-1,Wes Miller,Cincinnati,11-7 Amer,23,#FFFFFF,#000000,4,AAC,Ohio,black,2022.0,Return,23,13,11,7,0.0
 2024,wes-miller-1,Wes Miller,Cincinnati,7-11 B12,22,#FFFFFF,#000000,4,Big 12,Ohio,black,2022.0,Return,22,15,7,11,0.0
 2025,wes-miller-1,Wes Miller,Cincinnati,7-13 B12,19,#FFFFFF,#000000,4,Big 12,Ohio,black,2022.0,Return,19,16,7,13,0.0
-2026,wes-miller-1,Wes Miller,Cincinnati,9-9 B12,18,#FFFFFF,#000000,4,Big 12,Ohio,black,2022.0,Last,18,15,9,9,0.0
+2026,wes-miller-1,Wes Miller,Cincinnati,9-9 B12,18,#FFFFFF,#000000,4,Big 12,Ohio,black,2022.0,Fired,18,15,9,9,0.0
+2027,wes-miller-1,Wes Miller,Cincinnati,Fired,0,#FFFFFF,#000000,0,Big 12,Ohio,white,2022.0,Last,,,,,
 2012,wes-miller-1,Wes Miller,UNC Greensboro,10-5 SoCon,11,#FFFFFF,#000000,3,,,black,2012.0,Return,,,,,
 2013,wes-miller-1,Wes Miller,UNC Greensboro,6-12 SoCon,9,#FFFFFF,#000000,4,Southern,North Carolina,black,2012.0,Return,9,22,6,12,0.0
 2014,wes-miller-1,Wes Miller,UNC Greensboro,7-9 SoCon,14,#FFFFFF,#000000,4,Southern,North Carolina,black,2012.0,Return,14,18,7,9,0.0
@@ -33418,7 +33506,8 @@ NCAA 64",32,#00529B,#FFD204,4,Southland,Louisiana,black,2024.0,Return,22,2,17,1,
 2025,will-wade-1,Will Wade,McNeese,"19-1 SLC
 NCAA 32",43,#00529B,#FFD204,4,Southland,Louisiana,black,2024.0,Left,28,7,19,1,0.15
 2026,will-wade-1,Will Wade,McNeese,NC State,0,#FFFFFF,#000000,0,Southland,Louisiana,white,2024.0,Last,,,,,
-2026,will-wade-1,Will Wade,NC State,10-8 ACC,20,#FFFFFF,#000000,4,ACC,North Carolina,black,2026.0,Last,20,12,10,8,0.0
+2026,will-wade-1,Will Wade,NC State,"10-8 ACC
+NCAA 68",25,#CC0000,#FFFFFF,4,ACC,North Carolina,black,2026.0,Last,20,13,10,8,0.05
 2016,will-wade-1,Will Wade,VCU,"14-4 A10
 NCAA 32",40,#FFB300,#000000,4,A-10,Virginia,black,2016.0,Return,25,11,14,4,0.15
 2017,will-wade-1,Will Wade,VCU,"14-4 A10
