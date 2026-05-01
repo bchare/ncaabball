@@ -12,6 +12,8 @@ net_stats = pd.read_csv('estimated_net_output.csv')
 try:
     games = pd.read_csv(f'ncaab_stats_input_{season}.csv')
     maxdate = games['date'].max()
+    # Subset to games before a certain date
+    games = games[games['date'] <= '2026-03-15']
 except:
     maxdate = str(season)
 
@@ -49,24 +51,23 @@ def makeplot(title, condition):
     net_stats.sort_values(by='estimated_net', ascending=False, inplace=True)
     net_stats['visibility'] = net_stats.eval(condition).astype(int)
     net_stats_subset=net_stats[net_stats['visibility']==1]
-    x_visible = net_stats.loc[net_stats['visibility']==1, 'value_norm']
-    y_visible = net_stats.loc[net_stats['visibility']==1, 'efficiency_norm']
+    x_visible = net_stats.loc[net_stats['visibility']==1, 'value']
+    y_visible = net_stats.loc[net_stats['visibility']==1, 'efficiency']
     fig, ax = plt.subplots(figsize=(12.8, 7.2), dpi=100, layout='constrained')
     fig.suptitle(('Estimated NET - ' + title + '\n(Games Through ' + maxdate + ')').strip())
-    ax.scatter(net_stats['value_norm'], net_stats['efficiency_norm'], 100, net_stats['bgcolor'], alpha=0.05*(1-net_stats['visibility']))
+    ax.scatter(net_stats['value'], net_stats['efficiency'], 100, net_stats['bgcolor'], alpha=0.05*(1-net_stats['visibility']))
     if havelogos == 1:
         for i in net_stats_subset.index:
-            ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value_norm'], net_stats_subset.at[i,'efficiency_norm']), ha='center', va='bottom', xytext=(0, 15), textcoords='offset points', zorder=5000)
-            ax.add_artist(AnnotationBbox(OffsetImage(plt.imread(net_stats_subset.at[i,'logo']), zoom=0.333), (net_stats_subset.at[i,'value_norm'], net_stats_subset.at[i,'efficiency_norm']), frameon=False))
+            ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value'], net_stats_subset.at[i,'efficiency']), ha='center', va='bottom', xytext=(0, 15), textcoords='offset points', zorder=5000)
+            ax.add_artist(AnnotationBbox(OffsetImage(plt.imread(net_stats_subset.at[i,'logo']), zoom=0.333), (net_stats_subset.at[i,'value'], net_stats_subset.at[i,'efficiency']), frameon=False))
     else:
-        ax.scatter(net_stats_subset['value_norm'], net_stats_subset['efficiency_norm'], 100, net_stats_subset['bgcolor'], alpha=1)
+        ax.scatter(net_stats_subset['value'], net_stats_subset['efficiency'], 100, net_stats_subset['bgcolor'], alpha=1)
         for i in net_stats_subset.index:
-            ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value_norm'], net_stats_subset.at[i,'efficiency_norm']), ha='center', va='bottom', xytext=(0, 6), textcoords='offset points', zorder=5000)
-    ax.set_ylabel('Strength')
-    ax.set_xlabel('Resume')
-    pad = 0.02  # small padding so points aren't on the edge
-    ax.set_xlim(x_visible.min() - pad, x_visible.max() + pad)
-    ax.set_ylim(y_visible.min() - pad, y_visible.max() + pad)
+            ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value'], net_stats_subset.at[i,'efficiency']), ha='center', va='bottom', xytext=(0, 6), textcoords='offset points', zorder=5000)
+    ax.set_ylabel('Effeciency')
+    ax.set_xlabel('Value')
+    ax.set_xlim(x_visible.min() - 0.2, x_visible.max() + 0.2)
+    ax.set_ylim(y_visible.min() - 2, y_visible.max() + 2)
     fig.savefig(f'NET Scatter {title}.png')
 
 

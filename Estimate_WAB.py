@@ -11,10 +11,16 @@ try:
     maxdate = games['date'].max()
 except:
     maxdate = str(season)
+    
+# Input the official NET and WAB
+realnet = pd.read_table('actual_net.txt')
 
-# For each game, calculate offensive and defensive efficiency (points per 100 possessions)
-games['off_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta']))
-games['def_eff'] = 100*(games['opp_points']/(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
+# Subset to games before a certain date
+games = games[games['date'] <= '2026-03-15']
+
+# Calculate efficiency for every game
+games['off_eff'] = 100 * games['points'] / (games['fga'] - games['orb'] + games['tov'] + 0.475 * games['fta'])
+games['def_eff'] = 100 * games['opp_points'] / (games['opp_fga'] - games['opp_orb'] + games['opp_tov'] + 0.475 * games['opp_fta'])
 
 # For each game, make True/False fields for each team involved
 games_dummy_vars = pd.get_dummies(games[['team', 'opponent']])
@@ -31,56 +37,53 @@ def_stats = pd.DataFrame({'team': games_dummy_vars.columns.values, 'def_eff': re
 
 # Combine both results
 wab_stats = off_stats.merge(def_stats, on='team')
-wab_stats = wab_stats[wab_stats['team'].str.startswith('team_')]
+wab_stats = wab_stats[wab_stats['team'].str.startswith('team_')].copy()
 wab_stats['team'] = wab_stats['team'].str[5:]
 
-# Calculate team strength using Pythagorean expectation with exponent 11.5
+# Calculate team strength with Pythagorean expectation
 wab_stats['pythag'] = (wab_stats['off_eff'] ** 11.5) / ((wab_stats['off_eff'] ** 11.5) + (wab_stats['def_eff'] ** 11.5))
 # Rank by strength
 wab_stats['pythag_rank'] = wab_stats['pythag'].rank(ascending=False, method='min').astype(int)
 
-# Need to input the NET rankings
-realnet = pd.read_table('actual_net.txt')
-wab_stats = wab_stats.merge(realnet[['Team', 'NET Rank']], 
-    left_on='team', 
-    right_on='Team', 
-    how='left').drop('Team', axis=1)
+# Merge the official NET rankings
+wab_stats = wab_stats.merge(realnet[['Team', 'NET Rank']], left_on='team', right_on='Team', how='left').drop(columns=['Team'])
 
 # Team strengths must be put in order of the NET rankings
-# Also define the bubble strength as the average of the 40th-45th strongest teams by pythag
 wab_stats = wab_stats.merge(
-    wab_stats[['pythag_rank', 'off_eff', 'def_eff', 'pythag']], 
+    wab_stats[['pythag_rank', 'off_eff', 'def_eff']], 
     how='left', 
     left_on='NET Rank', 
     right_on='pythag_rank', 
     suffixes=('', '_rerank')
-).drop(columns='pythag_rank_rerank').assign(
-    bubble_off=lambda x: x[x['pythag_rank'].between(40, 45)]['off_eff'].mean(),
-    bubble_def=lambda x: x[x['pythag_rank'].between(40, 45)]['def_eff'].mean()
+).drop(columns='pythag_rank_rerank')
+
+# Define the bubble strength as the pythag of the 45th-strongest team
+wab_stats = wab_stats.assign(
+    pythag_bubble = wab_stats.loc[wab_stats['pythag_rank'] == 45, 'pythag'].values[0]
 )
 
 # For each game, get the offensive and defensive numbers for the opponent and the bubble team
 gamewab = games[['team', 'opponent', 'date', 'hca', 'points', 'opp_points']].merge(
-    wab_stats[['team', 'off_eff_rerank', 'def_eff_rerank', 'NET Rank', 'bubble_off', 'bubble_def']], 
-    left_on='opponent', right_on='team').drop('team_y', axis=1).rename(
-    columns={'team_x': 'team'})
+    wab_stats[['team', 'off_eff_rerank', 'def_eff_rerank', 'pythag_bubble', 'NET Rank']],
+    left_on='opponent', right_on='team').drop('team_y', axis=1).rename(columns={'team_x': 'team'})
 
 # For home games, assume the hypothetical bubble team will play better and the opponent will play worse
-gamewab.loc[gamewab['hca'] == 1, ['def_eff_rerank', 'bubble_off']] = gamewab.loc[gamewab['hca'] == 1, ['def_eff_rerank', 'bubble_off']] * 1.013
-gamewab.loc[gamewab['hca'] == 1, ['off_eff_rerank', 'bubble_def']] = gamewab.loc[gamewab['hca'] == 1, ['off_eff_rerank', 'bubble_def']] * 0.987
+gamewab.loc[gamewab['hca'] == 1, 'def_eff_rerank'] *= 1.013
+gamewab.loc[gamewab['hca'] == 1, 'off_eff_rerank'] *= 0.987
+gamewab.loc[gamewab['hca'] == 1, 'pythag_bubble'] *= 1.013
 # For away games, assume the hypothetical bubble team will play worse and the opponent will play better
-gamewab.loc[gamewab['hca'] == -1, ['def_eff_rerank', 'bubble_off']] = gamewab.loc[gamewab['hca'] == -1, ['def_eff_rerank', 'bubble_off']] * 0.987
-gamewab.loc[gamewab['hca'] == -1, ['off_eff_rerank', 'bubble_def']] = gamewab.loc[gamewab['hca'] == -1, ['off_eff_rerank', 'bubble_def']] * 1.013
+gamewab.loc[gamewab['hca'] == -1, 'def_eff_rerank'] *= 0.987
+gamewab.loc[gamewab['hca'] == -1, 'off_eff_rerank'] *= 1.013
+gamewab.loc[gamewab['hca'] == -1, 'pythag_bubble'] *= 0.987
 
-# Calculate team strength using Pythagorean expectation with the home/away adjustments
-gamewab['pythag_rerank'] = (gamewab['off_eff_rerank'] ** 11.5) / (gamewab['off_eff_rerank'] ** 11.5 + gamewab['def_eff_rerank'] ** 11.5)
-gamewab['pythag_bubble'] = (gamewab['bubble_off'] ** 11.5) / (gamewab['bubble_off'] ** 11.5 + gamewab['bubble_def'] ** 11.5)
+# Calculate the opponent strength after the home court adjustment
+gamewab['pythag_rerank'] = (gamewab['off_eff_rerank'] ** 11.5 / (gamewab['off_eff_rerank'] ** 11.5 + gamewab['def_eff_rerank'] ** 11.5))
 
 # Use the Log5 formula to find the probability that the opponent would beat the bubble team. This is the game's WAB value.
 gamewab['game_wab'] = (gamewab['pythag_rerank'] * (1 - gamewab['pythag_bubble'])) / (gamewab['pythag_rerank'] * (1 - gamewab['pythag_bubble']) + gamewab['pythag_bubble'] * (1 - gamewab['pythag_rerank']))
 
-# For a win, increase the team's WAB by that value. For a loss, add the same value and subtract 1.
-gamewab.loc[gamewab['points'] < gamewab['opp_points'], 'game_wab'] = gamewab.loc[gamewab['points'] < gamewab['opp_points'], 'game_wab'] - 1
+# For losses, subtract 1
+gamewab.loc[gamewab['points'] < gamewab['opp_points'], 'game_wab'] -= 1
 
 # Sum the values by team
 wab_results = gamewab.groupby('team')['game_wab'].sum().reset_index().rename(columns={'game_wab': 'Est_WAB'})

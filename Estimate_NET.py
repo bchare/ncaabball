@@ -1,22 +1,21 @@
 import pandas as pd
-# import numpy as np
+import numpy as np
 from sklearn import linear_model
 from sklearn.linear_model import LogisticRegression
 
+season = 2026
+
 # Read in game stats
-games = pd.read_csv('ncaab_stats_input_2026.csv')
+games = pd.read_csv(f'ncaab_stats_input_{season}.csv')
 
 # Subset to games before a certain date
-# games = games[games['date'] <= '2026-03-15']
+games = games[games['date'] <= '2026-03-15']
 
 # Credit for the ridge regression code (see the link to Colab) goes to:
 # https://medium.com/analyzing-ncaa-college-basketball-with-gcp/fitting-it-in-adjusting-team-metrics-for-schedule-strength-4e8239be0530
 
 # Calculate the scoring margin in points per 100 possessions
 games['raw_net_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta'])-games['opp_points']/(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
-# games['off_eff'] = 100*(games['points']/(games['fga']-games['orb']+games['tov']+.475*games['fta']))
-# games['def_eff'] = 100*(games['opp_points']/(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
-# games['avg_pos'] = 0.5*((games['fga']-games['orb']+games['tov']+.475*games['fta'])+(games['opp_fga']-games['opp_orb']+games['opp_tov']+.475*games['opp_fta']))
 
 # Make dummy variables for each team and opponent
 games_dummy_vars = pd.get_dummies(games[['team', 'opponent', 'hca']])
@@ -33,12 +32,6 @@ print("Home Court Advantage is", round(home_court_advantage,2), "Points Per 100 
 # Only keep rows for the team stats
 net_stats = net_stats[net_stats['team'].str.startswith('team_')]
 net_stats['team'] = net_stats['team'].str[5:]
-
-# Calculate ranking and normalized score
-net_stats['efficiency_rank'] = net_stats['efficiency'].rank(ascending=False, method='min')
-eff_min = net_stats['efficiency'].min()
-eff_max = net_stats['efficiency'].max()
-net_stats['efficiency_norm'] = (net_stats['efficiency'] - eff_min) / (eff_max - eff_min)
 
 # Credit for the Bradley-Terry ranking code goes to:
 # https://datascience.oneoffcoder.com/btl-model.html
@@ -72,7 +65,7 @@ X = X[[c for c in X.columns if c != 'y']]
 X['hca'] = games['hca']
 
 # Logistic regression (for Value)
-log = LogisticRegression(penalty=None, fit_intercept=False)
+log = LogisticRegression(C=np.inf, fit_intercept=False)
 log.fit(X, y)
 teamvalue = sorted(list(zip(X.columns, log.coef_[0])), key=lambda tup: tup[1], reverse=True)
 teamvalue = pd.Series([c for _, c in teamvalue], index=[t for t, _ in teamvalue])
@@ -82,17 +75,13 @@ teamvalue.rename(columns={'index': 'team', 0: 'value'}, inplace=True)
 teamvalue = teamvalue[teamvalue['team'] != 'ZZZ_FICTIONAL']
 teamvalue = teamvalue[teamvalue['team'] != 'hca']
 
-# Calculate ranking and normalized score
-teamvalue['value_rank'] = teamvalue['value'].rank(ascending=False, method='min')
-val_min = teamvalue['value'].min()
-val_max = teamvalue['value'].max()
-teamvalue['value_norm'] = (teamvalue['value'] - val_min) / (val_max - val_min)
-
 # Combine efficiency and value numbers
 net_stats = net_stats.merge(teamvalue,on='team')
-# Combine the normalized efficiency (worth 80%) and normalized value (worth 20%) and rank
-net_stats['combine_norm'] = 0.8 * net_stats['efficiency_norm'] + 0.2 * net_stats['value_norm']
-net_stats['estimated_net'] = net_stats['combine_norm'].rank(ascending=False, method='min')
+net_stats['combine'] = 0.3 * net_stats['efficiency'] + 0.7 * net_stats['value']
+# Calculate rankings
+net_stats['efficiency_rank'] = net_stats['efficiency'].rank(ascending=False, method='min')
+net_stats['value_rank'] = net_stats['value'].rank(ascending=False, method='min')
+net_stats['estimated_net'] = net_stats['combine'].rank(ascending=False, method='min')
 net_stats.sort_values(by='estimated_net', inplace=True)
 
 # Turn ranks into integers
@@ -102,7 +91,7 @@ net_stats['estimated_net'] = net_stats['estimated_net'].astype(int)
 # Put the estimated rank first
 net_stats.insert(0, 'estimated_net', net_stats.pop('estimated_net'))
 
-# print(net_stats.to_string(columns=['estimated_net','team','efficiency_rtg','value_rtg'], index=False))
+# print(net_stats.to_string(columns=['estimated_net','team','efficiency_rank','value_rank'], index=False))
 
-net_stats.to_csv('estimated_net_output.csv', index=False)
+net_stats.to_csv(f'estimated_net_output_{season}.csv', index=False)
 
