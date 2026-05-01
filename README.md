@@ -2,24 +2,22 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
-(Updated through Selection Sunday.)
-
 ## NET Estimates 2026
 
 ![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
 
 ### Introduction
 
-The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball teams. Millions of fans are interested in the NET because it's used in choosing which teams are chosen to play for a national championship. While the exact formula is a secret, the NCAA has stated that it considers two factors: "Adjusted Net Efficiency" and "Team Value Index". I can calculate both factors and estimate the NET ranking with good accuracy.
+The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball teams. Millions of fans are interested in the NET because it affects how teams are chosen to play for a national championship. While the exact formula is a secret, the NCAA has stated that it considers two factors: "Adjusted Net Efficiency" and "Team Value Index". I calculate both factors and estimate the NET ranking with good accuracy.
 
 ### FAQ
 
 **Q: What code and data can calculate the NET?**
 
-[Python code to estimate NET](/Estimate_NET.py) (Updated Fall 2025)\
+[Python code to estimate NET](/Estimate_NET.py) (Updated May 2026)\
 Input: [2026 game results](/ncaab_stats_input_2026.csv)\
-Output: [Estimated NET rankings](/estimated_net_output.csv)
-Bonus analysis: [2026 NET impact per game](/game_impact_net_2026.txt)
+Output: [Estimated NET rankings](/estimated_net_output_2026.csv)
+Bonus analysis: [2026 NET impact per game](/game_impact_report_net_2026.txt)
 
 **Q: How is the NET calculated?**
 
@@ -29,11 +27,11 @@ The "Adjusted Net Efficiency" looks at the difference in the score per 100 posse
 
 The "Team Value Index" looks at which team won the game. It considers how all teams have won or lost against all other teams. This is comparable to a popular ranking method called a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams. This is not a shallow calculation of winning percentage like the RPI had. Every game affects all 360+ teams.
 
-I count the Efficiency rating at 80% and the Value rating at 20%. For example, a team that is 10th in Efficiency and 25th in Value might have a NET ranking of about 13.
+A team that is 20th in Efficiency and 30th in Value would have a NET ranking around 22. I'm unsure how to exactly combine the components, but I add them together, weighing the Efficiency 30% and Value 70%. (But Efficiency has larger numbers. If I ranked or normalized the values, I would weigh Efficiency 80% and Value 20%.)
 
 **Q: Why is (some team) ranked so high or low?**
 
-The NET mostly makes sense by the end of the season. In November-December, there's a conflict where humans have preseason expectations and the NET does not. For example, imagine that only 2 games have been played and these are the results:
+The NET makes sense by March. In November-December, there's a conflict where humans have preseason expectations and the NET does not. For example, imagine that only 2 games have been played and these are the results:
 
 * Team 1 beat Team 2, 103-74.
 * Team 3 beat Team 4, 93-87.
@@ -55,9 +53,9 @@ You would probably rank these: Team A, Team C, Team E, Team F, Team D, Team B.
 
 But wait a minute. The home teams won by an average of 15 points. It's only fair to adjust for a home court advantage. Maybe this makes more sense:
 
-* Team A is (28 - 15) 13 points better than Team B.
-* Team C is (10 - 15) 5 points WORSE than Team D.
-* Team E is (7 - 15) 8 points WORSE than Team F.
+* Team A is (28 - 15) = 13 points better than Team B.
+* Team C is (10 - 15) = 5 points WORSE than Team D.
+* Team E is (7 - 15) = 8 points WORSE than Team F.
 
 So then they should be ranked: Team A, Team F, Team D, Team C, Team E, Team B.
 
@@ -73,15 +71,15 @@ This effect will be lower by March when all teams have played dozens of others i
 6. Play an away game in November, preferably at a school that you can blow out. (Like Missouri did at Howard.) This won't actually be very helpful in March, but you'll look good when the NET is released in December and that can shape your narrative in the national media.
 7. Neutral wins are better than home wins, but not by much. Don't play in an empty arena for the NET's benefit. It barely matters.
 
-**Q: Can a team manipulate the NET by scheduling bad teams and running up the score?**
+**Q: Can a team manipulate the NET by scheduling bad opponents and running up the score?**
 
 Probably not. Well, if you can play like UConn beating UMass Lowell 110-47, sure, do that. But more often, beating bad teams will hurt more than it helps. There's three reasons:
 
-First, 20% of the NET uses the Value metric. This doesn't use the score and beating a bottom-50 team at home is basically worthless.
+First, the NET has a Value component that doesn't use the score and beating a bottom-50 team at home is basically worthless.
 
-Second, the other 80% of the NET, the Efficiency metric, does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (Every possession does count though, on offense and defense.)
+Second, the Efficiency component does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (Every possession does count though, on offense and defense.)
 
-Third, the Efficiency metric also adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
+Third, the Efficiency component also adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
 
 * **Prairie View** beat Mississippi Valley State by **11.1** points per 100 possessions.
 * **Kansas State** beat Mississippi Valley State by **28.6** points per 100 possessions.
@@ -98,19 +96,19 @@ You wouldn't call Iowa State a top 10 team because it had a worse result than Te
 
 **Q: Is the NET a good way to measure that a team deserves to be in the NCAA Tournament?**
 
-The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, and loses by 1 at Kentucky. A strength metric would say "They're good because a team that is 1 possession away from beating tough teams on the road should be favored to beat anyone at a neutral site." A resume metric would say "They're bad because they went 0-3." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the selection committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
+The NET is 80% a strength metric and 20% a resume metric. Imagine a team that loses by 1 at Duke, loses by 1 at Houston, and loses by 1 at Kansas. A strength metric would say "They're good because most teams would lose by more." A resume metric would say "They're bad because they went 0-3." Both are right, but a strength metric is best for predicting who wins the next game and a resume metric is best for judging results. I kind of hate how the NET combines these methods, but since it's 80% a strength metric, I can see the logic where the selection committee doesn't care if you **are** a top-30 NET team but they are impressed if you **beat** a top-30 NET team. (But in my opinion, all top-35 NET teams that didn't make the tournament were robbed.)
 
 **Q: How accurate are these calculations?**
 
 For the 2025-26 season:
 
 * For the first NET release ([see image created November 30](NETprojection.png)): 47 of 365 teams had exactly the right rank, 174/365 were within 2 spots, and 271/365 were within 5 spots.
-* After stat corrections: 39 of 365 teams had exactly the right rank, 176/365 were within 2 spots, and 281/365 were within 5 spots.
+* For Selection Sunday: 157 of 365 teams had exactly the right rank, 329/365 were within 2 spots, and 361/365 were within 5 spots.
 
 For the 2024-25 season (old formula):
 
 * For the first NET release (games through December 1): 47 of 364 teams had exactly the right rank, 199/364 were within 2 spots, and 313/364 were within 5 spots.
-* For Selection Sunday: 142 of 364 teams had exactly the right rank, 337/364 were within 2 spots, and 363/364 were within 5 spots. (Sorry to Army. I predicted #301, actual was #307.)
+* For Selection Sunday: 142 of 364 teams had exactly the right rank, 337/364 were within 2 spots, and 363/364 were within 5 spots.
 
 ### NET Scatter Plots
 
@@ -138,7 +136,7 @@ WAB was invented by Seth Burn and made popular by Bart Torvik, who taught it to 
 
 **Q: What code and data can calculate WAB?**
 
-[Python code to estimate WAB](/Estimate_WAB.py) (Updated February 2026)\
+[Python code to estimate WAB](/Estimate_WAB.py) (Updated May 2026)\
 Input: [2026 game results](/ncaab_stats_input_2026.csv)\
 Input: [2026 NET rankings](/actual_net.txt)\
 Output: [2026 Estimated WAB vs. Actual WAB](/estimated_wab_output_2026.csv)\
@@ -158,7 +156,7 @@ Use a "Pythagorean expectation" formula to make a strength value between 0 and 1
 * The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936
 * The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
 
-Then decide how to define the "bubble team". Bart Torvik averages the offensive and defensive efficiencies for the 44th, 45th, and 46th strongest teams. The NCAA claims to use the team ranked 45th in the NET, but I get a closer match to their official WAB numbers when I use the average efficiencies of the 40th-45th strongest teams. Either way, we'll use these numbers for the example calculations:
+Then decide how to define the "bubble team". The NCAA uses the 45th-strongest team. Bart Torvik averages the offensive and defensive efficiencies of the 44th, 45th, and 46th strongest teams. We'll use the following for the example calculations:
 
 * The hypothetical bubble team has offense=116 and defense=96
 * The hypothetical bubble team has a strength of 116^11.5 / (116^11.5 + 96^11.5) = 0.898
@@ -169,17 +167,28 @@ Next, calculate each game's value using the opponent's strength versus the bubbl
 
 game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))
 
-* Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.835
-* Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.624
+* Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.832
+* Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.625
 * Playing against the bad team:    (0.090 \* (1 - 0.898)) / (0.090 \* (1 - 0.898) + 0.898 \* (1 - 0.090)) = 0.011
 
 A team earns that value for a win and loses one minus that value for a loss. Sum every game's value for the team's season total WAB.
 
-* A team adds 0.835 to its WAB for beating the elite team, or subtracts (1 - 0.835) = 0.165 for losing.
-* A team adds 0.624 to its WAB for beating the top-30 team, or subtracts (1 - 0.624) = 0.376 for losing.
+* A team adds 0.832 to its WAB for beating the elite team, or subtracts (1 - 0.835) = 0.165 for losing.
+* A team adds 0.625 to its WAB for beating the top-30 team, or subtracts (1 - 0.624) = 0.376 for losing.
 * A team adds 0.011 to its WAB for beating the bad team, or subtracts (1 - 0.011) = 0.989 for losing.
 
-The above is correct for neutral site games. To account for home court advantage, give a 1.3% advantage to playing at home and a 1.3% disadvantage to playing away. The math looks like this:
+The above is correct for neutral site games. To account for home court advantage, give a 1.3% advantage to playing at home and a 1.3% disadvantage to playing away. I believe the NCAA calculates it like this:
+
+* The elite team (home) has a strength of 0.978 * 1.013 = 0.990
+* The elite team (away) has a strength of 0.978 * 0.987 = 0.965
+* The top-30 team (home) has a strength of 0.936 * 1.013 = 0.948
+* The top-30 team (away) has a strength of 0.936 * 0.987 = 0.924
+* The bad team (home) has a strength of 0.090 * 1.013 = 0.092
+* The bad team (away) has a strength of 0.090 * 0.987 = 0.089
+* The hypothetical bubble team (home) has a strength of 0.898 * 1.013 = 0.910
+* The hypothetical bubble team (away) has a strength of 0.898 * 0.987 = 0.886
+
+And Torvik applies the home court advantage to offense and defense separately, like this:
 
 * The elite team (home) has a strength of (125\*1.013)^11.5 / ((125\*1.013)^11.5 + (90\*0.987)^11.5) = 0.983
 * The elite team (away) has a strength of (125\*0.987)^11.5 / ((125\*0.987)^11.5 + (90\*1.013)^11.5) = 0.970
@@ -192,14 +201,14 @@ The above is correct for neutral site games. To account for home court advantage
 
 Reminder: If you want to calculate the WAB for New Mexico, and New Mexico plays Boise State, use the values of Boise State vs. the hypothetical bubble team. Do not consider the strength of New Mexico. Imagine that the hypothetical bubble team is taking the place of New Mexico. Therefore, the hypothetical bubble team is expected to be stronger in home games (in Albuquerque) and weaker in away games (in Boise). And Boise State is expected to be weaker when it is away (in Albuquerque) and stronger at its home (in Boise).
 
-* Playing at home against the elite team:  (0.970 \* (1 - 0.922)) / (0.970 \* (1 - 0.922) + 0.922 \* (1 - 0.970)) = 0.732
-* Playing on the road against the elite team:  (0.983 \* (1 - 0.867)) / (0.983 \* (1 - 0.867) + 0.867 \* (1 - 0.983)) = 0.900
-* Playing at home against the top-30 team: (0.916 \* (1 - 0.922)) / (0.916 \* (1 - 0.922) + 0.922 \* (1 - 0.916)) = 0.478
-* Playing on the road against the top-30 team: (0.952 \* (1 - 0.867)) / (0.952 \* (1 - 0.867) + 0.867 \* (1 - 0.952)) = 0.752
-* Playing at home against the bad team:    (0.069 \* (1 - 0.922)) / (0.069 \* (1 - 0.922) + 0.922 \* (1 - 0.069)) = 0.006
-* Playing on the road against the bad team:    (0.118 \* (1 - 0.867)) / (0.118 \* (1 - 0.867) + 0.867 \* (1 - 0.118)) = 0.020
+* Playing at home against the elite team:  (0.965 \* (1 - 0.910)) / (0.965 \* (1 - 0.910) + 0.910 \* (1 - 0.965)) = 0.732
+* Playing on the road against the elite team:  (0.990 \* (1 - 0.886)) / (0.990 \* (1 - 0.886) + 0.886 \* (1 - 0.990)) = 0.929
+* Playing at home against the top-30 team: (0.924 \* (1 - 0.910)) / (0.924 \* (1 - 0.910) + 0.910 \* (1 - 0.924)) = 0.547
+* Playing on the road against the top-30 team: (0.948 \* (1 - 0.886)) / (0.948 \* (1 - 0.886) + 0.886 \* (1 - 0.948)) = 0.702
+* Playing at home against the bad team:    (0.089 \* (1 - 0.910)) / (0.089 \* (1 - 0.910) + 0.910 \* (1 - 0.089)) = 0.010
+* Playing on the road against the bad team:    (0.092 \* (1 - 0.886)) / (0.092 \* (1 - 0.886) + 0.886 \* (1 - 0.092)) = 0.013
 
-Again, to get a team's total WAB, add together all of their game values and subtract the number of losses. If you're still struggling with the concept, imagine some games that a bubble team would have a 40% chance of winning. For example, a home game against the #15 team, an away game against the #50 team, or a neutral game against the #33 team. The game value would be 0.6 for each such game.
+Again, to get a team's total WAB, add together all of their game values and subtract the number of losses. If you're still struggling with the concept, imagine some games that a bubble team would have a 40% chance of winning. For example, a home game against the #25 team, an away game against the #50 team, or a neutral game against the #35 team. The game value would be 0.6 for each such game.
 
 * If a team plays 10 of these games and goes 10-0, its WAB would be 6. (0.6 \* 10)
 * If a team plays 10 of these games and goes 0-10, its WAB would be -4. (-0.4 \* 10)
@@ -209,12 +218,19 @@ Finally, note that the NCAA only considers division 1 opponents. For Bart Torvik
 
 **Q: How accurate are these calculations?**
 
-For Selection Sunday 2025:
+For Selection Sunday 2026:
+* I nailed the WAB for Kansas at 6.50, for Oklahoma at -0.73, and for Maine at -21.59.
+* All teams had an estimated WAB value to be accurate within 0.34.
+* 355 of 365 were accurate within 0.25.
+* The team that I overestimated the most was St. John's (estimated 7.20, actual 6.86.)
+* The team that I underestimated the most was Maryland (estimated -5.88, actual -5.70.)
+
+For Selection Sunday 2025 (old formula):
 * I nailed the WAB for Houston at 10.66, for Creighton at 2.69, and for Butler at -6.40.
 * All teams had an estimated WAB value to be accurate within 0.50.
 * 341 of 364 were accurate within 0.25.
 * The team that I overestimated the most was Coppin State (estimated -19.85, actual -20.16.)
-* The teams that I underestimated the most were all 16 SEC teams, with the most being Auburn (estimated 12.57, actual 13.06.) I didn't underestimate any non-SEC teams by more than 0.15. (I think it's suspicious. Yes, I know the SEC had a good season but that's accounted for in the calculations.)
+* The teams that I underestimated the most were all 16 SEC teams, with the most being Auburn (estimated 12.57, actual 13.06.)
 
 I'm only calculating the NCAA's version of the WAB. I can calculate Bart Torvik's WAB using his "Barthag" strength ratings, but I haven't tried to calculate those ratings from game data.
 
@@ -222,7 +238,7 @@ I'm only calculating the NCAA's version of the WAB. I can calculate Bart Torvik'
 
 It's clearly doing something right. It's undeniable that the teams with the best results are at the top of the rankings. I love the idea to judge teams by their total wins vs. expected wins. Most people put too much focus on big games. For example, in 2023, Arizona State made a buzzer beating halfcourt shot to beat #7 Arizona on the road. Arizona State was one of the last teams in the tournament and wouldn't have made it without that win. Now imagine a scenario where Arizona State missed that shot, but it replaced losses against USC and Colorado with wins. Its WAB would be better in this scenario, but it would probably miss the tournament because it didn't have a signature win. How can going 1-2 against Arizona/USC/Colorado be better than going 2-1 against those same teams? I think the humans have it wrong and WAB has it right.
 
-I do think that WAB could be better. It can fluctuate based on which teams are ranked 44-46 (or however the bubble team is defined) and how teams enter and exit that range. I don't like how about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid. That means there are about 5 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I'd recommend averaging more teams and using teams closer to #40 than #45. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
+I do think that WAB could be better. It can fluctuate based on which team is ranked #45 (or however the bubble team is defined). I don't like how about 50 teams have a positive value for WAB while only about 45 teams could get an at-large bid with 68 teams. That means there are about 5 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I'd recommend averaging teams #40-45 or something. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
 
 I also don't like how the NCAA forces the team strength to be in order of the NET rankings. On Selection Sunday 2025, Houston was the 2nd-strongest team by efficiency and #3 in the NET. And Auburn was the 3rd-strongest team by efficiency and #2 in the NET. So if a team played Houston, it got credit for playing Auburn. And if a team played Auburn, it got credit for playing Houston. Does that make sense? It seems dumb. I mean, it's probably fine, and I can understand that the NCAA wanted to make sure that beating the #1 NET team is more valuable than beating the #2 NET team, or that beating the #50 NET team is more valuable than beating the #51 NET team. But I think it makes sense how Bart Torvik creates a resume metric (WAB) from a strength metric (Barthag). When the NCAA adds the NET (which is a combination of a strength metric and a resume metric), they're double counting the results. This basically means that you get rewarded for playing low power teams with good results and you get punished for playing high power teams with bad results. For example, if you played NET #35 UC San Diego, you got credit for playing the 35th-strongest team, Arkansas. And if you played NET #133 Syracuse, you got credit for playing the 133rd-strongest team, St. Thomas (MN).
 
