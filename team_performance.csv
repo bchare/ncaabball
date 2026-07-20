@@ -300,7 +300,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1908,Montana St.,Ind,Montana,8,8-1,#FFFFFF,#000000
 1908,Canisius,Ind,New York,6,6-1,#FFFFFF,#000000
 1908,Lehigh,Ind,Pennsylvania,6,6-1,#FFFFFF,#000000
-1908,Georgetown,Ind,D.C.,5,5-1,#FFFFFF,#000000
+1908,Georgetown,Ind,District of Columbia,5,5-1,#FFFFFF,#000000
 1908,Illinois St.,Ind,Illinois,5,5-1,#FFFFFF,#000000
 1908,Washington St.,Ind,Washington,12,12-3,#FFFFFF,#000000
 1908,Syracuse,Ind,New York,10,10-3,#FFFFFF,#000000
@@ -400,7 +400,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1909,Texas,Ind,Texas,6,6-3,#FFFFFF,#000000
 1909,Virginia,Ind,Virginia,6,6-3,#FFFFFF,#000000
 1909,Virginia Tech,Ind,Virginia,4,4-2,#FFFFFF,#000000
-1909,Georgetown,Ind,D.C.,9,9-5,#FFFFFF,#000000
+1909,Georgetown,Ind,District of Columbia,9,9-5,#FFFFFF,#000000
 1909,BYU,Ind,Utah,7,7-4,#FFFFFF,#000000
 1909,Washington St.,Ind,Washington,10,10-6,#FFFFFF,#000000
 1909,Cincinnati,Ind,Ohio,6,6-4,#FFFFFF,#000000
@@ -499,7 +499,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1910,Texas,Ind,Texas,6,6-7,#FFFFFF,#000000
 1910,Dayton,Ind,Ohio,5,5-6,#FFFFFF,#000000
 1910,Butler,Ind,Indiana,3,3-4,#FFFFFF,#000000
-1910,Georgetown,Ind,D.C.,5,5-7,#FFFFFF,#000000
+1910,Georgetown,Ind,District of Columbia,5,5-7,#FFFFFF,#000000
 1910,Detroit Mercy,Ind,Michigan,2,2-3,#FFFFFF,#000000
 1910,North Dakota,Ind,North Dakota,4,4-6,#FFFFFF,#000000
 1910,Temple,Ind,Pennsylvania,4,4-6,#FFFFFF,#000000
@@ -556,7 +556,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1911,Idaho,Ind,Idaho,8,8-4,#FFFFFF,#000000
 1911,Saint Mary's (CA),Ind,California,2,2-1,#FFFFFF,#000000
 1911,Virginia,Ind,Virginia,10,10-5,#FFFFFF,#000000
-1911,Georgetown,Ind,D.C.,13,13-7,#FFFFFF,#000000
+1911,Georgetown,Ind,District of Columbia,13,13-7,#FFFFFF,#000000
 1911,North Carolina,Ind,North Carolina,7,7-4,#FFFFFF,#000000
 1911,Kansas St.,Ind,Kansas,5,5-3,#FFFFFF,#000000
 1911,Rhode Island,Ind,Rhode Island,5,5-3,#FFFFFF,#000000
@@ -644,7 +644,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1912,Manhattan,Ind,New York,12,12-6,#FFFFFF,#000000
 1912,Virginia Tech,Ind,Virginia,6,6-3,#FFFFFF,#000000
 1912,Bradley,Ind,Illinois,11,11-6,#FFFFFF,#000000
-1912,Georgetown,Ind,D.C.,11,11-6,#FFFFFF,#000000
+1912,Georgetown,Ind,District of Columbia,11,11-6,#FFFFFF,#000000
 1912,Southern California,Ind,California,9,9-5,#FFFFFF,#000000
 1912,Virginia,Ind,Virginia,7,7-4,#FFFFFF,#000000
 1912,Bucknell,Ind,Pennsylvania,10,10-6,#FFFFFF,#000000
@@ -736,7 +736,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1913,BYU,Ind,Utah,7,7-3,#FFFFFF,#000000
 1913,Canisius,Ind,New York,7,7-3,#FFFFFF,#000000
 1913,Tulane,Ind,Louisiana,7,7-3,#FFFFFF,#000000
-1913,Georgetown,Ind,D.C.,11,11-5,#FFFFFF,#000000
+1913,Georgetown,Ind,District of Columbia,11,11-5,#FFFFFF,#000000
 1913,Saint Joseph's,Ind,Pennsylvania,11,11-5,#FFFFFF,#000000
 1913,Oregon St.,Ind,Oregon,15,15-7,#FFFFFF,#000000
 1913,Pittsburgh,Ind,Pennsylvania,15,15-7,#FFFFFF,#000000
@@ -783,7 +783,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1913,Butler,Ind,Indiana,3,3-8,#FFFFFF,#000000
 1913,Bucknell,Ind,Pennsylvania,4,4-13,#FFFFFF,#000000
 1913,Delaware,Ind,Delaware,1,1-6,#FFFFFF,#000000
-1913,George Washington,Ind,D.C.,1,1-6,#FFFFFF,#000000
+1913,George Washington,Ind,District of Columbia,1,1-6,#FFFFFF,#000000
 1913,New Mexico St.,Ind,New Mexico,1,1-6,#FFFFFF,#000000
 1913,Wichita St.,Ind,Kansas,1,1-11,#FFFFFF,#000000
 1913,Davidson,Ind,North Carolina,0,0-1,#FFFFFF,#000000
@@ -849,7 +849,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1914,Vanderbilt,Ind,Tennessee,6,6-3,#FFFFFF,#000000
 1914,Manhattan,Ind,New York,11,11-6,#FFFFFF,#000000
 1914,Canisius,Ind,New York,5,5-3,#FFFFFF,#000000
-1914,Georgetown,Ind,D.C.,10,10-6,#FFFFFF,#000000
+1914,Georgetown,Ind,District of Columbia,10,10-6,#FFFFFF,#000000
 1914,Alabama,Ind,Alabama,6,6-4,#FFFFFF,#000000
 1914,Rutgers,Ind,New Jersey,3,3-2,#FFFFFF,#000000
 1914,Tulsa,Ind,Oklahoma,3,3-2,#FFFFFF,#000000
@@ -885,7 +885,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1914,Wyoming,Ind,Wyoming,1,1-3,#FFFFFF,#000000
 1914,Auburn,Ind,Alabama,3,3-10,#FFFFFF,#000000
 1914,Ohio,Ind,Ohio,3,3-10,#FFFFFF,#000000
-1914,George Washington,Ind,D.C.,3,3-11,#FFFFFF,#000000
+1914,George Washington,Ind,District of Columbia,3,3-11,#FFFFFF,#000000
 1914,Cincinnati,Ind,Ohio,2,2-8,#FFFFFF,#000000
 1914,Colgate,Ind,New York,3,3-12,#FFFFFF,#000000
 1914,Montana,Ind,Montana,2,2-9,#FFFFFF,#000000
@@ -964,7 +964,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1915,Canisius,Ind,New York,5,5-5,#FFFFFF,#000000
 1915,Dayton,Ind,Ohio,4,4-4,#FFFFFF,#000000
 1915,Duke,Ind,North Carolina,10,10-10,#FFFFFF,#000000
-1915,Georgetown,Ind,D.C.,8,8-8,#FFFFFF,#000000
+1915,Georgetown,Ind,District of Columbia,8,8-8,#FFFFFF,#000000
 1915,NC State,Ind,North Carolina,5,5-5,#FFFFFF,#000000
 1915,Oregon St.,Ind,Oregon,10,10-10,#FFFFFF,#000000
 1915,Vanderbilt,Ind,Tennessee,6,6-6,#FFFFFF,#000000
@@ -986,7 +986,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1915,Detroit Mercy,Ind,Michigan,3,3-5,#FFFFFF,#000000
 1915,North Carolina,Ind,North Carolina,6,6-10,#FFFFFF,#000000
 1915,Richmond,Ind,Virginia,3,3-5,#FFFFFF,#000000
-1915,George Washington,Ind,D.C.,5,5-9,#FFFFFF,#000000
+1915,George Washington,Ind,District of Columbia,5,5-9,#FFFFFF,#000000
 1915,Idaho,Ind,Idaho,5,5-9,#FFFFFF,#000000
 1915,Southern California,Ind,California,3,3-6,#FFFFFF,#000000
 1915,Wyoming,Ind,Wyoming,2,2-4,#FFFFFF,#000000
@@ -1067,7 +1067,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1916,UConn,Ind,Connecticut,5,5-3,#FFFFFF,#000000
 1916,Loyola Maryland,Ind,Maryland,11,11-7,#FFFFFF,#000000
 1916,West Virginia,Ind,West Virginia,11,11-7,#FFFFFF,#000000
-1916,Georgetown,Ind,D.C.,9,9-6,#FFFFFF,#000000
+1916,Georgetown,Ind,District of Columbia,9,9-6,#FFFFFF,#000000
 1916,Montana,Ind,Montana,6,6-4,#FFFFFF,#000000
 1916,Wyoming,Ind,Wyoming,3,3-2,#FFFFFF,#000000
 1916,LSU,Ind,Louisiana,14,14-10,#FFFFFF,#000000
@@ -1107,7 +1107,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1916,TCU,Ind,Texas,1,1-3,#FFFFFF,#000000
 1916,Northern Colo.,Ind,Colorado,1,1-4,#FFFFFF,#000000
 1916,Stanford,Ind,California,2,2-9,#FFFFFF,#000000
-1916,George Washington,Ind,D.C.,2,2-10,#FFFFFF,#000000
+1916,George Washington,Ind,District of Columbia,2,2-10,#FFFFFF,#000000
 1916,Cincinnati,Ind,Ohio,1,1-9,#FFFFFF,#000000
 1916,Idaho,Ind,Idaho,1,1-12,#FFFFFF,#000000
 1916,Canisius,Ind,New York,0,0-4,#FFFFFF,#000000
@@ -1176,7 +1176,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1917,Michigan St.,Ind,Michigan,11,11-5,#FFFFFF,#000000
 1917,Tulane,Ind,Louisiana,11,11-5,#FFFFFF,#000000
 1917,Boston U.,Ind,Massachusetts,6,6-3,#FFFFFF,#000000
-1917,Georgetown,Ind,D.C.,8,8-4,#FFFFFF,#000000
+1917,Georgetown,Ind,District of Columbia,8,8-4,#FFFFFF,#000000
 1917,Nevada,Ind,Nevada,6,6-3,#FFFFFF,#000000
 1917,New Mexico St.,Ind,New Mexico,10,10-5,#FFFFFF,#000000
 1917,Pittsburgh,Ind,Pennsylvania,12,12-6,#FFFFFF,#000000
@@ -1209,7 +1209,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1917,Utah,Ind,Utah,3,3-3,#FFFFFF,#000000
 1917,West Virginia,Ind,West Virginia,8,8-8,#FFFFFF,#000000
 1917,Wyoming,Ind,Wyoming,4,4-4,#FFFFFF,#000000
-1917,George Washington,Ind,D.C.,7,7-8,#FFFFFF,#000000
+1917,George Washington,Ind,District of Columbia,7,7-8,#FFFFFF,#000000
 1917,Manhattan,Ind,New York,7,7-8,#FFFFFF,#000000
 1917,South Carolina,Ind,South Carolina,7,7-8,#FFFFFF,#000000
 1917,Saint Louis,Ind,Missouri,5,5-6,#FFFFFF,#000000
@@ -1318,7 +1318,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1918,Clemson,Ind,South Carolina,3,3-2,#FFFFFF,#000000
 1918,North Dakota St.,Ind,North Dakota,9,9-6,#FFFFFF,#000000
 1918,Davidson,Ind,North Carolina,7,7-5,#FFFFFF,#000000
-1918,Georgetown,Ind,D.C.,8,8-6,#FFFFFF,#000000
+1918,Georgetown,Ind,District of Columbia,8,8-6,#FFFFFF,#000000
 1918,SMU,Ind,Texas,5,5-4,#FFFFFF,#000000
 1918,Utah,Ind,Utah,5,5-4,#FFFFFF,#000000
 1918,Lehigh,Ind,Pennsylvania,11,11-9,#FFFFFF,#000000
@@ -1398,7 +1398,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1919,Oklahoma,Ind,Oklahoma,12,12-0,#FFFFFF,#000000
 1919,The Citadel,Ind,South Carolina,9,9-0,#FFFFFF,#000000
 1919,Santa Clara,Ind,California,14,14-1,#FFFFFF,#000000
-1919,Georgetown,Ind,D.C.,9,9-1,#FFFFFF,#000000
+1919,Georgetown,Ind,District of Columbia,9,9-1,#FFFFFF,#000000
 1919,Rhode Island,Ind,Rhode Island,7,7-1,#FFFFFF,#000000
 1919,Idaho,Ind,Idaho,13,13-2,#FFFFFF,#000000
 1919,Penn St.,Ind,Pennsylvania,11,11-2,#FFFFFF,#000000
@@ -1514,7 +1514,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1920,Northern Ariz.,Ind,Arizona,2,2-0,#FFFFFF,#000000
 1920,The Citadel,Ind,South Carolina,9,9-0,#FFFFFF,#000000
 1920,Utah St.,Ind,Utah,2,2-0,#FFFFFF,#000000
-1920,Georgetown,Ind,D.C.,13,13-1,#FFFFFF,#000000
+1920,Georgetown,Ind,District of Columbia,13,13-1,#FFFFFF,#000000
 1920,Penn St.,Ind,Pennsylvania,12,12-1,#FFFFFF,#000000
 1920,Nebraska,Ind,Nebraska,22,22-2,#FFFFFF,#000000
 1920,VMI,Ind,Virginia,11,11-1,#FFFFFF,#000000
@@ -1676,7 +1676,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1921,The Citadel,Ind,South Carolina,8,8-3,#FFFFFF,#000000
 1921,William & Mary,Ind,Virginia,8,8-3,#FFFFFF,#000000
 1921,Virginia,Ind,Virginia,13,13-5,#FFFFFF,#000000
-1921,Georgetown,Ind,D.C.,10,10-4,#FFFFFF,#000000
+1921,Georgetown,Ind,District of Columbia,10,10-4,#FFFFFF,#000000
 1921,Southern California,Ind,California,10,10-4,#FFFFFF,#000000
 1921,Western Mich.,Ind,Michigan,12,12-5,#FFFFFF,#000000
 1921,Creighton,Ind,Nebraska,13,13-6,#FFFFFF,#000000
@@ -1724,7 +1724,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1921,Brown,Ind,Rhode Island,5,5-9,#FFFFFF,#000000
 1921,NC State,Ind,North Carolina,6,6-14,#FFFFFF,#000000
 1921,Xavier,Ind,Ohio,3,3-7,#FFFFFF,#000000
-1921,George Washington,Ind,D.C.,4,4-10,#FFFFFF,#000000
+1921,George Washington,Ind,District of Columbia,4,4-10,#FFFFFF,#000000
 1921,Saint Joseph's,Ind,Pennsylvania,4,4-10,#FFFFFF,#000000
 1921,Santa Clara,Ind,California,2,2-5,#FFFFFF,#000000
 1921,Dayton,Ind,Ohio,6,6-16,#FFFFFF,#000000
@@ -1799,7 +1799,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1922,Utah,Ind,Utah,8,8-2,#FFFFFF,#000000
 1922,UConn,Ind,Connecticut,15,15-4,#FFFFFF,#000000
 1922,Vermont,Ind,Vermont,15,15-4,#FFFFFF,#000000
-1922,Georgetown,Ind,D.C.,11,11-3,#FFFFFF,#000000
+1922,Georgetown,Ind,District of Columbia,11,11-3,#FFFFFF,#000000
 1922,Tulsa,Ind,Oklahoma,14,14-4,#FFFFFF,#000000
 1922,Davidson,Ind,North Carolina,10,10-3,#FFFFFF,#000000
 1922,William & Mary,Ind,Virginia,10,10-3,#FFFFFF,#000000
@@ -1833,7 +1833,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1922,Canisius,Ind,New York,6,6-4,#FFFFFF,#000000
 1922,Pittsburgh,Ind,Pennsylvania,12,12-8,#FFFFFF,#000000
 1922,Montana St.,Ind,Montana,11,11-8,#FFFFFF,#000000
-1922,George Washington,Ind,D.C.,8,8-6,#FFFFFF,#000000
+1922,George Washington,Ind,District of Columbia,8,8-6,#FFFFFF,#000000
 1922,Brown,Ind,Rhode Island,13,13-10,#FFFFFF,#000000
 1922,Marshall,Ind,West Virginia,5,5-4,#FFFFFF,#000000
 1922,St. Bonaventure,Ind,New York,12,12-10,#FFFFFF,#000000
@@ -1942,7 +1942,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1923,Western Mich.,Ind,Michigan,17,17-6,#FFFFFF,#000000
 1923,Bradley,Ind,Illinois,14,14-5,#FFFFFF,#000000
 1923,Harvard,Ind,Massachusetts,14,14-5,#FFFFFF,#000000
-1923,Georgetown,Ind,D.C.,8,8-3,#FFFFFF,#000000
+1923,Georgetown,Ind,District of Columbia,8,8-3,#FFFFFF,#000000
 1923,St. Francis Brooklyn,Ind,New York,21,21-8,#FFFFFF,#000000
 1923,Colgate,Ind,New York,13,13-5,#FFFFFF,#000000
 1923,Xavier,Ind,Ohio,13,13-5,#FFFFFF,#000000
@@ -1996,7 +1996,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1923,Brown,Ind,Rhode Island,6,6-10,#FFFFFF,#000000
 1923,Holy Cross,Ind,Massachusetts,7,7-13,#FFFFFF,#000000
 1923,Montana,Ind,Montana,7,7-14,#FFFFFF,#000000
-1923,George Washington,Ind,D.C.,4,4-11,#FFFFFF,#000000
+1923,George Washington,Ind,District of Columbia,4,4-11,#FFFFFF,#000000
 1923,Marshall,Ind,West Virginia,1,1-3,#FFFFFF,#000000
 1923,Tulsa,Ind,Oklahoma,1,1-3,#FFFFFF,#000000
 1923,New Mexico,Ind,New Mexico,2,2-7,#FFFFFF,#000000
@@ -2087,7 +2087,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1924,Indiana St.,Ind,Indiana,16,16-7,#FFFFFF,#000000
 1924,North Dakota St.,Ind,North Dakota,16,16-7,#FFFFFF,#000000
 1924,Colgate,Ind,New York,13,13-6,#FFFFFF,#000000
-1924,Georgetown,Ind,D.C.,6,6-3,#FFFFFF,#000000
+1924,Georgetown,Ind,District of Columbia,6,6-3,#FFFFFF,#000000
 1924,Northern Colo.,Ind,Colorado,10,10-5,#FFFFFF,#000000
 1924,St. Francis Brooklyn,Ind,New York,18,18-9,#FFFFFF,#000000
 1924,Tulsa,Ind,Oklahoma,2,2-1,#FFFFFF,#000000
@@ -2139,7 +2139,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1924,Miami (OH),Ind,Ohio,2,2-9,#FFFFFF,#000000
 1924,Bowling Green,Ind,Ohio,3,3-15,#FFFFFF,#000000
 1924,Bucknell,Ind,Pennsylvania,1,1-5,#FFFFFF,#000000
-1924,George Washington,Ind,D.C.,1,1-9,#FFFFFF,#000000
+1924,George Washington,Ind,District of Columbia,1,1-9,#FFFFFF,#000000
 1924,Santa Clara,Ind,California,1,1-9,#FFFFFF,#000000
 1924,Cornell,Ivy,New York,13,8-2 Ivy,#FFFFFF,#000000
 1924,Columbia,Ivy,New York,15,6-4 Ivy,#FFFFFF,#000000
@@ -2227,7 +2227,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1925,Richmond,Ind,Virginia,13,13-4,#FFFFFF,#000000
 1925,Colgate,Ind,New York,15,15-5,#FFFFFF,#000000
 1925,Davidson,Ind,North Carolina,18,18-6,#FFFFFF,#000000
-1925,Georgetown,Ind,D.C.,6,6-2,#FFFFFF,#000000
+1925,Georgetown,Ind,District of Columbia,6,6-2,#FFFFFF,#000000
 1925,St. John's (NY),Ind,New York,18,18-6,#FFFFFF,#000000
 1925,Indiana St.,Ind,Indiana,11,11-4,#FFFFFF,#000000
 1925,Lehigh,Ind,Pennsylvania,11,11-4,#FFFFFF,#000000
@@ -2249,7 +2249,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1925,Brown,Ind,Rhode Island,10,10-6,#FFFFFF,#000000
 1925,Tulsa,Ind,Oklahoma,13,13-8,#FFFFFF,#000000
 1925,Louisville,Ind,Kentucky,10,10-7,#FFFFFF,#000000
-1925,George Washington,Ind,D.C.,7,7-5,#FFFFFF,#000000
+1925,George Washington,Ind,District of Columbia,7,7-5,#FFFFFF,#000000
 1925,Seton Hall,Ind,New Jersey,8,8-6,#FFFFFF,#000000
 1925,Western Ky.,Ind,Kentucky,8,8-6,#FFFFFF,#000000
 1925,Furman,Ind,South Carolina,9,9-7,#FFFFFF,#000000
@@ -2418,11 +2418,11 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1926,Tulsa,Ind,Oklahoma,7,7-10,#FFFFFF,#000000
 1926,Duke,Ind,North Carolina,8,8-12,#FFFFFF,#000000
 1926,Canisius,Ind,New York,5,5-8,#FFFFFF,#000000
-1926,Georgetown,Ind,D.C.,5,5-8,#FFFFFF,#000000
+1926,Georgetown,Ind,District of Columbia,5,5-8,#FFFFFF,#000000
 1926,Northern Ariz.,Ind,Arizona,5,5-8,#FFFFFF,#000000
 1926,Marquette,Ind,Wisconsin,8,8-13,#FFFFFF,#000000
 1926,UTEP,Ind,Texas,3,3-5,#FFFFFF,#000000
-1926,George Washington,Ind,D.C.,5,5-9,#FFFFFF,#000000
+1926,George Washington,Ind,District of Columbia,5,5-9,#FFFFFF,#000000
 1926,Louisville,Ind,Kentucky,4,4-8,#FFFFFF,#000000
 1926,Santa Clara,Ind,California,5,5-10,#FFFFFF,#000000
 1926,Lafayette,Ind,Pennsylvania,6,6-13,#FFFFFF,#000000
@@ -2544,12 +2544,12 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1927,UConn,Ind,Connecticut,9,9-7,#FFFFFF,#000000
 1927,Saint Mary's (CA),Ind,California,9,9-7,#FFFFFF,#000000
 1927,Davidson,Ind,North Carolina,10,10-8,#FFFFFF,#000000
-1927,Georgetown,Ind,D.C.,5,5-4,#FFFFFF,#000000
+1927,Georgetown,Ind,District of Columbia,5,5-4,#FFFFFF,#000000
 1927,West Virginia,Ind,West Virginia,10,10-8,#FFFFFF,#000000
 1927,Holy Cross,Ind,Massachusetts,7,7-6,#FFFFFF,#000000
 1927,Loyola Maryland,Ind,Maryland,7,7-6,#FFFFFF,#000000
 1927,Santa Clara,Ind,California,7,7-6,#FFFFFF,#000000
-1927,George Washington,Ind,D.C.,8,8-7,#FFFFFF,#000000
+1927,George Washington,Ind,District of Columbia,8,8-7,#FFFFFF,#000000
 1927,Niagara,Ind,New York,8,8-7,#FFFFFF,#000000
 1927,San Francisco,Ind,California,8,8-7,#FFFFFF,#000000
 1927,Manhattan,Ind,New York,9,9-8,#FFFFFF,#000000
@@ -2645,7 +2645,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1928,Illinois,B1G,Illinois,5,2-10 B1G,#FFFFFF,#000000
 1928,Minnesota,B1G,Minnesota,4,2-10 B1G,#FFFFFF,#000000
 1928,Pittsburgh,Ind,Pennsylvania,21,21-0,#FFFFFF,#000000
-1928,Georgetown,Ind,D.C.,12,12-1,#FFFFFF,#000000
+1928,Georgetown,Ind,District of Columbia,12,12-1,#FFFFFF,#000000
 1928,Xavier,Ind,Ohio,9,9-1,#FFFFFF,#000000
 1928,Butler,Ind,Indiana,19,19-3,#FFFFFF,#000000
 1928,Santa Clara,Ind,California,12,12-2,#FFFFFF,#000000
@@ -2687,7 +2687,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1928,Penn St.,Ind,Pennsylvania,10,10-5,#FFFFFF,#000000
 1928,St. Bonaventure,Ind,New York,14,14-7,#FFFFFF,#000000
 1928,West Virginia,Ind,West Virginia,13,13-7,#FFFFFF,#000000
-1928,George Washington,Ind,D.C.,11,11-6,#FFFFFF,#000000
+1928,George Washington,Ind,District of Columbia,11,11-6,#FFFFFF,#000000
 1928,Duke,Ind,North Carolina,9,9-5,#FFFFFF,#000000
 1928,New Mexico,Ind,New Mexico,12,12-7,#FFFFFF,#000000
 1928,Syracuse,Ind,New York,10,10-6,#FFFFFF,#000000
@@ -2820,7 +2820,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1929,Wichita St.,Ind,Kansas,16,16-6,#FFFFFF,#000000
 1929,St. Bonaventure,Ind,New York,17,17-7,#FFFFFF,#000000
 1929,Army West Point,Ind,New York,12,12-5,#FFFFFF,#000000
-1929,Georgetown,Ind,D.C.,12,12-5,#FFFFFF,#000000
+1929,Georgetown,Ind,District of Columbia,12,12-5,#FFFFFF,#000000
 1929,Loyola Maryland,Ind,Maryland,11,11-5,#FFFFFF,#000000
 1929,Michigan St.,Ind,Michigan,11,11-5,#FFFFFF,#000000
 1929,Furman,Ind,South Carolina,12,12-6,#FFFFFF,#000000
@@ -2869,7 +2869,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1929,Manhattan,Ind,New York,4,4-11,#FFFFFF,#000000
 1929,Brown,Ind,Rhode Island,4,4-13,#FFFFFF,#000000
 1929,UTEP,Ind,Texas,4,4-14,#FFFFFF,#000000
-1929,George Washington,Ind,D.C.,2,2-8,#FFFFFF,#000000
+1929,George Washington,Ind,District of Columbia,2,2-8,#FFFFFF,#000000
 1929,Tulsa,Ind,Oklahoma,2,2-11,#FFFFFF,#000000
 1929,Penn,Ivy,Pennsylvania,20,8-2 Ivy,#FFFFFF,#000000
 1929,Dartmouth,Ivy,New Hampshire,13,7-3 Ivy,#FFFFFF,#000000
@@ -2989,12 +2989,12 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1930,LIU,Ind,New York,14,14-10,#FFFFFF,#000000
 1930,Ohio,Ind,Ohio,12,12-9,#FFFFFF,#000000
 1930,Saint Joseph's,Ind,Pennsylvania,12,12-9,#FFFFFF,#000000
-1930,George Washington,Ind,D.C.,9,9-7,#FFFFFF,#000000
+1930,George Washington,Ind,District of Columbia,9,9-7,#FFFFFF,#000000
 1930,UConn,Ind,Connecticut,8,8-7,#FFFFFF,#000000
 1930,Northern Ariz.,Ind,Arizona,9,9-8,#FFFFFF,#000000
 1930,Detroit Mercy,Ind,Michigan,10,10-9,#FFFFFF,#000000
 1930,West Virginia,Ind,West Virginia,11,11-10,#FFFFFF,#000000
-1930,Georgetown,Ind,D.C.,13,13-12,#FFFFFF,#000000
+1930,Georgetown,Ind,District of Columbia,13,13-12,#FFFFFF,#000000
 1930,Xavier,Ind,Ohio,8,8-8,#FFFFFF,#000000
 1930,Marquette,Ind,Wisconsin,11,11-12,#FFFFFF,#000000
 1930,Richmond,Ind,Virginia,7,7-8,#FFFFFF,#000000
@@ -3118,7 +3118,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1931,Fordham,Ind,New York,14,14-5,#FFFFFF,#000000
 1931,Providence,Ind,Rhode Island,14,14-5,#FFFFFF,#000000
 1931,Tulsa,Ind,Oklahoma,10,10-4,#FFFFFF,#000000
-1931,George Washington,Ind,D.C.,11,11-5,#FFFFFF,#000000
+1931,George Washington,Ind,District of Columbia,11,11-5,#FFFFFF,#000000
 1931,Saint Louis,Ind,Missouri,13,13-6,#FFFFFF,#000000
 1931,Arizona St.,Ind,Arizona,12,12-6,#FFFFFF,#000000
 1931,Bowling Green,Ind,Ohio,10,10-5,#FFFFFF,#000000
@@ -3161,7 +3161,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1931,Miami (OH),Ind,Ohio,5,5-10,#FFFFFF,#000000
 1931,Louisville,Ind,Kentucky,5,5-11,#FFFFFF,#000000
 1931,Toledo,Ind,Ohio,5,5-12,#FFFFFF,#000000
-1931,Georgetown,Ind,D.C.,5,5-16,#FFFFFF,#000000
+1931,Georgetown,Ind,District of Columbia,5,5-16,#FFFFFF,#000000
 1931,Saint Mary's (CA),Ind,California,4,4-13,#FFFFFF,#000000
 1931,Lehigh,Ind,Pennsylvania,4,4-14,#FFFFFF,#000000
 1931,Penn St.,Ind,Pennsylvania,3,3-12,#FFFFFF,#000000
@@ -3258,7 +3258,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1932,Butler,Ind,Indiana,14,14-5,#FFFFFF,#000000
 1932,Colgate,Ind,New York,14,14-5,#FFFFFF,#000000
 1932,Western Mich.,Ind,Michigan,14,14-5,#FFFFFF,#000000
-1932,George Washington,Ind,D.C.,11,11-4,#FFFFFF,#000000
+1932,George Washington,Ind,District of Columbia,11,11-4,#FFFFFF,#000000
 1932,Lafayette,Ind,Pennsylvania,10,10-4,#FFFFFF,#000000
 1932,Michigan St.,Ind,Michigan,12,12-5,#FFFFFF,#000000
 1932,Duquesne,Ind,Pennsylvania,14,14-6,#FFFFFF,#000000
@@ -3300,7 +3300,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1932,Villanova,Ind,Pennsylvania,7,7-11,#FFFFFF,#000000
 1932,Boston U.,Ind,Massachusetts,5,5-8,#FFFFFF,#000000
 1932,Miami (OH),Ind,Ohio,6,6-10,#FFFFFF,#000000
-1932,Georgetown,Ind,D.C.,6,6-11,#FFFFFF,#000000
+1932,Georgetown,Ind,District of Columbia,6,6-11,#FFFFFF,#000000
 1932,Lehigh,Ind,Pennsylvania,6,6-11,#FFFFFF,#000000
 1932,Bowling Green,Ind,Ohio,6,6-12,#FFFFFF,#000000
 1932,Wake Forest,Ind,North Carolina,4,4-8,#FFFFFF,#000000
@@ -3391,7 +3391,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1933,New Mexico St.,BIAA,New Mexico,7,2-10 BIAA,#FFFFFF,#000000
 1933,Pittsburgh,EIC,Pennsylvania,17,7-1 EIC,#FFFFFF,#000000
 1933,Temple,EIC,Pennsylvania,15,5-3 EIC,#FFFFFF,#000000
-1933,Georgetown,EIC,D.C.,6,3-5 EIC,#FFFFFF,#000000
+1933,Georgetown,EIC,District of Columbia,6,3-5 EIC,#FFFFFF,#000000
 1933,West Virginia,EIC,West Virginia,10,1-7 EIC,#FFFFFF,#000000
 1933,Duquesne,Ind,Pennsylvania,15,15-1,#FFFFFF,#000000
 1933,Eastern Mich.,Ind,Michigan,15,15-2,#FFFFFF,#000000
@@ -3407,7 +3407,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1933,DePaul,Ind,Illinois,12,12-3,#FFFFFF,#000000
 1933,Ohio,Ind,Ohio,16,16-4,#FFFFFF,#000000
 1933,Rhode Island,Ind,Rhode Island,14,14-4,#FFFFFF,#000000
-1933,George Washington,Ind,D.C.,15,15-5,#FFFFFF,#000000
+1933,George Washington,Ind,District of Columbia,15,15-5,#FFFFFF,#000000
 1933,Notre Dame,Ind,Indiana,16,16-6,#FFFFFF,#000000
 1933,Western Ky.,Ind,Kentucky,16,16-6,#FFFFFF,#000000
 1933,William & Mary,Ind,Virginia,13,13-5,#FFFFFF,#000000
@@ -3538,7 +3538,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1934,New Mexico St.,BIAA,New Mexico,10,2-6 BIAA,#FFFFFF,#000000
 1934,Pittsburgh,EIC,Pennsylvania,18,8-0 EIC,#FFFFFF,#000000
 1934,West Virginia,EIC,West Virginia,14,7-3 EIC,#FFFFFF,#000000
-1934,Georgetown,EIC,D.C.,12,5-5 EIC,#FFFFFF,#000000
+1934,Georgetown,EIC,District of Columbia,12,5-5 EIC,#FFFFFF,#000000
 1934,Temple,EIC,Pennsylvania,9,5-5 EIC,#FFFFFF,#000000
 1934,Bucknell,EIC,Pennsylvania,2,0-7 EIC,#FFFFFF,#000000
 1934,DePaul,Ind,Illinois,17,17-0,#FFFFFF,#000000
@@ -3553,7 +3553,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1934,Marquette,Ind,Wisconsin,15,15-4,#FFFFFF,#000000
 1934,Western Ky.,Ind,Kentucky,28,28-8,#FFFFFF,#000000
 1934,Villanova,Ind,Pennsylvania,9,9-3,#FFFFFF,#000000
-1934,George Washington,Ind,D.C.,11,11-4,#FFFFFF,#000000
+1934,George Washington,Ind,District of Columbia,11,11-4,#FFFFFF,#000000
 1934,Michigan St.,Ind,Michigan,12,12-5,#FFFFFF,#000000
 1934,Providence,Ind,Rhode Island,12,12-5,#FFFFFF,#000000
 1934,Western Mich.,Ind,Michigan,12,12-5,#FFFFFF,#000000
@@ -3684,7 +3684,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1935,Pittsburgh,EIC,Pennsylvania,18,6-2 EIC,#FFFFFF,#000000
 1935,West Virginia,EIC,West Virginia,16,6-2 EIC,#FFFFFF,#000000
 1935,Temple,EIC,Pennsylvania,17,5-3 EIC,#FFFFFF,#000000
-1935,Georgetown,EIC,D.C.,6,1-7 EIC,#FFFFFF,#000000
+1935,Georgetown,EIC,District of Columbia,6,1-7 EIC,#FFFFFF,#000000
 1935,Richmond,Ind,Virginia,20,20-0,#FFFFFF,#000000
 1935,Duquesne,Ind,Pennsylvania,18,18-1,#FFFFFF,#000000
 1935,DePaul,Ind,Illinois,15,15-1,#FFFFFF,#000000
@@ -3705,7 +3705,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1935,La Salle,Ind,Pennsylvania,15,15-6,#FFFFFF,#000000
 1935,Brown,Ind,Rhode Island,12,12-5,#FFFFFF,#000000
 1935,Santa Clara,Ind,California,12,12-5,#FFFFFF,#000000
-1935,George Washington,Ind,D.C.,14,14-6,#FFFFFF,#000000
+1935,George Washington,Ind,District of Columbia,14,14-6,#FFFFFF,#000000
 1935,Saint Louis,Ind,Missouri,11,11-5,#FFFFFF,#000000
 1935,Western Mich.,Ind,Michigan,11,11-5,#FFFFFF,#000000
 1935,Manhattan,Ind,New York,13,13-6,#FFFFFF,#000000
@@ -3830,12 +3830,12 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1936,Pittsburgh,EIC,Pennsylvania,18,7-3 EIC,#FFFFFF,#000000
 1936,Temple,EIC,Pennsylvania,18,6-4 EIC,#FFFFFF,#000000
 1936,West Virginia,EIC,West Virginia,16,6-4 EIC,#FFFFFF,#000000
-1936,Georgetown,EIC,D.C.,7,4-6 EIC,#FFFFFF,#000000
+1936,Georgetown,EIC,District of Columbia,7,4-6 EIC,#FFFFFF,#000000
 1936,Penn St.,EIC,Pennsylvania,6,0-10 EIC,#FFFFFF,#000000
 1936,Murray St.,Ind,Kentucky,23,23-2,#FFFFFF,#000000
 1936,Notre Dame,Ind,Indiana,22,22-2,#FFFFFF,#000000
 1936,Western Ky.,Ind,Kentucky,26,26-4,#FFFFFF,#000000
-1936,George Washington,Ind,D.C.,16,16-3,#FFFFFF,#000000
+1936,George Washington,Ind,District of Columbia,16,16-3,#FFFFFF,#000000
 1936,Western Mich.,Ind,Michigan,15,15-3,#FFFFFF,#000000
 1936,Duquesne,Ind,Pennsylvania,14,14-3,#FFFFFF,#000000
 1936,DePaul,Ind,Illinois,18,18-4,#FFFFFF,#000000
@@ -3976,7 +3976,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1937,Temple,EIC,Pennsylvania,17,7-3 EIC,#FFFFFF,#000000
 1937,Pittsburgh,EIC,Pennsylvania,14,7-3 EIC,#FFFFFF,#000000
 1937,Penn St.,EIC,Pennsylvania,10,6-4 EIC,#FFFFFF,#000000
-1937,Georgetown,EIC,D.C.,9,3-7 EIC,#FFFFFF,#000000
+1937,Georgetown,EIC,District of Columbia,9,3-7 EIC,#FFFFFF,#000000
 1937,West Virginia,EIC,West Virginia,9,3-7 EIC,#FFFFFF,#000000
 1937,Western Ky.,Ind,Kentucky,21,21-2,#FFFFFF,#000000
 1937,Murray St.,Ind,Kentucky,22,22-3,#FFFFFF,#000000
@@ -3986,7 +3986,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1937,Rhode Island,Ind,Rhode Island,18,18-3,#FFFFFF,#000000
 1937,Loyola Chicago,Ind,Illinois,16,16-3,#FFFFFF,#000000
 1937,Toledo,Ind,Ohio,18,18-4,#FFFFFF,#000000
-1937,George Washington,Ind,D.C.,16,16-4,#FFFFFF,#000000
+1937,George Washington,Ind,District of Columbia,16,16-4,#FFFFFF,#000000
 1937,Bradley,Ind,Illinois,15,15-4,#FFFFFF,#000000
 1937,Saint Joseph's,Ind,Pennsylvania,15,15-4,#FFFFFF,#000000
 1937,Syracuse,Ind,New York,13,13-4,#FFFFFF,#000000
@@ -4122,7 +4122,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1938,Temple,EIC,Pennsylvania,23,9-1 EIC,#FFFFFF,#000000
 1938,Penn St.,EIC,Pennsylvania,13,6-4 EIC,#FFFFFF,#000000
 1938,Pittsburgh,EIC,Pennsylvania,9,5-5 EIC,#FFFFFF,#000000
-1938,Georgetown,EIC,D.C.,7,5-5 EIC,#FFFFFF,#000000
+1938,Georgetown,EIC,District of Columbia,7,5-5 EIC,#FFFFFF,#000000
 1938,West Virginia,EIC,West Virginia,6,2-8 EIC,#FFFFFF,#000000
 1938,St. Bonaventure,Ind,New York,9,9-0,#FFFFFF,#000000
 1938,Western Ky.,Ind,Kentucky,30,30-3,#FFFFFF,#000000
@@ -4136,7 +4136,7 @@ season,team,conference,state,score,todisplay,bgcolor,fgcolor
 1938,Bowling Green,Ind,Ohio,16,16-4,#FFFFFF,#000000
 1938,Detroit Mercy,Ind,Michigan,16,16-4,#FFFFFF,#000000
 1938,Navy,Ind,Maryland,11,11-3,#FFFFFF,#000000
-1938,George Washington,Ind,D.C.,13,13-4,#FFFFFF,#000000
+1938,George Washington,Ind,District of Columbia,13,13-4,#FFFFFF,#000000
 1938,Marquette,Ind,Wisconsin,14,14-5,#FFFFFF,#000000
 1938,Syracuse,Ind,New York,14,14-5,#FFFFFF,#000000
 1938,Rutgers,Ind,New Jersey,11,11-4,#FFFFFF,#000000
@@ -4271,7 +4271,7 @@ Runner-up",#BA0C2F,#FFFFFF
 1939,Arizona,BIAA,Arizona,12,8-10 BIAA,#FFFFFF,#000000
 1939,UTEP,BIAA,Texas,6,6-12 BIAA,#FFFFFF,#000000
 1939,New Mexico,BIAA,New Mexico,4,4-16 BIAA,#FFFFFF,#000000
-1939,Georgetown,EIC,D.C.,13,6-4 EIC,#FFFFFF,#000000
+1939,Georgetown,EIC,District of Columbia,13,6-4 EIC,#FFFFFF,#000000
 1939,Penn St.,EIC,Pennsylvania,13,5-5 EIC,#FFFFFF,#000000
 1939,Pittsburgh,EIC,Pennsylvania,10,5-5 EIC,#FFFFFF,#000000
 1939,West Virginia,EIC,West Virginia,10,4-6 EIC,#FFFFFF,#000000
@@ -4303,7 +4303,7 @@ Final 4",#002664,#FFFFFF
 1939,Bowling Green,Ind,Ohio,12,12-7,#FFFFFF,#000000
 1939,Toledo,Ind,Ohio,17,17-10,#FFFFFF,#000000
 1939,Montana St.,Ind,Montana,18,18-11,#FFFFFF,#000000
-1939,George Washington,Ind,D.C.,13,13-8,#FFFFFF,#000000
+1939,George Washington,Ind,District of Columbia,13,13-8,#FFFFFF,#000000
 1939,Ohio,Ind,Ohio,12,12-8,#FFFFFF,#000000
 1939,St. Bonaventure,Ind,New York,10,10-7,#FFFFFF,#000000
 1939,Niagara,Ind,New York,11,11-8,#FFFFFF,#000000
@@ -4452,7 +4452,7 @@ Elite 8",#B01E24,#FFFFFF
 1940,Bradley,Ind,Illinois,14,14-6,#FFFFFF,#000000
 1940,Michigan St.,Ind,Michigan,14,14-6,#FFFFFF,#000000
 1940,Brown,Ind,Rhode Island,13,13-6,#FFFFFF,#000000
-1940,George Washington,Ind,D.C.,13,13-6,#FFFFFF,#000000
+1940,George Washington,Ind,District of Columbia,13,13-6,#FFFFFF,#000000
 1940,West Virginia,Ind,West Virginia,13,13-6,#FFFFFF,#000000
 1940,Montana,Ind,Montana,17,17-8,#FFFFFF,#000000
 1940,Colgate,Ind,New York,12,12-6,#FFFFFF,#000000
@@ -4479,7 +4479,7 @@ Elite 8",#B01E24,#FFFFFF
 1940,Cincinnati,Ind,Ohio,8,8-9,#FFFFFF,#000000
 1940,Pittsburgh,Ind,Pennsylvania,8,8-9,#FFFFFF,#000000
 1940,Boston U.,Ind,Massachusetts,6,6-7,#FFFFFF,#000000
-1940,Georgetown,Ind,D.C.,8,8-10,#FFFFFF,#000000
+1940,Georgetown,Ind,District of Columbia,8,8-10,#FFFFFF,#000000
 1940,Marquette,Ind,Wisconsin,7,7-9,#FFFFFF,#000000
 1940,Holy Cross,Ind,Massachusetts,2,2-3,#FFFFFF,#000000
 1940,Montana St.,Ind,Montana,10,10-16,#FFFFFF,#000000
@@ -4582,13 +4582,13 @@ Champion",#C5050C,#FFFFFF
 1941,Toledo,Ind,Ohio,21,21-3,#FFFFFF,#000000
 1941,Duquesne,Ind,Pennsylvania,17,17-3,#FFFFFF,#000000
 1941,Western Ky.,Ind,Kentucky,22,22-4,#FFFFFF,#000000
-1941,George Washington,Ind,D.C.,18,18-4,#FFFFFF,#000000
+1941,George Washington,Ind,District of Columbia,18,18-4,#FFFFFF,#000000
 1941,Loyola Maryland,Ind,Maryland,18,18-4,#FFFFFF,#000000
 1941,Ohio,Ind,Ohio,18,18-4,#FFFFFF,#000000
 1941,Boston U.,Ind,Massachusetts,13,13-3,#FFFFFF,#000000
 1941,Villanova,Ind,Pennsylvania,13,13-3,#FFFFFF,#000000
 1941,Bradley,Ind,Illinois,16,16-4,#FFFFFF,#000000
-1941,Georgetown,Ind,D.C.,16,16-4,#FFFFFF,#000000
+1941,Georgetown,Ind,District of Columbia,16,16-4,#FFFFFF,#000000
 1941,Notre Dame,Ind,Indiana,17,17-5,#FFFFFF,#000000
 1941,Texas Tech,Ind,Texas,19,19-6,#FFFFFF,#000000
 1941,Penn St.,Ind,Pennsylvania,15,15-5,#FFFFFF,#000000
@@ -4791,7 +4791,7 @@ Elite 8",#001E44,#FFFFFF
 1942,Manhattan,Ind,New York,10,10-10,#FFFFFF,#000000
 1942,Lehigh,Ind,Pennsylvania,7,7-8,#FFFFFF,#000000
 1942,DePaul,Ind,Illinois,10,10-12,#FFFFFF,#000000
-1942,Georgetown,Ind,D.C.,9,9-11,#FFFFFF,#000000
+1942,Georgetown,Ind,District of Columbia,9,9-11,#FFFFFF,#000000
 1942,Rutgers,Ind,New Jersey,8,8-10,#FFFFFF,#000000
 1942,Louisville,Ind,Kentucky,7,7-10,#FFFFFF,#000000
 1942,Virginia,Ind,Virginia,7,7-10,#FFFFFF,#000000
@@ -4848,7 +4848,7 @@ Final 4",#0033A0,#FFFFFF
 1942,Tulane,SEC,Louisiana,4,3-9 SEC,#FFFFFF,#000000
 1942,Ole Miss,SEC,Mississippi,4,3-12 SEC,#FFFFFF,#000000
 1942,Duke,SoCon,North Carolina,22,15-1 SoCon,#FFFFFF,#000000
-1942,George Washington,SoCon,D.C.,11,8-3 SoCon,#FFFFFF,#000000
+1942,George Washington,SoCon,District of Columbia,11,8-3 SoCon,#FFFFFF,#000000
 1942,Wake Forest,SoCon,North Carolina,16,13-5 SoCon,#FFFFFF,#000000
 1942,NC State,SoCon,North Carolina,15,9-4 SoCon,#FFFFFF,#000000
 1942,William & Mary,SoCon,Virginia,15,8-4 SoCon,#FFFFFF,#000000
@@ -4904,7 +4904,7 @@ Elite 8",#841617,#FFFFFF
 1943,Akron,Ind,Ohio,18,18-3,#FFFFFF,#000000
 1943,Toledo,Ind,Ohio,22,22-4,#FFFFFF,#000000
 1943,Saint Joseph's,Ind,Pennsylvania,18,18-4,#FFFFFF,#000000
-1943,Georgetown,Ind,D.C.,57,"22-5
+1943,Georgetown,Ind,District of Columbia,57,"22-5
 Runner-up",#041E42,#FFFFFF
 1943,DePaul,Ind,Illinois,49,"19-5
 Final 4",#003DA5,#FFFFFF
@@ -5004,7 +5004,7 @@ Elite 8",#4B2E83,#FFFFFF
 1943,Auburn,SEC,Alabama,1,1-12 SEC,#FFFFFF,#000000
 1943,Florida,SEC,Florida,8,0-6 SEC,#FFFFFF,#000000
 1943,Duke,SoCon,North Carolina,20,12-1 SoCon,#FFFFFF,#000000
-1943,George Washington,SoCon,D.C.,17,8-2 SoCon,#FFFFFF,#000000
+1943,George Washington,SoCon,District of Columbia,17,8-2 SoCon,#FFFFFF,#000000
 1943,South Carolina,SoCon,South Carolina,13,6-3 SoCon,#FFFFFF,#000000
 1943,Davidson,SoCon,North Carolina,18,7-4 SoCon,#FFFFFF,#000000
 1943,The Citadel,SoCon,South Carolina,8,5-3 SoCon,#FFFFFF,#000000
@@ -5359,7 +5359,7 @@ Elite 8",#A41034,#FFFFFF
 1946,Santa Clara,Ind,California,9,9-6,#FFFFFF,#000000
 1946,Niagara,Ind,New York,11,11-8,#FFFFFF,#000000
 1946,Michigan St.,Ind,Michigan,12,12-9,#FFFFFF,#000000
-1946,Georgetown,Ind,D.C.,11,11-9,#FFFFFF,#000000
+1946,Georgetown,Ind,District of Columbia,11,11-9,#FFFFFF,#000000
 1946,Miami (OH),Ind,Ohio,10,10-9,#FFFFFF,#000000
 1946,Kent St.,Ind,Ohio,10,10-10,#FFFFFF,#000000
 1946,Pittsburgh,Ind,Pennsylvania,7,7-7,#FFFFFF,#000000
@@ -5434,7 +5434,7 @@ Runner-up",#4B9CD3,#FFFFFF
 1946,Maryland,SoCon,Maryland,9,5-4 SoCon,#FFFFFF,#000000
 1946,William & Mary,SoCon,Virginia,10,5-5 SoCon,#FFFFFF,#000000
 1946,Furman,SoCon,South Carolina,16,4-4 SoCon,#FFFFFF,#000000
-1946,George Washington,SoCon,D.C.,7,4-5 SoCon,#FFFFFF,#000000
+1946,George Washington,SoCon,District of Columbia,7,4-5 SoCon,#FFFFFF,#000000
 1946,Clemson,SoCon,South Carolina,9,5-7 SoCon,#FFFFFF,#000000
 1946,NC State,SoCon,North Carolina,6,5-7 SoCon,#FFFFFF,#000000
 1946,South Carolina,SoCon,South Carolina,9,4-7 SoCon,#FFFFFF,#000000
@@ -5497,7 +5497,7 @@ Elite 8",#00225B,#B5A67C
 1947,Syracuse,Ind,New York,19,19-6,#FFFFFF,#000000
 1947,Toledo,Ind,Ohio,18,18-6,#FFFFFF,#000000
 1947,Louisville,Ind,Kentucky,17,17-6,#FFFFFF,#000000
-1947,Georgetown,Ind,D.C.,19,19-7,#FFFFFF,#000000
+1947,Georgetown,Ind,District of Columbia,19,19-7,#FFFFFF,#000000
 1947,Saint Joseph's,Ind,Pennsylvania,16,16-6,#FFFFFF,#000000
 1947,Villanova,Ind,Pennsylvania,17,17-7,#FFFFFF,#000000
 1947,Western Mich.,Ind,Michigan,17,17-7,#FFFFFF,#000000
@@ -5584,7 +5584,7 @@ Elite 8",#D73F09,#FFFFFF
 1947,NC State,SoCon,North Carolina,26,11-2 SoCon,#FFFFFF,#000000
 1947,North Carolina,SoCon,North Carolina,19,10-2 SoCon,#FFFFFF,#000000
 1947,Duke,SoCon,North Carolina,19,10-4 SoCon,#FFFFFF,#000000
-1947,George Washington,SoCon,D.C.,21,9-4 SoCon,#FFFFFF,#000000
+1947,George Washington,SoCon,District of Columbia,21,9-4 SoCon,#FFFFFF,#000000
 1947,Maryland,SoCon,Maryland,14,9-5 SoCon,#FFFFFF,#000000
 1947,Richmond,SoCon,Virginia,17,8-5 SoCon,#FFFFFF,#000000
 1947,South Carolina,SoCon,South Carolina,16,7-5 SoCon,#FFFFFF,#000000
@@ -5677,7 +5677,7 @@ Final 4",#602D89,#FFFFFF
 1948,Pittsburgh,Ind,Pennsylvania,10,10-11,#FFFFFF,#000000
 1948,Penn St.,Ind,Pennsylvania,9,9-10,#FFFFFF,#000000
 1948,Army West Point,Ind,New York,8,8-9,#FFFFFF,#000000
-1948,Georgetown,Ind,D.C.,13,13-15,#FFFFFF,#000000
+1948,Georgetown,Ind,District of Columbia,13,13-15,#FFFFFF,#000000
 1948,Dayton,Ind,Ohio,12,12-14,#FFFFFF,#000000
 1948,Saint Mary's (CA),Ind,California,11,11-13,#FFFFFF,#000000
 1948,Syracuse,Ind,New York,11,11-13,#FFFFFF,#000000
@@ -5744,7 +5744,7 @@ Champion",#0033A0,#FFFFFF
 1948,LSU,SEC,Louisiana,8,4-10 SEC,#FFFFFF,#000000
 1948,Vanderbilt,SEC,Tennessee,8,4-11 SEC,#FFFFFF,#000000
 1948,NC State,SoCon,North Carolina,29,12-0 SoCon,#FFFFFF,#000000
-1948,George Washington,SoCon,D.C.,19,13-3 SoCon,#FFFFFF,#000000
+1948,George Washington,SoCon,District of Columbia,19,13-3 SoCon,#FFFFFF,#000000
 1948,North Carolina,SoCon,North Carolina,20,11-4 SoCon,#FFFFFF,#000000
 1948,Maryland,SoCon,Maryland,11,9-6 SoCon,#FFFFFF,#000000
 1948,Davidson,SoCon,North Carolina,19,10-7 SoCon,#FFFFFF,#000000
@@ -5835,7 +5835,7 @@ Elite 8",#002664,#FFFFFF
 1949,Penn St.,Ind,Pennsylvania,7,7-10,#FFFFFF,#000000
 1949,Creighton,Ind,Nebraska,9,9-14,#FFFFFF,#000000
 1949,Marquette,Ind,Wisconsin,8,8-13,#FFFFFF,#000000
-1949,Georgetown,Ind,D.C.,9,9-15,#FFFFFF,#000000
+1949,Georgetown,Ind,District of Columbia,9,9-15,#FFFFFF,#000000
 1949,Santa Clara,Ind,California,8,8-15,#FFFFFF,#000000
 1949,Boston U.,Ind,Massachusetts,6,6-12,#FFFFFF,#000000
 1949,Valparaiso,Ind,Indiana,8,8-17,#FFFFFF,#000000
@@ -5909,7 +5909,7 @@ Champion",#0033A0,#FFFFFF
 1949,NC State,SoCon,North Carolina,25,14-1 SoCon,#FFFFFF,#000000
 1949,William & Mary,SoCon,Virginia,24,10-3 SoCon,#FFFFFF,#000000
 1949,North Carolina,SoCon,North Carolina,20,13-5 SoCon,#FFFFFF,#000000
-1949,George Washington,SoCon,D.C.,18,9-4 SoCon,#FFFFFF,#000000
+1949,George Washington,SoCon,District of Columbia,18,9-4 SoCon,#FFFFFF,#000000
 1949,Davidson,SoCon,North Carolina,18,11-6 SoCon,#FFFFFF,#000000
 1949,South Carolina,SoCon,South Carolina,10,7-6 SoCon,#FFFFFF,#000000
 1949,Wake Forest,SoCon,North Carolina,11,7-7 SoCon,#FFFFFF,#000000
@@ -5992,7 +5992,7 @@ Elite 8",#602D89,#FFFFFF
 1950,West Virginia,Ind,West Virginia,13,13-11,#FFFFFF,#000000
 1950,Army West Point,Ind,New York,9,9-8,#FFFFFF,#000000
 1950,Creighton,Ind,Nebraska,13,13-13,#FFFFFF,#000000
-1950,Georgetown,Ind,D.C.,12,12-12,#FFFFFF,#000000
+1950,Georgetown,Ind,District of Columbia,12,12-12,#FFFFFF,#000000
 1950,DePaul,Ind,Illinois,12,12-13,#FFFFFF,#000000
 1950,Virginia,Ind,Virginia,12,12-13,#FFFFFF,#000000
 1950,Brown,Ind,Rhode Island,11,11-14,#FFFFFF,#000000
@@ -6070,7 +6070,7 @@ Elite 8",#2774AE,#FFD100
 1950,NC State,SoCon,North Carolina,57,"12-2 SoCon
 Final 4",#CC0000,#FFFFFF
 1950,William & Mary,SoCon,Virginia,23,12-4 SoCon,#FFFFFF,#000000
-1950,George Washington,SoCon,D.C.,17,12-4 SoCon,#FFFFFF,#000000
+1950,George Washington,SoCon,District of Columbia,17,12-4 SoCon,#FFFFFF,#000000
 1950,South Carolina,SoCon,South Carolina,13,12-5 SoCon,#FFFFFF,#000000
 1950,North Carolina,SoCon,North Carolina,17,13-6 SoCon,#FFFFFF,#000000
 1950,Virginia Tech,SoCon,Virginia,16,9-5 SoCon,#FFFFFF,#000000
@@ -6162,7 +6162,7 @@ Sweet 16",#AD0000,#FFFFFF
 1951,Montana,Ind,Montana,13,13-18,#FFFFFF,#000000
 1951,Bucknell,Ind,Pennsylvania,9,9-13,#FFFFFF,#000000
 1951,Santa Clara,Ind,California,9,9-15,#FFFFFF,#000000
-1951,Georgetown,Ind,D.C.,8,8-14,#FFFFFF,#000000
+1951,Georgetown,Ind,District of Columbia,8,8-14,#FFFFFF,#000000
 1951,Marquette,Ind,Wisconsin,8,8-14,#FFFFFF,#000000
 1951,Virginia,Ind,Virginia,8,8-14,#FFFFFF,#000000
 1951,Pittsburgh,Ind,Pennsylvania,9,9-17,#FFFFFF,#000000
@@ -6245,7 +6245,7 @@ Elite 8",#CC0000,#FFFFFF
 1951,South Carolina,SoCon,South Carolina,13,12-7 SoCon,#FFFFFF,#000000
 1951,Maryland,SoCon,Maryland,15,11-8 SoCon,#FFFFFF,#000000
 1951,North Carolina,SoCon,North Carolina,12,9-8 SoCon,#FFFFFF,#000000
-1951,George Washington,SoCon,D.C.,12,8-9 SoCon,#FFFFFF,#000000
+1951,George Washington,SoCon,District of Columbia,12,8-9 SoCon,#FFFFFF,#000000
 1951,Wake Forest,SoCon,North Carolina,16,8-10 SoCon,#FFFFFF,#000000
 1951,Richmond,SoCon,Virginia,7,5-10 SoCon,#FFFFFF,#000000
 1951,VMI,SoCon,Virginia,3,3-11 SoCon,#FFFFFF,#000000
@@ -6319,7 +6319,7 @@ Sweet 16",#001E44,#FFFFFF
 1952,Bowling Green,Ind,Ohio,17,17-10,#FFFFFF,#000000
 1952,Notre Dame,Ind,Indiana,16,16-10,#FFFFFF,#000000
 1952,Saint Mary's (CA),Ind,California,16,16-10,#FFFFFF,#000000
-1952,Georgetown,Ind,D.C.,15,15-10,#FFFFFF,#000000
+1952,Georgetown,Ind,District of Columbia,15,15-10,#FFFFFF,#000000
 1952,San Jose St.,Ind,California,15,15-10,#FFFFFF,#000000
 1952,Bradley,Ind,Illinois,17,17-12,#FFFFFF,#000000
 1952,Santa Clara,Ind,California,47,"17-12
@@ -6412,7 +6412,7 @@ Elite 8",#0033A0,#FFFFFF
 Sweet 16",#CC0000,#FFFFFF
 1952,Duke,SoCon,North Carolina,24,14-2 SoCon,#FFFFFF,#000000
 1952,Clemson,SoCon,South Carolina,17,11-4 SoCon,#FFFFFF,#000000
-1952,George Washington,SoCon,D.C.,15,12-6 SoCon,#FFFFFF,#000000
+1952,George Washington,SoCon,District of Columbia,15,12-6 SoCon,#FFFFFF,#000000
 1952,Furman,SoCon,South Carolina,18,9-5 SoCon,#FFFFFF,#000000
 1952,Maryland,SoCon,Maryland,13,9-5 SoCon,#FFFFFF,#000000
 1952,William & Mary,SoCon,Virginia,15,10-6 SoCon,#FFFFFF,#000000
@@ -6490,7 +6490,7 @@ NCAA 22",#00225B,#B5A67C
 1953,Villanova,Ind,Pennsylvania,19,19-8,#FFFFFF,#000000
 1953,DePaul,Ind,Illinois,39,"19-9
 Sweet 16",#003DA5,#FFFFFF
-1953,Georgetown,Ind,D.C.,13,13-7,#FFFFFF,#000000
+1953,Georgetown,Ind,District of Columbia,13,13-7,#FFFFFF,#000000
 1953,Penn St.,Ind,Pennsylvania,15,15-9,#FFFFFF,#000000
 1953,Temple,Ind,Pennsylvania,16,16-10,#FFFFFF,#000000
 1953,Butler,Ind,Indiana,14,14-9,#FFFFFF,#000000
@@ -6593,7 +6593,7 @@ Sweet 16",#9E7E38,#000000
 1953,Duke,SoCon,North Carolina,17,12-4 SoCon,#FFFFFF,#000000
 1953,Richmond,SoCon,Virginia,20,13-5 SoCon,#FFFFFF,#000000
 1953,North Carolina,SoCon,North Carolina,17,15-6 SoCon,#FFFFFF,#000000
-1953,George Washington,SoCon,D.C.,15,12-6 SoCon,#FFFFFF,#000000
+1953,George Washington,SoCon,District of Columbia,15,12-6 SoCon,#FFFFFF,#000000
 1953,Clemson,SoCon,South Carolina,8,6-8 SoCon,#FFFFFF,#000000
 1953,South Carolina,SoCon,South Carolina,11,7-12 SoCon,#FFFFFF,#000000
 1953,William & Mary,SoCon,Virginia,10,6-13 SoCon,#FFFFFF,#000000
@@ -6697,7 +6697,7 @@ Runner-up",#A50000,#FFFFFF
 1954,Marquette,Ind,Wisconsin,11,11-15,#FFFFFF,#000000
 1954,Lehigh,Ind,Pennsylvania,8,8-12,#FFFFFF,#000000
 1954,Pittsburgh,Ind,Pennsylvania,9,9-14,#FFFFFF,#000000
-1954,Georgetown,Ind,D.C.,11,11-18,#FFFFFF,#000000
+1954,Georgetown,Ind,District of Columbia,11,11-18,#FFFFFF,#000000
 1954,Miami (FL),Ind,Florida,5,5-10,#FFFFFF,#000000
 1954,Siena,Ind,New York,7,7-14,#FFFFFF,#000000
 1954,Portland,Ind,Oregon,9,9-19,#FFFFFF,#000000
@@ -6772,7 +6772,7 @@ Sweet 16",#461D7C,#FDD023
 1954,Florida,SEC,Florida,7,4-12 SEC,#FFFFFF,#000000
 1954,Georgia,SEC,Georgia,7,4-17 SEC,#FFFFFF,#000000
 1954,Georgia Tech,SEC,Georgia,2,1-18 SEC,#FFFFFF,#000000
-1954,George Washington,SoCon,D.C.,38,"11-0 SoCon
+1954,George Washington,SoCon,District of Columbia,38,"11-0 SoCon
 NCAA 24",#033C5A,#FFFFFF
 1954,Furman,SoCon,South Carolina,20,6-1 SoCon,#FFFFFF,#000000
 1954,Richmond,SoCon,Virginia,23,11-4 SoCon,#FFFFFF,#000000
@@ -6870,7 +6870,7 @@ Sweet 16",#002664,#FFFFFF
 1955,Temple,Ind,Pennsylvania,11,11-10,#FFFFFF,#000000
 1955,Army West Point,Ind,New York,9,9-9,#FFFFFF,#000000
 1955,Xavier,Ind,Ohio,13,13-13,#FFFFFF,#000000
-1955,Georgetown,Ind,D.C.,12,12-13,#FFFFFF,#000000
+1955,Georgetown,Ind,District of Columbia,12,12-13,#FFFFFF,#000000
 1955,Iona,Ind,New York,10,10-11,#FFFFFF,#000000
 1955,Lehigh,Ind,Pennsylvania,10,10-11,#FFFFFF,#000000
 1955,Syracuse,Ind,New York,10,10-11,#FFFFFF,#000000
@@ -6955,7 +6955,7 @@ Sweet 16",#0033A0,#FFFFFF
 1955,Mississippi St.,SEC,Mississippi,6,2-12 SEC,#FFFFFF,#000000
 1955,West Virginia,SoCon,West Virginia,34,"9-1 SoCon
 NCAA 24",#002855,#EAAA00
-1955,George Washington,SoCon,D.C.,24,10-2 SoCon,#FFFFFF,#000000
+1955,George Washington,SoCon,District of Columbia,24,10-2 SoCon,#FFFFFF,#000000
 1955,Richmond,SoCon,Virginia,19,11-5 SoCon,#FFFFFF,#000000
 1955,Furman,SoCon,South Carolina,17,6-4 SoCon,#FFFFFF,#000000
 1955,William & Mary,SoCon,Virginia,11,8-6 SoCon,#FFFFFF,#000000
@@ -7049,7 +7049,7 @@ Sweet 16",#AA0000,#FFFFFF
 1956,Xavier,Ind,Ohio,17,17-11,#FFFFFF,#000000
 1956,La Salle,Ind,Pennsylvania,15,15-10,#FFFFFF,#000000
 1956,Pittsburgh,Ind,Pennsylvania,15,15-10,#FFFFFF,#000000
-1956,Georgetown,Ind,D.C.,13,13-11,#FFFFFF,#000000
+1956,Georgetown,Ind,District of Columbia,13,13-11,#FFFFFF,#000000
 1956,Marquette,Ind,Wisconsin,13,13-11,#FFFFFF,#000000
 1956,Miami (FL),Ind,Florida,14,14-12,#FFFFFF,#000000
 1956,Villanova,Ind,Pennsylvania,14,14-12,#FFFFFF,#000000
@@ -7138,7 +7138,7 @@ Elite 8",#0033A0,#FFFFFF
 1956,Florida,SEC,Florida,11,4-10 SEC,#FFFFFF,#000000
 1956,Ole Miss,SEC,Mississippi,10,4-10 SEC,#FFFFFF,#000000
 1956,Georgia,SEC,Georgia,3,1-18 SEC,#FFFFFF,#000000
-1956,George Washington,SoCon,D.C.,19,10-2 SoCon,#FFFFFF,#000000
+1956,George Washington,SoCon,District of Columbia,19,10-2 SoCon,#FFFFFF,#000000
 1956,West Virginia,SoCon,West Virginia,36,"10-2 SoCon
 NCAA 25",#002855,#EAAA00
 1956,Virginia Tech,SoCon,Virginia,14,10-7 SoCon,#FFFFFF,#000000
@@ -7228,7 +7228,7 @@ Sweet 16",#003594,#FFB81C
 1957,Loyola Chicago,Ind,Illinois,14,14-10,#FFFFFF,#000000
 1957,Boston College,Ind,Massachusetts,12,12-11,#FFFFFF,#000000
 1957,Texas Tech,Ind,Texas,12,12-11,#FFFFFF,#000000
-1957,Georgetown,Ind,D.C.,11,11-11,#FFFFFF,#000000
+1957,Georgetown,Ind,District of Columbia,11,11-11,#FFFFFF,#000000
 1957,Miami (FL),Ind,Florida,13,13-13,#FFFFFF,#000000
 1957,Saint Francis,Ind,Pennsylvania,12,12-12,#FFFFFF,#000000
 1957,Holy Cross,Ind,Massachusetts,11,11-12,#FFFFFF,#000000
@@ -7320,7 +7320,7 @@ NCAA 23",#002855,#EAAA00
 1957,William & Mary,SoCon,Virginia,9,8-11 SoCon,#FFFFFF,#000000
 1957,The Citadel,SoCon,South Carolina,11,5-9 SoCon,#FFFFFF,#000000
 1957,Davidson,SoCon,North Carolina,7,4-10 SoCon,#FFFFFF,#000000
-1957,George Washington,SoCon,D.C.,3,3-9 SoCon,#FFFFFF,#000000
+1957,George Washington,SoCon,District of Columbia,3,3-9 SoCon,#FFFFFF,#000000
 1957,VMI,SoCon,Virginia,4,1-14 SoCon,#FFFFFF,#000000
 1957,SMU,SWC,Texas,42,"14-1 SWC
 Sweet 16",#CC0035,#FFFFFF
@@ -7423,7 +7423,7 @@ NCAA 24",#862633,#B29D6C
 1958,Louisville,Ind,Kentucky,13,13-12,#FFFFFF,#000000
 1958,Marquette,Ind,Wisconsin,11,11-11,#FFFFFF,#000000
 1958,Navy,Ind,Maryland,10,10-10,#FFFFFF,#000000
-1958,Georgetown,Ind,D.C.,10,10-11,#FFFFFF,#000000
+1958,Georgetown,Ind,District of Columbia,10,10-11,#FFFFFF,#000000
 1958,Duquesne,Ind,Pennsylvania,10,10-12,#FFFFFF,#000000
 1958,Lehigh,Ind,Pennsylvania,8,8-10,#FFFFFF,#000000
 1958,Penn St.,Ind,Pennsylvania,8,8-11,#FFFFFF,#000000
@@ -7509,7 +7509,7 @@ Champion",#0033A0,#FFFFFF
 1958,West Virginia,SoCon,West Virginia,41,"12-0 SoCon
 NCAA 24",#002855,#EAAA00
 1958,Virginia Tech,SoCon,Virginia,11,10-5 SoCon,#FFFFFF,#000000
-1958,George Washington,SoCon,D.C.,12,8-4 SoCon,#FFFFFF,#000000
+1958,George Washington,SoCon,District of Columbia,12,8-4 SoCon,#FFFFFF,#000000
 1958,The Citadel,SoCon,South Carolina,16,9-6 SoCon,#FFFFFF,#000000
 1958,William & Mary,SoCon,Virginia,15,9-9 SoCon,#FFFFFF,#000000
 1958,Richmond,SoCon,Virginia,14,8-8 SoCon,#FFFFFF,#000000
@@ -7620,7 +7620,7 @@ Sweet 16",#003DA5,#FFFFFF
 1959,Pittsburgh,Ind,Pennsylvania,10,10-14,#FFFFFF,#000000
 1959,Colgate,Ind,New York,7,7-12,#FFFFFF,#000000
 1959,Florida St.,Ind,Florida,8,8-15,#FFFFFF,#000000
-1959,Georgetown,Ind,D.C.,8,8-15,#FFFFFF,#000000
+1959,Georgetown,Ind,District of Columbia,8,8-15,#FFFFFF,#000000
 1959,Canisius,Ind,New York,7,7-16,#FFFFFF,#000000
 1959,Siena,Ind,New York,3,3-16,#FFFFFF,#000000
 1959,Dartmouth,Ivy,New Hampshire,37,"13-1 Ivy
@@ -7709,7 +7709,7 @@ Runner-up",#002855,#EAAA00
 1959,William & Mary,SoCon,Virginia,13,7-7 SoCon,#FFFFFF,#000000
 1959,Richmond,SoCon,Virginia,11,6-8 SoCon,#FFFFFF,#000000
 1959,Furman,SoCon,South Carolina,14,5-7 SoCon,#FFFFFF,#000000
-1959,George Washington,SoCon,D.C.,14,5-7 SoCon,#FFFFFF,#000000
+1959,George Washington,SoCon,District of Columbia,14,5-7 SoCon,#FFFFFF,#000000
 1959,Davidson,SoCon,North Carolina,9,2-9 SoCon,#FFFFFF,#000000
 1959,VMI,SoCon,Virginia,5,2-11 SoCon,#FFFFFF,#000000
 1959,TCU,SWC,Texas,40,"14-3 SWC
@@ -7816,7 +7816,7 @@ NCAA 25",#003594,#FFFFFF
 1960,Penn St.,Ind,Pennsylvania,11,11-11,#FFFFFF,#000000
 1960,Washington St.,Ind,Washington,13,13-13,#FFFFFF,#000000
 1960,Colgate,Ind,New York,11,11-12,#FFFFFF,#000000
-1960,Georgetown,Ind,D.C.,11,11-12,#FFFFFF,#000000
+1960,Georgetown,Ind,District of Columbia,11,11-12,#FFFFFF,#000000
 1960,Loyola Chicago,Ind,Illinois,10,10-12,#FFFFFF,#000000
 1960,Boston College,Ind,Massachusetts,11,11-14,#FFFFFF,#000000
 1960,Montana St.,Ind,Montana,11,11-14,#FFFFFF,#000000
@@ -7885,7 +7885,7 @@ Sweet 16",#B01E24,#FFFFFF
 1960,Middle Tenn.,OVC,Tennessee,9,2-10 OVC,#FFFFFF,#000000
 1960,Auburn,SEC,Alabama,19,14-2 SEC,#FFFFFF,#000000
 1960,Georgia Tech,SEC,Georgia,47,"14-4 SEC
-Elite 8",#B3A369,#003057
+Elite 8",#B39051,#051E39
 1960,Kentucky,SEC,Kentucky,18,10-4 SEC,#FFFFFF,#000000
 1960,Ole Miss,SEC,Mississippi,15,8-6 SEC,#FFFFFF,#000000
 1960,Tulane,SEC,Louisiana,13,8-6 SEC,#FFFFFF,#000000
@@ -7901,7 +7901,7 @@ Elite 8",#B3A369,#003057
 Sweet 16",#002855,#EAAA00
 1960,William & Mary,SoCon,Virginia,15,10-6 SoCon,#FFFFFF,#000000
 1960,The Citadel,SoCon,South Carolina,15,9-4 SoCon,#FFFFFF,#000000
-1960,George Washington,SoCon,D.C.,15,7-5 SoCon,#FFFFFF,#000000
+1960,George Washington,SoCon,District of Columbia,15,7-5 SoCon,#FFFFFF,#000000
 1960,Furman,SoCon,South Carolina,9,6-8 SoCon,#FFFFFF,#000000
 1960,VMI,SoCon,Virginia,4,3-11 SoCon,#FFFFFF,#000000
 1960,Richmond,SoCon,Virginia,7,3-12 SoCon,#FFFFFF,#000000
@@ -8004,7 +8004,7 @@ NCAA 24",#007030,#FEE11A
 1961,Colgate,Ind,New York,14,14-12,#FFFFFF,#000000
 1961,Oregon St.,Ind,Oregon,14,14-12,#FFFFFF,#000000
 1961,Navy,Ind,Maryland,10,10-9,#FFFFFF,#000000
-1961,Georgetown,Ind,D.C.,11,11-10,#FFFFFF,#000000
+1961,Georgetown,Ind,District of Columbia,11,11-10,#FFFFFF,#000000
 1961,Pittsburgh,Ind,Pennsylvania,12,12-11,#FFFFFF,#000000
 1961,Idaho St.,Ind,Idaho,13,13-12,#FFFFFF,#000000
 1961,Air Force,Ind,Colorado,12,12-12,#FFFFFF,#000000
@@ -8095,7 +8095,7 @@ Elite 8",#0033A0,#FFFFFF
 1961,William & Mary,SoCon,Virginia,14,9-7 SoCon,#FFFFFF,#000000
 1961,Furman,SoCon,South Carolina,15,7-7 SoCon,#FFFFFF,#000000
 1961,Richmond,SoCon,Virginia,9,7-11 SoCon,#FFFFFF,#000000
-1961,George Washington,SoCon,D.C.,24,"3-9 SoCon
+1961,George Washington,SoCon,District of Columbia,24,"3-9 SoCon
 NCAA 24",#033C5A,#FFFFFF
 1961,VMI,SoCon,Virginia,5,3-12 SoCon,#FFFFFF,#000000
 1961,Davidson,SoCon,North Carolina,9,2-10 SoCon,#FFFFFF,#000000
@@ -8190,7 +8190,7 @@ NCAA 25",#AA0000,#FFFFFF
 1962,Saint Francis,Ind,Pennsylvania,14,14-8,#FFFFFF,#000000
 1962,Seton Hall,Ind,New Jersey,15,15-9,#FFFFFF,#000000
 1962,Navy,Ind,Maryland,13,13-8,#FFFFFF,#000000
-1962,Georgetown,Ind,D.C.,14,14-9,#FFFFFF,#000000
+1962,Georgetown,Ind,District of Columbia,14,14-9,#FFFFFF,#000000
 1962,Louisville,Ind,Kentucky,15,15-10,#FFFFFF,#000000
 1962,Marquette,Ind,Wisconsin,15,15-11,#FFFFFF,#000000
 1962,Canisius,Ind,New York,12,12-9,#FFFFFF,#000000
@@ -8286,7 +8286,7 @@ Elite 8",#0033A0,#FFFFFF
 NCAA 25",#002855,#EAAA00
 1962,Virginia Tech,SoCon,Virginia,19,9-3 SoCon,#FFFFFF,#000000
 1962,Furman,SoCon,South Carolina,15,8-5 SoCon,#FFFFFF,#000000
-1962,George Washington,SoCon,D.C.,9,6-9 SoCon,#FFFFFF,#000000
+1962,George Washington,SoCon,District of Columbia,9,6-9 SoCon,#FFFFFF,#000000
 1962,Davidson,SoCon,North Carolina,14,5-6 SoCon,#FFFFFF,#000000
 1962,VMI,SoCon,Virginia,9,7-8 SoCon,#FFFFFF,#000000
 1962,Richmond,SoCon,Virginia,6,6-11 SoCon,#FFFFFF,#000000
@@ -8391,7 +8391,7 @@ NCAA 25",#0C2340,#AE9142
 1963,Boston U.,Ind,Massachusetts,10,10-9,#FFFFFF,#000000
 1963,St. Bonaventure,Ind,New York,13,13-12,#FFFFFF,#000000
 1963,Creighton,Ind,Nebraska,14,14-13,#FFFFFF,#000000
-1963,Georgetown,Ind,D.C.,13,13-13,#FFFFFF,#000000
+1963,Georgetown,Ind,District of Columbia,13,13-13,#FFFFFF,#000000
 1963,Montana St.,Ind,Montana,13,13-13,#FFFFFF,#000000
 1963,Navy,Ind,Maryland,9,9-9,#FFFFFF,#000000
 1963,Air Force,Ind,Colorado,10,10-12,#FFFFFF,#000000
@@ -8473,7 +8473,7 @@ Sweet 16",#002855,#EAAA00
 1963,William & Mary,SoCon,Virginia,15,11-5 SoCon,#FFFFFF,#000000
 1963,Furman,SoCon,South Carolina,14,9-6 SoCon,#FFFFFF,#000000
 1963,Virginia Tech,SoCon,Virginia,12,6-6 SoCon,#FFFFFF,#000000
-1963,George Washington,SoCon,D.C.,8,6-6 SoCon,#FFFFFF,#000000
+1963,George Washington,SoCon,District of Columbia,8,6-6 SoCon,#FFFFFF,#000000
 1963,VMI,SoCon,Virginia,6,6-10 SoCon,#FFFFFF,#000000
 1963,Richmond,SoCon,Virginia,7,3-14 SoCon,#FFFFFF,#000000
 1963,The Citadel,SoCon,South Carolina,3,2-10 SoCon,#FFFFFF,#000000
@@ -8582,7 +8582,7 @@ Sweet 16",#0F2439,#FFFFFF
 1964,Houston,Ind,Texas,16,16-10,#FFFFFF,#000000
 1964,Xavier,Ind,Ohio,16,16-10,#FFFFFF,#000000
 1964,Dayton,Ind,Ohio,15,15-10,#FFFFFF,#000000
-1964,Georgetown,Ind,D.C.,15,15-10,#FFFFFF,#000000
+1964,Georgetown,Ind,District of Columbia,15,15-10,#FFFFFF,#000000
 1964,Louisville,Ind,Kentucky,30,"15-10
 NCAA 25",#AD0000,#FFFFFF
 1964,Detroit Mercy,Ind,Michigan,14,14-11,#FFFFFF,#000000
@@ -8668,7 +8668,7 @@ Sweet 16",#0033A0,#FFFFFF
 1964,VMI,SoCon,Virginia,27,"7-7 SoCon
 NCAA 25",#AE122A,#FFFFFF
 1964,Furman,SoCon,South Carolina,11,7-9 SoCon,#FFFFFF,#000000
-1964,George Washington,SoCon,D.C.,11,5-7 SoCon,#FFFFFF,#000000
+1964,George Washington,SoCon,District of Columbia,11,5-7 SoCon,#FFFFFF,#000000
 1964,William & Mary,SoCon,Virginia,9,5-9 SoCon,#FFFFFF,#000000
 1964,The Citadel,SoCon,South Carolina,11,5-8 SoCon,#FFFFFF,#000000
 1964,Richmond,SoCon,Virginia,6,4-12 SoCon,#FFFFFF,#000000
@@ -8774,7 +8774,7 @@ Sweet 16",#003DA5,#FFFFFF
 1965,Manhattan,Ind,New York,13,13-9,#FFFFFF,#000000
 1965,Duquesne,Ind,Pennsylvania,14,14-10,#FFFFFF,#000000
 1965,Creighton,Ind,Nebraska,13,13-10,#FFFFFF,#000000
-1965,Georgetown,Ind,D.C.,13,13-10,#FFFFFF,#000000
+1965,Georgetown,Ind,District of Columbia,13,13-10,#FFFFFF,#000000
 1965,Holy Cross,Ind,Massachusetts,13,13-10,#FFFFFF,#000000
 1965,Syracuse,Ind,New York,13,13-10,#FFFFFF,#000000
 1965,Georgia Tech,Ind,Georgia,14,14-11,#FFFFFF,#000000
@@ -8862,7 +8862,7 @@ Elite 8",#CFAE70,#1C1C1C
 1965,The Citadel,SoCon,South Carolina,13,8-5 SoCon,#FFFFFF,#000000
 1965,West Virginia,SoCon,West Virginia,29,"8-6 SoCon
 NCAA 23",#002855,#EAAA00
-1965,George Washington,SoCon,D.C.,10,6-7 SoCon,#FFFFFF,#000000
+1965,George Washington,SoCon,District of Columbia,10,6-7 SoCon,#FFFFFF,#000000
 1965,William & Mary,SoCon,Virginia,12,6-8 SoCon,#FFFFFF,#000000
 1965,Richmond,SoCon,Virginia,10,6-10 SoCon,#FFFFFF,#000000
 1965,VMI,SoCon,Virginia,8,5-9 SoCon,#FFFFFF,#000000
@@ -8965,7 +8965,7 @@ Elite 8",#F76900,#FFFFFF
 1966,DePaul,Ind,Illinois,18,18-8,#FFFFFF,#000000
 1966,St. John's (NY),Ind,New York,18,18-8,#FFFFFF,#000000
 1966,Detroit Mercy,Ind,Michigan,17,17-8,#FFFFFF,#000000
-1966,Georgetown,Ind,D.C.,16,16-8,#FFFFFF,#000000
+1966,Georgetown,Ind,District of Columbia,16,16-8,#FFFFFF,#000000
 1966,Colorado St.,Ind,Colorado,29,"14-8
 NCAA 22",#1E4D2B,#FFFFFF
 1966,Villanova,Ind,Pennsylvania,18,18-11,#FFFFFF,#000000
@@ -9066,7 +9066,7 @@ Sweet 16",#D42121,#FFFFFF
 1966,Furman,SoCon,South Carolina,9,4-8 SoCon,#FFFFFF,#000000
 1966,VMI,SoCon,Virginia,5,5-11 SoCon,#FFFFFF,#000000
 1966,The Citadel,SoCon,South Carolina,7,4-9 SoCon,#FFFFFF,#000000
-1966,George Washington,SoCon,D.C.,3,3-9 SoCon,#FFFFFF,#000000
+1966,George Washington,SoCon,District of Columbia,3,3-9 SoCon,#FFFFFF,#000000
 1966,SMU,SWC,Texas,37,"11-3 SWC
 Sweet 16",#CC0035,#FFFFFF
 1966,Texas A&M,SWC,Texas,15,11-4 SWC,#FFFFFF,#000000
@@ -9181,7 +9181,7 @@ NCAA 23",#8C0B42,#FFFFFF
 1967,Fairfield,Ind,Connecticut,12,12-9,#FFFFFF,#000000
 1967,Colorado St.,Ind,Colorado,13,13-10,#FFFFFF,#000000
 1967,Fordham,Ind,New York,14,14-11,#FFFFFF,#000000
-1967,Georgetown,Ind,D.C.,12,12-11,#FFFFFF,#000000
+1967,Georgetown,Ind,District of Columbia,12,12-11,#FFFFFF,#000000
 1967,Denver,Ind,Colorado,13,13-12,#FFFFFF,#000000
 1967,Notre Dame,Ind,Indiana,14,14-14,#FFFFFF,#000000
 1967,Xavier,Ind,Ohio,13,13-13,#FFFFFF,#000000
@@ -9229,7 +9229,7 @@ NCAA 23",#003E7E,#FFD200
 NCAA 23",#A41E35,#FFFFFF
 1967,Bucknell,MidA,Pennsylvania,11,6-3 MidA,#FFFFFF,#000000
 1967,Saint Joseph's,MidA,Pennsylvania,16,2-1 MidA,#FFFFFF,#000000
-1967,American,MidA,D.C.,16,3-3 MidA,#FFFFFF,#000000
+1967,American,MidA,District of Columbia,16,3-3 MidA,#FFFFFF,#000000
 1967,Delaware,MidA,Delaware,15,4-5 MidA,#FFFFFF,#000000
 1967,Lehigh,MidA,Pennsylvania,11,4-5 MidA,#FFFFFF,#000000
 1967,La Salle,MidA,Pennsylvania,14,2-3 MidA,#FFFFFF,#000000
@@ -9270,7 +9270,7 @@ NCAA 23",#002855,#EAAA00
 1967,William & Mary,SoCon,Virginia,14,8-5 SoCon,#FFFFFF,#000000
 1967,Richmond,SoCon,Virginia,11,9-7 SoCon,#FFFFFF,#000000
 1967,The Citadel,SoCon,South Carolina,8,6-7 SoCon,#FFFFFF,#000000
-1967,George Washington,SoCon,D.C.,6,5-7 SoCon,#FFFFFF,#000000
+1967,George Washington,SoCon,District of Columbia,6,5-7 SoCon,#FFFFFF,#000000
 1967,Furman,SoCon,South Carolina,9,4-6 SoCon,#FFFFFF,#000000
 1967,East Carolina,SoCon,North Carolina,7,4-8 SoCon,#FFFFFF,#000000
 1967,VMI,SoCon,Virginia,5,4-12 SoCon,#FFFFFF,#000000
@@ -9390,7 +9390,7 @@ NCAA 23",#8D0034,#FEBC18
 1968,Penn St.,Ind,Pennsylvania,10,10-10,#FFFFFF,#000000
 1968,Tulane,Ind,Louisiana,12,12-12,#FFFFFF,#000000
 1968,Georgia Tech,Ind,Georgia,12,12-13,#FFFFFF,#000000
-1968,Georgetown,Ind,D.C.,11,11-12,#FFFFFF,#000000
+1968,Georgetown,Ind,District of Columbia,11,11-12,#FFFFFF,#000000
 1968,Colorado St.,Ind,Colorado,11,11-13,#FFFFFF,#000000
 1968,Navy,Ind,Maryland,9,9-11,#FFFFFF,#000000
 1968,Butler,Ind,Indiana,11,11-14,#FFFFFF,#000000
@@ -9435,7 +9435,7 @@ NCAA 23",#FD5000,#FFFFFF
 1968,La Salle,MidA,Pennsylvania,35,"8-0 MidA
 NCAA 23",#003356,#FFCE00
 1968,Delaware,MidA,Delaware,16,7-2 MidA,#FFFFFF,#000000
-1968,American,MidA,D.C.,14,5-2 MidA,#FFFFFF,#000000
+1968,American,MidA,District of Columbia,14,5-2 MidA,#FFFFFF,#000000
 1968,Temple,MidA,Pennsylvania,19,5-3 MidA,#FFFFFF,#000000
 1968,Lehigh,MidA,Pennsylvania,12,5-5 MidA,#FFFFFF,#000000
 1968,Saint Joseph's,MidA,Pennsylvania,17,2-2 MidA,#FFFFFF,#000000
@@ -9481,7 +9481,7 @@ Elite 8",#D42121,#FFFFFF
 1968,Richmond,SoCon,Virginia,12,8-8 SoCon,#FFFFFF,#000000
 1968,East Carolina,SoCon,North Carolina,9,6-7 SoCon,#FFFFFF,#000000
 1968,William & Mary,SoCon,Virginia,6,4-10 SoCon,#FFFFFF,#000000
-1968,George Washington,SoCon,D.C.,5,2-12 SoCon,#FFFFFF,#000000
+1968,George Washington,SoCon,District of Columbia,5,2-12 SoCon,#FFFFFF,#000000
 1968,TCU,SWC,Texas,40,"9-5 SWC
 Elite 8",#4D1979,#FFFFFF
 1968,Baylor,SWC,Texas,15,8-6 SWC,#FFFFFF,#000000
@@ -9588,7 +9588,7 @@ Elite 8",#1E4D2B,#FFFFFF
 1969,NIU,Ind,Illinois,13,13-11,#FFFFFF,#000000
 1969,Virginia Tech,Ind,Virginia,14,14-12,#FFFFFF,#000000
 1969,Creighton,Ind,Nebraska,13,13-13,#FFFFFF,#000000
-1969,Georgetown,Ind,D.C.,12,12-12,#FFFFFF,#000000
+1969,Georgetown,Ind,District of Columbia,12,12-12,#FFFFFF,#000000
 1969,Georgia Tech,Ind,Georgia,12,12-13,#FFFFFF,#000000
 1969,Tulane,Ind,Louisiana,12,12-14,#FFFFFF,#000000
 1969,West Virginia,Ind,West Virginia,12,12-14,#FFFFFF,#000000
@@ -9642,7 +9642,7 @@ NCAA 25",#9E1B32,#FFFFFF
 1969,Lehigh,MidA,Pennsylvania,7,4-6 MidA,#FFFFFF,#000000
 1969,Rider,MidA,New Jersey,11,2-5 MidA,#FFFFFF,#000000
 1969,Lafayette,MidA,Pennsylvania,9,3-9 MidA,#FFFFFF,#000000
-1969,American,MidA,D.C.,4,0-7 MidA,#FFFFFF,#000000
+1969,American,MidA,District of Columbia,4,0-7 MidA,#FFFFFF,#000000
 1969,Drake,MVC,Iowa,56,"14-3 MVC
 Final 4",#004A7C,#FFFFFF
 1969,Louisville,MVC,Kentucky,21,13-4 MVC,#FFFFFF,#000000
@@ -9685,7 +9685,7 @@ Sweet 16",#0033A0,#FFFFFF
 1969,Davidson,SoCon,North Carolina,52,"9-0 SoCon
 Elite 8",#D42121,#FFFFFF
 1969,East Carolina,SoCon,North Carolina,17,9-2 SoCon,#FFFFFF,#000000
-1969,George Washington,SoCon,D.C.,14,7-5 SoCon,#FFFFFF,#000000
+1969,George Washington,SoCon,District of Columbia,14,7-5 SoCon,#FFFFFF,#000000
 1969,Richmond,SoCon,Virginia,13,8-7 SoCon,#FFFFFF,#000000
 1969,Furman,SoCon,South Carolina,9,5-6 SoCon,#FFFFFF,#000000
 1969,The Citadel,SoCon,South Carolina,13,5-8 SoCon,#FFFFFF,#000000
@@ -9782,7 +9782,7 @@ Elite 8",#002664,#FFFFFF
 1970,Notre Dame,Ind,Indiana,41,"21-8
 Sweet 16",#0C2340,#AE9142
 1970,St. John's (NY),Ind,New York,21,21-8,#FFFFFF,#000000
-1970,Georgetown,Ind,D.C.,18,18-7,#FFFFFF,#000000
+1970,Georgetown,Ind,District of Columbia,18,18-7,#FFFFFF,#000000
 1970,Duquesne,Ind,Pennsylvania,17,17-7,#FFFFFF,#000000
 1970,Dayton,Ind,Ohio,34,"19-8
 NCAA 25",#CE0037,#FFFFFF
@@ -9846,7 +9846,7 @@ NCAA 25",#00694E,#FFFFFF
 1970,La Salle,MidA,Pennsylvania,14,4-2 MidA,#FFFFFF,#000000
 1970,Temple,MidA,Pennsylvania,30,"6-2 MidA
 NCAA 25",#A41E35,#FFFFFF
-1970,American,MidA,D.C.,11,4-4 MidA,#FFFFFF,#000000
+1970,American,MidA,District of Columbia,11,4-4 MidA,#FFFFFF,#000000
 1970,Hofstra,MidA,New York,13,1-3 MidA,#FFFFFF,#000000
 1970,Lehigh,MidA,Pennsylvania,13,8-4 MidA,#FFFFFF,#000000
 1970,Rider,MidA,New Jersey,16,9-5 MidA,#FFFFFF,#000000
@@ -9901,7 +9901,7 @@ Elite 8",#0033A0,#FFFFFF
 1970,Davidson,SoCon,North Carolina,37,"10-0 SoCon
 NCAA 25",#D42121,#FFFFFF
 1970,East Carolina,SoCon,North Carolina,16,9-2 SoCon,#FFFFFF,#000000
-1970,George Washington,SoCon,D.C.,12,6-4 SoCon,#FFFFFF,#000000
+1970,George Washington,SoCon,District of Columbia,12,6-4 SoCon,#FFFFFF,#000000
 1970,Furman,SoCon,South Carolina,13,6-6 SoCon,#FFFFFF,#000000
 1970,William & Mary,SoCon,Virginia,11,6-7 SoCon,#FFFFFF,#000000
 1970,The Citadel,SoCon,South Carolina,8,4-9 SoCon,#FFFFFF,#000000
@@ -10027,13 +10027,13 @@ Sweet 16",#0C2340,#AE9142
 1971,Navy,Ind,Maryland,12,12-12,#FFFFFF,#000000
 1971,UTRGV,Ind,Texas,13,13-13,#FFFFFF,#000000
 1971,Air Force,Ind,Colorado,12,12-14,#FFFFFF,#000000
-1971,Georgetown,Ind,D.C.,12,12-14,#FFFFFF,#000000
+1971,Georgetown,Ind,District of Columbia,12,12-14,#FFFFFF,#000000
 1971,Seattle U,Ind,Washington,12,12-14,#FFFFFF,#000000
 1971,Army West Point,Ind,New York,11,11-13,#FFFFFF,#000000
 1971,Saint Peter's,Ind,New Jersey,11,11-13,#FFFFFF,#000000
 1971,Iona,Ind,New York,10,10-12,#FFFFFF,#000000
 1971,Penn St.,Ind,Pennsylvania,10,10-12,#FFFFFF,#000000
-1971,George Washington,Ind,D.C.,11,11-14,#FFFFFF,#000000
+1971,George Washington,Ind,District of Columbia,11,11-14,#FFFFFF,#000000
 1971,Seton Hall,Ind,New Jersey,11,11-15,#FFFFFF,#000000
 1971,LIU,Ind,New York,10,10-15,#FFFFFF,#000000
 1971,Butler,Ind,Indiana,10,10-16,#FFFFFF,#000000
@@ -10068,7 +10068,7 @@ NCAA 25",#9E1B32,#FFFFFF
 1971,La Salle,MidA,Pennsylvania,20,4-2 MidA,#FFFFFF,#000000
 1971,Hofstra,MidA,New York,16,2-3 MidA,#FFFFFF,#000000
 1971,Temple,MidA,Pennsylvania,13,3-3 MidA,#FFFFFF,#000000
-1971,American,MidA,D.C.,13,3-5 MidA,#FFFFFF,#000000
+1971,American,MidA,District of Columbia,13,3-5 MidA,#FFFFFF,#000000
 1971,Drexel,MidA,Pennsylvania,7,7-17,#FFFFFF,#000000
 1971,Lafayette,MidA,Pennsylvania,17,10-2 MidA,#FFFFFF,#000000
 1971,Rider,MidA,New Jersey,20,10-4 MidA,#FFFFFF,#000000
@@ -10257,7 +10257,7 @@ Sweet 16",#002664,#FFFFFF
 1972,Xavier,Ind,Ohio,12,12-14,#FFFFFF,#000000
 1972,Army West Point,Ind,New York,11,11-13,#FFFFFF,#000000
 1972,Manhattan,Ind,New York,11,11-13,#FFFFFF,#000000
-1972,George Washington,Ind,D.C.,11,11-14,#FFFFFF,#000000
+1972,George Washington,Ind,District of Columbia,11,11-14,#FFFFFF,#000000
 1972,Navy,Ind,Maryland,10,10-13,#FFFFFF,#000000
 1972,Denver,Ind,Colorado,11,11-15,#FFFFFF,#000000
 1972,Portland,Ind,Oregon,10,10-16,#FFFFFF,#000000
@@ -10273,7 +10273,7 @@ Sweet 16",#002664,#FFFFFF
 1972,Georgia Tech,Ind,Georgia,6,6-20,#FFFFFF,#000000
 1972,Notre Dame,Ind,Indiana,6,6-20,#FFFFFF,#000000
 1972,Stetson,Ind,Florida,6,6-20,#FFFFFF,#000000
-1972,Georgetown,Ind,D.C.,3,3-23,#FFFFFF,#000000
+1972,Georgetown,Ind,District of Columbia,3,3-23,#FFFFFF,#000000
 1972,Penn,Ivy,Pennsylvania,50,"13-1 Ivy
 Elite 8",#011F5B,#FFFFFF
 1972,Princeton,Ivy,New Jersey,20,12-2 Ivy,#FFFFFF,#000000
@@ -10291,7 +10291,7 @@ NCAA 25",#00694E,#FFFFFF
 1972,Miami (OH),MAC,Ohio,12,4-6 MAC,#FFFFFF,#000000
 1972,Bowling Green,MAC,Ohio,4,1-9 MAC,#FFFFFF,#000000
 1972,N.C. A&T,MEAC,North Carolina,20,20-6,#FFFFFF,#000000
-1972,Howard,MEAC,D.C.,18,18-9,#FFFFFF,#000000
+1972,Howard,MEAC,District of Columbia,18,18-9,#FFFFFF,#000000
 1972,UMES,MEAC,Maryland,20,20-7,#FFFFFF,#000000
 1972,Morgan St.,MEAC,Maryland,16,16-10,#FFFFFF,#000000
 1972,South Carolina St.,MEAC,South Carolina,15,15-11,#FFFFFF,#000000
@@ -10300,7 +10300,7 @@ NCAA 25",#00694E,#FFFFFF
 1972,Temple,MidA,Pennsylvania,38,"5-0 MidA
 NCAA 25",#A41E35,#FFFFFF
 1972,Saint Joseph's,MidA,Pennsylvania,19,4-1 MidA,#FFFFFF,#000000
-1972,American,MidA,D.C.,16,5-4 MidA,#FFFFFF,#000000
+1972,American,MidA,District of Columbia,16,5-4 MidA,#FFFFFF,#000000
 1972,Hofstra,MidA,New York,11,1-4 MidA,#FFFFFF,#000000
 1972,La Salle,MidA,Pennsylvania,6,1-5 MidA,#FFFFFF,#000000
 1972,Drexel,MidA,Pennsylvania,11,11-14,#FFFFFF,#000000
@@ -10464,7 +10464,7 @@ NCAA 25",#CF102D,#FFFFFF
 1973,Fairfield,Ind,Connecticut,18,18-9,#FFFFFF,#000000
 1973,Cincinnati,Ind,Ohio,17,17-9,#FFFFFF,#000000
 1973,Denver,Ind,Colorado,17,17-9,#FFFFFF,#000000
-1973,George Washington,Ind,D.C.,17,17-9,#FFFFFF,#000000
+1973,George Washington,Ind,District of Columbia,17,17-9,#FFFFFF,#000000
 1973,Penn St.,Ind,Pennsylvania,15,15-8,#FFFFFF,#000000
 1973,Detroit Mercy,Ind,Michigan,16,16-9,#FFFFFF,#000000
 1973,Indiana St.,Ind,Indiana,16,16-10,#FFFFFF,#000000
@@ -10488,7 +10488,7 @@ NCAA 25",#CF102D,#FFFFFF
 1973,FDU,Ind,New Jersey,13,13-13,#FFFFFF,#000000
 1973,Portland St.,Ind,Oregon,12,12-12,#FFFFFF,#000000
 1973,St. Bonaventure,Ind,New York,13,13-13,#FFFFFF,#000000
-1973,Georgetown,Ind,D.C.,12,12-14,#FFFFFF,#000000
+1973,Georgetown,Ind,District of Columbia,12,12-14,#FFFFFF,#000000
 1973,Pittsburgh,Ind,Pennsylvania,12,12-14,#FFFFFF,#000000
 1973,Tulane,Ind,Louisiana,12,12-14,#FFFFFF,#000000
 1973,Army West Point,Ind,New York,11,11-13,#FFFFFF,#000000
@@ -10533,7 +10533,7 @@ NCAA 25",#C41230,#FFFFFF
 1973,Central Mich.,MAC,Michigan,13,13-13,#FFFFFF,#000000
 1973,Western Mich.,MAC,Michigan,8,2-8 MAC,#FFFFFF,#000000
 1973,UMES,MEAC,Maryland,26,26-5,#FFFFFF,#000000
-1973,Howard,MEAC,D.C.,22,22-6,#FFFFFF,#000000
+1973,Howard,MEAC,District of Columbia,22,22-6,#FFFFFF,#000000
 1973,Morgan St.,MEAC,Maryland,20,20-8,#FFFFFF,#000000
 1973,N.C. A&T,MEAC,North Carolina,16,16-11,#FFFFFF,#000000
 1973,South Carolina St.,MEAC,South Carolina,17,17-14,#FFFFFF,#000000
@@ -10542,7 +10542,7 @@ NCAA 25",#C41230,#FFFFFF
 1973,Saint Joseph's,MidA,Pennsylvania,37,"6-0 MidA
 NCAA 25",#9E1B32,#FFFFFF
 1973,Temple,MidA,Pennsylvania,17,4-1 MidA,#FFFFFF,#000000
-1973,American,MidA,D.C.,21,5-2 MidA,#FFFFFF,#000000
+1973,American,MidA,District of Columbia,21,5-2 MidA,#FFFFFF,#000000
 1973,La Salle,MidA,Pennsylvania,15,3-5 MidA,#FFFFFF,#000000
 1973,Drexel,MidA,Pennsylvania,14,14-7,#FFFFFF,#000000
 1973,Hofstra,MidA,New York,8,0-5 MidA,#FFFFFF,#000000
@@ -10732,7 +10732,7 @@ Sweet 16",#CE0037,#FFFFFF
 1974,Portland St.,Ind,Oregon,16,16-11,#FFFFFF,#000000
 1974,Seton Hall,Ind,New Jersey,16,16-11,#FFFFFF,#000000
 1974,UTRGV,Ind,Texas,13,13-9,#FFFFFF,#000000
-1974,George Washington,Ind,D.C.,15,15-11,#FFFFFF,#000000
+1974,George Washington,Ind,District of Columbia,15,15-11,#FFFFFF,#000000
 1974,Portland,Ind,Oregon,15,15-11,#FFFFFF,#000000
 1974,Saint Francis,Ind,Pennsylvania,15,15-11,#FFFFFF,#000000
 1974,Ball St.,Ind,Indiana,14,14-12,#FFFFFF,#000000
@@ -10743,7 +10743,7 @@ Sweet 16",#CE0037,#FFFFFF
 1974,Northeastern,Ind,Massachusetts,12,12-11,#FFFFFF,#000000
 1974,LIU,Ind,New York,13,13-12,#FFFFFF,#000000
 1974,Duquesne,Ind,Pennsylvania,12,12-12,#FFFFFF,#000000
-1974,Georgetown,Ind,D.C.,13,13-13,#FFFFFF,#000000
+1974,Georgetown,Ind,District of Columbia,13,13-13,#FFFFFF,#000000
 1974,Virginia Tech,Ind,Virginia,13,13-13,#FFFFFF,#000000
 1974,Indiana St.,Ind,Indiana,12,12-14,#FFFFFF,#000000
 1974,Loyola Chicago,Ind,Illinois,12,12-14,#FFFFFF,#000000
@@ -10793,13 +10793,13 @@ NCAA 25",#00694E,#FFFFFF
 1974,Morgan St.,MEAC,Maryland,28,28-5,#FFFFFF,#000000
 1974,N.C. A&T,MEAC,North Carolina,16,5-3 MEAC,#FFFFFF,#000000
 1974,Delaware St.,MEAC,Delaware,18,3-5 MEAC,#FFFFFF,#000000
-1974,Howard,MEAC,D.C.,11,3-5 MEAC,#FFFFFF,#000000
+1974,Howard,MEAC,District of Columbia,11,3-5 MEAC,#FFFFFF,#000000
 1974,South Carolina St.,MEAC,South Carolina,13,1-7 MEAC,#FFFFFF,#000000
 1974,N.C. Central,MEAC,North Carolina,5,5-16,#FFFFFF,#000000
 1974,La Salle,MidA,Pennsylvania,18,7-1 MidA,#FFFFFF,#000000
 1974,Saint Joseph's,MidA,Pennsylvania,34,"6-1 MidA
 NCAA 25",#9E1B32,#FFFFFF
-1974,American,MidA,D.C.,16,7-2 MidA,#FFFFFF,#000000
+1974,American,MidA,District of Columbia,16,7-2 MidA,#FFFFFF,#000000
 1974,Temple,MidA,Pennsylvania,16,4-2 MidA,#FFFFFF,#000000
 1974,Drexel,MidA,Pennsylvania,15,4-6 MidA,#FFFFFF,#000000
 1974,Hofstra,MidA,New York,8,1-5 MidA,#FFFFFF,#000000
@@ -10942,7 +10942,7 @@ NCAA 32",#00274C,#FFCB05
 1975,Northwestern,B1G,Illinois,6,4-14 B1G,#FFFFFF,#000000
 1975,La Salle,ECC,Pennsylvania,37,"7-1 ECC
 NCAA 32",#003356,#FFCE00
-1975,American,ECC,D.C.,16,5-2 ECC,#FFFFFF,#000000
+1975,American,ECC,District of Columbia,16,5-2 ECC,#FFFFFF,#000000
 1975,Temple,ECC,Pennsylvania,7,3-3 ECC,#FFFFFF,#000000
 1975,Saint Joseph's,ECC,Pennsylvania,8,3-3 ECC,#FFFFFF,#000000
 1975,Hofstra,ECC,New York,11,2-3 ECC,#FFFFFF,#000000
@@ -10983,9 +10983,9 @@ Sweet 16",#862633,#B29D6C
 Sweet 16",#0C2340,#AE9142
 1975,Detroit Mercy,Ind,Michigan,17,17-9,#FFFFFF,#000000
 1975,Providence,Ind,Rhode Island,20,20-11,#FFFFFF,#000000
-1975,Georgetown,Ind,D.C.,33,"18-10
+1975,Georgetown,Ind,District of Columbia,33,"18-10
 NCAA 32",#041E42,#FFFFFF
-1975,George Washington,Ind,D.C.,17,17-10,#FFFFFF,#000000
+1975,George Washington,Ind,District of Columbia,17,17-10,#FFFFFF,#000000
 1975,Pittsburgh,Ind,Pennsylvania,18,18-11,#FFFFFF,#000000
 1975,Houston,Ind,Texas,16,16-10,#FFFFFF,#000000
 1975,Illinois St.,Ind,Illinois,16,16-10,#FFFFFF,#000000
@@ -11062,7 +11062,7 @@ Sweet 16",#6A0032,#FFFFFF
 1975,Morgan St.,MEAC,Maryland,19,19-10,#FFFFFF,#000000
 1975,Delaware St.,MEAC,Delaware,15,5-3 MEAC,#FFFFFF,#000000
 1975,South Carolina St.,MEAC,South Carolina,14,4-4 MEAC,#FFFFFF,#000000
-1975,Howard,MEAC,D.C.,13,4-4 MEAC,#FFFFFF,#000000
+1975,Howard,MEAC,District of Columbia,13,4-4 MEAC,#FFFFFF,#000000
 1975,N.C. Central,MEAC,North Carolina,10,10-16,#FFFFFF,#000000
 1975,UMES,MEAC,Maryland,2,0-8 MEAC,#FFFFFF,#000000
 1975,Louisville,MVC,Kentucky,58,"12-2 MVC
@@ -11207,7 +11207,7 @@ Runner-up",#00274C,#FFCB05
 NCAA 32",#13579A,#FDC82F
 1976,Temple,ECC,Pennsylvania,9,3-2 ECC,#FFFFFF,#000000
 1976,La Salle,ECC,Pennsylvania,11,2-4 ECC,#FFFFFF,#000000
-1976,American,ECC,D.C.,9,2-5 ECC,#FFFFFF,#000000
+1976,American,ECC,District of Columbia,9,2-5 ECC,#FFFFFF,#000000
 1976,Lafayette,ECC,Pennsylvania,19,8-1 ECC,#FFFFFF,#000000
 1976,Rider,ECC,New Jersey,14,5-7 ECC,#FFFFFF,#000000
 1976,Bucknell,ECC,Pennsylvania,13,4-5 ECC,#FFFFFF,#000000
@@ -11228,11 +11228,11 @@ Sweet 16",#0C2340,#AE9142
 NCAA 32",#CF102D,#FFFFFF
 1976,Florida St.,Ind,Florida,21,21-6,#FFFFFF,#000000
 1976,Oral Roberts,Ind,Oklahoma,20,20-6,#FFFFFF,#000000
-1976,Georgetown,Ind,D.C.,36,"21-7
+1976,Georgetown,Ind,District of Columbia,36,"21-7
 NCAA 32",#041E42,#FFFFFF
 1976,Virginia Tech,Ind,Virginia,36,"21-7
 NCAA 32",#861F41,#FFFFFF
-1976,George Washington,Ind,D.C.,20,20-7,#FFFFFF,#000000
+1976,George Washington,Ind,District of Columbia,20,20-7,#FFFFFF,#000000
 1976,Illinois St.,Ind,Illinois,20,20-7,#FFFFFF,#000000
 1976,Creighton,Ind,Nebraska,19,19-7,#FFFFFF,#000000
 1976,ULM,Ind,Louisiana,18,18-7,#FFFFFF,#000000
@@ -11319,7 +11319,7 @@ Sweet 16",#F1C500,#532E1F
 1976,N.C. A&T,MEAC,North Carolina,20,6-0 MEAC,#FFFFFF,#000000
 1976,Morgan St.,MEAC,Maryland,22,22-6,#FFFFFF,#000000
 1976,South Carolina St.,MEAC,South Carolina,17,4-2 MEAC,#FFFFFF,#000000
-1976,Howard,MEAC,D.C.,8,1-5 MEAC,#FFFFFF,#000000
+1976,Howard,MEAC,District of Columbia,8,1-5 MEAC,#FFFFFF,#000000
 1976,Delaware St.,MEAC,Delaware,6,1-5 MEAC,#FFFFFF,#000000
 1976,N.C. Central,MEAC,North Carolina,8,8-20,#FFFFFF,#000000
 1976,UMES,MEAC,Maryland,2,2-21,#FFFFFF,#000000
@@ -11470,7 +11470,7 @@ NCAA 32",#13579A,#FDC82F
 1977,Temple,ECC,Pennsylvania,17,4-1 ECC,#FFFFFF,#000000
 1977,La Salle,ECC,Pennsylvania,17,4-2 ECC,#FFFFFF,#000000
 1977,Saint Joseph's,ECC,Pennsylvania,13,4-3 ECC,#FFFFFF,#000000
-1977,American,ECC,D.C.,13,5-4 ECC,#FFFFFF,#000000
+1977,American,ECC,District of Columbia,13,5-4 ECC,#FFFFFF,#000000
 1977,Drexel,ECC,Pennsylvania,11,3-6 ECC,#FFFFFF,#000000
 1977,Lafayette,ECC,Pennsylvania,21,8-2 ECC,#FFFFFF,#000000
 1977,Delaware,ECC,Delaware,12,5-6 ECC,#FFFFFF,#000000
@@ -11479,7 +11479,7 @@ NCAA 32",#13579A,#FDC82F
 1977,Rider,ECC,New Jersey,8,1-10 ECC,#FFFFFF,#000000
 1977,Rutgers,ECBL,New Jersey,18,7-1 ECBL,#FFFFFF,#000000
 1977,Villanova,ECBL,Pennsylvania,23,6-1 ECBL,#FFFFFF,#000000
-1977,George Washington,ECBL,D.C.,14,5-3 ECBL,#FFFFFF,#000000
+1977,George Washington,ECBL,District of Columbia,14,5-3 ECBL,#FFFFFF,#000000
 1977,Massachusetts,ECBL,Massachusetts,20,3-4 ECBL,#FFFFFF,#000000
 1977,West Virginia,ECBL,West Virginia,18,5-5 ECBL,#FFFFFF,#000000
 1977,Penn St.,ECBL,Pennsylvania,11,5-5 ECBL,#FFFFFF,#000000
@@ -11507,7 +11507,7 @@ Sweet 16",#0C2340,#AE9142
 1977,Oral Roberts,Ind,Oklahoma,21,21-7,#FFFFFF,#000000
 1977,Army West Point,Ind,New York,20,20-8,#FFFFFF,#000000
 1977,Milwaukee,Ind,Wisconsin,19,19-8,#FFFFFF,#000000
-1977,Georgetown,Ind,D.C.,19,19-9,#FFFFFF,#000000
+1977,Georgetown,Ind,District of Columbia,19,19-9,#FFFFFF,#000000
 1977,Virginia Tech,Ind,Virginia,19,19-10,#FFFFFF,#000000
 1977,James Madison,Ind,Virginia,17,17-9,#FFFFFF,#000000
 1977,Northwestern St.,Ind,Louisiana,17,17-9,#FFFFFF,#000000
@@ -11580,7 +11580,7 @@ NCAA 32",#6A0032,#FFFFFF
 1977,Eastern Mich.,MAC,Michigan,9,4-12 MAC,#FFFFFF,#000000
 1977,Kent St.,MAC,Ohio,8,4-12 MAC,#FFFFFF,#000000
 1977,South Carolina St.,MEAC,South Carolina,15,5-1 MEAC,#FFFFFF,#000000
-1977,Howard,MEAC,D.C.,16,5-1 MEAC,#FFFFFF,#000000
+1977,Howard,MEAC,District of Columbia,16,5-1 MEAC,#FFFFFF,#000000
 1977,N.C. Central,MEAC,North Carolina,13,13-15,#FFFFFF,#000000
 1977,Morgan St.,MEAC,Maryland,18,18-11,#FFFFFF,#000000
 1977,UMES,MEAC,Maryland,7,7-19,#FFFFFF,#000000
@@ -11746,14 +11746,14 @@ Elite 8",#002664,#FFFFFF
 1978,Pittsburgh,EAA,Pennsylvania,16,5-5 EAA,#FFFFFF,#000000
 1978,Massachusetts,EAA,Massachusetts,15,5-5 EAA,#FFFFFF,#000000
 1978,Duquesne,EAA,Pennsylvania,11,5-5 EAA,#FFFFFF,#000000
-1978,George Washington,EAA,D.C.,15,4-6 EAA,#FFFFFF,#000000
+1978,George Washington,EAA,District of Columbia,15,4-6 EAA,#FFFFFF,#000000
 1978,Penn St.,EAA,Pennsylvania,8,4-6 EAA,#FFFFFF,#000000
 1978,West Virginia,EAA,West Virginia,12,3-7 EAA,#FFFFFF,#000000
 1978,La Salle,ECC,Pennsylvania,33,"7-0 ECC
 NCAA 32",#003356,#FFCE00
 1978,Temple,ECC,Pennsylvania,24,7-1 ECC,#FFFFFF,#000000
 1978,Saint Joseph's,ECC,Pennsylvania,13,5-3 ECC,#FFFFFF,#000000
-1978,American,ECC,D.C.,16,6-4 ECC,#FFFFFF,#000000
+1978,American,ECC,District of Columbia,16,6-4 ECC,#FFFFFF,#000000
 1978,Drexel,ECC,Pennsylvania,13,6-5 ECC,#FFFFFF,#000000
 1978,Hofstra,ECC,New York,8,0-5 ECC,#FFFFFF,#000000
 1978,Lafayette,ECC,Pennsylvania,23,11-1 ECC,#FFFFFF,#000000
@@ -11778,7 +11778,7 @@ NCAA 32",#002147,#FFFFFF
 1978,Providence,Ind,Rhode Island,39,"24-8
 NCAA 32",#8A8D8F,#000000
 1978,Utah St.,Ind,Utah,21,21-7,#FFFFFF,#000000
-1978,Georgetown,Ind,D.C.,23,23-8,#FFFFFF,#000000
+1978,Georgetown,Ind,District of Columbia,23,23-8,#FFFFFF,#000000
 1978,Notre Dame,Ind,Indiana,53,"23-8
 Final 4",#0C2340,#AE9142
 1978,Holy Cross,Ind,Massachusetts,20,20-7,#FFFFFF,#000000
@@ -11860,7 +11860,7 @@ Sweet 16",#C41230,#FFFFFF
 1978,Kent St.,MAC,Ohio,6,4-12 MAC,#FFFFFF,#000000
 1978,N.C. A&T,MEAC,North Carolina,20,7-1 MEAC,#FFFFFF,#000000
 1978,Morgan St.,MEAC,Maryland,15,15-12,#FFFFFF,#000000
-1978,Howard,MEAC,D.C.,14,4-4 MEAC,#FFFFFF,#000000
+1978,Howard,MEAC,District of Columbia,14,4-4 MEAC,#FFFFFF,#000000
 1978,South Carolina St.,MEAC,South Carolina,16,3-6 MEAC,#FFFFFF,#000000
 1978,Delaware St.,MEAC,Delaware,10,2-7 MEAC,#FFFFFF,#000000
 1978,UMES,MEAC,Maryland,7,7-19,#FFFFFF,#000000
@@ -12028,7 +12028,7 @@ NCAA 32",#FFCD00,#000000
 Sweet 16",#CC0033,#FFFFFF
 1979,West Virginia,EAA,West Virginia,16,7-3 EAA,#FFFFFF,#000000
 1979,Pittsburgh,EAA,Pennsylvania,18,6-4 EAA,#FFFFFF,#000000
-1979,George Washington,EAA,D.C.,13,5-5 EAA,#FFFFFF,#000000
+1979,George Washington,EAA,District of Columbia,13,5-5 EAA,#FFFFFF,#000000
 1979,Penn St.,EAA,Pennsylvania,12,4-6 EAA,#FFFFFF,#000000
 1979,Duquesne,EAA,Pennsylvania,13,2-8 EAA,#FFFFFF,#000000
 1979,Massachusetts,EAA,Massachusetts,5,0-10 EAA,#FFFFFF,#000000
@@ -12036,7 +12036,7 @@ Sweet 16",#CC0033,#FFFFFF
 NCAA 40",#A41E35,#FFFFFF
 1979,Saint Joseph's,ECC,Pennsylvania,19,9-2 ECC,#FFFFFF,#000000
 1979,La Salle,ECC,Pennsylvania,15,9-2 ECC,#FFFFFF,#000000
-1979,American,ECC,D.C.,14,7-4 ECC,#FFFFFF,#000000
+1979,American,ECC,District of Columbia,14,7-4 ECC,#FFFFFF,#000000
 1979,Drexel,ECC,Pennsylvania,18,7-5 ECC,#FFFFFF,#000000
 1979,Hofstra,ECC,New York,8,3-8 ECC,#FFFFFF,#000000
 1979,Bucknell,ECC,Pennsylvania,18,11-5 ECC,#FFFFFF,#000000
@@ -12046,7 +12046,7 @@ NCAA 40",#A41E35,#FFFFFF
 1979,Delaware,ECC,Delaware,5,2-14 ECC,#FFFFFF,#000000
 1979,Syracuse,Ind,New York,46,"26-4
 Sweet 16",#F76900,#FFFFFF
-1979,Georgetown,Ind,D.C.,39,"24-5
+1979,Georgetown,Ind,District of Columbia,39,"24-5
 NCAA 32",#041E42,#FFFFFF
 1979,DePaul,Ind,Illinois,56,"26-6
 Final 4",#003DA5,#FFFFFF
@@ -12140,7 +12140,7 @@ Sweet 16",#003E7E,#FFD200
 1979,Western Mich.,MAC,Michigan,7,3-13 MAC,#FFFFFF,#000000
 1979,N.C. A&T,MEAC,North Carolina,20,5-1 MEAC,#FFFFFF,#000000
 1979,Delaware St.,MEAC,Delaware,18,3-3 MEAC,#FFFFFF,#000000
-1979,Howard,MEAC,D.C.,16,3-3 MEAC,#FFFFFF,#000000
+1979,Howard,MEAC,District of Columbia,16,3-3 MEAC,#FFFFFF,#000000
 1979,Morgan St.,MEAC,Maryland,18,18-12,#FFFFFF,#000000
 1979,UMES,MEAC,Maryland,7,7-16,#FFFFFF,#000000
 1979,N.C. Central,MEAC,North Carolina,6,6-21,#FFFFFF,#000000
@@ -12305,7 +12305,7 @@ NCAA 32",#512888,#FFFFFF
 Sweet 16",#F76900,#FFFFFF
 1980,St. John's (NY),BE,New York,39,"5-1 BE
 NCAA 32",#CF102D,#FFFFFF
-1980,Georgetown,BE,D.C.,51,"5-1 BE
+1980,Georgetown,BE,District of Columbia,51,"5-1 BE
 Elite 8",#041E42,#FFFFFF
 1980,UConn,BE,Connecticut,20,3-3 BE,#FFFFFF,#000000
 1980,Boston College,BE,Massachusetts,19,2-4 BE,#FFFFFF,#000000
@@ -12339,7 +12339,7 @@ NCAA 32",#002664,#FFFFFF
 1980,Duquesne,EAA,Pennsylvania,18,6-3 EAA,#FFFFFF,#000000
 1980,Rutgers,EAA,New Jersey,14,6-3 EAA,#FFFFFF,#000000
 1980,Pittsburgh,EAA,Pennsylvania,17,5-4 EAA,#FFFFFF,#000000
-1980,George Washington,EAA,D.C.,15,5-5 EAA,#FFFFFF,#000000
+1980,George Washington,EAA,District of Columbia,15,5-5 EAA,#FFFFFF,#000000
 1980,St. Bonaventure,EAA,New York,16,1-3 EAA,#FFFFFF,#000000
 1980,West Virginia,EAA,West Virginia,15,4-4 EAA,#FFFFFF,#000000
 1980,Massachusetts,EAA,Massachusetts,2,0-9 EAA,#FFFFFF,#000000
@@ -12348,7 +12348,7 @@ NCAA 32",#002664,#FFFFFF
 1980,La Salle,ECC,Pennsylvania,37,"7-4 ECC
 NCAA 48",#003356,#FFCE00
 1980,Hofstra,ECC,New York,14,6-5 ECC,#FFFFFF,#000000
-1980,American,ECC,D.C.,13,5-6 ECC,#FFFFFF,#000000
+1980,American,ECC,District of Columbia,13,5-6 ECC,#FFFFFF,#000000
 1980,Drexel,ECC,Pennsylvania,12,4-7 ECC,#FFFFFF,#000000
 1980,Lafayette,ECC,Pennsylvania,21,13-3 ECC,#FFFFFF,#000000
 1980,Bucknell,ECC,Pennsylvania,20,13-3 ECC,#FFFFFF,#000000
@@ -12432,7 +12432,7 @@ NCAA 48",#003E7E,#FFD200
 1980,Western Mich.,MAC,Michigan,12,7-9 MAC,#FFFFFF,#000000
 1980,Central Mich.,MAC,Michigan,12,6-10 MAC,#FFFFFF,#000000
 1980,Ohio,MAC,Ohio,8,5-11 MAC,#FFFFFF,#000000
-1980,Howard,MEAC,D.C.,21,6-1 MEAC,#FFFFFF,#000000
+1980,Howard,MEAC,District of Columbia,21,6-1 MEAC,#FFFFFF,#000000
 1980,Delaware St.,MEAC,Delaware,15,4-2 MEAC,#FFFFFF,#000000
 1980,South Carolina St.,MEAC,South Carolina,12,3-2 MEAC,#FFFFFF,#000000
 1980,Florida A&M,MEAC,Florida,7,1-3 MEAC,#FFFFFF,#000000
@@ -12608,7 +12608,7 @@ Sweet 16",#0051BA,#FFFFFF
 1981,Iowa St.,B8,Iowa,9,2-12 B8,#FFFFFF,#000000
 1981,Boston College,BE,Massachusetts,43,"10-4 BE
 Sweet 16",#862633,#B29D6C
-1981,Georgetown,BE,D.C.,35,"9-5 BE
+1981,Georgetown,BE,District of Columbia,35,"9-5 BE
 NCAA 48",#041E42,#FFFFFF
 1981,St. John's (NY),BE,New York,17,8-6 BE,#FFFFFF,#000000
 1981,Villanova,BE,Pennsylvania,35,"8-6 BE
@@ -12646,9 +12646,9 @@ Sweet 16",#FF5F05,#13294B
 NCAA 32",#003594,#FFB81C
 1981,Rutgers,EAA,New Jersey,16,7-6 EAA,#FFFFFF,#000000
 1981,St. Bonaventure,EAA,New York,14,6-7 EAA,#FFFFFF,#000000
-1981,George Washington,EAA,D.C.,8,4-9 EAA,#FFFFFF,#000000
+1981,George Washington,EAA,District of Columbia,8,4-9 EAA,#FFFFFF,#000000
 1981,Massachusetts,EAA,Massachusetts,3,0-13 EAA,#FFFFFF,#000000
-1981,American,ECC,D.C.,24,11-0 ECC,#FFFFFF,#000000
+1981,American,ECC,District of Columbia,24,11-0 ECC,#FFFFFF,#000000
 1981,Saint Joseph's,ECC,Pennsylvania,50,"9-2 ECC
 Elite 8",#9E1B32,#FFFFFF
 1981,Temple,ECC,Pennsylvania,20,9-2 ECC,#FFFFFF,#000000
@@ -12740,7 +12740,7 @@ NCAA 48",#BA0C2F,#FFFFFF
 1981,Kent St.,MAC,Ohio,7,5-11 MAC,#FFFFFF,#000000
 1981,N.C. A&T,MEAC,North Carolina,21,7-3 MEAC,#FFFFFF,#000000
 1981,Florida A&M,MEAC,Florida,17,6-4 MEAC,#FFFFFF,#000000
-1981,Howard,MEAC,D.C.,32,"6-4 MEAC
+1981,Howard,MEAC,District of Columbia,32,"6-4 MEAC
 NCAA 48",#003A63,#FFFFFF
 1981,South Carolina St.,MEAC,South Carolina,11,5-6 MEAC,#FFFFFF,#000000
 1981,Bethune-Cookman,MEAC,Florida,13,4-7 MEAC,#FFFFFF,#000000
@@ -12912,7 +12912,7 @@ Sweet 16",#512888,#FFFFFF
 1982,Colorado,B8,Colorado,11,3-11 B8,#FFFFFF,#000000
 1982,Villanova,BE,Pennsylvania,49,"11-3 BE
 Elite 8",#002664,#FFFFFF
-1982,Georgetown,BE,D.C.,65,"10-4 BE
+1982,Georgetown,BE,District of Columbia,65,"10-4 BE
 Runner-up",#041E42,#FFFFFF
 1982,St. John's (NY),BE,New York,36,"9-5 BE
 NCAA 32",#CF102D,#FFFFFF
@@ -12951,14 +12951,14 @@ NCAA 32",#002855,#EAAA00
 1982,Pittsburgh,EAA,Pennsylvania,35,"8-6 EAA
 NCAA 48",#003594,#FFB81C
 1982,St. Bonaventure,EAA,New York,14,7-7 EAA,#FFFFFF,#000000
-1982,George Washington,EAA,D.C.,13,7-7 EAA,#FFFFFF,#000000
+1982,George Washington,EAA,District of Columbia,13,7-7 EAA,#FFFFFF,#000000
 1982,Duquesne,EAA,Pennsylvania,11,5-9 EAA,#FFFFFF,#000000
 1982,Rhode Island,EAA,Rhode Island,10,4-10 EAA,#FFFFFF,#000000
 1982,Massachusetts,EAA,Massachusetts,7,3-11 EAA,#FFFFFF,#000000
 1982,Temple,ECC,Pennsylvania,19,11-0 ECC,#FFFFFF,#000000
 1982,Saint Joseph's,ECC,Pennsylvania,40,"10-1 ECC
 NCAA 48",#9E1B32,#FFFFFF
-1982,American,ECC,D.C.,21,8-3 ECC,#FFFFFF,#000000
+1982,American,ECC,District of Columbia,21,8-3 ECC,#FFFFFF,#000000
 1982,Drexel,ECC,Pennsylvania,19,7-4 ECC,#FFFFFF,#000000
 1982,La Salle,ECC,Pennsylvania,16,7-4 ECC,#FFFFFF,#000000
 1982,Hofstra,ECC,New York,12,4-7 ECC,#FFFFFF,#000000
@@ -13053,7 +13053,7 @@ NCAA 48",#C8102E,#FFFFFF
 1982,Central Mich.,MAC,Michigan,10,4-12 MAC,#FFFFFF,#000000
 1982,N.C. A&T,MEAC,North Carolina,34,"10-2 MEAC
 NCAA 48",#004684,#FDB927
-1982,Howard,MEAC,D.C.,17,9-3 MEAC,#FFFFFF,#000000
+1982,Howard,MEAC,District of Columbia,17,9-3 MEAC,#FFFFFF,#000000
 1982,South Carolina St.,MEAC,South Carolina,10,7-5 MEAC,#FFFFFF,#000000
 1982,Florida A&M,MEAC,Florida,10,5-7 MEAC,#FFFFFF,#000000
 1982,Delaware St.,MEAC,Delaware,13,4-8 MEAC,#FFFFFF,#000000
@@ -13224,7 +13224,7 @@ NCAA 52",#002855,#EAAA00
 1983,St. Bonaventure,A10,New York,20,10-4 A10,#FFFFFF,#000000
 1983,Penn St.,A10,Pennsylvania,17,9-5 A10,#FFFFFF,#000000
 1983,Duquesne,A10,Pennsylvania,12,6-8 A10,#FFFFFF,#000000
-1983,George Washington,A10,D.C.,14,4-10 A10,#FFFFFF,#000000
+1983,George Washington,A10,District of Columbia,14,4-10 A10,#FFFFFF,#000000
 1983,Missouri,B8,Missouri,41,"12-2 B8
 NCAA 32",#F1B82D,#000000
 1983,Oklahoma,B8,Oklahoma,39,"10-4 B8
@@ -13242,7 +13242,7 @@ Sweet 16",#862633,#B29D6C
 Elite 8",#002664,#FFFFFF
 1983,St. John's (NY),BE,New York,48,"12-4 BE
 Sweet 16",#CF102D,#FFFFFF
-1983,Georgetown,BE,D.C.,37,"11-5 BE
+1983,Georgetown,BE,District of Columbia,37,"11-5 BE
 NCAA 32",#041E42,#FFFFFF
 1983,Syracuse,BE,New York,36,"9-7 BE
 NCAA 32",#F76900,#FFFFFF
@@ -13274,7 +13274,7 @@ Sweet 16",#FFCD00,#000000
 1983,Northwestern,B1G,Illinois,17,7-11 B1G,#FFFFFF,#000000
 1983,Michigan,B1G,Michigan,15,6-12 B1G,#FFFFFF,#000000
 1983,Wisconsin,B1G,Wisconsin,8,3-15 B1G,#FFFFFF,#000000
-1983,American,ECC,D.C.,20,7-2 ECC,#FFFFFF,#000000
+1983,American,ECC,District of Columbia,20,7-2 ECC,#FFFFFF,#000000
 1983,Hofstra,ECC,New York,18,7-2 ECC,#FFFFFF,#000000
 1983,La Salle,ECC,Pennsylvania,33,"7-2 ECC
 NCAA 52",#003356,#FFCE00
@@ -13356,7 +13356,7 @@ NCAA 32",#00694E,#FFFFFF
 1983,NIU,MAC,Illinois,11,8-10 MAC,#FFFFFF,#000000
 1983,Central Mich.,MAC,Michigan,10,5-13 MAC,#FFFFFF,#000000
 1983,Western Mich.,MAC,Michigan,5,3-15 MAC,#FFFFFF,#000000
-1983,Howard,MEAC,D.C.,18,11-1 MEAC,#FFFFFF,#000000
+1983,Howard,MEAC,District of Columbia,18,11-1 MEAC,#FFFFFF,#000000
 1983,N.C. A&T,MEAC,North Carolina,38,"9-3 MEAC
 NCAA 52",#004684,#FDB927
 1983,South Carolina St.,MEAC,South Carolina,13,5-7 MEAC,#FFFFFF,#000000
@@ -13535,7 +13535,7 @@ Final 4",#E57200,#232D4B
 1984,Temple,A10,Pennsylvania,41,"18-0 A10
 NCAA 32",#A41E35,#FFFFFF
 1984,Saint Joseph's,A10,Pennsylvania,20,13-5 A10,#FFFFFF,#000000
-1984,George Washington,A10,D.C.,17,11-7 A10,#FFFFFF,#000000
+1984,George Washington,A10,District of Columbia,17,11-7 A10,#FFFFFF,#000000
 1984,West Virginia,A10,West Virginia,35,"9-9 A10
 NCAA 32",#002855,#EAAA00
 1984,Rutgers,A10,New Jersey,15,9-9 A10,#FFFFFF,#000000
@@ -13554,7 +13554,7 @@ NCAA 32",#0051BA,#FFFFFF
 1984,Kansas St.,B8,Kansas,14,5-9 B8,#FFFFFF,#000000
 1984,Oklahoma St.,B8,Oklahoma,13,5-9 B8,#FFFFFF,#000000
 1984,Missouri,B8,Missouri,16,5-9 B8,#FFFFFF,#000000
-1984,Georgetown,BE,D.C.,134,"14-2 BE
+1984,Georgetown,BE,District of Columbia,134,"14-2 BE
 Champion",#041E42,#FFFFFF
 1984,Syracuse,BE,New York,43,"12-4 BE
 Sweet 16",#F76900,#FFFFFF
@@ -13597,7 +13597,7 @@ NCAA 53",#9D2235,#FFFFFF
 1984,Lafayette,ECC,Pennsylvania,12,9-7 ECC,#FFFFFF,#000000
 1984,Delaware,ECC,Delaware,11,6-10 ECC,#FFFFFF,#000000
 1984,Towson,ECC,Maryland,10,5-11 ECC,#FFFFFF,#000000
-1984,American,ECC,D.C.,6,5-11 ECC,#FFFFFF,#000000
+1984,American,ECC,District of Columbia,6,5-11 ECC,#FFFFFF,#000000
 1984,Lehigh,ECC,Pennsylvania,4,3-13 ECC,#FFFFFF,#000000
 1984,LIU,ECAC,New York,35,"11-5 ECAC
 NCAA 53",#000000,#FFFFFF
@@ -13675,7 +13675,7 @@ NCAA 53",#C41230,#FFFFFF
 1984,Florida A&M,MEAC,Florida,7,7-19,#FFFFFF,#000000
 1984,N.C. A&T,MEAC,North Carolina,37,"9-1 MEAC
 NCAA 53",#004684,#FDB927
-1984,Howard,MEAC,D.C.,14,7-3 MEAC,#FFFFFF,#000000
+1984,Howard,MEAC,District of Columbia,14,7-3 MEAC,#FFFFFF,#000000
 1984,South Carolina St.,MEAC,South Carolina,13,6-4 MEAC,#FFFFFF,#000000
 1984,Delaware St.,MEAC,Delaware,12,3-7 MEAC,#FFFFFF,#000000
 1984,UMES,MEAC,Maryland,7,3-7 MEAC,#FFFFFF,#000000
@@ -13841,7 +13841,7 @@ NCAA 53",#003B70,#FFFFFF
 1984,LMU (CA),WCAC,California,12,5-7 WCAC,#FFFFFF,#000000
 1984,Portland,WCAC,Oregon,11,2-10 WCAC,#FFFFFF,#000000
 1985,Georgia Tech,ACC,Georgia,52,"9-5 ACC
-Elite 8",#B3A369,#003057
+Elite 8",#B39051,#051E39
 1985,North Carolina,ACC,North Carolina,52,"9-5 ACC
 Elite 8",#4B9CD3,#FFFFFF
 1985,NC State,ACC,North Carolina,48,"9-5 ACC
@@ -13858,7 +13858,7 @@ Sweet 16",#E21833,#FFFFFF
 NCAA 32",#A41E35,#FFFFFF
 1985,Saint Joseph's,A10,Pennsylvania,19,13-5 A10,#FFFFFF,#000000
 1985,Rutgers,A10,New Jersey,16,9-9 A10,#FFFFFF,#000000
-1985,George Washington,A10,D.C.,14,9-9 A10,#FFFFFF,#000000
+1985,George Washington,A10,District of Columbia,14,9-9 A10,#FFFFFF,#000000
 1985,Massachusetts,A10,Massachusetts,13,9-9 A10,#FFFFFF,#000000
 1985,St. Bonaventure,A10,New York,14,7-11 A10,#FFFFFF,#000000
 1985,Duquesne,A10,Pennsylvania,12,6-12 A10,#FFFFFF,#000000
@@ -13877,7 +13877,7 @@ NCAA 64",#C8102E,#F1BE48
 1985,Oklahoma St.,B8,Oklahoma,12,3-11 B8,#FFFFFF,#000000
 1985,St. John's (NY),BE,New York,61,"15-1 BE
 Final 4",#CF102D,#FFFFFF
-1985,Georgetown,BE,D.C.,70,"14-2 BE
+1985,Georgetown,BE,District of Columbia,70,"14-2 BE
 Runner-up",#041E42,#FFFFFF
 1985,Syracuse,BE,New York,37,"9-7 BE
 NCAA 32",#F76900,#FFFFFF
@@ -13951,7 +13951,7 @@ NCAA 32",#00225B,#B5A67C
 1985,William & Mary,ECAC,Virginia,16,9-5 ECAC,#FFFFFF,#000000
 1985,James Madison,ECAC,Virginia,14,7-7 ECAC,#FFFFFF,#000000
 1985,UNCW,ECAC,North Carolina,12,4-10 ECAC,#FFFFFF,#000000
-1985,American,ECAC,D.C.,9,3-11 ECAC,#FFFFFF,#000000
+1985,American,ECAC,District of Columbia,9,3-11 ECAC,#FFFFFF,#000000
 1985,East Carolina,ECAC,North Carolina,7,1-13 ECAC,#FFFFFF,#000000
 1985,Southeastern La.,GSC,Louisiana,18,7-0 GSC,#FFFFFF,#000000
 1985,Nicholls,GSC,Louisiana,17,4-2 GSC,#FFFFFF,#000000
@@ -14012,7 +14012,7 @@ NCAA 64",#C41230,#FFFFFF
 1985,Central Mich.,MAC,Michigan,9,4-14 MAC,#FFFFFF,#000000
 1985,N.C. A&T,MEAC,North Carolina,29,"10-2 MEAC
 NCAA 64",#004684,#FDB927
-1985,Howard,MEAC,D.C.,16,9-3 MEAC,#FFFFFF,#000000
+1985,Howard,MEAC,District of Columbia,16,9-3 MEAC,#FFFFFF,#000000
 1985,Delaware St.,MEAC,Delaware,12,8-4 MEAC,#FFFFFF,#000000
 1985,South Carolina St.,MEAC,South Carolina,11,7-4 MEAC,#FFFFFF,#000000
 1985,Bethune-Cookman,MEAC,Florida,8,4-7 MEAC,#FFFFFF,#000000
@@ -14183,7 +14183,7 @@ NCAA 64",#00205C,#FFFFFF
 1986,Duke,ACC,North Carolina,72,"12-2 ACC
 Runner-up",#00539B,#FFFFFF
 1986,Georgia Tech,ACC,Georgia,47,"11-3 ACC
-Sweet 16",#B3A369,#003057
+Sweet 16",#B39051,#051E39
 1986,North Carolina,ACC,North Carolina,48,"10-4 ACC
 Sweet 16",#4B9CD3,#FFFFFF
 1986,NC State,ACC,North Carolina,46,"7-7 ACC
@@ -14202,7 +14202,7 @@ NCAA 32",#A41E35,#FFFFFF
 NCAA 64",#002855,#EAAA00
 1986,St. Bonaventure,A10,New York,15,10-8 A10,#FFFFFF,#000000
 1986,Duquesne,A10,Pennsylvania,15,9-9 A10,#FFFFFF,#000000
-1986,George Washington,A10,D.C.,12,7-11 A10,#FFFFFF,#000000
+1986,George Washington,A10,District of Columbia,12,7-11 A10,#FFFFFF,#000000
 1986,Massachusetts,A10,Massachusetts,9,6-12 A10,#FFFFFF,#000000
 1986,Penn St.,A10,Pennsylvania,12,5-13 A10,#FFFFFF,#000000
 1986,Rhode Island,A10,Rhode Island,9,5-13 A10,#FFFFFF,#000000
@@ -14224,7 +14224,7 @@ NCAA 32",#841617,#FFFFFF
 NCAA 32",#CF102D,#FFFFFF
 1986,Syracuse,BE,New York,41,"14-2 BE
 NCAA 32",#F76900,#FFFFFF
-1986,Georgetown,BE,D.C.,39,"11-5 BE
+1986,Georgetown,BE,District of Columbia,39,"11-5 BE
 NCAA 32",#041E42,#FFFFFF
 1986,Villanova,BE,Pennsylvania,38,"10-6 BE
 NCAA 32",#002664,#FFFFFF
@@ -14271,7 +14271,7 @@ NCAA 64",#000066,#FFFFFF
 1986,George Mason,CAA,Virginia,20,9-4 CAA,#FFFFFF,#000000
 1986,UNCW,CAA,North Carolina,16,6-8 CAA,#FFFFFF,#000000
 1986,East Carolina,CAA,North Carolina,12,6-8 CAA,#FFFFFF,#000000
-1986,American,CAA,D.C.,10,3-11 CAA,#FFFFFF,#000000
+1986,American,CAA,District of Columbia,10,3-11 CAA,#FFFFFF,#000000
 1986,William & Mary,CAA,Virginia,8,3-11 CAA,#FFFFFF,#000000
 1986,James Madison,CAA,Virginia,5,3-11 CAA,#FFFFFF,#000000
 1986,Drexel,ECC,Pennsylvania,29,"11-3 ECC
@@ -14358,7 +14358,7 @@ NCAA 64",#BA0C2F,#FFFFFF
 1986,Bowling Green,MAC,Ohio,7,5-13 MAC,#FFFFFF,#000000
 1986,N.C. A&T,MEAC,North Carolina,32,"12-2 MEAC
 NCAA 64",#004684,#FDB927
-1986,Howard,MEAC,D.C.,18,11-3 MEAC,#FFFFFF,#000000
+1986,Howard,MEAC,District of Columbia,18,11-3 MEAC,#FFFFFF,#000000
 1986,Delaware St.,MEAC,Delaware,11,7-7 MEAC,#FFFFFF,#000000
 1986,Coppin St.,MEAC,Maryland,10,7-7 MEAC,#FFFFFF,#000000
 1986,Morgan St.,MEAC,Maryland,7,7-7 MEAC,#FFFFFF,#000000
@@ -14534,7 +14534,7 @@ Sweet 16",#00539B,#FFFFFF
 1987,Virginia,ACC,Virginia,31,"8-6 ACC
 NCAA 64",#E57200,#232D4B
 1987,Georgia Tech,ACC,Georgia,26,"7-7 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 1987,NC State,ACC,North Carolina,30,"6-8 ACC
 NCAA 64",#CC0000,#FFFFFF
 1987,Wake Forest,ACC,North Carolina,14,2-12 ACC,#FFFFFF,#000000
@@ -14548,7 +14548,7 @@ NCAA 64",#002855,#EAAA00
 1987,Saint Joseph's,A10,Pennsylvania,16,9-9 A10,#FFFFFF,#000000
 1987,Duquesne,A10,Pennsylvania,12,7-11 A10,#FFFFFF,#000000
 1987,Massachusetts,A10,Massachusetts,11,7-11 A10,#FFFFFF,#000000
-1987,George Washington,A10,D.C.,10,6-12 A10,#FFFFFF,#000000
+1987,George Washington,A10,District of Columbia,10,6-12 A10,#FFFFFF,#000000
 1987,Rutgers,A10,New Jersey,8,5-13 A10,#FFFFFF,#000000
 1987,St. Bonaventure,A10,New York,5,3-15 A10,#FFFFFF,#000000
 1987,Missouri,B8,Missouri,34,"11-3 B8
@@ -14563,7 +14563,7 @@ NCAA 32",#512888,#FFFFFF
 1987,Iowa St.,B8,Iowa,13,5-9 B8,#FFFFFF,#000000
 1987,Oklahoma St.,B8,Oklahoma,8,4-10 B8,#FFFFFF,#000000
 1987,Colorado,B8,Colorado,9,3-11 B8,#FFFFFF,#000000
-1987,Georgetown,BE,D.C.,54,"12-4 BE
+1987,Georgetown,BE,District of Columbia,54,"12-4 BE
 Elite 8",#041E42,#FFFFFF
 1987,Pittsburgh,BE,Pennsylvania,40,"12-4 BE
 NCAA 32",#003594,#FFB81C
@@ -14614,7 +14614,7 @@ NCAA 64",#00225B,#B5A67C
 1987,Richmond,CAA,Virginia,15,8-6 CAA,#FFFFFF,#000000
 1987,James Madison,CAA,Virginia,20,8-6 CAA,#FFFFFF,#000000
 1987,George Mason,CAA,Virginia,15,7-7 CAA,#FFFFFF,#000000
-1987,American,CAA,D.C.,13,5-9 CAA,#FFFFFF,#000000
+1987,American,CAA,District of Columbia,13,5-9 CAA,#FFFFFF,#000000
 1987,East Carolina,CAA,North Carolina,12,4-10 CAA,#FFFFFF,#000000
 1987,William & Mary,CAA,Virginia,5,2-12 CAA,#FFFFFF,#000000
 1987,Bucknell,ECC,Pennsylvania,32,"11-3 ECC
@@ -14699,7 +14699,7 @@ NCAA 64",#6A0032,#FFFFFF
 1987,Toledo,MAC,Ohio,11,4-12 MAC,#FFFFFF,#000000
 1987,Ball St.,MAC,Indiana,9,4-12 MAC,#FFFFFF,#000000
 1987,Florida A&M,MEAC,Florida,12,12-16,#FFFFFF,#000000
-1987,Howard,MEAC,D.C.,24,13-1 MEAC,#FFFFFF,#000000
+1987,Howard,MEAC,District of Columbia,24,13-1 MEAC,#FFFFFF,#000000
 1987,N.C. A&T,MEAC,North Carolina,34,"12-2 MEAC
 NCAA 64",#004684,#FDB927
 1987,South Carolina St.,MEAC,South Carolina,14,9-5 MEAC,#FFFFFF,#000000
@@ -14879,7 +14879,7 @@ NCAA 64",#CC0000,#FFFFFF
 1988,Duke,ACC,North Carolina,58,"9-5 ACC
 Final 4",#00539B,#FFFFFF
 1988,Georgia Tech,ACC,Georgia,37,"8-6 ACC
-NCAA 32",#B3A369,#003057
+NCAA 32",#B39051,#051E39
 1988,Maryland,ACC,Maryland,33,"6-8 ACC
 NCAA 32",#E21833,#FFFFFF
 1988,Virginia,ACC,Virginia,13,5-9 ACC,#FFFFFF,#000000
@@ -14898,7 +14898,7 @@ Sweet 16",#002147,#FFFFFF
 1988,West Virginia,A10,West Virginia,18,12-6 A10,#FFFFFF,#000000
 1988,Saint Joseph's,A10,Pennsylvania,15,9-9 A10,#FFFFFF,#000000
 1988,Penn St.,A10,Pennsylvania,13,9-9 A10,#FFFFFF,#000000
-1988,George Washington,A10,D.C.,13,7-11 A10,#FFFFFF,#000000
+1988,George Washington,A10,District of Columbia,13,7-11 A10,#FFFFFF,#000000
 1988,St. Bonaventure,A10,New York,13,7-11 A10,#FFFFFF,#000000
 1988,Duquesne,A10,Pennsylvania,11,6-12 A10,#FFFFFF,#000000
 1988,Massachusetts,A10,Massachusetts,10,5-13 A10,#FFFFFF,#000000
@@ -14920,7 +14920,7 @@ NCAA 64",#C8102E,#F1BE48
 NCAA 32",#003594,#FFB81C
 1988,Syracuse,BE,New York,41,"11-5 BE
 NCAA 32",#F76900,#FFFFFF
-1988,Georgetown,BE,D.C.,35,"9-7 BE
+1988,Georgetown,BE,District of Columbia,35,"9-7 BE
 NCAA 32",#041E42,#FFFFFF
 1988,Villanova,BE,Pennsylvania,49,"9-7 BE
 Elite 8",#002664,#FFFFFF
@@ -14964,7 +14964,7 @@ NCAA 64",#990000,#EDEBEB
 1988,Northwestern,B1G,Illinois,7,2-16 B1G,#FFFFFF,#000000
 1988,Richmond,CAA,Virginia,46,"11-3 CAA
 Sweet 16",#000066,#FFFFFF
-1988,American,CAA,D.C.,14,9-5 CAA,#FFFFFF,#000000
+1988,American,CAA,District of Columbia,14,9-5 CAA,#FFFFFF,#000000
 1988,George Mason,CAA,Virginia,20,9-5 CAA,#FFFFFF,#000000
 1988,UNCW,CAA,North Carolina,15,8-6 CAA,#FFFFFF,#000000
 1988,Navy,CAA,Maryland,12,6-8 CAA,#FFFFFF,#000000
@@ -15051,7 +15051,7 @@ NCAA 64",#046A38,#FFFFFF
 NCAA 64",#004684,#FDB927
 1988,Florida A&M,MEAC,Florida,22,11-5 MEAC,#FFFFFF,#000000
 1988,South Carolina St.,MEAC,South Carolina,16,10-6 MEAC,#FFFFFF,#000000
-1988,Howard,MEAC,D.C.,15,9-7 MEAC,#FFFFFF,#000000
+1988,Howard,MEAC,District of Columbia,15,9-7 MEAC,#FFFFFF,#000000
 1988,Coppin St.,MEAC,Maryland,13,8-7 MEAC,#FFFFFF,#000000
 1988,Morgan St.,MEAC,Maryland,13,7-8 MEAC,#FFFFFF,#000000
 1988,UMES,MEAC,Maryland,7,5-11 MEAC,#FFFFFF,#000000
@@ -15230,7 +15230,7 @@ Elite 8",#E57200,#232D4B
 1989,North Carolina,ACC,North Carolina,49,"9-5 ACC
 Sweet 16",#4B9CD3,#FFFFFF
 1989,Georgia Tech,ACC,Georgia,30,"8-6 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 1989,Clemson,ACC,South Carolina,34,"7-7 ACC
 NCAA 32",#F56600,#FFFFFF
 1989,Wake Forest,ACC,North Carolina,13,3-11 ACC,#FFFFFF,#000000
@@ -15253,7 +15253,7 @@ NCAA 64",#CC0033,#FFFFFF
 1989,Duquesne,A10,Pennsylvania,13,7-11 A10,#FFFFFF,#000000
 1989,Massachusetts,A10,Massachusetts,10,5-13 A10,#FFFFFF,#000000
 1989,Saint Joseph's,A10,Pennsylvania,8,4-14 A10,#FFFFFF,#000000
-1989,George Washington,A10,D.C.,1,1-17 A10,#FFFFFF,#000000
+1989,George Washington,A10,District of Columbia,1,1-17 A10,#FFFFFF,#000000
 1989,Oklahoma,B8,Oklahoma,50,"12-2 B8
 Sweet 16",#841617,#FFFFFF
 1989,Missouri,B8,Missouri,49,"10-4 B8
@@ -15266,7 +15266,7 @@ NCAA 64",#C8102E,#F1BE48
 1989,Kansas,B8,Kansas,19,6-8 B8,#FFFFFF,#000000
 1989,Nebraska,B8,Nebraska,17,4-10 B8,#FFFFFF,#000000
 1989,Colorado,B8,Colorado,7,2-12 B8,#FFFFFF,#000000
-1989,Georgetown,BE,D.C.,54,"13-3 BE
+1989,Georgetown,BE,District of Columbia,54,"13-3 BE
 Elite 8",#041E42,#FFFFFF
 1989,Seton Hall,BE,New Jersey,66,"11-5 BE
 Runner-up",#004488,#FFFFFF
@@ -15325,7 +15325,7 @@ Elite 8",#B10202,#FFFFFF
 1989,Richmond,CAA,Virginia,21,13-1 CAA,#FFFFFF,#000000
 1989,George Mason,CAA,Virginia,30,"10-4 CAA
 NCAA 64",#005239,#FFC733
-1989,American,CAA,D.C.,17,9-5 CAA,#FFFFFF,#000000
+1989,American,CAA,District of Columbia,17,9-5 CAA,#FFFFFF,#000000
 1989,UNCW,CAA,North Carolina,16,9-5 CAA,#FFFFFF,#000000
 1989,James Madison,CAA,Virginia,16,6-8 CAA,#FFFFFF,#000000
 1989,East Carolina,CAA,North Carolina,15,6-8 CAA,#FFFFFF,#000000
@@ -15398,7 +15398,7 @@ NCAA 64",#862633,#FFFFFF
 1989,Bethune-Cookman,MEAC,Florida,12,8-8 MEAC,#FFFFFF,#000000
 1989,Delaware St.,MEAC,Delaware,11,6-10 MEAC,#FFFFFF,#000000
 1989,N.C. A&T,MEAC,North Carolina,9,6-10 MEAC,#FFFFFF,#000000
-1989,Howard,MEAC,D.C.,9,5-11 MEAC,#FFFFFF,#000000
+1989,Howard,MEAC,District of Columbia,9,5-11 MEAC,#FFFFFF,#000000
 1989,UMES,MEAC,Maryland,1,1-15 MEAC,#FFFFFF,#000000
 1989,Florida St.,Metro,Florida,32,"9-3 Metro
 NCAA 64",#782F40,#CEB888
@@ -15578,7 +15578,7 @@ Sweet 16",#F56600,#FFFFFF
 1990,Duke,ACC,North Carolina,64,"9-5 ACC
 Runner-up",#00539B,#FFFFFF
 1990,Georgia Tech,ACC,Georgia,58,"8-6 ACC
-Final 4",#B3A369,#003057
+Final 4",#B39051,#051E39
 1990,North Carolina,ACC,North Carolina,41,"8-6 ACC
 Sweet 16",#4B9CD3,#FFFFFF
 1990,Virginia,ACC,Virginia,35,"6-8 ACC
@@ -15599,7 +15599,7 @@ NCAA 64",#A41E35,#FFFFFF
 1990,Rhode Island,A10,Rhode Island,15,11-7 A10,#FFFFFF,#000000
 1990,Rutgers,A10,New Jersey,18,11-7 A10,#FFFFFF,#000000
 1990,Massachusetts,A10,Massachusetts,17,10-8 A10,#FFFFFF,#000000
-1990,George Washington,A10,D.C.,14,6-12 A10,#FFFFFF,#000000
+1990,George Washington,A10,District of Columbia,14,6-12 A10,#FFFFFF,#000000
 1990,Saint Joseph's,A10,Pennsylvania,7,5-13 A10,#FFFFFF,#000000
 1990,Duquesne,A10,Pennsylvania,7,5-13 A10,#FFFFFF,#000000
 1990,St. Bonaventure,A10,New York,8,3-15 A10,#FFFFFF,#000000
@@ -15619,7 +15619,7 @@ NCAA 64",#512888,#FFFFFF
 Sweet 16",#F76900,#FFFFFF
 1990,UConn,BE,Connecticut,56,"12-4 BE
 Elite 8",#000E2F,#FFFFFF
-1990,Georgetown,BE,D.C.,39,"11-5 BE
+1990,Georgetown,BE,District of Columbia,39,"11-5 BE
 NCAA 32",#041E42,#FFFFFF
 1990,St. John's (NY),BE,New York,39,"10-6 BE
 NCAA 32",#CF102D,#FFFFFF
@@ -15679,7 +15679,7 @@ NCAA 32",#003660,#FEBC11
 1990,James Madison,CAA,Virginia,20,11-3 CAA,#FFFFFF,#000000
 1990,Richmond,CAA,Virginia,32,"10-4 CAA
 NCAA 64",#000066,#FFFFFF
-1990,American,CAA,D.C.,20,10-4 CAA,#FFFFFF,#000000
+1990,American,CAA,District of Columbia,20,10-4 CAA,#FFFFFF,#000000
 1990,George Mason,CAA,Virginia,20,10-4 CAA,#FFFFFF,#000000
 1990,East Carolina,CAA,North Carolina,13,6-8 CAA,#FFFFFF,#000000
 1990,Navy,CAA,Maryland,5,4-10 CAA,#FFFFFF,#000000
@@ -15751,7 +15751,7 @@ NCAA 64",#003056,#FFC915
 1990,South Carolina St.,MEAC,South Carolina,13,8-8 MEAC,#FFFFFF,#000000
 1990,Bethune-Cookman,MEAC,Florida,10,8-8 MEAC,#FFFFFF,#000000
 1990,N.C. A&T,MEAC,North Carolina,12,6-10 MEAC,#FFFFFF,#000000
-1990,Howard,MEAC,D.C.,8,5-11 MEAC,#FFFFFF,#000000
+1990,Howard,MEAC,District of Columbia,8,5-11 MEAC,#FFFFFF,#000000
 1990,UMES,MEAC,Maryland,10,4-12 MEAC,#FFFFFF,#000000
 1990,Morgan St.,MEAC,Maryland,8,4-12 MEAC,#FFFFFF,#000000
 1990,Louisville,Metro,Kentucky,42,"12-2 Metro
@@ -15933,7 +15933,7 @@ NCAA 32",#9E7E38,#000000
 1991,NC State,ACC,North Carolina,35,"8-6 ACC
 NCAA 32",#CC0000,#FFFFFF
 1991,Georgia Tech,ACC,Georgia,32,"6-8 ACC
-NCAA 32",#B3A369,#003057
+NCAA 32",#B39051,#051E39
 1991,Virginia,ACC,Virginia,31,"6-8 ACC
 NCAA 64",#E57200,#232D4B
 1991,Maryland,ACC,Maryland,16,5-9 ACC,#FFFFFF,#000000
@@ -15953,7 +15953,7 @@ NCAA 64",#CC0033,#FFFFFF
 Elite 8",#A41E35,#FFFFFF
 1991,Penn St.,A10,Pennsylvania,36,"10-8 A10
 NCAA 32",#001E44,#FFFFFF
-1991,George Washington,A10,D.C.,19,10-8 A10,#FFFFFF,#000000
+1991,George Washington,A10,District of Columbia,19,10-8 A10,#FFFFFF,#000000
 1991,Massachusetts,A10,Massachusetts,20,10-8 A10,#FFFFFF,#000000
 1991,West Virginia,A10,West Virginia,17,10-8 A10,#FFFFFF,#000000
 1991,Duquesne,A10,Pennsylvania,13,10-8 A10,#FFFFFF,#000000
@@ -15981,7 +15981,7 @@ Sweet 16",#000E2F,#FFFFFF
 Elite 8",#004488,#FFFFFF
 1991,Pittsburgh,BE,Pennsylvania,36,"9-7 BE
 NCAA 32",#003594,#FFB81C
-1991,Georgetown,BE,D.C.,34,"8-8 BE
+1991,Georgetown,BE,District of Columbia,34,"8-8 BE
 NCAA 32",#041E42,#FFFFFF
 1991,Providence,BE,Rhode Island,19,7-9 BE,#FFFFFF,#000000
 1991,Villanova,BE,Pennsylvania,32,"7-9 BE
@@ -16035,7 +16035,7 @@ NCAA 64",#8C0B42,#FFFFFF
 1991,James Madison,CAA,Virginia,19,12-2 CAA,#FFFFFF,#000000
 1991,Richmond,CAA,Virginia,37,"10-4 CAA
 NCAA 32",#000066,#FFFFFF
-1991,American,CAA,D.C.,15,8-6 CAA,#FFFFFF,#000000
+1991,American,CAA,District of Columbia,15,8-6 CAA,#FFFFFF,#000000
 1991,George Mason,CAA,Virginia,14,8-6 CAA,#FFFFFF,#000000
 1991,UNCW,CAA,North Carolina,11,6-8 CAA,#FFFFFF,#000000
 1991,William & Mary,CAA,Virginia,13,6-8 CAA,#FFFFFF,#000000
@@ -16098,7 +16098,7 @@ Sweet 16",#046A38,#FFFFFF
 1991,N.C. A&T,MEAC,North Carolina,17,10-6 MEAC,#FFFFFF,#000000
 1991,South Carolina St.,MEAC,South Carolina,13,10-6 MEAC,#FFFFFF,#000000
 1991,Florida A&M,MEAC,Florida,17,9-7 MEAC,#FFFFFF,#000000
-1991,Howard,MEAC,D.C.,8,7-9 MEAC,#FFFFFF,#000000
+1991,Howard,MEAC,District of Columbia,8,7-9 MEAC,#FFFFFF,#000000
 1991,Morgan St.,MEAC,Maryland,7,6-10 MEAC,#FFFFFF,#000000
 1991,UMES,MEAC,Maryland,5,3-13 MEAC,#FFFFFF,#000000
 1991,Bethune-Cookman,MEAC,Florida,5,3-13 MEAC,#FFFFFF,#000000
@@ -16285,7 +16285,7 @@ Sweet 16",#782F40,#CEB888
 1992,North Carolina,ACC,North Carolina,43,"9-7 ACC
 Sweet 16",#4B9CD3,#FFFFFF
 1992,Georgia Tech,ACC,Georgia,43,"8-8 ACC
-Sweet 16",#B3A369,#003057
+Sweet 16",#B39051,#051E39
 1992,Virginia,ACC,Virginia,20,8-8 ACC,#FFFFFF,#000000
 1992,Wake Forest,ACC,North Carolina,27,"7-9 ACC
 NCAA 64",#9E7E38,#000000
@@ -16299,7 +16299,7 @@ NCAA 64",#A41E35,#FFFFFF
 1992,West Virginia,A10,West Virginia,30,"10-6 A10
 NCAA 64",#002855,#EAAA00
 1992,Rhode Island,A10,Rhode Island,22,9-7 A10,#FFFFFF,#000000
-1992,George Washington,A10,D.C.,16,8-8 A10,#FFFFFF,#000000
+1992,George Washington,A10,District of Columbia,16,8-8 A10,#FFFFFF,#000000
 1992,Rutgers,A10,New Jersey,16,6-10 A10,#FFFFFF,#000000
 1992,Duquesne,A10,Pennsylvania,13,6-10 A10,#FFFFFF,#000000
 1992,Saint Joseph's,A10,Pennsylvania,13,6-10 A10,#FFFFFF,#000000
@@ -16320,7 +16320,7 @@ NCAA 32",#C8102E,#F1BE48
 1992,Colorado,B8,Colorado,13,4-10 B8,#FFFFFF,#000000
 1992,Seton Hall,BE,New Jersey,43,"12-6 BE
 Sweet 16",#004488,#FFFFFF
-1992,Georgetown,BE,D.C.,37,"12-6 BE
+1992,Georgetown,BE,District of Columbia,37,"12-6 BE
 NCAA 32",#041E42,#FFFFFF
 1992,St. John's (NY),BE,New York,29,"12-6 BE
 NCAA 64",#CF102D,#FFFFFF
@@ -16380,7 +16380,7 @@ Sweet 16",#8C0B42,#FFFFFF
 1992,San Jose St.,BWst,California,2,1-17 BWst,#FFFFFF,#000000
 1992,Richmond,CAA,Virginia,22,12-2 CAA,#FFFFFF,#000000
 1992,James Madison,CAA,Virginia,21,12-2 CAA,#FFFFFF,#000000
-1992,American,CAA,D.C.,11,8-6 CAA,#FFFFFF,#000000
+1992,American,CAA,District of Columbia,11,8-6 CAA,#FFFFFF,#000000
 1992,Old Dominion,CAA,Virginia,25,"8-6 CAA
 NCAA 64",#043657,#FFFFFF
 1992,UNCW,CAA,North Carolina,13,6-8 CAA,#FFFFFF,#000000
@@ -16443,7 +16443,7 @@ NCAA 64",#C41230,#FFFFFF
 1992,Eastern Mich.,MAC,Michigan,9,4-12 MAC,#FFFFFF,#000000
 1992,Toledo,MAC,Ohio,7,3-13 MAC,#FFFFFF,#000000
 1992,N.C. A&T,MEAC,North Carolina,18,12-4 MEAC,#FFFFFF,#000000
-1992,Howard,MEAC,D.C.,27,"12-4 MEAC
+1992,Howard,MEAC,District of Columbia,27,"12-4 MEAC
 NCAA 64",#003A63,#FFFFFF
 1992,Florida A&M,MEAC,Florida,16,11-5 MEAC,#FFFFFF,#000000
 1992,Coppin St.,MEAC,Maryland,15,9-7 MEAC,#FFFFFF,#000000
@@ -16648,13 +16648,13 @@ Sweet 16",#9E7E38,#000000
 1993,Virginia,ACC,Virginia,41,"9-7 ACC
 Sweet 16",#E57200,#232D4B
 1993,Georgia Tech,ACC,Georgia,29,"8-8 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 1993,Clemson,ACC,South Carolina,17,5-11 ACC,#FFFFFF,#000000
 1993,Maryland,ACC,Maryland,12,2-14 ACC,#FFFFFF,#000000
 1993,NC State,ACC,North Carolina,8,2-14 ACC,#FFFFFF,#000000
 1993,Massachusetts,A10,Massachusetts,39,"11-3 A10
 NCAA 32",#9D2235,#FFFFFF
-1993,George Washington,A10,D.C.,41,"8-6 A10
+1993,George Washington,A10,District of Columbia,41,"8-6 A10
 Sweet 16",#033C5A,#FFFFFF
 1993,Rhode Island,A10,Rhode Island,34,"8-6 A10
 NCAA 32",#002147,#FFFFFF
@@ -16688,7 +16688,7 @@ NCAA 32",#CF102D,#FFFFFF
 1993,Pittsburgh,BE,Pennsylvania,27,"9-9 BE
 NCAA 64",#003594,#FFB81C
 1993,Boston College,BE,Massachusetts,18,9-9 BE,#FFFFFF,#000000
-1993,Georgetown,BE,D.C.,20,8-10 BE,#FFFFFF,#000000
+1993,Georgetown,BE,District of Columbia,20,8-10 BE,#FFFFFF,#000000
 1993,Miami (FL),BE,Florida,10,7-11 BE,#FFFFFF,#000000
 1993,Villanova,BE,Pennsylvania,8,3-15 BE,#FFFFFF,#000000
 1993,Idaho,BSky,Idaho,24,11-3 BSky,#FFFFFF,#000000
@@ -16742,7 +16742,7 @@ NCAA 64",#FFDA27,#000000
 1993,James Madison,CAA,Virginia,21,11-3 CAA,#FFFFFF,#000000
 1993,Old Dominion,CAA,Virginia,21,11-3 CAA,#FFFFFF,#000000
 1993,Richmond,CAA,Virginia,15,10-4 CAA,#FFFFFF,#000000
-1993,American,CAA,D.C.,11,6-8 CAA,#FFFFFF,#000000
+1993,American,CAA,District of Columbia,11,6-8 CAA,#FFFFFF,#000000
 1993,William & Mary,CAA,Virginia,14,6-8 CAA,#FFFFFF,#000000
 1993,UNCW,CAA,North Carolina,17,6-8 CAA,#FFFFFF,#000000
 1993,East Carolina,CAA,North Carolina,23,"4-10 CAA
@@ -16804,7 +16804,7 @@ NCAA 64",#003056,#FFC915
 1993,Florida A&M,MEAC,Florida,10,8-8 MEAC,#FFFFFF,#000000
 1993,UMES,MEAC,Maryland,13,7-9 MEAC,#FFFFFF,#000000
 1993,Delaware St.,MEAC,Delaware,13,6-10 MEAC,#FFFFFF,#000000
-1993,Howard,MEAC,D.C.,10,6-10 MEAC,#FFFFFF,#000000
+1993,Howard,MEAC,District of Columbia,10,6-10 MEAC,#FFFFFF,#000000
 1993,Bethune-Cookman,MEAC,Florida,3,2-14 MEAC,#FFFFFF,#000000
 1993,Louisville,Metro,Kentucky,42,"11-1 Metro
 Sweet 16",#AD0000,#FFFFFF
@@ -17015,7 +17015,7 @@ Sweet 16",#E21833,#FFFFFF
 NCAA 32",#9D2235,#FFFFFF
 1994,Temple,A10,Pennsylvania,38,"12-4 A10
 NCAA 32",#A41E35,#FFFFFF
-1994,George Washington,A10,D.C.,33,"8-8 A10
+1994,George Washington,A10,District of Columbia,33,"8-8 A10
 NCAA 32",#033C5A,#FFFFFF
 1994,West Virginia,A10,West Virginia,17,8-8 A10,#FFFFFF,#000000
 1994,Duquesne,A10,Pennsylvania,17,8-8 A10,#FFFFFF,#000000
@@ -17044,7 +17044,7 @@ Elite 8",#862633,#B29D6C
 1994,Providence,BE,Rhode Island,30,"10-8 BE
 NCAA 64",#8A8D8F,#000000
 1994,Villanova,BE,Pennsylvania,20,10-8 BE,#FFFFFF,#000000
-1994,Georgetown,BE,D.C.,34,"10-8 BE
+1994,Georgetown,BE,District of Columbia,34,"10-8 BE
 NCAA 32",#041E42,#FFFFFF
 1994,Seton Hall,BE,New Jersey,27,"8-10 BE
 NCAA 64",#004488,#FFFFFF
@@ -17107,7 +17107,7 @@ NCAA 64",#450084,#CBB677
 1994,Richmond,CAA,Virginia,14,8-6 CAA,#FFFFFF,#000000
 1994,East Carolina,CAA,North Carolina,15,7-7 CAA,#FFFFFF,#000000
 1994,George Mason,CAA,Virginia,10,5-9 CAA,#FFFFFF,#000000
-1994,American,CAA,D.C.,8,5-9 CAA,#FFFFFF,#000000
+1994,American,CAA,District of Columbia,8,5-9 CAA,#FFFFFF,#000000
 1994,William & Mary,CAA,Virginia,4,2-12 CAA,#FFFFFF,#000000
 1994,Troy,ECC,Alabama,13,5-0 ECC,#FFFFFF,#000000
 1994,Buffalo,ECC,New York,10,4-2 ECC,#FFFFFF,#000000
@@ -17166,7 +17166,7 @@ NCAA 64",#00694E,#FFFFFF
 1994,N.C. A&T,MEAC,North Carolina,26,"10-6 MEAC
 NCAA 64",#004684,#FDB927
 1994,Bethune-Cookman,MEAC,Florida,9,8-8 MEAC,#FFFFFF,#000000
-1994,Howard,MEAC,D.C.,10,7-9 MEAC,#FFFFFF,#000000
+1994,Howard,MEAC,District of Columbia,10,7-9 MEAC,#FFFFFF,#000000
 1994,Delaware St.,MEAC,Delaware,8,5-11 MEAC,#FFFFFF,#000000
 1994,Morgan St.,MEAC,Maryland,8,4-12 MEAC,#FFFFFF,#000000
 1994,Florida A&M,MEAC,Florida,4,2-14 MEAC,#FFFFFF,#000000
@@ -17381,7 +17381,7 @@ Elite 8",#E57200,#232D4B
 Elite 8",#9D2235,#FFFFFF
 1995,Temple,A10,Pennsylvania,29,"10-6 A10
 NCAA 64",#A41E35,#FFFFFF
-1995,George Washington,A10,D.C.,18,10-6 A10,#FFFFFF,#000000
+1995,George Washington,A10,District of Columbia,18,10-6 A10,#FFFFFF,#000000
 1995,Saint Joseph's,A10,Pennsylvania,17,9-7 A10,#FFFFFF,#000000
 1995,St. Bonaventure,A10,New York,18,9-7 A10,#FFFFFF,#000000
 1995,West Virginia,A10,West Virginia,13,7-9 A10,#FFFFFF,#000000
@@ -17407,7 +17407,7 @@ Elite 8",#000E2F,#FFFFFF
 NCAA 64",#002664,#FFFFFF
 1995,Syracuse,BE,New York,35,"12-6 BE
 NCAA 32",#F76900,#FFFFFF
-1995,Georgetown,BE,D.C.,41,"11-7 BE
+1995,Georgetown,BE,District of Columbia,41,"11-7 BE
 Sweet 16",#041E42,#FFFFFF
 1995,Miami (FL),BE,Florida,15,9-9 BE,#FFFFFF,#000000
 1995,Providence,BE,Rhode Island,17,7-11 BE,#FFFFFF,#000000
@@ -17466,7 +17466,7 @@ NCAA 32",#043657,#FFFFFF
 1995,UNCW,CAA,North Carolina,16,10-4 CAA,#FFFFFF,#000000
 1995,James Madison,CAA,Virginia,16,9-5 CAA,#FFFFFF,#000000
 1995,East Carolina,CAA,North Carolina,18,7-7 CAA,#FFFFFF,#000000
-1995,American,CAA,D.C.,9,7-7 CAA,#FFFFFF,#000000
+1995,American,CAA,District of Columbia,9,7-7 CAA,#FFFFFF,#000000
 1995,William & Mary,CAA,Virginia,8,6-8 CAA,#FFFFFF,#000000
 1995,Richmond,CAA,Virginia,8,3-11 CAA,#FFFFFF,#000000
 1995,George Mason,CAA,Virginia,7,2-12 CAA,#FFFFFF,#000000
@@ -17519,7 +17519,7 @@ NCAA 64",#BA0C2F,#FFFFFF
 NCAA 64",#004684,#FDB927
 1995,Bethune-Cookman,MEAC,Florida,12,9-6 MEAC,#FFFFFF,#000000
 1995,UMES,MEAC,Maryland,13,8-7 MEAC,#FFFFFF,#000000
-1995,Howard,MEAC,D.C.,9,8-8 MEAC,#FFFFFF,#000000
+1995,Howard,MEAC,District of Columbia,9,8-8 MEAC,#FFFFFF,#000000
 1995,Morgan St.,MEAC,Maryland,5,5-11 MEAC,#FFFFFF,#000000
 1995,Delaware St.,MEAC,Delaware,7,3-13 MEAC,#FFFFFF,#000000
 1995,Florida A&M,MEAC,Florida,5,2-13 MEAC,#FFFFFF,#000000
@@ -17725,7 +17725,7 @@ NCAA 64",#041E42,#FFFFFF
 1995,Pepperdine,WCC,California,8,4-10 WCC,#FFFFFF,#000000
 1995,LMU (CA),WCC,California,13,4-10 WCC,#FFFFFF,#000000
 1996,Georgia Tech,ACC,Georgia,44,"13-3 ACC
-Sweet 16",#B3A369,#003057
+Sweet 16",#B39051,#051E39
 1996,Wake Forest,ACC,North Carolina,51,"12-4 ACC
 Elite 8",#9E7E38,#000000
 1996,North Carolina,ACC,North Carolina,36,"10-6 ACC
@@ -17753,7 +17753,7 @@ NCAA 32",#A41E35,#FFFFFF
 1996,Fordham,A10,New York,4,2-14 A10,#FFFFFF,#000000
 1996,Virginia Tech,A10,Virginia,38,"13-3 A10
 NCAA 32",#861F41,#FFFFFF
-1996,George Washington,A10,D.C.,31,"13-3 A10
+1996,George Washington,A10,District of Columbia,31,"13-3 A10
 NCAA 64",#033C5A,#FFFFFF
 1996,Xavier,A10,Ohio,13,8-8 A10,#FFFFFF,#000000
 1996,Dayton,A10,Ohio,15,6-10 A10,#FFFFFF,#000000
@@ -17780,7 +17780,7 @@ NCAA 32",#862633,#B29D6C
 1996,West Virginia,BE,West Virginia,12,7-11 BE,#FFFFFF,#000000
 1996,St. John's (NY),BE,New York,11,5-13 BE,#FFFFFF,#000000
 1996,Notre Dame,BE,Indiana,9,4-14 BE,#FFFFFF,#000000
-1996,Georgetown,BE,D.C.,54,"13-5 BE
+1996,Georgetown,BE,District of Columbia,54,"13-5 BE
 Elite 8",#041E42,#FFFFFF
 1996,Syracuse,BE,New York,64,"12-6 BE
 Runner-up",#F76900,#FFFFFF
@@ -17838,7 +17838,7 @@ NCAA 64",#0055A2,#E5A823
 NCAA 64",#FFB300,#000000
 1996,Old Dominion,CAA,Virginia,18,12-4 CAA,#FFFFFF,#000000
 1996,UNCW,CAA,North Carolina,13,9-7 CAA,#FFFFFF,#000000
-1996,American,CAA,D.C.,12,8-8 CAA,#FFFFFF,#000000
+1996,American,CAA,District of Columbia,12,8-8 CAA,#FFFFFF,#000000
 1996,East Carolina,CAA,North Carolina,17,8-8 CAA,#FFFFFF,#000000
 1996,William & Mary,CAA,Virginia,10,6-10 CAA,#FFFFFF,#000000
 1996,James Madison,CAA,Virginia,10,6-10 CAA,#FFFFFF,#000000
@@ -17897,7 +17897,7 @@ NCAA 64",#862633,#FFFFFF
 1996,Delaware St.,MEAC,Delaware,11,8-8 MEAC,#FFFFFF,#000000
 1996,N.C. A&T,MEAC,North Carolina,10,7-9 MEAC,#FFFFFF,#000000
 1996,UMES,MEAC,Maryland,11,6-10 MEAC,#FFFFFF,#000000
-1996,Howard,MEAC,D.C.,7,6-10 MEAC,#FFFFFF,#000000
+1996,Howard,MEAC,District of Columbia,7,6-10 MEAC,#FFFFFF,#000000
 1996,Morgan St.,MEAC,Maryland,7,6-10 MEAC,#FFFFFF,#000000
 1996,Florida A&M,MEAC,Florida,8,3-13 MEAC,#FFFFFF,#000000
 1996,Hampton,MEAC,Virginia,9,9-17,#FFFFFF,#000000
@@ -18129,7 +18129,7 @@ NCAA 32",#A41E35,#FFFFFF
 1997,Fordham,A10,New York,6,1-15 A10,#FFFFFF,#000000
 1997,Xavier,A10,Ohio,38,"13-3 A10
 NCAA 32",#0C2340,#FFFFFF
-1997,George Washington,A10,D.C.,15,8-8 A10,#FFFFFF,#000000
+1997,George Washington,A10,District of Columbia,15,8-8 A10,#FFFFFF,#000000
 1997,Virginia Tech,A10,Virginia,15,7-9 A10,#FFFFFF,#000000
 1997,Dayton,A10,Ohio,13,6-10 A10,#FFFFFF,#000000
 1997,La Salle,A10,Pennsylvania,10,5-11 A10,#FFFFFF,#000000
@@ -18159,7 +18159,7 @@ NCAA 32",#862633,#B29D6C
 1997,Notre Dame,BE,Indiana,16,8-10 BE,#FFFFFF,#000000
 1997,St. John's (NY),BE,New York,13,8-10 BE,#FFFFFF,#000000
 1997,UConn,BE,Connecticut,18,7-11 BE,#FFFFFF,#000000
-1997,Georgetown,BE,D.C.,30,"11-7 BE
+1997,Georgetown,BE,District of Columbia,30,"11-7 BE
 NCAA 64",#041E42,#FFFFFF
 1997,Providence,BE,Rhode Island,49,"10-8 BE
 Elite 8",#8A8D8F,#000000
@@ -18224,7 +18224,7 @@ NCAA 64",#043657,#FFFFFF
 1997,VCU,CAA,Virginia,14,9-7 CAA,#FFFFFF,#000000
 1997,William & Mary,CAA,Virginia,12,8-8 CAA,#FFFFFF,#000000
 1997,James Madison,CAA,Virginia,16,8-8 CAA,#FFFFFF,#000000
-1997,American,CAA,D.C.,11,7-9 CAA,#FFFFFF,#000000
+1997,American,CAA,District of Columbia,11,7-9 CAA,#FFFFFF,#000000
 1997,Richmond,CAA,Virginia,13,7-9 CAA,#FFFFFF,#000000
 1997,George Mason,CAA,Virginia,10,4-12 CAA,#FFFFFF,#000000
 1997,Cincinnati,CUSA,Ohio,41,"12-2 CUSA
@@ -18284,7 +18284,7 @@ NCAA 32",#003056,#FFC915
 1997,Florida A&M,MEAC,Florida,8,8-10 MEAC,#FFFFFF,#000000
 1997,Hampton,MEAC,Virginia,8,7-11 MEAC,#FFFFFF,#000000
 1997,Delaware St.,MEAC,Delaware,7,7-11 MEAC,#FFFFFF,#000000
-1997,Howard,MEAC,D.C.,7,7-11 MEAC,#FFFFFF,#000000
+1997,Howard,MEAC,District of Columbia,7,7-11 MEAC,#FFFFFF,#000000
 1997,UMES,MEAC,Maryland,11,6-12 MEAC,#FFFFFF,#000000
 1997,Valparaiso,MidC,Indiana,34,"13-3 MidC
 NCAA 64",#FFE300,#000000
@@ -18495,7 +18495,7 @@ NCAA 64",#9D2235,#FFFFFF
 1998,Fordham,A10,New York,6,2-14 A10,#FFFFFF,#000000
 1998,Xavier,A10,Ohio,32,"11-5 A10
 NCAA 64",#0C2340,#FFFFFF
-1998,George Washington,A10,D.C.,34,"11-5 A10
+1998,George Washington,A10,District of Columbia,34,"11-5 A10
 NCAA 64",#033C5A,#FFFFFF
 1998,Dayton,A10,Ohio,21,11-5 A10,#FFFFFF,#000000
 1998,Virginia Tech,A10,Virginia,10,5-11 A10,#FFFFFF,#000000
@@ -18534,7 +18534,7 @@ NCAA 64",#005030,#FFFFFF
 1998,Providence,BE,Rhode Island,13,7-11 BE,#FFFFFF,#000000
 1998,Pittsburgh,BE,Pennsylvania,11,6-12 BE,#FFFFFF,#000000
 1998,Rutgers,BE,New Jersey,14,6-12 BE,#FFFFFF,#000000
-1998,Georgetown,BE,D.C.,16,6-12 BE,#FFFFFF,#000000
+1998,Georgetown,BE,District of Columbia,16,6-12 BE,#FFFFFF,#000000
 1998,Northern Ariz.,BSky,Arizona,31,"13-3 BSky
 NCAA 64",#003466,#F1B300
 1998,Weber St.,BSky,Utah,14,12-4 BSky,#FFFFFF,#000000
@@ -18589,7 +18589,7 @@ NCAA 32",#000066,#FFFFFF
 1998,Old Dominion,CAA,Virginia,12,8-8 CAA,#FFFFFF,#000000
 1998,James Madison,CAA,Virginia,11,6-10 CAA,#FFFFFF,#000000
 1998,George Mason,CAA,Virginia,9,6-10 CAA,#FFFFFF,#000000
-1998,American,CAA,D.C.,9,5-11 CAA,#FFFFFF,#000000
+1998,American,CAA,District of Columbia,9,5-11 CAA,#FFFFFF,#000000
 1998,East Carolina,CAA,North Carolina,10,5-11 CAA,#FFFFFF,#000000
 1998,VCU,CAA,Virginia,9,4-12 CAA,#FFFFFF,#000000
 1998,Cincinnati,CUSA,Ohio,42,"14-2 CUSA
@@ -18650,7 +18650,7 @@ NCAA 64",#862633,#FFFFFF
 1998,Delaware St.,MEAC,Delaware,9,7-11 MEAC,#FFFFFF,#000000
 1998,UMES,MEAC,Maryland,9,7-11 MEAC,#FFFFFF,#000000
 1998,N.C. A&T,MEAC,North Carolina,8,7-11 MEAC,#FFFFFF,#000000
-1998,Howard,MEAC,D.C.,8,5-13 MEAC,#FFFFFF,#000000
+1998,Howard,MEAC,District of Columbia,8,5-13 MEAC,#FFFFFF,#000000
 1998,Bethune-Cookman,MEAC,Florida,1,1-17 MEAC,#FFFFFF,#000000
 1998,Norfolk St.,MEAC,Virginia,6,6-21,#FFFFFF,#000000
 1998,Valparaiso,MidC,Indiana,43,"13-3 MidC
@@ -18860,7 +18860,7 @@ NCAA 64",#002147,#FFFFFF
 1999,St. Bonaventure,A10,New York,14,8-8 A10,#FFFFFF,#000000
 1999,Fordham,A10,New York,12,5-11 A10,#FFFFFF,#000000
 1999,Saint Joseph's,A10,Pennsylvania,12,5-11 A10,#FFFFFF,#000000
-1999,George Washington,A10,D.C.,30,"13-3 A10
+1999,George Washington,A10,District of Columbia,30,"13-3 A10
 NCAA 64",#033C5A,#FFFFFF
 1999,Xavier,A10,Ohio,25,12-4 A10,#FFFFFF,#000000
 1999,La Salle,A10,Pennsylvania,13,8-8 A10,#FFFFFF,#000000
@@ -18898,7 +18898,7 @@ NCAA 64",#002664,#FFFFFF
 1999,Providence,BE,Rhode Island,16,9-9 BE,#FFFFFF,#000000
 1999,Notre Dame,BE,Indiana,14,8-10 BE,#FFFFFF,#000000
 1999,Seton Hall,BE,New Jersey,15,8-10 BE,#FFFFFF,#000000
-1999,Georgetown,BE,D.C.,15,6-12 BE,#FFFFFF,#000000
+1999,Georgetown,BE,District of Columbia,15,6-12 BE,#FFFFFF,#000000
 1999,Pittsburgh,BE,Pennsylvania,14,5-13 BE,#FFFFFF,#000000
 1999,West Virginia,BE,West Virginia,10,4-14 BE,#FFFFFF,#000000
 1999,Boston College,BE,Massachusetts,6,3-15 BE,#FFFFFF,#000000
@@ -18959,7 +18959,7 @@ NCAA 64",#005239,#FFC733
 1999,VCU,CAA,Virginia,15,8-8 CAA,#FFFFFF,#000000
 1999,East Carolina,CAA,North Carolina,13,7-9 CAA,#FFFFFF,#000000
 1999,William & Mary,CAA,Virginia,8,3-13 CAA,#FFFFFF,#000000
-1999,American,CAA,D.C.,7,2-14 CAA,#FFFFFF,#000000
+1999,American,CAA,District of Columbia,7,2-14 CAA,#FFFFFF,#000000
 1999,Cincinnati,CUSA,Ohio,42,"12-4 CUSA
 NCAA 32",#E00122,#FFFFFF
 1999,Louisville,CUSA,Kentucky,29,"11-5 CUSA
@@ -19024,7 +19024,7 @@ NCAA 64",#002664,#EAAB00
 NCAA 64",#F4811F,#008344
 1999,UMES,MEAC,Maryland,10,7-11 MEAC,#FFFFFF,#000000
 1999,Delaware St.,MEAC,Delaware,8,5-13 MEAC,#FFFFFF,#000000
-1999,Howard,MEAC,D.C.,2,2-16 MEAC,#FFFFFF,#000000
+1999,Howard,MEAC,District of Columbia,2,2-16 MEAC,#FFFFFF,#000000
 1999,Oral Roberts,MidC,Oklahoma,17,10-4 MidC,#FFFFFF,#000000
 1999,Valparaiso,MidC,Indiana,33,"10-4 MidC
 NCAA 64",#FFE300,#000000
@@ -19237,7 +19237,7 @@ NCAA 64",#2B150E,#FFFFFF
 2000,Dayton,A10,Ohio,32,"11-5 A10
 NCAA 64",#CE0037,#FFFFFF
 2000,Xavier,A10,Ohio,21,9-7 A10,#FFFFFF,#000000
-2000,George Washington,A10,D.C.,15,9-7 A10,#FFFFFF,#000000
+2000,George Washington,A10,District of Columbia,15,9-7 A10,#FFFFFF,#000000
 2000,Virginia Tech,A10,Virginia,16,8-8 A10,#FFFFFF,#000000
 2000,La Salle,A10,Pennsylvania,11,5-11 A10,#FFFFFF,#000000
 2000,Duquesne,A10,Pennsylvania,9,4-12 A10,#FFFFFF,#000000
@@ -19272,7 +19272,7 @@ Sweet 16",#004488,#FFFFFF
 2000,Villanova,BE,Pennsylvania,20,8-8 BE,#FFFFFF,#000000
 2000,Notre Dame,BE,Indiana,22,8-8 BE,#FFFFFF,#000000
 2000,West Virginia,BE,West Virginia,14,6-10 BE,#FFFFFF,#000000
-2000,Georgetown,BE,D.C.,19,6-10 BE,#FFFFFF,#000000
+2000,Georgetown,BE,District of Columbia,19,6-10 BE,#FFFFFF,#000000
 2000,Rutgers,BE,New Jersey,15,6-10 BE,#FFFFFF,#000000
 2000,Pittsburgh,BE,Pennsylvania,13,5-11 BE,#FFFFFF,#000000
 2000,Providence,BE,Rhode Island,11,4-12 BE,#FFFFFF,#000000
@@ -19334,7 +19334,7 @@ NCAA 64",#007680,#FFFFFF
 2000,VCU,CAA,Virginia,14,7-9 CAA,#FFFFFF,#000000
 2000,Old Dominion,CAA,Virginia,11,6-10 CAA,#FFFFFF,#000000
 2000,William & Mary,CAA,Virginia,11,6-10 CAA,#FFFFFF,#000000
-2000,American,CAA,D.C.,11,5-11 CAA,#FFFFFF,#000000
+2000,American,CAA,District of Columbia,11,5-11 CAA,#FFFFFF,#000000
 2000,East Carolina,CAA,North Carolina,10,5-11 CAA,#FFFFFF,#000000
 2000,Cincinnati,CUSA,Ohio,44,"16-0 CUSA
 NCAA 32",#E00122,#FFFFFF
@@ -19401,7 +19401,7 @@ NCAA 64",#862633,#FFFFFF
 2000,Florida A&M,MEAC,Florida,9,7-11 MEAC,#FFFFFF,#000000
 2000,Delaware St.,MEAC,Delaware,6,5-13 MEAC,#FFFFFF,#000000
 2000,Morgan St.,MEAC,Maryland,5,5-13 MEAC,#FFFFFF,#000000
-2000,Howard,MEAC,D.C.,1,1-17 MEAC,#FFFFFF,#000000
+2000,Howard,MEAC,District of Columbia,1,1-17 MEAC,#FFFFFF,#000000
 2000,Oakland,MidC,Michigan,13,11-5 MidC,#FFFFFF,#000000
 2000,Valparaiso,MidC,Indiana,29,"10-6 MidC
 NCAA 64",#FFE300,#000000
@@ -19593,7 +19593,7 @@ Final 4",#E21833,#FFFFFF
 2001,Virginia,ACC,Virginia,30,"9-7 ACC
 NCAA 64",#E57200,#232D4B
 2001,Georgia Tech,ACC,Georgia,27,"8-8 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 2001,Wake Forest,ACC,North Carolina,29,"8-8 ACC
 NCAA 64",#9E7E38,#000000
 2001,NC State,ACC,North Carolina,13,5-11 ACC,#FFFFFF,#000000
@@ -19619,7 +19619,7 @@ Elite 8",#A41E35,#FFFFFF
 2001,Massachusetts,A10,Massachusetts,15,11-5 A10,#FFFFFF,#000000
 2001,Dayton,A10,Ohio,21,9-7 A10,#FFFFFF,#000000
 2001,St. Bonaventure,A10,New York,18,9-7 A10,#FFFFFF,#000000
-2001,George Washington,A10,D.C.,14,6-10 A10,#FFFFFF,#000000
+2001,George Washington,A10,District of Columbia,14,6-10 A10,#FFFFFF,#000000
 2001,La Salle,A10,Pennsylvania,12,5-11 A10,#FFFFFF,#000000
 2001,Fordham,A10,New York,12,4-12 A10,#FFFFFF,#000000
 2001,Duquesne,A10,Pennsylvania,9,3-13 A10,#FFFFFF,#000000
@@ -19653,7 +19653,7 @@ NCAA 64",#8A8D8F,#000000
 2001,Virginia Tech,BE,Virginia,8,2-14 BE,#FFFFFF,#000000
 2001,Notre Dame,BE,Indiana,35,"11-5 BE
 NCAA 32",#0C2340,#AE9142
-2001,Georgetown,BE,D.C.,45,"10-6 BE
+2001,Georgetown,BE,District of Columbia,45,"10-6 BE
 Sweet 16",#041E42,#FFFFFF
 2001,Syracuse,BE,New York,40,"10-6 BE
 NCAA 32",#F76900,#FFFFFF
@@ -19717,7 +19717,7 @@ NCAA 64",#005239,#FFC733
 2001,Old Dominion,CAA,Virginia,13,7-9 CAA,#FFFFFF,#000000
 2001,James Madison,CAA,Virginia,12,6-10 CAA,#FFFFFF,#000000
 2001,East Carolina,CAA,North Carolina,14,6-10 CAA,#FFFFFF,#000000
-2001,American,CAA,D.C.,7,3-13 CAA,#FFFFFF,#000000
+2001,American,CAA,District of Columbia,7,3-13 CAA,#FFFFFF,#000000
 2001,Cincinnati,CUSA,Ohio,45,"11-5 CUSA
 Sweet 16",#E00122,#FFFFFF
 2001,Charlotte,CUSA,North Carolina,37,"10-6 CUSA
@@ -19778,7 +19778,7 @@ NCAA 32",#004AAD,#FFFFFF
 2001,Coppin St.,MEAC,Maryland,13,11-8 MEAC,#FFFFFF,#000000
 2001,UMES,MEAC,Maryland,12,10-8 MEAC,#FFFFFF,#000000
 2001,N.C. A&T,MEAC,North Carolina,13,8-10 MEAC,#FFFFFF,#000000
-2001,Howard,MEAC,D.C.,10,8-10 MEAC,#FFFFFF,#000000
+2001,Howard,MEAC,District of Columbia,10,8-10 MEAC,#FFFFFF,#000000
 2001,Bethune-Cookman,MEAC,Florida,10,4-13 MEAC,#FFFFFF,#000000
 2001,Florida A&M,MEAC,Florida,6,4-13 MEAC,#FFFFFF,#000000
 2001,Morgan St.,MEAC,Maryland,6,4-15 MEAC,#FFFFFF,#000000
@@ -20000,7 +20000,7 @@ NCAA 32",#0C2340,#FFFFFF
 2002,Richmond,A10,Virginia,22,11-5 A10,#FFFFFF,#000000
 2002,Dayton,A10,Ohio,21,10-6 A10,#FFFFFF,#000000
 2002,La Salle,A10,Pennsylvania,15,6-10 A10,#FFFFFF,#000000
-2002,George Washington,A10,D.C.,12,5-11 A10,#FFFFFF,#000000
+2002,George Washington,A10,District of Columbia,12,5-11 A10,#FFFFFF,#000000
 2002,Duquesne,A10,Pennsylvania,9,4-12 A10,#FFFFFF,#000000
 2002,Georgia St.,ASun,Georgia,20,14-6 ASun,#FFFFFF,#000000
 2002,Troy,ASun,Alabama,18,14-6 ASun,#FFFFFF,#000000
@@ -20047,7 +20047,7 @@ NCAA 64",#862633,#B29D6C
 Sweet 16",#003594,#FFB81C
 2002,Notre Dame,BE,Indiana,37,"10-6 BE
 NCAA 32",#0C2340,#AE9142
-2002,Georgetown,BE,D.C.,19,9-7 BE,#FFFFFF,#000000
+2002,Georgetown,BE,District of Columbia,19,9-7 BE,#FFFFFF,#000000
 2002,Syracuse,BE,New York,23,9-7 BE,#FFFFFF,#000000
 2002,Rutgers,BE,New Jersey,18,8-8 BE,#FFFFFF,#000000
 2002,Seton Hall,BE,New Jersey,12,5-11 BE,#FFFFFF,#000000
@@ -20173,7 +20173,7 @@ Elite 8",#002664,#EAAB00
 2002,Hampton,MEAC,Virginia,36,"17-1 MEAC
 NCAA 64",#004AAD,#FFFFFF
 2002,Delaware St.,MEAC,Delaware,16,12-6 MEAC,#FFFFFF,#000000
-2002,Howard,MEAC,D.C.,18,11-7 MEAC,#FFFFFF,#000000
+2002,Howard,MEAC,District of Columbia,18,11-7 MEAC,#FFFFFF,#000000
 2002,South Carolina St.,MEAC,South Carolina,15,11-7 MEAC,#FFFFFF,#000000
 2002,N.C. A&T,MEAC,North Carolina,11,10-8 MEAC,#FFFFFF,#000000
 2002,Norfolk St.,MEAC,Virginia,10,9-9 MEAC,#FFFFFF,#000000
@@ -20253,7 +20253,7 @@ Sweet 16",#2774AE,#FFD100
 2002,Washington,P10,Washington,11,5-13 P10,#FFFFFF,#000000
 2002,Oregon St.,P10,Oregon,12,4-14 P10,#FFFFFF,#000000
 2002,Washington St.,P10,Washington,6,1-17 P10,#FFFFFF,#000000
-2002,American,Pat,D.C.,18,10-4 Pat,#FFFFFF,#000000
+2002,American,Pat,District of Columbia,18,10-4 Pat,#FFFFFF,#000000
 2002,Holy Cross,Pat,Massachusetts,28,"9-5 Pat
 NCAA 64",#602D89,#FFFFFF
 2002,Bucknell,Pat,Pennsylvania,13,8-6 Pat,#FFFFFF,#000000
@@ -20386,7 +20386,7 @@ NCAA 32",#0C2340,#FFFFFF
 NCAA 64",#CE0037,#FFFFFF
 2003,Richmond,A10,Virginia,15,9-7 A10,#FFFFFF,#000000
 2003,La Salle,A10,Pennsylvania,12,5-11 A10,#FFFFFF,#000000
-2003,George Washington,A10,D.C.,12,5-11 A10,#FFFFFF,#000000
+2003,George Washington,A10,District of Columbia,12,5-11 A10,#FFFFFF,#000000
 2003,Duquesne,A10,Pennsylvania,9,3-13 A10,#FFFFFF,#000000
 2003,Belmont,ASun,Tennessee,17,12-4 ASun,#FFFFFF,#000000
 2003,Jacksonville St.,ASun,Alabama,20,10-6 ASun,#FFFFFF,#000000
@@ -20434,7 +20434,7 @@ Sweet 16",#003594,#FFB81C
 2003,Seton Hall,BE,New Jersey,17,10-6 BE,#FFFFFF,#000000
 2003,Notre Dame,BE,Indiana,44,"10-6 BE
 Sweet 16",#0C2340,#AE9142
-2003,Georgetown,BE,D.C.,19,6-10 BE,#FFFFFF,#000000
+2003,Georgetown,BE,District of Columbia,19,6-10 BE,#FFFFFF,#000000
 2003,West Virginia,BE,West Virginia,14,5-11 BE,#FFFFFF,#000000
 2003,Rutgers,BE,New Jersey,12,4-12 BE,#FFFFFF,#000000
 2003,Weber St.,BSky,Utah,36,"14-0 BSky
@@ -20567,7 +20567,7 @@ NCAA 64",#862633,#FFFFFF
 2003,Florida A&M,MEAC,Florida,17,11-7 MEAC,#FFFFFF,#000000
 2003,Coppin St.,MEAC,Maryland,11,11-7 MEAC,#FFFFFF,#000000
 2003,Norfolk St.,MEAC,Virginia,14,10-8 MEAC,#FFFFFF,#000000
-2003,Howard,MEAC,D.C.,13,9-9 MEAC,#FFFFFF,#000000
+2003,Howard,MEAC,District of Columbia,13,9-9 MEAC,#FFFFFF,#000000
 2003,Morgan St.,MEAC,Maryland,7,6-12 MEAC,#FFFFFF,#000000
 2003,Bethune-Cookman,MEAC,Florida,8,5-13 MEAC,#FFFFFF,#000000
 2003,UMES,MEAC,Maryland,5,5-13 MEAC,#FFFFFF,#000000
@@ -20644,7 +20644,7 @@ NCAA 64",#007030,#FEE11A
 2003,Washington St.,P10,Washington,7,2-16 P10,#FFFFFF,#000000
 2003,Holy Cross,Pat,Massachusetts,36,"13-1 Pat
 NCAA 64",#602D89,#FFFFFF
-2003,American,Pat,D.C.,16,9-5 Pat,#FFFFFF,#000000
+2003,American,Pat,District of Columbia,16,9-5 Pat,#FFFFFF,#000000
 2003,Colgate,Pat,New York,14,9-5 Pat,#FFFFFF,#000000
 2003,Lehigh,Pat,Pennsylvania,16,8-6 Pat,#FFFFFF,#000000
 2003,Bucknell,Pat,Pennsylvania,14,7-7 Pat,#FFFFFF,#000000
@@ -20745,7 +20745,7 @@ NCAA 32",#CC0000,#FFFFFF
 2004,Wake Forest,ACC,North Carolina,41,"9-7 ACC
 Sweet 16",#9E7E38,#000000
 2004,Georgia Tech,ACC,Georgia,63,"9-7 ACC
-Runner-up",#B3A369,#003057
+Runner-up",#B39051,#051E39
 2004,North Carolina,ACC,North Carolina,34,"8-8 ACC
 NCAA 32",#4B9CD3,#FFFFFF
 2004,Maryland,ACC,Maryland,35,"7-9 ACC
@@ -20773,7 +20773,7 @@ Elite 8",#9E1B32,#FFFFFF
 2004,Fordham,A10,New York,6,3-13 A10,#FFFFFF,#000000
 2004,Dayton,A10,Ohio,34,"12-4 A10
 NCAA 64",#CE0037,#FFFFFF
-2004,George Washington,A10,D.C.,18,11-5 A10,#FFFFFF,#000000
+2004,George Washington,A10,District of Columbia,18,11-5 A10,#FFFFFF,#000000
 2004,Xavier,A10,Ohio,51,"10-6 A10
 Elite 8",#0C2340,#FFFFFF
 2004,Richmond,A10,Virginia,30,"10-6 A10
@@ -20825,7 +20825,7 @@ NCAA 32",#004488,#FFFFFF
 2004,Rutgers,BE,New Jersey,20,7-9 BE,#FFFFFF,#000000
 2004,West Virginia,BE,West Virginia,17,7-9 BE,#FFFFFF,#000000
 2004,Villanova,BE,Pennsylvania,18,6-10 BE,#FFFFFF,#000000
-2004,Georgetown,BE,D.C.,13,4-12 BE,#FFFFFF,#000000
+2004,Georgetown,BE,District of Columbia,13,4-12 BE,#FFFFFF,#000000
 2004,Miami (FL),BE,Florida,14,4-12 BE,#FFFFFF,#000000
 2004,St. John's (NY),BE,New York,6,1-15 BE,#FFFFFF,#000000
 2004,Eastern Wash.,BSky,Washington,27,"11-3 BSky
@@ -20959,7 +20959,7 @@ NCAA 64",#F4811F,#008344
 2004,Morgan St.,MEAC,Maryland,11,9-9 MEAC,#FFFFFF,#000000
 2004,Bethune-Cookman,MEAC,Florida,8,7-11 MEAC,#FFFFFF,#000000
 2004,UMES,MEAC,Maryland,8,6-12 MEAC,#FFFFFF,#000000
-2004,Howard,MEAC,D.C.,6,4-14 MEAC,#FFFFFF,#000000
+2004,Howard,MEAC,District of Columbia,6,4-14 MEAC,#FFFFFF,#000000
 2004,N.C. A&T,MEAC,North Carolina,3,3-15 MEAC,#FFFFFF,#000000
 2004,Valparaiso,MidC,Indiana,28,"11-5 MidC
 NCAA 64",#FFE300,#000000
@@ -21032,7 +21032,7 @@ NCAA 64",#AB0520,#FFFFFF
 2004,Arizona St.,P10,Arizona,10,4-14 P10,#FFFFFF,#000000
 2004,Lehigh,Pat,Pennsylvania,25,"10-4 Pat
 NCAA 65",#502D0E,#FFFFFF
-2004,American,Pat,D.C.,18,10-4 Pat,#FFFFFF,#000000
+2004,American,Pat,District of Columbia,18,10-4 Pat,#FFFFFF,#000000
 2004,Lafayette,Pat,Pennsylvania,18,9-5 Pat,#FFFFFF,#000000
 2004,Bucknell,Pat,Pennsylvania,14,9-5 Pat,#FFFFFF,#000000
 2004,Holy Cross,Pat,Massachusetts,13,7-7 Pat,#FFFFFF,#000000
@@ -21134,7 +21134,7 @@ NCAA 32",#9E7E38,#000000
 Sweet 16",#00539B,#FFFFFF
 2005,Virginia Tech,ACC,Virginia,16,8-8 ACC,#FFFFFF,#000000
 2005,Georgia Tech,ACC,Georgia,35,"8-8 ACC
-NCAA 32",#B3A369,#003057
+NCAA 32",#B39051,#051E39
 2005,Miami (FL),ACC,Florida,16,7-9 ACC,#FFFFFF,#000000
 2005,NC State,ACC,North Carolina,41,"7-9 ACC
 Sweet 16",#CC0000,#FFFFFF
@@ -21159,7 +21159,7 @@ NCAA 32",#007155,#FFFFFF
 2005,Fordham,A10,New York,13,8-8 A10,#FFFFFF,#000000
 2005,Rhode Island,A10,Rhode Island,6,4-12 A10,#FFFFFF,#000000
 2005,St. Bonaventure,A10,New York,2,1-15 A10,#FFFFFF,#000000
-2005,George Washington,A10,D.C.,32,"11-5 A10
+2005,George Washington,A10,District of Columbia,32,"11-5 A10
 NCAA 64",#033C5A,#FFFFFF
 2005,Dayton,A10,Ohio,18,10-6 A10,#FFFFFF,#000000
 2005,Xavier,A10,Ohio,17,10-6 A10,#FFFFFF,#000000
@@ -21207,7 +21207,7 @@ Sweet 16",#002664,#FFFFFF
 2005,Pittsburgh,BE,Pennsylvania,30,"10-6 BE
 NCAA 64",#003594,#FFB81C
 2005,Notre Dame,BE,Indiana,17,9-7 BE,#FFFFFF,#000000
-2005,Georgetown,BE,D.C.,19,8-8 BE,#FFFFFF,#000000
+2005,Georgetown,BE,District of Columbia,19,8-8 BE,#FFFFFF,#000000
 2005,West Virginia,BE,West Virginia,49,"8-8 BE
 Elite 8",#002855,#EAAA00
 2005,Providence,BE,Rhode Island,14,4-12 BE,#FFFFFF,#000000
@@ -21350,7 +21350,7 @@ NCAA 64",#279FCC,#FFFFFF
 2005,Florida A&M,MEAC,Florida,14,10-8 MEAC,#FFFFFF,#000000
 2005,Bethune-Cookman,MEAC,Florida,13,8-10 MEAC,#FFFFFF,#000000
 2005,N.C. A&T,MEAC,North Carolina,6,5-13 MEAC,#FFFFFF,#000000
-2005,Howard,MEAC,D.C.,5,2-16 MEAC,#FFFFFF,#000000
+2005,Howard,MEAC,District of Columbia,5,2-16 MEAC,#FFFFFF,#000000
 2005,UMES,MEAC,Maryland,2,1-17 MEAC,#FFFFFF,#000000
 2005,Oral Roberts,MidC,Oklahoma,25,13-3 MidC,#FFFFFF,#000000
 2005,Kansas City,MidC,Missouri,16,12-4 MidC,#FFFFFF,#000000
@@ -21425,7 +21425,7 @@ NCAA 64",#8C1515,#FFFFFF
 2005,Holy Cross,Pat,Massachusetts,25,13-1 Pat,#FFFFFF,#000000
 2005,Bucknell,Pat,Pennsylvania,38,"10-4 Pat
 NCAA 32",#E87722,#003865
-2005,American,Pat,D.C.,16,8-6 Pat,#FFFFFF,#000000
+2005,American,Pat,District of Columbia,16,8-6 Pat,#FFFFFF,#000000
 2005,Colgate,Pat,New York,12,7-7 Pat,#FFFFFF,#000000
 2005,Navy,Pat,Maryland,9,5-9 Pat,#FFFFFF,#000000
 2005,Lafayette,Pat,Pennsylvania,9,5-9 Pat,#FFFFFF,#000000
@@ -21544,7 +21544,7 @@ NCAA 64",#46166B,#FFFFFF
 2006,Maine,AEC,Maine,12,7-9 AEC,#FFFFFF,#000000
 2006,UMBC,AEC,Maryland,10,5-11 AEC,#FFFFFF,#000000
 2006,Stony Brook,AEC,New York,4,2-14 AEC,#FFFFFF,#000000
-2006,George Washington,A10,D.C.,42,"16-0 A10
+2006,George Washington,A10,District of Columbia,42,"16-0 A10
 NCAA 32",#033C5A,#FFFFFF
 2006,Charlotte,A10,North Carolina,19,11-5 A10,#FFFFFF,#000000
 2006,La Salle,A10,Pennsylvania,18,10-6 A10,#FFFFFF,#000000
@@ -21596,7 +21596,7 @@ Elite 8",#002664,#FFFFFF
 Sweet 16",#002855,#EAAA00
 2006,Marquette,BE,Wisconsin,30,"10-6 BE
 NCAA 64",#FFCC00,#003366
-2006,Georgetown,BE,D.C.,43,"10-6 BE
+2006,Georgetown,BE,District of Columbia,43,"10-6 BE
 Sweet 16",#041E42,#FFFFFF
 2006,Pittsburgh,BE,Pennsylvania,40,"10-6 BE
 NCAA 32",#003594,#FFB81C
@@ -21746,7 +21746,7 @@ NCAA 65",#004AAD,#FFFFFF
 2006,Florida A&M,MEAC,Florida,14,10-8 MEAC,#FFFFFF,#000000
 2006,Norfolk St.,MEAC,Virginia,13,10-8 MEAC,#FFFFFF,#000000
 2006,N.C. A&T,MEAC,North Carolina,6,6-12 MEAC,#FFFFFF,#000000
-2006,Howard,MEAC,D.C.,7,5-13 MEAC,#FFFFFF,#000000
+2006,Howard,MEAC,District of Columbia,7,5-13 MEAC,#FFFFFF,#000000
 2006,UMES,MEAC,Maryland,7,4-14 MEAC,#FFFFFF,#000000
 2006,Morgan St.,MEAC,Maryland,4,4-14 MEAC,#FFFFFF,#000000
 2006,Oral Roberts,MidC,Oklahoma,31,"13-3 MidC
@@ -21825,7 +21825,7 @@ NCAA 32",#AB0520,#FFFFFF
 NCAA 32",#E87722,#003865
 2006,Holy Cross,Pat,Massachusetts,20,11-3 Pat,#FFFFFF,#000000
 2006,Lehigh,Pat,Pennsylvania,19,11-3 Pat,#FFFFFF,#000000
-2006,American,Pat,D.C.,12,7-7 Pat,#FFFFFF,#000000
+2006,American,Pat,District of Columbia,12,7-7 Pat,#FFFFFF,#000000
 2006,Lafayette,Pat,Pennsylvania,11,5-9 Pat,#FFFFFF,#000000
 2006,Colgate,Pat,New York,10,4-10 Pat,#FFFFFF,#000000
 2006,Navy,Pat,Maryland,10,3-11 Pat,#FFFFFF,#000000
@@ -21926,7 +21926,7 @@ NCAA 32",#862633,#B29D6C
 2007,Maryland,ACC,Maryland,40,"10-6 ACC
 NCAA 32",#E21833,#FFFFFF
 2007,Georgia Tech,ACC,Georgia,30,"8-8 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 2007,Duke,ACC,North Carolina,32,"8-8 ACC
 NCAA 64",#00539B,#FFFFFF
 2007,Clemson,ACC,South Carolina,25,7-9 ACC,#FFFFFF,#000000
@@ -21947,7 +21947,7 @@ NCAA 64",#46166B,#FFFFFF
 2007,Xavier,A10,Ohio,40,"13-3 A10
 NCAA 32",#0C2340,#FFFFFF
 2007,Massachusetts,A10,Massachusetts,24,13-3 A10,#FFFFFF,#000000
-2007,George Washington,A10,D.C.,33,"11-5 A10
+2007,George Washington,A10,District of Columbia,33,"11-5 A10
 NCAA 64",#033C5A,#FFFFFF
 2007,Fordham,A10,New York,18,10-6 A10,#FFFFFF,#000000
 2007,Rhode Island,A10,Rhode Island,19,10-6 A10,#FFFFFF,#000000
@@ -21987,7 +21987,7 @@ NCAA 64",#E90802,#FFFFFF
 2007,Nebraska,B12,Nebraska,17,6-10 B12,#FFFFFF,#000000
 2007,Baylor,B12,Texas,15,4-12 B12,#FFFFFF,#000000
 2007,Colorado,B12,Colorado,7,3-13 B12,#FFFFFF,#000000
-2007,Georgetown,BE,D.C.,60,"13-3 BE
+2007,Georgetown,BE,District of Columbia,60,"13-3 BE
 Final 4",#041E42,#FFFFFF
 2007,Louisville,BE,Kentucky,39,"12-4 BE
 NCAA 32",#AD0000,#FFFFFF
@@ -22145,7 +22145,7 @@ NCAA 65",#F4811F,#008344
 2007,Norfolk St.,MEAC,Virginia,11,10-8 MEAC,#FFFFFF,#000000
 2007,Coppin St.,MEAC,Maryland,12,9-9 MEAC,#FFFFFF,#000000
 2007,Bethune-Cookman,MEAC,Florida,9,6-12 MEAC,#FFFFFF,#000000
-2007,Howard,MEAC,D.C.,9,5-13 MEAC,#FFFFFF,#000000
+2007,Howard,MEAC,District of Columbia,9,5-13 MEAC,#FFFFFF,#000000
 2007,UMES,MEAC,Maryland,4,1-17 MEAC,#FFFFFF,#000000
 2007,Oral Roberts,MidC,Oklahoma,33,"12-2 MidC
 NCAA 64",#002462,#DAC792
@@ -22222,7 +22222,7 @@ NCAA 64",#8C1515,#FFFFFF
 NCAA 64",#602D89,#FFFFFF
 2007,Bucknell,Pat,Pennsylvania,22,13-1 Pat,#FFFFFF,#000000
 2007,Lehigh,Pat,Pennsylvania,12,7-7 Pat,#FFFFFF,#000000
-2007,American,Pat,D.C.,16,7-7 Pat,#FFFFFF,#000000
+2007,American,Pat,District of Columbia,16,7-7 Pat,#FFFFFF,#000000
 2007,Colgate,Pat,New York,10,5-9 Pat,#FFFFFF,#000000
 2007,Army West Point,Pat,New York,15,4-10 Pat,#FFFFFF,#000000
 2007,Navy,Pat,Maryland,14,4-10 Pat,#FFFFFF,#000000
@@ -22355,7 +22355,7 @@ NCAA 64",#9E1B32,#FFFFFF
 2008,Duquesne,A10,Pennsylvania,17,7-9 A10,#FFFFFF,#000000
 2008,Saint Louis,A10,Missouri,16,7-9 A10,#FFFFFF,#000000
 2008,Fordham,A10,New York,12,6-10 A10,#FFFFFF,#000000
-2008,George Washington,A10,D.C.,9,5-11 A10,#FFFFFF,#000000
+2008,George Washington,A10,District of Columbia,9,5-11 A10,#FFFFFF,#000000
 2008,St. Bonaventure,A10,New York,8,2-14 A10,#FFFFFF,#000000
 2008,Belmont,ASun,Tennessee,35,"14-2 ASun
 NCAA 64",#001D54,#FFFFFF
@@ -22388,7 +22388,7 @@ NCAA 32",#500000,#FFFFFF
 2008,Missouri,B12,Missouri,16,6-10 B12,#FFFFFF,#000000
 2008,Iowa St.,B12,Iowa,14,4-12 B12,#FFFFFF,#000000
 2008,Colorado,B12,Colorado,12,3-13 B12,#FFFFFF,#000000
-2008,Georgetown,BE,D.C.,43,"15-3 BE
+2008,Georgetown,BE,District of Columbia,43,"15-3 BE
 NCAA 32",#041E42,#FFFFFF
 2008,Louisville,BE,Kentucky,52,"14-4 BE
 Elite 8",#AD0000,#FFFFFF
@@ -22544,7 +22544,7 @@ NCAA 64",#002664,#EAAB00
 NCAA 65",#003056,#FFC915
 2008,South Carolina St.,MEAC,South Carolina,13,7-9 MEAC,#FFFFFF,#000000
 2008,Bethune-Cookman,MEAC,Florida,11,5-11 MEAC,#FFFFFF,#000000
-2008,Howard,MEAC,D.C.,6,3-13 MEAC,#FFFFFF,#000000
+2008,Howard,MEAC,District of Columbia,6,3-13 MEAC,#FFFFFF,#000000
 2008,UMES,MEAC,Maryland,4,2-14 MEAC,#FFFFFF,#000000
 2008,Drake,MVC,Iowa,38,"15-3 MVC
 NCAA 64",#004A7C,#FFFFFF
@@ -22608,7 +22608,7 @@ NCAA 64",#AB0520,#FFFFFF
 2008,Washington,P10,Washington,16,7-11 P10,#FFFFFF,#000000
 2008,California,P10,California,17,6-12 P10,#FFFFFF,#000000
 2008,Oregon St.,P10,Oregon,6,0-18 P10,#FFFFFF,#000000
-2008,American,Pat,D.C.,31,"10-4 Pat
+2008,American,Pat,District of Columbia,31,"10-4 Pat
 NCAA 64",#004FA2,#FFFFFF
 2008,Navy,Pat,Maryland,16,9-5 Pat,#FFFFFF,#000000
 2008,Colgate,Pat,New York,18,7-7 Pat,#FFFFFF,#000000
@@ -22761,7 +22761,7 @@ NCAA 64",#A41E35,#FFFFFF
 2009,Massachusetts,A10,Massachusetts,12,7-9 A10,#FFFFFF,#000000
 2009,St. Bonaventure,A10,New York,15,6-10 A10,#FFFFFF,#000000
 2009,Charlotte,A10,North Carolina,11,5-11 A10,#FFFFFF,#000000
-2009,George Washington,A10,D.C.,10,4-12 A10,#FFFFFF,#000000
+2009,George Washington,A10,District of Columbia,10,4-12 A10,#FFFFFF,#000000
 2009,Fordham,A10,New York,3,1-15 A10,#FFFFFF,#000000
 2009,Jacksonville,ASun,Florida,18,15-5 ASun,#FFFFFF,#000000
 2009,ETSU,ASun,Tennessee,33,"14-6 ASun
@@ -22811,7 +22811,7 @@ NCAA 64",#002855,#EAAA00
 2009,Cincinnati,BE,Ohio,18,8-10 BE,#FFFFFF,#000000
 2009,Notre Dame,BE,Indiana,21,8-10 BE,#FFFFFF,#000000
 2009,Seton Hall,BE,New Jersey,17,7-11 BE,#FFFFFF,#000000
-2009,Georgetown,BE,D.C.,16,7-11 BE,#FFFFFF,#000000
+2009,Georgetown,BE,District of Columbia,16,7-11 BE,#FFFFFF,#000000
 2009,St. John's (NY),BE,New York,16,6-12 BE,#FFFFFF,#000000
 2009,South Fla.,BE,Florida,9,4-14 BE,#FFFFFF,#000000
 2009,Rutgers,BE,New Jersey,11,2-16 BE,#FFFFFF,#000000
@@ -22954,7 +22954,7 @@ NCAA 64",#F47937,#1B4383
 2009,Coppin St.,MEAC,Maryland,13,9-7 MEAC,#FFFFFF,#000000
 2009,Hampton,MEAC,Virginia,16,8-8 MEAC,#FFFFFF,#000000
 2009,Florida A&M,MEAC,Florida,10,6-10 MEAC,#FFFFFF,#000000
-2009,Howard,MEAC,D.C.,8,6-10 MEAC,#FFFFFF,#000000
+2009,Howard,MEAC,District of Columbia,8,6-10 MEAC,#FFFFFF,#000000
 2009,Delaware St.,MEAC,Delaware,8,6-10 MEAC,#FFFFFF,#000000
 2009,UMES,MEAC,Maryland,7,3-13 MEAC,#FFFFFF,#000000
 2009,Creighton,MVC,Nebraska,27,14-4 MVC,#FFFFFF,#000000
@@ -23019,7 +23019,7 @@ NCAA 32",#990000,#FFCC00
 2009,Oregon St.,P10,Oregon,18,7-11 P10,#FFFFFF,#000000
 2009,Stanford,P10,California,20,6-12 P10,#FFFFFF,#000000
 2009,Oregon,P10,Oregon,8,2-16 P10,#FFFFFF,#000000
-2009,American,Pat,D.C.,34,"13-1 Pat
+2009,American,Pat,District of Columbia,34,"13-1 Pat
 NCAA 64",#004FA2,#FFFFFF
 2009,Holy Cross,Pat,Massachusetts,18,11-3 Pat,#FFFFFF,#000000
 2009,Navy,Pat,Maryland,19,8-6 Pat,#FFFFFF,#000000
@@ -23135,7 +23135,7 @@ NCAA 32",#9E7E38,#000000
 2010,Clemson,ACC,South Carolina,31,"9-7 ACC
 NCAA 64",#F56600,#FFFFFF
 2010,Georgia Tech,ACC,Georgia,38,"7-9 ACC
-NCAA 32",#B3A369,#003057
+NCAA 32",#B39051,#051E39
 2010,Boston College,ACC,Massachusetts,15,6-10 ACC,#FFFFFF,#000000
 2010,Virginia,ACC,Virginia,15,5-11 ACC,#FFFFFF,#000000
 2010,North Carolina,ACC,North Carolina,20,5-11 ACC,#FFFFFF,#000000
@@ -23163,7 +23163,7 @@ NCAA 64",#000066,#FFFFFF
 2010,Dayton,A10,Ohio,25,8-8 A10,#FFFFFF,#000000
 2010,St. Bonaventure,A10,New York,15,7-9 A10,#FFFFFF,#000000
 2010,Duquesne,A10,Pennsylvania,16,7-9 A10,#FFFFFF,#000000
-2010,George Washington,A10,D.C.,16,6-10 A10,#FFFFFF,#000000
+2010,George Washington,A10,District of Columbia,16,6-10 A10,#FFFFFF,#000000
 2010,Massachusetts,A10,Massachusetts,12,5-11 A10,#FFFFFF,#000000
 2010,Saint Joseph's,A10,Pennsylvania,11,5-11 A10,#FFFFFF,#000000
 2010,La Salle,A10,Pennsylvania,12,4-12 A10,#FFFFFF,#000000
@@ -23213,7 +23213,7 @@ NCAA 64",#FFCC00,#003366
 NCAA 64",#AD0000,#FFFFFF
 2010,Notre Dame,BE,Indiana,33,"10-8 BE
 NCAA 64",#0C2340,#AE9142
-2010,Georgetown,BE,D.C.,33,"10-8 BE
+2010,Georgetown,BE,District of Columbia,33,"10-8 BE
 NCAA 64",#041E42,#FFFFFF
 2010,South Fla.,BE,Florida,20,9-9 BE,#FFFFFF,#000000
 2010,Seton Hall,BE,New Jersey,19,9-9 BE,#FFFFFF,#000000
@@ -23361,7 +23361,7 @@ NCAA 64",#F47937,#1B4383
 2010,Hampton,MEAC,Virginia,14,8-8 MEAC,#FFFFFF,#000000
 2010,UMES,MEAC,Maryland,11,8-8 MEAC,#FFFFFF,#000000
 2010,Bethune-Cookman,MEAC,Florida,17,7-9 MEAC,#FFFFFF,#000000
-2010,Howard,MEAC,D.C.,7,6-10 MEAC,#FFFFFF,#000000
+2010,Howard,MEAC,District of Columbia,7,6-10 MEAC,#FFFFFF,#000000
 2010,N.C. A&T,MEAC,North Carolina,11,6-10 MEAC,#FFFFFF,#000000
 2010,Florida A&M,MEAC,Florida,9,5-11 MEAC,#FFFFFF,#000000
 2010,Coppin St.,MEAC,Maryland,8,3-13 MEAC,#FFFFFF,#000000
@@ -23429,7 +23429,7 @@ Sweet 16",#4B2E83,#FFFFFF
 NCAA 64",#502D0E,#FFFFFF
 2010,Bucknell,Pat,Pennsylvania,14,9-5 Pat,#FFFFFF,#000000
 2010,Lafayette,Pat,Pennsylvania,19,8-6 Pat,#FFFFFF,#000000
-2010,American,Pat,D.C.,11,7-7 Pat,#FFFFFF,#000000
+2010,American,Pat,District of Columbia,11,7-7 Pat,#FFFFFF,#000000
 2010,Navy,Pat,Maryland,13,7-7 Pat,#FFFFFF,#000000
 2010,Colgate,Pat,New York,10,6-8 Pat,#FFFFFF,#000000
 2010,Holy Cross,Pat,Massachusetts,9,5-9 Pat,#FFFFFF,#000000
@@ -23565,7 +23565,7 @@ NCAA 32",#A41E35,#FFFFFF
 2011,Richmond,A10,Virginia,49,"13-3 A10
 Sweet 16",#000066,#FFFFFF
 2011,Duquesne,A10,Pennsylvania,19,10-6 A10,#FFFFFF,#000000
-2011,George Washington,A10,D.C.,17,10-6 A10,#FFFFFF,#000000
+2011,George Washington,A10,District of Columbia,17,10-6 A10,#FFFFFF,#000000
 2011,Rhode Island,A10,Rhode Island,20,9-7 A10,#FFFFFF,#000000
 2011,St. Bonaventure,A10,New York,16,8-8 A10,#FFFFFF,#000000
 2011,Dayton,A10,Ohio,22,7-9 A10,#FFFFFF,#000000
@@ -23618,7 +23618,7 @@ NCAA 64",#CF102D,#FFFFFF
 NCAA 32",#E00122,#FFFFFF
 2011,West Virginia,BE,West Virginia,36,"11-7 BE
 NCAA 32",#002855,#EAAA00
-2011,Georgetown,BE,D.C.,31,"10-8 BE
+2011,Georgetown,BE,District of Columbia,31,"10-8 BE
 NCAA 64",#041E42,#FFFFFF
 2011,UConn,BE,Connecticut,132,"9-9 BE
 Champion",#000E2F,#FFFFFF
@@ -23776,7 +23776,7 @@ NCAA 64",#004AAD,#FFFFFF
 2011,South Carolina St.,MEAC,South Carolina,10,5-11 MEAC,#FFFFFF,#000000
 2011,Delaware St.,MEAC,Delaware,9,5-11 MEAC,#FFFFFF,#000000
 2011,UMES,MEAC,Maryland,9,5-11 MEAC,#FFFFFF,#000000
-2011,Howard,MEAC,D.C.,6,4-12 MEAC,#FFFFFF,#000000
+2011,Howard,MEAC,District of Columbia,6,4-12 MEAC,#FFFFFF,#000000
 2011,Missouri St.,MVC,Missouri,26,15-3 MVC,#FFFFFF,#000000
 2011,Wichita St.,MVC,Kansas,29,14-4 MVC,#FFFFFF,#000000
 2011,Indiana St.,MVC,Indiana,30,"12-6 MVC
@@ -23840,7 +23840,7 @@ NCAA 68",#990000,#FFCC00
 2011,Arizona St.,P10,Arizona,12,4-14 P10,#FFFFFF,#000000
 2011,Bucknell,Pat,Pennsylvania,35,"13-1 Pat
 NCAA 64",#E87722,#003865
-2011,American,Pat,D.C.,22,11-3 Pat,#FFFFFF,#000000
+2011,American,Pat,District of Columbia,22,11-3 Pat,#FFFFFF,#000000
 2011,Holy Cross,Pat,Massachusetts,8,7-7 Pat,#FFFFFF,#000000
 2011,Lehigh,Pat,Pennsylvania,16,6-8 Pat,#FFFFFF,#000000
 2011,Lafayette,Pat,Pennsylvania,13,6-8 Pat,#FFFFFF,#000000
@@ -23985,7 +23985,7 @@ NCAA 64",#2B150E,#FFFFFF
 2012,Duquesne,A10,Pennsylvania,16,7-9 A10,#FFFFFF,#000000
 2012,Richmond,A10,Virginia,16,7-9 A10,#FFFFFF,#000000
 2012,Charlotte,A10,North Carolina,13,5-11 A10,#FFFFFF,#000000
-2012,George Washington,A10,D.C.,10,5-11 A10,#FFFFFF,#000000
+2012,George Washington,A10,District of Columbia,10,5-11 A10,#FFFFFF,#000000
 2012,Rhode Island,A10,Rhode Island,7,4-12 A10,#FFFFFF,#000000
 2012,Fordham,A10,New York,10,3-13 A10,#FFFFFF,#000000
 2012,Belmont,ASun,Tennessee,37,"16-2 ASun
@@ -24021,7 +24021,7 @@ Elite 8",#F76900,#FFFFFF
 Sweet 16",#FFCC00,#003366
 2012,Notre Dame,BE,Indiana,32,"13-5 BE
 NCAA 64",#0C2340,#AE9142
-2012,Georgetown,BE,D.C.,39,"12-6 BE
+2012,Georgetown,BE,District of Columbia,39,"12-6 BE
 NCAA 32",#041E42,#FFFFFF
 2012,Cincinnati,BE,Ohio,46,"12-6 BE
 Sweet 16",#E00122,#FFFFFF
@@ -24179,7 +24179,7 @@ NCAA 32",#007A53,#FFFFFF
 2012,Coppin St.,MEAC,Maryland,14,9-7 MEAC,#FFFFFF,#000000
 2012,N.C. A&T,MEAC,North Carolina,12,7-9 MEAC,#FFFFFF,#000000
 2012,Hampton,MEAC,Virginia,12,6-10 MEAC,#FFFFFF,#000000
-2012,Howard,MEAC,D.C.,10,6-10 MEAC,#FFFFFF,#000000
+2012,Howard,MEAC,District of Columbia,10,6-10 MEAC,#FFFFFF,#000000
 2012,Morgan St.,MEAC,Maryland,9,6-10 MEAC,#FFFFFF,#000000
 2012,Florida A&M,MEAC,Florida,10,6-10 MEAC,#FFFFFF,#000000
 2012,UMES,MEAC,Maryland,7,4-12 MEAC,#FFFFFF,#000000
@@ -24250,7 +24250,7 @@ NCAA 32",#CFB87C,#000000
 2012,Bucknell,Pat,Pennsylvania,25,12-2 Pat,#FFFFFF,#000000
 2012,Lehigh,Pat,Pennsylvania,42,"11-3 Pat
 NCAA 32",#502D0E,#FFFFFF
-2012,American,Pat,D.C.,20,10-4 Pat,#FFFFFF,#000000
+2012,American,Pat,District of Columbia,20,10-4 Pat,#FFFFFF,#000000
 2012,Holy Cross,Pat,Massachusetts,15,9-5 Pat,#FFFFFF,#000000
 2012,Lafayette,Pat,Pennsylvania,13,7-7 Pat,#FFFFFF,#000000
 2012,Army West Point,Pat,New York,12,5-9 Pat,#FFFFFF,#000000
@@ -24397,7 +24397,7 @@ NCAA 32",#A41E35,#FFFFFF
 2013,Richmond,A10,Virginia,19,8-8 A10,#FFFFFF,#000000
 2013,Dayton,A10,Ohio,17,7-9 A10,#FFFFFF,#000000
 2013,St. Bonaventure,A10,New York,14,7-9 A10,#FFFFFF,#000000
-2013,George Washington,A10,D.C.,13,7-9 A10,#FFFFFF,#000000
+2013,George Washington,A10,District of Columbia,13,7-9 A10,#FFFFFF,#000000
 2013,Rhode Island,A10,Rhode Island,8,3-13 A10,#FFFFFF,#000000
 2013,Fordham,A10,New York,7,3-13 A10,#FFFFFF,#000000
 2013,Duquesne,A10,Pennsylvania,8,1-15 A10,#FFFFFF,#000000
@@ -24429,7 +24429,7 @@ NCAA 32",#C8102E,#F1BE48
 2013,TCU,B12,Texas,11,2-16 B12,#FFFFFF,#000000
 2013,Louisville,BE,Kentucky,135,"14-4 BE
 Champion",#AD0000,#FFFFFF
-2013,Georgetown,BE,D.C.,35,"14-4 BE
+2013,Georgetown,BE,District of Columbia,35,"14-4 BE
 NCAA 64",#041E42,#FFFFFF
 2013,Marquette,BE,Wisconsin,51,"14-4 BE
 Elite 8",#FFCC00,#003366
@@ -24590,7 +24590,7 @@ NCAA 64",#004684,#FDB927
 2013,Bethune-Cookman,MEAC,Florida,14,7-9 MEAC,#FFFFFF,#000000
 2013,Florida A&M,MEAC,Florida,8,5-11 MEAC,#FFFFFF,#000000
 2013,Coppin St.,MEAC,Maryland,8,5-11 MEAC,#FFFFFF,#000000
-2013,Howard,MEAC,D.C.,7,4-12 MEAC,#FFFFFF,#000000
+2013,Howard,MEAC,District of Columbia,7,4-12 MEAC,#FFFFFF,#000000
 2013,South Carolina St.,MEAC,South Carolina,6,2-14 MEAC,#FFFFFF,#000000
 2013,UMES,MEAC,Maryland,2,2-14 MEAC,#FFFFFF,#000000
 2013,Creighton,MVC,Nebraska,43,"13-5 MVC
@@ -24668,7 +24668,7 @@ NCAA 64",#E87722,#003865
 2013,Lafayette,Pat,Pennsylvania,19,10-4 Pat,#FFFFFF,#000000
 2013,Army West Point,Pat,New York,16,8-6 Pat,#FFFFFF,#000000
 2013,Colgate,Pat,New York,11,5-9 Pat,#FFFFFF,#000000
-2013,American,Pat,D.C.,10,5-9 Pat,#FFFFFF,#000000
+2013,American,Pat,District of Columbia,10,5-9 Pat,#FFFFFF,#000000
 2013,Holy Cross,Pat,Massachusetts,12,4-10 Pat,#FFFFFF,#000000
 2013,Navy,Pat,Maryland,8,2-12 Pat,#FFFFFF,#000000
 2013,Florida,SEC,Florida,54,"14-4 SEC
@@ -24817,7 +24817,7 @@ NCAA 64",#46166B,#FFFFFF
 NCAA 32",#003DA5,#FFFFFF
 2014,VCU,A10,Virginia,36,"12-4 A10
 NCAA 64",#FFB300,#000000
-2014,George Washington,A10,D.C.,34,"11-5 A10
+2014,George Washington,A10,District of Columbia,34,"11-5 A10
 NCAA 64",#033C5A,#FFFFFF
 2014,Saint Joseph's,A10,Pennsylvania,34,"11-5 A10
 NCAA 64",#9E1B32,#FFFFFF
@@ -24870,7 +24870,7 @@ NCAA 64",#8A8D8F,#000000
 NCAA 68",#0C2340,#FFFFFF
 2014,St. John's (NY),BE,New York,20,10-8 BE,#FFFFFF,#000000
 2014,Marquette,BE,Wisconsin,17,9-9 BE,#FFFFFF,#000000
-2014,Georgetown,BE,D.C.,18,8-10 BE,#FFFFFF,#000000
+2014,Georgetown,BE,District of Columbia,18,8-10 BE,#FFFFFF,#000000
 2014,Seton Hall,BE,New Jersey,17,6-12 BE,#FFFFFF,#000000
 2014,Butler,BE,Indiana,14,4-14 BE,#FFFFFF,#000000
 2014,DePaul,BE,Illinois,12,3-15 BE,#FFFFFF,#000000
@@ -25009,7 +25009,7 @@ NCAA 64",#862633,#FFFFFF
 2014,Delaware St.,MEAC,Delaware,9,5-11 MEAC,#FFFFFF,#000000
 2014,South Carolina St.,MEAC,South Carolina,9,5-11 MEAC,#FFFFFF,#000000
 2014,N.C. A&T,MEAC,North Carolina,9,5-11 MEAC,#FFFFFF,#000000
-2014,Howard,MEAC,D.C.,8,5-11 MEAC,#FFFFFF,#000000
+2014,Howard,MEAC,District of Columbia,8,5-11 MEAC,#FFFFFF,#000000
 2014,Bethune-Cookman,MEAC,Florida,7,5-11 MEAC,#FFFFFF,#000000
 2014,UMES,MEAC,Maryland,6,4-12 MEAC,#FFFFFF,#000000
 2014,Wichita St.,MVC,Kansas,50,"18-0 MVC
@@ -25079,7 +25079,7 @@ NCAA 64",#FFC627,#8C1D40
 2014,Washington St.,P12,Washington,10,3-15 P12,#FFFFFF,#000000
 2014,Southern California,P12,California,11,2-16 P12,#FFFFFF,#000000
 2014,Boston U.,Pat,Massachusetts,24,15-3 Pat,#FFFFFF,#000000
-2014,American,Pat,D.C.,30,"13-5 Pat
+2014,American,Pat,District of Columbia,30,"13-5 Pat
 NCAA 64",#004FA2,#FFFFFF
 2014,Holy Cross,Pat,Massachusetts,20,12-6 Pat,#FFFFFF,#000000
 2014,Bucknell,Pat,Pennsylvania,16,11-7 Pat,#FFFFFF,#000000
@@ -25238,7 +25238,7 @@ NCAA 32",#CE0037,#FFFFFF
 2015,VCU,A10,Virginia,36,"12-6 A10
 NCAA 64",#FFB300,#000000
 2015,Richmond,A10,Virginia,21,12-6 A10,#FFFFFF,#000000
-2015,George Washington,A10,D.C.,22,10-8 A10,#FFFFFF,#000000
+2015,George Washington,A10,District of Columbia,22,10-8 A10,#FFFFFF,#000000
 2015,St. Bonaventure,A10,New York,18,10-8 A10,#FFFFFF,#000000
 2015,Massachusetts,A10,Massachusetts,17,10-8 A10,#FFFFFF,#000000
 2015,La Salle,A10,Pennsylvania,17,8-10 A10,#FFFFFF,#000000
@@ -25277,7 +25277,7 @@ NCAA 64",#FE5C00,#000000
 NCAA 32",#002664,#FFFFFF
 2015,Butler,BE,Indiana,38,"12-6 BE
 NCAA 32",#13294B,#FFFFFF
-2015,Georgetown,BE,D.C.,37,"12-6 BE
+2015,Georgetown,BE,District of Columbia,37,"12-6 BE
 NCAA 32",#041E42,#FFFFFF
 2015,Providence,BE,Rhode Island,32,"11-7 BE
 NCAA 64",#8A8D8F,#000000
@@ -25419,7 +25419,7 @@ NCAA 64",#005BBB,#FFFFFF
 2015,N.C. Central,MEAC,North Carolina,25,16-0 MEAC,#FFFFFF,#000000
 2015,Norfolk St.,MEAC,Virginia,20,12-4 MEAC,#FFFFFF,#000000
 2015,UMES,MEAC,Maryland,18,11-5 MEAC,#FFFFFF,#000000
-2015,Howard,MEAC,D.C.,16,10-6 MEAC,#FFFFFF,#000000
+2015,Howard,MEAC,District of Columbia,16,10-6 MEAC,#FFFFFF,#000000
 2015,Delaware St.,MEAC,Delaware,18,9-7 MEAC,#FFFFFF,#000000
 2015,Hampton,MEAC,Virginia,27,"8-8 MEAC
 NCAA 64",#004AAD,#FFFFFF
@@ -25501,7 +25501,7 @@ Sweet 16",#2774AE,#FFD100
 2015,Lafayette,Pat,Pennsylvania,30,"9-9 Pat
 NCAA 64",#822433,#FFFFFF
 2015,Boston U.,Pat,Massachusetts,13,9-9 Pat,#FFFFFF,#000000
-2015,American,Pat,D.C.,17,8-10 Pat,#FFFFFF,#000000
+2015,American,Pat,District of Columbia,17,8-10 Pat,#FFFFFF,#000000
 2015,Holy Cross,Pat,Massachusetts,14,8-10 Pat,#FFFFFF,#000000
 2015,Navy,Pat,Maryland,13,8-10 Pat,#FFFFFF,#000000
 2015,Loyola Maryland,Pat,Maryland,11,7-11 Pat,#FFFFFF,#000000
@@ -25658,7 +25658,7 @@ NCAA 64",#CE0037,#FFFFFF
 NCAA 32",#FFB300,#000000
 2016,Saint Joseph's,A10,Pennsylvania,43,"13-5 A10
 NCAA 32",#9E1B32,#FFFFFF
-2016,George Washington,A10,D.C.,28,11-7 A10,#FFFFFF,#000000
+2016,George Washington,A10,District of Columbia,28,11-7 A10,#FFFFFF,#000000
 2016,Davidson,A10,North Carolina,20,10-8 A10,#FFFFFF,#000000
 2016,Rhode Island,A10,Rhode Island,17,9-9 A10,#FFFFFF,#000000
 2016,Fordham,A10,New York,17,8-10 A10,#FFFFFF,#000000
@@ -25706,7 +25706,7 @@ NCAA 32",#8A8D8F,#000000
 NCAA 32",#13294B,#FFFFFF
 2016,Creighton,BE,Nebraska,20,9-9 BE,#FFFFFF,#000000
 2016,Marquette,BE,Wisconsin,20,8-10 BE,#FFFFFF,#000000
-2016,Georgetown,BE,D.C.,15,7-11 BE,#FFFFFF,#000000
+2016,Georgetown,BE,District of Columbia,15,7-11 BE,#FFFFFF,#000000
 2016,DePaul,BE,Illinois,9,3-15 BE,#FFFFFF,#000000
 2016,St. John's (NY),BE,New York,8,1-17 BE,#FFFFFF,#000000
 2016,Weber St.,BSky,Utah,36,"15-3 BSky
@@ -25844,7 +25844,7 @@ NCAA 64",#004AAD,#FFFFFF
 2016,N.C. Central,MEAC,North Carolina,13,7-9 MEAC,#FFFFFF,#000000
 2016,UMES,MEAC,Maryland,10,7-9 MEAC,#FFFFFF,#000000
 2016,N.C. A&T,MEAC,North Carolina,10,7-9 MEAC,#FFFFFF,#000000
-2016,Howard,MEAC,D.C.,12,6-10 MEAC,#FFFFFF,#000000
+2016,Howard,MEAC,District of Columbia,12,6-10 MEAC,#FFFFFF,#000000
 2016,Coppin St.,MEAC,Maryland,9,6-10 MEAC,#FFFFFF,#000000
 2016,Morgan St.,MEAC,Maryland,9,6-10 MEAC,#FFFFFF,#000000
 2016,Delaware St.,MEAC,Delaware,7,5-11 MEAC,#FFFFFF,#000000
@@ -25922,7 +25922,7 @@ NCAA 64",#D73F09,#FFFFFF
 2016,Army West Point,Pat,New York,19,9-9 Pat,#FFFFFF,#000000
 2016,Navy,Pat,Maryland,19,9-9 Pat,#FFFFFF,#000000
 2016,Colgate,Pat,New York,13,9-9 Pat,#FFFFFF,#000000
-2016,American,Pat,D.C.,12,9-9 Pat,#FFFFFF,#000000
+2016,American,Pat,District of Columbia,12,9-9 Pat,#FFFFFF,#000000
 2016,Loyola Maryland,Pat,Maryland,9,8-10 Pat,#FFFFFF,#000000
 2016,Holy Cross,Pat,Massachusetts,25,"5-13 Pat
 NCAA 64",#602D89,#FFFFFF
@@ -26077,7 +26077,7 @@ NCAA 64",#FFB300,#000000
 NCAA 32",#002147,#FFFFFF
 2017,Richmond,A10,Virginia,22,13-5 A10,#FFFFFF,#000000
 2017,St. Bonaventure,A10,New York,20,11-7 A10,#FFFFFF,#000000
-2017,George Washington,A10,D.C.,20,10-8 A10,#FFFFFF,#000000
+2017,George Washington,A10,District of Columbia,20,10-8 A10,#FFFFFF,#000000
 2017,George Mason,A10,Virginia,20,9-9 A10,#FFFFFF,#000000
 2017,La Salle,A10,Pennsylvania,15,9-9 A10,#FFFFFF,#000000
 2017,Davidson,A10,North Carolina,17,8-10 A10,#FFFFFF,#000000
@@ -26126,7 +26126,7 @@ NCAA 64",#FFCC00,#003366
 2017,Xavier,BE,Ohio,49,"9-9 BE
 Elite 8",#0C2340,#FFFFFF
 2017,St. John's (NY),BE,New York,14,7-11 BE,#FFFFFF,#000000
-2017,Georgetown,BE,D.C.,14,5-13 BE,#FFFFFF,#000000
+2017,Georgetown,BE,District of Columbia,14,5-13 BE,#FFFFFF,#000000
 2017,DePaul,BE,Illinois,9,2-16 BE,#FFFFFF,#000000
 2017,North Dakota,BSky,North Dakota,32,"14-4 BSky
 NCAA 64",#009A44,#FFFFFF
@@ -26264,7 +26264,7 @@ NCAA 68",#862633,#FFFFFF
 2017,Delaware St.,MEAC,Delaware,10,7-9 MEAC,#FFFFFF,#000000
 2017,Coppin St.,MEAC,Maryland,8,7-9 MEAC,#FFFFFF,#000000
 2017,Bethune-Cookman,MEAC,Florida,10,6-10 MEAC,#FFFFFF,#000000
-2017,Howard,MEAC,D.C.,10,5-11 MEAC,#FFFFFF,#000000
+2017,Howard,MEAC,District of Columbia,10,5-11 MEAC,#FFFFFF,#000000
 2017,Florida A&M,MEAC,Florida,7,5-11 MEAC,#FFFFFF,#000000
 2017,N.C. A&T,MEAC,North Carolina,3,1-15 MEAC,#FFFFFF,#000000
 2017,Wichita St.,MVC,Kansas,46,"17-1 MVC
@@ -26340,7 +26340,7 @@ NCAA 64",#E87722,#003865
 2017,Colgate,Pat,New York,10,8-10 Pat,#FFFFFF,#000000
 2017,Army West Point,Pat,New York,13,6-12 Pat,#FFFFFF,#000000
 2017,Lafayette,Pat,Pennsylvania,9,5-13 Pat,#FFFFFF,#000000
-2017,American,Pat,D.C.,8,5-13 Pat,#FFFFFF,#000000
+2017,American,Pat,District of Columbia,8,5-13 Pat,#FFFFFF,#000000
 2017,Kentucky,SEC,Kentucky,57,"16-2 SEC
 Elite 8",#0033A0,#FFFFFF
 2017,Florida,SEC,Florida,52,"14-4 SEC
@@ -26502,7 +26502,7 @@ NCAA 64",#D42121,#FFFFFF
 2018,Richmond,A10,Virginia,12,9-9 A10,#FFFFFF,#000000
 2018,Dayton,A10,Ohio,14,8-10 A10,#FFFFFF,#000000
 2018,Duquesne,A10,Pennsylvania,16,7-11 A10,#FFFFFF,#000000
-2018,George Washington,A10,D.C.,15,7-11 A10,#FFFFFF,#000000
+2018,George Washington,A10,District of Columbia,15,7-11 A10,#FFFFFF,#000000
 2018,La Salle,A10,Pennsylvania,13,7-11 A10,#FFFFFF,#000000
 2018,Massachusetts,A10,Massachusetts,13,5-13 A10,#FFFFFF,#000000
 2018,Fordham,A10,New York,9,4-14 A10,#FFFFFF,#000000
@@ -26545,7 +26545,7 @@ NCAA 64",#8A8D8F,#000000
 2018,Butler,BE,Indiana,36,"9-9 BE
 NCAA 32",#13294B,#FFFFFF
 2018,Marquette,BE,Wisconsin,21,9-9 BE,#FFFFFF,#000000
-2018,Georgetown,BE,D.C.,15,5-13 BE,#FFFFFF,#000000
+2018,Georgetown,BE,District of Columbia,15,5-13 BE,#FFFFFF,#000000
 2018,St. John's (NY),BE,New York,16,4-14 BE,#FFFFFF,#000000
 2018,DePaul,BE,Illinois,11,4-14 BE,#FFFFFF,#000000
 2018,Montana,BSky,Montana,36,"16-2 BSky
@@ -26678,7 +26678,7 @@ NCAA 32",#005BBB,#FFFFFF
 2018,N.C. Central,MEAC,North Carolina,24,"9-7 MEAC
 NCAA 68",#862633,#FFFFFF
 2018,Morgan St.,MEAC,Maryland,13,7-9 MEAC,#FFFFFF,#000000
-2018,Howard,MEAC,D.C.,10,7-9 MEAC,#FFFFFF,#000000
+2018,Howard,MEAC,District of Columbia,10,7-9 MEAC,#FFFFFF,#000000
 2018,Florida A&M,MEAC,Florida,9,7-9 MEAC,#FFFFFF,#000000
 2018,South Carolina St.,MEAC,South Carolina,10,6-10 MEAC,#FFFFFF,#000000
 2018,Coppin St.,MEAC,Maryland,5,5-11 MEAC,#FFFFFF,#000000
@@ -26757,7 +26757,7 @@ NCAA 64",#E87722,#003865
 2018,Lafayette,Pat,Pennsylvania,10,7-11 Pat,#FFFFFF,#000000
 2018,Army West Point,Pat,New York,13,6-12 Pat,#FFFFFF,#000000
 2018,Loyola Maryland,Pat,Maryland,9,6-12 Pat,#FFFFFF,#000000
-2018,American,Pat,D.C.,6,3-15 Pat,#FFFFFF,#000000
+2018,American,Pat,District of Columbia,6,3-15 Pat,#FFFFFF,#000000
 2018,Auburn,SEC,Alabama,41,"13-5 SEC
 NCAA 32",#E87722,#0C2340
 2018,Tennessee,SEC,Tennessee,41,"13-5 SEC
@@ -26920,7 +26920,7 @@ NCAA 64",#003DA5,#FFFFFF
 2019,Saint Joseph's,A10,Pennsylvania,14,6-12 A10,#FFFFFF,#000000
 2019,Richmond,A10,Virginia,13,6-12 A10,#FFFFFF,#000000
 2019,Massachusetts,A10,Massachusetts,11,4-14 A10,#FFFFFF,#000000
-2019,George Washington,A10,D.C.,9,4-14 A10,#FFFFFF,#000000
+2019,George Washington,A10,District of Columbia,9,4-14 A10,#FFFFFF,#000000
 2019,Fordham,A10,New York,12,3-15 A10,#FFFFFF,#000000
 2019,Liberty,ASun,Virginia,44,"14-2 ASun
 NCAA 32",#0A254E,#FFFFFF
@@ -26954,7 +26954,7 @@ NCAA 32",#002664,#FFFFFF
 NCAA 64",#FFCC00,#003366
 2019,Seton Hall,BE,New Jersey,30,"9-9 BE
 NCAA 64",#004488,#FFFFFF
-2019,Georgetown,BE,D.C.,19,9-9 BE,#FFFFFF,#000000
+2019,Georgetown,BE,District of Columbia,19,9-9 BE,#FFFFFF,#000000
 2019,Creighton,BE,Nebraska,20,9-9 BE,#FFFFFF,#000000
 2019,Xavier,BE,Ohio,19,9-9 BE,#FFFFFF,#000000
 2019,St. John's (NY),BE,New York,26,"8-10 BE
@@ -27093,7 +27093,7 @@ NCAA 32",#005BBB,#FFFFFF
 2019,N.C. A&T,MEAC,North Carolina,19,13-3 MEAC,#FFFFFF,#000000
 2019,N.C. Central,MEAC,North Carolina,23,"10-6 MEAC
 NCAA 68",#862633,#FFFFFF
-2019,Howard,MEAC,D.C.,17,10-6 MEAC,#FFFFFF,#000000
+2019,Howard,MEAC,District of Columbia,17,10-6 MEAC,#FFFFFF,#000000
 2019,Bethune-Cookman,MEAC,Florida,14,9-7 MEAC,#FFFFFF,#000000
 2019,Florida A&M,MEAC,Florida,12,9-7 MEAC,#FFFFFF,#000000
 2019,Coppin St.,MEAC,Maryland,8,7-9 MEAC,#FFFFFF,#000000
@@ -27169,7 +27169,7 @@ Sweet 16",#007030,#FEE11A
 NCAA 64",#821019,#FFFFFF
 2019,Bucknell,Pat,Pennsylvania,21,13-5 Pat,#FFFFFF,#000000
 2019,Lehigh,Pat,Pennsylvania,20,12-6 Pat,#FFFFFF,#000000
-2019,American,Pat,D.C.,15,9-9 Pat,#FFFFFF,#000000
+2019,American,Pat,District of Columbia,15,9-9 Pat,#FFFFFF,#000000
 2019,Army West Point,Pat,New York,13,8-10 Pat,#FFFFFF,#000000
 2019,Navy,Pat,Maryland,12,8-10 Pat,#FFFFFF,#000000
 2019,Boston U.,Pat,Massachusetts,15,7-11 Pat,#FFFFFF,#000000
@@ -27335,7 +27335,7 @@ Bubble",#000066,#FFFFFF
 2020,VCU,A10,Virginia,18,8-10 A10,#FFFFFF,#000000
 2020,Massachusetts,A10,Massachusetts,14,8-10 A10,#FFFFFF,#000000
 2020,La Salle,A10,Pennsylvania,15,6-12 A10,#FFFFFF,#000000
-2020,George Washington,A10,D.C.,12,6-12 A10,#FFFFFF,#000000
+2020,George Washington,A10,District of Columbia,12,6-12 A10,#FFFFFF,#000000
 2020,George Mason,A10,Virginia,17,5-13 A10,#FFFFFF,#000000
 2020,Fordham,A10,New York,9,2-16 A10,#FFFFFF,#000000
 2020,Saint Joseph's,A10,Pennsylvania,6,2-16 A10,#FFFFFF,#000000
@@ -27380,7 +27380,7 @@ NCAA Lock",#FFCC00,#003366
 2020,Xavier,BE,Ohio,34,"8-10 BE
 Bubble",#0C2340,#FFFFFF
 2020,St. John's (NY),BE,New York,17,5-13 BE,#FFFFFF,#000000
-2020,Georgetown,BE,D.C.,15,5-13 BE,#FFFFFF,#000000
+2020,Georgetown,BE,District of Columbia,15,5-13 BE,#FFFFFF,#000000
 2020,DePaul,BE,Illinois,16,3-15 BE,#FFFFFF,#000000
 2020,Eastern Wash.,BSky,Washington,38,"16-4 BSky
 Likely AQ",#B7142E,#FFFFFF
@@ -27522,7 +27522,7 @@ Likely AQ",#862633,#FFFFFF
 2020,South Carolina St.,MEAC,South Carolina,11,6-10 MEAC,#FFFFFF,#000000
 2020,Delaware St.,MEAC,Delaware,6,4-12 MEAC,#FFFFFF,#000000
 2020,UMES,MEAC,Maryland,5,4-12 MEAC,#FFFFFF,#000000
-2020,Howard,MEAC,D.C.,4,1-15 MEAC,#FFFFFF,#000000
+2020,Howard,MEAC,District of Columbia,4,1-15 MEAC,#FFFFFF,#000000
 2020,UNI,MVC,Iowa,25,14-4 MVC,#FFFFFF,#000000
 2020,Loyola Chicago,MVC,Illinois,21,13-5 MVC,#FFFFFF,#000000
 2020,Bradley,MVC,Illinois,38,"11-7 MVC
@@ -27594,7 +27594,7 @@ Bubble",#8C1515,#FFFFFF
 2020,Colgate,Pat,New York,25,14-4 Pat,#FFFFFF,#000000
 2020,Boston U.,Pat,Massachusetts,36,"12-6 Pat
 NCAA AQ",#CC0000,#FFFFFF
-2020,American,Pat,D.C.,16,12-6 Pat,#FFFFFF,#000000
+2020,American,Pat,District of Columbia,16,12-6 Pat,#FFFFFF,#000000
 2020,Lafayette,Pat,Pennsylvania,19,10-8 Pat,#FFFFFF,#000000
 2020,Army West Point,Pat,New York,15,10-8 Pat,#FFFFFF,#000000
 2020,Navy,Pat,Maryland,14,8-10 Pat,#FFFFFF,#000000
@@ -27722,7 +27722,7 @@ Sweet 16",#782F40,#CEB888
 2021,Virginia Tech,ACC,Virginia,25,"9-4 ACC
 NCAA 64",#861F41,#FFFFFF
 2021,Georgia Tech,ACC,Georgia,27,"11-6 ACC
-NCAA 64",#B3A369,#003057
+NCAA 64",#B39051,#051E39
 2021,Clemson,ACC,South Carolina,26,"10-6 ACC
 NCAA 64",#F56600,#FFFFFF
 2021,North Carolina,ACC,North Carolina,28,"10-6 ACC
@@ -27760,7 +27760,7 @@ NCAA 64",#FFB300,#000000
 2021,Richmond,A10,Virginia,14,6-5 A10,#FFFFFF,#000000
 2021,Duquesne,A10,Pennsylvania,9,7-7 A10,#FFFFFF,#000000
 2021,Rhode Island,A10,Rhode Island,10,7-10 A10,#FFFFFF,#000000
-2021,George Washington,A10,D.C.,5,3-5 A10,#FFFFFF,#000000
+2021,George Washington,A10,District of Columbia,5,3-5 A10,#FFFFFF,#000000
 2021,La Salle,A10,Pennsylvania,9,6-11 A10,#FFFFFF,#000000
 2021,Saint Joseph's,A10,Pennsylvania,5,3-9 A10,#FFFFFF,#000000
 2021,Fordham,A10,New York,2,2-11 A10,#FFFFFF,#000000
@@ -27801,7 +27801,7 @@ NCAA 64",#000E2F,#FFFFFF
 2021,Seton Hall,BE,New Jersey,14,10-9 BE,#FFFFFF,#000000
 2021,Providence,BE,Rhode Island,13,9-10 BE,#FFFFFF,#000000
 2021,Xavier,BE,Ohio,13,6-7 BE,#FFFFFF,#000000
-2021,Georgetown,BE,D.C.,23,"7-9 BE
+2021,Georgetown,BE,District of Columbia,23,"7-9 BE
 NCAA 64",#041E42,#FFFFFF
 2021,Marquette,BE,Wisconsin,13,8-11 BE,#FFFFFF,#000000
 2021,Butler,BE,Indiana,10,8-12 BE,#FFFFFF,#000000
@@ -27934,7 +27934,7 @@ NCAA 64",#007A53,#FFFFFF
 2021,Coppin St.,MEAC,Maryland,9,8-4 MEAC,#FFFFFF,#000000
 2021,Morgan St.,MEAC,Maryland,14,7-5 MEAC,#FFFFFF,#000000
 2021,Delaware St.,MEAC,Delaware,3,1-11 MEAC,#FFFFFF,#000000
-2021,Howard,MEAC,D.C.,1,1-4,#FFFFFF,#000000
+2021,Howard,MEAC,District of Columbia,1,1-4,#FFFFFF,#000000
 2021,N.C. A&T,MEAC,North Carolina,11,7-1 MEAC,#FFFFFF,#000000
 2021,Florida A&M,MEAC,Florida,8,7-5 MEAC,#FFFFFF,#000000
 2021,N.C. Central,MEAC,North Carolina,5,3-5 MEAC,#FFFFFF,#000000
@@ -28014,7 +28014,7 @@ NCAA 64",#821019,#FFFFFF
 2021,Boston U.,Pat,Massachusetts,7,6-10 Pat,#FFFFFF,#000000
 2021,Holy Cross,Pat,Massachusetts,5,5-11 Pat,#FFFFFF,#000000
 2021,Navy,Pat,Maryland,15,12-1 Pat,#FFFFFF,#000000
-2021,American,Pat,D.C.,4,4-5 Pat,#FFFFFF,#000000
+2021,American,Pat,District of Columbia,4,4-5 Pat,#FFFFFF,#000000
 2021,Loyola Maryland,Pat,Maryland,6,4-10 Pat,#FFFFFF,#000000
 2021,Alabama,SEC,Alabama,46,"16-2 SEC
 Sweet 16",#9E1B32,#FFFFFF
@@ -28169,7 +28169,7 @@ NCAA 64",#D42121,#FFFFFF
 2022,Saint Louis,A10,Missouri,23,12-6 A10,#FFFFFF,#000000
 2022,Richmond,A10,Virginia,39,"10-8 A10
 NCAA 32",#000066,#FFFFFF
-2022,George Washington,A10,D.C.,12,8-9 A10,#FFFFFF,#000000
+2022,George Washington,A10,District of Columbia,12,8-9 A10,#FFFFFF,#000000
 2022,Fordham,A10,New York,16,8-10 A10,#FFFFFF,#000000
 2022,George Mason,A10,Virginia,14,7-9 A10,#FFFFFF,#000000
 2022,Massachusetts,A10,Massachusetts,15,7-11 A10,#FFFFFF,#000000
@@ -28222,7 +28222,7 @@ NCAA 64",#FFCC00,#003366
 2022,St. John's (NY),BE,New York,17,8-11 BE,#FFFFFF,#000000
 2022,DePaul,BE,Illinois,15,6-14 BE,#FFFFFF,#000000
 2022,Butler,BE,Indiana,14,6-14 BE,#FFFFFF,#000000
-2022,Georgetown,BE,D.C.,6,0-19 BE,#FFFFFF,#000000
+2022,Georgetown,BE,District of Columbia,6,0-19 BE,#FFFFFF,#000000
 2022,Montana St.,BSky,Montana,37,"16-4 BSky
 NCAA 64",#003399,#FFFFFF
 2022,Southern Utah,BSky,Utah,23,14-6 BSky,#FFFFFF,#000000
@@ -28358,7 +28358,7 @@ NCAA 64",#041E42,#FFFFFF
 2022,Western Mich.,MAC,Michigan,8,4-16 MAC,#FFFFFF,#000000
 2022,Norfolk St.,MEAC,Virginia,34,"12-2 MEAC
 NCAA 64",#007A53,#FFFFFF
-2022,Howard,MEAC,D.C.,16,9-5 MEAC,#FFFFFF,#000000
+2022,Howard,MEAC,District of Columbia,16,9-5 MEAC,#FFFFFF,#000000
 2022,N.C. Central,MEAC,North Carolina,16,8-5 MEAC,#FFFFFF,#000000
 2022,Morgan St.,MEAC,Maryland,13,7-6 MEAC,#FFFFFF,#000000
 2022,South Carolina St.,MEAC,South Carolina,15,7-7 MEAC,#FFFFFF,#000000
@@ -28437,7 +28437,7 @@ NCAA 64",#821019,#FFFFFF
 2022,Loyola Maryland,Pat,Maryland,14,8-10 Pat,#FFFFFF,#000000
 2022,Lafayette,Pat,Pennsylvania,10,7-11 Pat,#FFFFFF,#000000
 2022,Holy Cross,Pat,Massachusetts,9,7-11 Pat,#FFFFFF,#000000
-2022,American,Pat,D.C.,10,5-13 Pat,#FFFFFF,#000000
+2022,American,Pat,District of Columbia,10,5-13 Pat,#FFFFFF,#000000
 2022,Bucknell,Pat,Pennsylvania,9,5-13 Pat,#FFFFFF,#000000
 2022,Auburn,SEC,Alabama,43,"15-3 SEC
 NCAA 32",#E87722,#0C2340
@@ -28593,7 +28593,7 @@ NCAA 64",#FFB300,#000000
 2023,Saint Louis,A10,Missouri,21,12-6 A10,#FFFFFF,#000000
 2023,George Mason,A10,Virginia,20,11-7 A10,#FFFFFF,#000000
 2023,Duquesne,A10,Pennsylvania,20,10-8 A10,#FFFFFF,#000000
-2023,George Washington,A10,D.C.,16,10-8 A10,#FFFFFF,#000000
+2023,George Washington,A10,District of Columbia,16,10-8 A10,#FFFFFF,#000000
 2023,Davidson,A10,North Carolina,16,8-10 A10,#FFFFFF,#000000
 2023,Saint Joseph's,A10,Pennsylvania,16,8-10 A10,#FFFFFF,#000000
 2023,St. Bonaventure,A10,New York,14,8-10 A10,#FFFFFF,#000000
@@ -28649,7 +28649,7 @@ NCAA 64",#8A8D8F,#000000
 2023,St. John's (NY),BE,New York,18,7-13 BE,#FFFFFF,#000000
 2023,Butler,BE,Indiana,14,6-14 BE,#FFFFFF,#000000
 2023,DePaul,BE,Illinois,10,3-17 BE,#FFFFFF,#000000
-2023,Georgetown,BE,D.C.,7,2-18 BE,#FFFFFF,#000000
+2023,Georgetown,BE,District of Columbia,7,2-18 BE,#FFFFFF,#000000
 2023,Eastern Wash.,BSky,Washington,23,16-2 BSky,#FFFFFF,#000000
 2023,Montana St.,BSky,Montana,35,"15-3 BSky
 NCAA 64",#003399,#FFFFFF
@@ -28780,7 +28780,7 @@ NCAA 64",#002664,#EAAB00
 2023,Central Mich.,MAC,Michigan,10,5-13 MAC,#FFFFFF,#000000
 2023,Eastern Mich.,MAC,Michigan,8,5-13 MAC,#FFFFFF,#000000
 2023,Western Mich.,MAC,Michigan,8,4-14 MAC,#FFFFFF,#000000
-2023,Howard,MEAC,D.C.,32,"11-3 MEAC
+2023,Howard,MEAC,District of Columbia,32,"11-3 MEAC
 NCAA 64",#003A63,#FFFFFF
 2023,N.C. Central,MEAC,North Carolina,18,10-4 MEAC,#FFFFFF,#000000
 2023,Norfolk St.,MEAC,Virginia,22,9-5 MEAC,#FFFFFF,#000000
@@ -28860,7 +28860,7 @@ NCAA 64",#821019,#FFFFFF
 2023,Lehigh,Pat,Pennsylvania,16,11-7 Pat,#FFFFFF,#000000
 2023,Army West Point,Pat,New York,17,10-8 Pat,#FFFFFF,#000000
 2023,Boston U.,Pat,Massachusetts,15,8-10 Pat,#FFFFFF,#000000
-2023,American,Pat,D.C.,17,7-11 Pat,#FFFFFF,#000000
+2023,American,Pat,District of Columbia,17,7-11 Pat,#FFFFFF,#000000
 2023,Loyola Maryland,Pat,Maryland,13,7-11 Pat,#FFFFFF,#000000
 2023,Lafayette,Pat,Pennsylvania,11,7-11 Pat,#FFFFFF,#000000
 2023,Holy Cross,Pat,Massachusetts,10,7-11 Pat,#FFFFFF,#000000
@@ -29036,7 +29036,7 @@ NCAA 32",#012169,#FFFFFF
 2024,Rhode Island,A10,Rhode Island,12,6-12 A10,#FFFFFF,#000000
 2024,Davidson,A10,North Carolina,15,5-13 A10,#FFFFFF,#000000
 2024,Saint Louis,A10,Missouri,13,5-13 A10,#FFFFFF,#000000
-2024,George Washington,A10,D.C.,15,4-14 A10,#FFFFFF,#000000
+2024,George Washington,A10,District of Columbia,15,4-14 A10,#FFFFFF,#000000
 2024,Eastern Ky.,ASun,Kentucky,17,12-4 ASun,#FFFFFF,#000000
 2024,Stetson,ASun,Florida,32,"11-5 ASun
 NCAA 64",#1121F7,#FFFFFF
@@ -29084,7 +29084,7 @@ Sweet 16",#0054A6,#FFFFFF
 2024,Villanova,BE,Pennsylvania,18,10-10 BE,#FFFFFF,#000000
 2024,Butler,BE,Indiana,18,9-11 BE,#FFFFFF,#000000
 2024,Xavier,BE,Ohio,16,9-11 BE,#FFFFFF,#000000
-2024,Georgetown,BE,D.C.,9,2-18 BE,#FFFFFF,#000000
+2024,Georgetown,BE,District of Columbia,9,2-18 BE,#FFFFFF,#000000
 2024,DePaul,BE,Illinois,3,0-20 BE,#FFFFFF,#000000
 2024,Eastern Wash.,BSky,Washington,21,15-3 BSky,#FFFFFF,#000000
 2024,Montana,BSky,Montana,24,12-6 BSky,#FFFFFF,#000000
@@ -29213,7 +29213,7 @@ NCAA 64",#041E42,#FFFFFF
 2024,Buffalo,MAC,New York,4,2-16 MAC,#FFFFFF,#000000
 2024,Norfolk St.,MEAC,Virginia,24,11-3 MEAC,#FFFFFF,#000000
 2024,N.C. Central,MEAC,North Carolina,18,9-5 MEAC,#FFFFFF,#000000
-2024,Howard,MEAC,D.C.,23,"9-5 MEAC
+2024,Howard,MEAC,District of Columbia,23,"9-5 MEAC
 NCAA 68",#003A63,#FFFFFF
 2024,South Carolina St.,MEAC,South Carolina,14,9-5 MEAC,#FFFFFF,#000000
 2024,Morgan St.,MEAC,Maryland,11,7-7 MEAC,#FFFFFF,#000000
@@ -29290,7 +29290,7 @@ NCAA 32",#007030,#FEE11A
 2024,Oregon St.,P12,Oregon,13,5-15 P12,#FFFFFF,#000000
 2024,Colgate,Pat,New York,35,"16-2 Pat
 NCAA 64",#821019,#FFFFFF
-2024,American,Pat,D.C.,16,10-8 Pat,#FFFFFF,#000000
+2024,American,Pat,District of Columbia,16,10-8 Pat,#FFFFFF,#000000
 2024,Boston U.,Pat,Massachusetts,16,10-8 Pat,#FFFFFF,#000000
 2024,Bucknell,Pat,Pennsylvania,14,10-8 Pat,#FFFFFF,#000000
 2024,Lafayette,Pat,Pennsylvania,11,10-8 Pat,#FFFFFF,#000000
@@ -29458,7 +29458,7 @@ NCAA 64",#FFB300,#000000
 2025,Saint Joseph's,A10,Pennsylvania,22,11-7 A10,#FFFFFF,#000000
 2025,Saint Louis,A10,Missouri,19,11-7 A10,#FFFFFF,#000000
 2025,St. Bonaventure,A10,New York,22,9-9 A10,#FFFFFF,#000000
-2025,George Washington,A10,D.C.,21,9-9 A10,#FFFFFF,#000000
+2025,George Washington,A10,District of Columbia,21,9-9 A10,#FFFFFF,#000000
 2025,Duquesne,A10,Pennsylvania,13,8-10 A10,#FFFFFF,#000000
 2025,Rhode Island,A10,Rhode Island,18,7-11 A10,#FFFFFF,#000000
 2025,Massachusetts,A10,Massachusetts,12,7-11 A10,#FFFFFF,#000000
@@ -29513,7 +29513,7 @@ NCAA 64",#FFCC00,#003366
 2025,Xavier,BE,Ohio,32,"13-7 BE
 NCAA 64",#0C2340,#FFFFFF
 2025,Villanova,BE,Pennsylvania,21,11-9 BE,#FFFFFF,#000000
-2025,Georgetown,BE,D.C.,18,8-12 BE,#FFFFFF,#000000
+2025,Georgetown,BE,District of Columbia,18,8-12 BE,#FFFFFF,#000000
 2025,Butler,BE,Indiana,15,6-14 BE,#FFFFFF,#000000
 2025,Providence,BE,Rhode Island,12,6-14 BE,#FFFFFF,#000000
 2025,DePaul,BE,Illinois,14,4-16 BE,#FFFFFF,#000000
@@ -29656,7 +29656,7 @@ NCAA 64",#007A53,#FFFFFF
 2025,South Carolina St.,MEAC,South Carolina,20,11-3 MEAC,#FFFFFF,#000000
 2025,Delaware St.,MEAC,Delaware,16,8-6 MEAC,#FFFFFF,#000000
 2025,Morgan St.,MEAC,Maryland,14,7-7 MEAC,#FFFFFF,#000000
-2025,Howard,MEAC,D.C.,12,7-7 MEAC,#FFFFFF,#000000
+2025,Howard,MEAC,District of Columbia,12,7-7 MEAC,#FFFFFF,#000000
 2025,N.C. Central,MEAC,North Carolina,14,6-8 MEAC,#FFFFFF,#000000
 2025,Coppin St.,MEAC,Maryland,6,4-10 MEAC,#FFFFFF,#000000
 2025,UMES,MEAC,Maryland,6,2-12 MEAC,#FFFFFF,#000000
@@ -29710,7 +29710,7 @@ NCAA 64",#E5182D,#FFFFFF
 2025,Eastern Ill.,OVC,Illinois,12,8-12 OVC,#FFFFFF,#000000
 2025,Western Ill.,OVC,Illinois,12,6-14 OVC,#FFFFFF,#000000
 2025,Southern Ind.,OVC,Indiana,10,5-15 OVC,#FFFFFF,#000000
-2025,American,Pat,D.C.,27,"13-5 Pat
+2025,American,Pat,District of Columbia,27,"13-5 Pat
 NCAA 68",#004FA2,#FFFFFF
 2025,Bucknell,Pat,Pennsylvania,18,13-5 Pat,#FFFFFF,#000000
 2025,Army West Point,Pat,New York,17,10-8 Pat,#FFFFFF,#000000
@@ -29895,7 +29895,7 @@ NCAA 32",#FFB300,#000000
 2026,George Mason,A10,Virginia,23,11-7 A10,#FFFFFF,#000000
 2026,Davidson,A10,North Carolina,20,10-8 A10,#FFFFFF,#000000
 2026,Duquesne,A10,Pennsylvania,18,9-9 A10,#FFFFFF,#000000
-2026,George Washington,A10,D.C.,19,8-10 A10,#FFFFFF,#000000
+2026,George Washington,A10,District of Columbia,19,8-10 A10,#FFFFFF,#000000
 2026,Fordham,A10,New York,17,8-10 A10,#FFFFFF,#000000
 2026,Rhode Island,A10,Rhode Island,16,7-11 A10,#FFFFFF,#000000
 2026,Richmond,A10,Virginia,15,5-13 A10,#FFFFFF,#000000
@@ -29951,7 +29951,7 @@ NCAA 64",#002664,#FFFFFF
 2026,Butler,BE,Indiana,16,7-13 BE,#FFFFFF,#000000
 2026,Providence,BE,Rhode Island,15,7-13 BE,#FFFFFF,#000000
 2026,Marquette,BE,Wisconsin,12,7-13 BE,#FFFFFF,#000000
-2026,Georgetown,BE,D.C.,16,6-14 BE,#FFFFFF,#000000
+2026,Georgetown,BE,District of Columbia,16,6-14 BE,#FFFFFF,#000000
 2026,Xavier,BE,Ohio,15,6-14 BE,#FFFFFF,#000000
 2026,Portland St.,BSky,Oregon,20,13-5 BSky,#FFFFFF,#000000
 2026,Montana St.,BSky,Montana,18,12-6 BSky,#FFFFFF,#000000
@@ -30090,7 +30090,7 @@ NCAA 64",#041E42,#FFFFFF
 2026,Eastern Mich.,MAC,Michigan,10,4-14 MAC,#FFFFFF,#000000
 2026,Western Mich.,MAC,Michigan,10,4-14 MAC,#FFFFFF,#000000
 2026,NIU,MAC,Illinois,9,4-14 MAC,#FFFFFF,#000000
-2026,Howard,MEAC,D.C.,34,"11-3 MEAC
+2026,Howard,MEAC,District of Columbia,34,"11-3 MEAC
 NCAA 64",#003A63,#FFFFFF
 2026,Morgan St.,MEAC,Maryland,14,10-4 MEAC,#FFFFFF,#000000
 2026,Norfolk St.,MEAC,Virginia,15,8-6 MEAC,#FFFFFF,#000000
@@ -30152,7 +30152,7 @@ NCAA 64",#00539F,#FFFFFF
 2026,Lehigh,Pat,Pennsylvania,23,"11-7 Pat
 NCAA 68",#502D0E,#FFFFFF
 2026,Boston U.,Pat,Massachusetts,17,10-8 Pat,#FFFFFF,#000000
-2026,American,Pat,D.C.,16,9-9 Pat,#FFFFFF,#000000
+2026,American,Pat,District of Columbia,16,9-9 Pat,#FFFFFF,#000000
 2026,Loyola Maryland,Pat,Maryland,12,8-10 Pat,#FFFFFF,#000000
 2026,Lafayette,Pat,Pennsylvania,11,8-10 Pat,#FFFFFF,#000000
 2026,Bucknell,Pat,Pennsylvania,10,6-12 Pat,#FFFFFF,#000000
