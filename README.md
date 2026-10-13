@@ -167,14 +167,14 @@ Next, calculate each game's value using the opponent's strength versus the bubbl
 
 game_wab = (opponent_pythag \* (1 - bubble_pythag)) / (opponent_pythag \* (1 - bubble_pythag) + bubble_pythag \* (1 - opponent_pythag))
 
-* Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.832
-* Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.625
+* Playing against the elite team:  (0.978 \* (1 - 0.898)) / (0.978 \* (1 - 0.898) + 0.898 \* (1 - 0.978)) = 0.835
+* Playing against the top-30 team: (0.936 \* (1 - 0.898)) / (0.936 \* (1 - 0.898) + 0.898 \* (1 - 0.936)) = 0.624
 * Playing against the bad team:    (0.090 \* (1 - 0.898)) / (0.090 \* (1 - 0.898) + 0.898 \* (1 - 0.090)) = 0.011
 
 A team earns that value for a win and loses one minus that value for a loss. Sum every game's value for the team's season total WAB.
 
-* A team adds 0.832 to its WAB for beating the elite team, or subtracts (1 - 0.835) = 0.165 for losing.
-* A team adds 0.625 to its WAB for beating the top-30 team, or subtracts (1 - 0.624) = 0.376 for losing.
+* A team adds 0.835 to its WAB for beating the elite team, or subtracts (1 - 0.835) = 0.165 for losing.
+* A team adds 0.624 to its WAB for beating the top-30 team, or subtracts (1 - 0.624) = 0.376 for losing.
 * A team adds 0.011 to its WAB for beating the bad team, or subtracts (1 - 0.011) = 0.989 for losing.
 
 The above is correct for neutral site games. To account for home court advantage, give a 1.3% advantage to playing at home and a 1.3% disadvantage to playing away. I believe the NCAA calculates it like this:
