@@ -2,9 +2,15 @@
 
 College basketball analysis with a focus on the NET, WAB, and making cool graphs.
 
-## NET Estimates 2026
+## NET Estimates 2027
 
-![Scatter Plot - Top 50](/netscatter/NET%20Scatter%20Top%2050.png)
+![NET Projection 2027](/2027/NETprojection_2027.png)
+
+Page Under Construction
+
+[Python code to estimate NET](/Estimate_NET.py) (Updated November 2026)
+
+## NET Estimates 2026
 
 ### Introduction
 
@@ -14,7 +20,7 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 
 **Q: What code and data can calculate the NET?**
 
-[Python code to estimate NET](/Estimate_NET.py) (Updated May 2026)\
+[Python code to estimate NET](/2026/Estimate_NET_2026.py) (May-October 2026 version)\
 Input: [2026 game results](/ncaab_stats_input_2026.csv)\
 Output: [Estimated NET rankings](/estimated_net_output_2026.csv)
 Bonus analysis: [2026 NET impact per game](/game_impact_report_net_2026.txt)
