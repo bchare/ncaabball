@@ -6,18 +6,18 @@ College basketball analysis with a focus on the NET, WAB, and making cool graphs
 
 ![NET Projection 2027](/2027/NETprojection_2027.png)
 
-Page Under Construction
+(Under development in November 2026.)
 
 ### Introduction
 
-The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball teams. Millions of fans are interested in the NET because it affects how teams are chosen to play for a national championship. While the exact formula is a secret, the NCAA has stated that it considers two factors: "Adjusted Net Efficiency" and "Team Value Index". I calculate both factors and estimate the NET ranking with good accuracy.
+The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball teams. Millions of fans are interested in the NET because it affects how teams are chosen to play for a national championship. While the exact formula is a secret, the NCAA has stated that it considers two factors: "Adjusted Net Efficiency" and "Team Value Index". I calculate both factors and estimate the NET rankings.
 
 ### FAQ
 
 **Q: What code and data can calculate the NET?**
 
 [Python code to estimate NET](/Estimate_NET.py) (Updated November 2026)\
-(Input & Output to come soon.)
+(Input & Output to come soon in November 2026.)
 
 **Q: How is the NET calculated?**
 
@@ -27,7 +27,7 @@ The "Adjusted Net Efficiency" looks at the difference in the score per 100 posse
 
 The "Team Value Index" looks at which team won the game. It considers how all teams have won or lost against all other teams. This is comparable to a popular ranking method called a Bradley-Terry model. With this method, teams get a lot of credit for beating teams that beat other teams. This is not a shallow calculation of winning percentage like the RPI had. Every game affects all 360+ teams.
 
-I estimate that the Efficiency component counts 80% and the Value component counts 20%. For example, a team that is 20th in Efficiency and 30th in Value would have a NET ranking around 22. (Using the component calculations without ranking or normalizing them, I weigh Efficiency 30% and Value 70%.)
+I estimate that the Efficiency is worth 80% and the Value is worth 20%. For example, a team that is 20th in Efficiency and 30th in Value would have a NET ranking around 22. (In the Python code, I weigh Efficiency 30% and Value 70% because Efficiency has larger numbers.)
 
 **Q: Why is (some team) ranked so high or low?**
 
@@ -68,7 +68,7 @@ This effect will be lower by March when all teams have played dozens of others i
 3. Avoid bad field goal attempts and turnovers. Play defense. Every possession counts!
 4. Do well in non-conference games. If Marquette beats Mercyhurst, Marquette gains credibility and Mercyhurst loses credibility, and then there is more credibility in the Big East and less credibility in the NEC. But if Georgia Tech beats Syracuse and Syracuse beats Wake Forest and Wake Forest beats Georgia Tech, you can imagine that the credibility just recirculates around the ACC.
 5. Schedule your earliest games against teams with mostly freshmen or transfers. If those opponents are weaker when you play them in November and stronger when they gel in January, you'll look good in comparison.
-6. Play an away game in November, preferably at a school that you can blow out. You'll look good when the NET is released in December and that can shape your narrative in the national media. (It won't matter much by March.)
+6. Play an away game in November, preferably at a school that you can blow out. You'll look good when the NET is released in December and that can shape your narrative in the national media. (It won't matter much by March though.)
 7. Neutral wins are better than home wins, but not by much. Don't play in an empty arena for the NET's benefit. It barely matters.
 
 **Q: Can a team manipulate the NET by scheduling bad opponents and running up the score?**
@@ -77,9 +77,9 @@ Probably not. Well, if you can play like Illinois beating FDU 120-45, sure, do t
 
 First, the NET has a Value component that doesn't use the score and beating a bottom-50 team at home is basically worthless.
 
-Second, the Efficiency component does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions. (Every possession does count though, on offense and defense.)
+Second, the Efficiency component does use the score, but it adjusts for pace. You can't just go fast and have a big point differential. Winning by 30 in 60 possessions is equal to winning by 40 in 80 possessions.
 
-Third, the Efficiency component also adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
+Third, the Efficiency component adjusts for opponent quality. Consider Iowa State beating Mississippi Valley State 83-44 in the 2024-25 season. You probably think that's a dominating victory and it helped the Cyclones finish #9 in the NET. No, that was Iowa State's worst win of the whole season. Take a look at these comparisons:
 
 * **Prairie View** beat Mississippi Valley State by **11.1** points per 100 possessions.
 * **Kansas State** beat Mississippi Valley State by **28.6** points per 100 possessions.
@@ -107,9 +107,11 @@ For the 2025-26 season (old formula):
 
 ### NET Scatter Plots
 
+(Coming soon in November 2026.)
+
 Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
 
-![Scatter Plot - ACC](/netscatter/NET%20Scatter%20ACC.png)
+![Scatter Plot - ACC](/netscatter/2027/NET%20Scatter%20ACC.png)
 
 More graphs are in the [netscatter](/netscatter) directory.
 
@@ -130,7 +132,7 @@ WAB was invented by Seth Burn and made popular by Bart Torvik, who taught it to 
 **Q: What code and data can calculate WAB?**
 
 [Python code to estimate WAB](/Estimate_WAB.py) (Updated May 2026)\
-(Input & Output to come later.)
+(Input & output are coming soon around December 2026.)
 
 **Q: How is WAB calculated?**
 
@@ -146,7 +148,7 @@ Use a "Pythagorean expectation" formula to make a strength value between 0 and 1
 * The top-30 team has a strength of 120^11.5 / (120^11.5 + 95^11.5) = 0.936
 * The bad team has a strength of 90^11.5 / (90^11.5 + 110^11.5) = 0.090
 
-Then decide how to define the "bubble team". The NCAA uses the 55th-strongest team. 
+Then decide how to define the "bubble team". The NCAA uses the 55th-strongest team. I think Bart Torvik averages the offensive and defensive efficiencies of the 52nd, 53rd, and 54th strongest teams.
 (Before 2027: The NCAA used the 45th-strongest team. Bart Torvik averaged the offensive and defensive efficiencies of the 44th, 45th, and 46th strongest teams.)
 
 We'll use the following for the example calculations:
@@ -217,13 +219,6 @@ For Selection Sunday 2026:
 * 355 of 365 were accurate within 0.25.
 * The team that I overestimated the most was St. John's (estimated 7.20, actual 6.86.)
 * The team that I underestimated the most was Maryland (estimated -5.88, actual -5.70.)
-
-For Selection Sunday 2025 (old formula):
-* I nailed the WAB for Houston at 10.66, for Creighton at 2.69, and for Butler at -6.40.
-* All teams had an estimated WAB value to be accurate within 0.50.
-* 341 of 364 were accurate within 0.25.
-* The team that I overestimated the most was Coppin State (estimated -19.85, actual -20.16.)
-* The teams that I underestimated the most were all 16 SEC teams, with the most being Auburn (estimated 12.57, actual 13.06.)
 
 I'm only calculating the NCAA's version of the WAB. I can calculate Bart Torvik's WAB using his "Barthag" strength ratings, but I haven't tried to calculate those ratings from game data.
 
