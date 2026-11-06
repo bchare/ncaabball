@@ -60,6 +60,7 @@ Bellarmine,Bellarmine
 Belmont,Belmont
 Bethune Cookman,Bethune-Cookman
 Bethune-Cookman,Bethune-Cookman
+Bethune–Cookman,Bethune-Cookman
 Binghamton,Binghamton
 Birmingham-S,Birmingham-S
 Birmingham-Southern,Birmingham-S
@@ -123,6 +124,7 @@ Charleston So.,Charleston So.
 Charleston Southern,Charleston So.
 Charlotte,Charlotte
 UNC Charlotte,Charlotte
+UNC-Charlotte,Charlotte
 Chattanooga,Chattanooga
 Chicago,Chicago
 Chicago St,Chicago St.
@@ -188,6 +190,7 @@ East Texas A&M,East Texas A&M
 Tex. A&M-Commerce,East Texas A&M
 Texas A&amp;M-Commerce,East Texas A&M
 Texas A&M Commerce,East Texas A&M
+Texas A&M-Comm.,East Texas A&M
 Texas A&M-Commerce,East Texas A&M
 Texas A&M–Commerce,East Texas A&M
 TX A&M Commerce,East Texas A&M
@@ -228,6 +231,7 @@ Florida Gulf Coast,FGCU
 FIU,FIU
 Florida International,FIU
 Florida Intl,FIU
+Florida Int'l,FIU
 FAU,Fla. Atlantic
 FL Atlantic,Fla. Atlantic
 Fla. Atlantic,Fla. Atlantic
@@ -248,6 +252,7 @@ Ga. Southern,Ga. Southern
 Georgia Southern,Ga. Southern
 Gardner Webb,Gardner-Webb
 Gardner-Webb,Gardner-Webb
+Gardner–Webb,Gardner-Webb
 G Mason,George Mason
 George Mason,George Mason
 G Washington,George Washington
@@ -264,6 +269,7 @@ Gonzaga,Gonzaga
 Grambling,Grambling
 Grambling St.,Grambling
 Grambling State,Grambling
+GCU,Grand Canyon
 Grand Canyon,Grand Canyon
 Green Bay,Green Bay
 WI Green Bay,Green Bay
@@ -273,6 +279,7 @@ Hartford,Hartford
 Harvard,Harvard
 Hawaii,Hawaii
 Hawai'i,Hawaii
+Hawai`i,Hawaii
 High Point,High Point
 High Pt,High Point
 Hofstra,Hofstra
@@ -323,14 +330,16 @@ Kansas State,Kansas St.
 Kennesaw,Kennesaw St.
 Kennesaw St.,Kennesaw St.
 Kennesaw State,Kennesaw St.
+Kennesaw St,Kennesaw St.
 Kent,Kent St.
 Kent St.,Kent St.
 Kent State,Kent St.
+Kent St,Kent St.
 Kentucky,Kentucky
 Kentucky Wesleyan,Kentucky Wesleyan
 La Salle,La Salle
 Lafayette,Lafayette
-Louisiana-Lafayette,Lafayette
+Louisiana-Lafayette,Louisiana
 Lamar,Lamar University
 Lamar University,Lamar University
 Lawrence,Lawrence
@@ -356,6 +365,7 @@ Long Beach St.,Long Beach St.
 Long Beach State,Long Beach St.
 Longwood,Longwood
 Louisiana,Louisiana
+Louisiana Lafayette,Louisiana
 LA Tech,Louisiana Tech
 Louisiana Tech,Louisiana Tech
 Louisville,Louisville
@@ -397,15 +407,18 @@ Michigan,Michigan
 Michigan St,Michigan St.
 Michigan St.,Michigan St.
 Michigan State,Michigan St.
+Mid Tennessee,Middle Tenn.
 Middle Tenn.,Middle Tenn.
 Middle Tennessee,Middle Tenn.
 MTSU,Middle Tenn.
+Middle Tennessee St,Middle Tenn.
 Milwaukee,Milwaukee
 WI Milwaukee,Milwaukee
 Wisconsin-Milwaukee,Milwaukee
 Minnesota,Minnesota
 Miss State,Mississippi St.
 Miss. St.,Mississippi St.
+Miss. State,Mississippi St.
 Mississippi St,Mississippi St.
 Mississippi St.,Mississippi St.
 Mississippi State,Mississippi St.
@@ -455,7 +468,9 @@ North Carolina Central,N.C. Central
 Navy,Navy
 N.C. State,NC State
 NC State,NC State
+North Carolina St.,NC State
 North Carolina State,NC State
+North Carolina St,NC State
 Nebraska,Nebraska
 Nevada,Nevada
 New Hampshire,New Hampshire
@@ -466,6 +481,7 @@ New Mexico St,New Mexico St.
 New Mexico St.,New Mexico St.
 New Mexico State,New Mexico St.
 New Orleans,New Orleans
+LSU New Orleans,New Orleans
 Niagara,Niagara
 Nicholls,Nicholls
 Nicholls St,Nicholls
@@ -519,6 +535,7 @@ New York University,NYU
 NYU,NYU
 Oakland,Oakland
 Ohio,Ohio
+Ohio U.,Ohio
 Ohio St,Ohio St.
 Ohio St.,Ohio St.
 Ohio State,Ohio St.
@@ -554,6 +571,7 @@ Portland State,Portland St.
 Prairie View,Prairie View
 Prairie View A&M,Prairie View
 PV A&M,Prairie View
+Prairie View A&amp;M,Prairie View
 Presbyterian,Presbyterian
 Princeton,Princeton
 Providence,Providence
@@ -565,6 +583,7 @@ Purdue-Fort Wayne,Purdue Fort Wayne
 Queens,Queens (NC)
 Queens (NC),Queens (NC)
 Queens NC,Queens (NC)
+Queens of Charlotte,Queens (NC)
 Queens University,Queens (NC)
 Quinnipiac,Quinnipiac
 Radford,Radford
@@ -667,6 +686,7 @@ Southeastern La.,Southeastern La.
 Southeastern Louisiana,Southeastern La.
 Southern California,Southern California
 USC,Southern California
+Southern Cal,Southern California
 S Illinois,Southern Ill.
 S. Illinois,Southern Ill.
 Southern Ill.,Southern Ill.
@@ -704,6 +724,7 @@ St. Thomas-Minnesota,St. Thomas (MN)
 Stanford,Stanford
 Stetson,Stetson
 Stonehill,Stonehill
+Stonehill College,Stonehill
 Stony Brook,Stony Brook
 Syracuse,Syracuse
 Tarleton,Tarleton St.
@@ -728,6 +749,7 @@ TX Southern,Texas Southern
 Texas St,Texas St.
 Texas St.,Texas St.
 Texas State,Texas St.
+Texas St-San Marcos,Texas St.
 Texas Tech,Texas Tech
 Texas Wesleyan,Texas Wesleyan
 Citadel,The Citadel
@@ -827,6 +849,7 @@ Texas-Rio Grande Valley,UTRGV
 Texas–Rio Grande Valley,UTRGV
 TX RG Valley,UTRGV
 Tx-Rio Grande,UTRGV
+UT Rio Grande,UTRGV
 UT Rio Grande Valley,UTRGV
 UTRGV,UTRGV
 Texas-San Antonio,UTSA

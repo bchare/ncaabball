@@ -1,371 +1,372 @@
-team,city,state,bgcolor,fgcolor,yearchecked,region
-A&M-Corpus Christi,Corpus Christi,Texas,#0067C5,#FFFFFF,23,
-Abilene Christian,Abilene,Texas,#4F2170,#FFFFFF,25,
-Air Force,Colorado Springs,Colorado,#003594,#FFFFFF,23,
-Akron,Akron,Ohio,#041E42,#FFFFFF,24,
-Alabama,Tuscaloosa,Alabama,#9E1B32,#FFFFFF,23,
-Alabama A&M,Huntsville,Alabama,#61162D,#000000,24,
-Alabama St.,Montgomery,Alabama,#C79900,#000000,24,
-Alcorn,Lorman,Mississippi,#512D6D,#FFFFFF,23,
-American,Washington,District of Columbia,#004FA2,#FFFFFF,25,
-App State,Boone,North Carolina,#FFCC00,#222222,23,
-Arizona,Tucson,Arizona,#AB0520,#FFFFFF,24,
-Arizona St.,Tempe,Arizona,#FFC627,#8C1D40,24,
-Ark.-Pine Bluff,Pine Bluff,Arkansas,#FDB913,#000000,23,
-Arkansas,Fayetteville,Arkansas,#9D2235,#FFFFFF,23,
-Arkansas St.,Jonesboro,Arkansas,#CC092F,#000000,23,
-Army West Point,West Point,New York,#D3BC8D,#2C2A29,23,
-Auburn,Auburn,Alabama,#E87722,#0C2340,23,
-Austin Peay,Clarksville,Tennessee,#C41E3A,#FFFFFF,25,
-Ball St.,Muncie,Indiana,#BA0C2F,#FFFFFF,25,
-Baylor,Waco,Texas,#154734,#FFB81C,23,
-Bellarmine,Louisville,Kentucky,#752936,#FFFFFF,23,
-Belmont,Nashville,Tennessee,#001D54,#FFFFFF,25,
-Bethune-Cookman,Daytona Beach,Florida,#6F263D,#F2A900,23,
-Binghamton,Binghamton,New York,#005A43,#FFFFFF,23,
-Boise St.,Boise,Idaho,#0033A0,#FFFFFF,23,
-Boston College,Newton,Massachusetts,#862633,#B29D6C,23,Chestnut Hill
-Boston U.,Boston,Massachusetts,#CC0000,#FFFFFF,24,
-Bowling Green,Bowling Green,Ohio,#FD5000,#FFFFFF,24,
-Bradley,Peoria,Illinois,#A50000,#FFFFFF,25,
-Brown,Providence,Rhode Island,#ED1C24,#FFFFFF,23,
-Bryant,Smithfield,Rhode Island,#826E38,#000000,23,
-Bucknell,Lewisburg,Pennsylvania,#E87722,#003865,23,
-Buffalo,Buffalo,New York,#005BBB,#FFFFFF,25,
-Butler,Indianapolis,Indiana,#13294B,#FFFFFF,23,
-BYU,Provo,Utah,#002E5D,#FFFFFF,23,
-Cal Poly,San Luis Obispo,California,#154734,#BD8B13,25,
-Cal St. Fullerton,Fullerton,California,#00244E,#FF7900,25,
-California,Berkeley,California,#003262,#FDB515,23,
-California Baptist,Riverside,California,#002554,#FFFFFF,23,
-Campbell,Buies Creek,North Carolina,#EA7125,#FFFFFF,23,
-Canisius,Buffalo,New York,#FFBA00,#0C2340,23,
-Central Ark.,Conway,Arkansas,#582C83,#FFFFFF,24,
-Central Conn. St.,New Britain,Connecticut,#205999,#FFFFFF,24,
-Central Mich.,Mount Pleasant,Michigan,#6A0032,#FFFFFF,24,
-Charleston So.,Charleston,South Carolina,#002855,#FFFFFF,23,
-Charlotte,Charlotte,North Carolina,#005035,#FFFFFF,25,
-Chattanooga,Chattanooga,Tennessee,#FDB736,#112E51,23,
-Chicago St.,Chicago,Illinois,#26533A,#FFFFFF,23,
-Cincinnati,Cincinnati,Ohio,#E00122,#FFFFFF,23,
-Clemson,Clemson,South Carolina,#F56600,#FFFFFF,23,
-Cleveland St.,Cleveland,Ohio,#006A4D,#FFFFFF,25,
-Coastal Carolina,Conway,South Carolina,#006F71,#FFFFFF,25,
-Col. of Charleston,Charleston,South Carolina,#660000,#FFFFFF,23,
-Colgate,Hamilton,New York,#821019,#FFFFFF,23,
-Colorado,Boulder,Colorado,#CFB87C,#000000,23,
-Colorado St.,Fort Collins,Colorado,#1E4D2B,#FFFFFF,23,
-Columbia,New York,New York,#ACCCE6,#003373,24,
-Coppin St.,Baltimore,Maryland,#003056,#FFC915,23,
-Cornell,Ithaca,New York,#B31B1B,#FFFFFF,24,
-Creighton,Omaha,Nebraska,#0054A6,#FFFFFF,23,
-CSU Bakersfield,Bakersfield,California,#003594,#FFFFFF,25,Northridge
-CSUN,Los Angeles,California,#D22030,#FFFFFF,24,
-Dartmouth,Hanover,New Hampshire,#00693E,#FFFFFF,23,
-Davidson,Davidson,North Carolina,#D42121,#FFFFFF,25,
-Dayton,Dayton,Ohio,#CE0037,#FFFFFF,24,
-Delaware,Newark,Delaware,#00539F,#FFD200,25,
-Delaware St.,Dover,Delaware,#279FCC,#FFFFFF,24,
-Denver,Denver,Colorado,#BA0C2F,#FFFFFF,23,
-DePaul,Chicago,Illinois,#003DA5,#FFFFFF,25,
-Detroit Mercy,Detroit,Michigan,#002C77,#FFFFFF,25,
-Drake,Des Moines,Iowa,#004A7C,#FFFFFF,23,
-Drexel,Philadelphia,Pennsylvania,#FFC600,#07294D,23,
-Duke,Durham,North Carolina,#00539B,#FFFFFF,23,
-Duquesne,Pittsburgh,Pennsylvania,#012169,#FFFFFF,24,
-East Carolina,Greenville,North Carolina,#592A8A,#FEC923,25,
-East Texas A&M,Commerce,Texas,#00386C,#F1B20F,24,
-Eastern Ill.,Charleston,Illinois,#004C97,#FFFFFF,24,
-Eastern Ky.,Richmond,Kentucky,#861F41,#FFFFFF,25,
-Eastern Mich.,Ypsilanti,Michigan,#046A38,#FFFFFF,24,
-Eastern Wash.,Cheney,Washington,#B7142E,#FFFFFF,25,
-Elon,Elon,North Carolina,#73000A,#B59A57,23,
-ETSU,Johnson City,Tennessee,#00053E,#FFC72C,25,
-Evansville,Evansville,Indiana,#4C2683,#FFFFFF,23,
-Fairfield,Fairfield,Connecticut,#B3000A,#FFFFFF,24,
-FDU,Teaneck,New Jersey,#003882,#FFFFFF,23,
-FGCU,Fort Myers,Florida,#00794C,#FFFFFF,25,
-FIU,Miami,Florida,#081E3F,#B6862C,24,
-Fla. Atlantic,Boca Raton,Florida,#003366,#FFFFFF,23,
-Florida,Gainesville,Florida,#FA4616,#0021A5,25,
-Florida A&M,Tallahassee,Florida,#F4811F,#008344,25,
-Florida St.,Tallahassee,Florida,#782F40,#CEB888,23,
-Fordham,New York,New York,#7E072A,#FFFFFF,25,
-Fresno St.,Fresno,California,#B1102B,#FFFFFF,25,
-Furman,Greenville,South Carolina,#582C83,#FFFFFF,23,
-Ga. Southern,Statesboro,Georgia,#001344,#D9AC63,25,
-Gardner-Webb,Boiling Springs,North Carolina,#BB0000,#FFFFFF,25,
-George Mason,Fairfax,Virginia,#005239,#FFC733,25,
-George Washington,Washington,District of Columbia,#033C5A,#FFFFFF,23,
-Georgetown,Washington,District of Columbia,#041E42,#FFFFFF,25,
-Georgia,Athens,Georgia,#BA0C2F,#FFFFFF,25,
-Georgia St.,Atlanta,Georgia,#0039A6,#FFFFFF,25,
-Georgia Tech,Atlanta,Georgia,#B39051,#051E39,26,
-Gonzaga,Spokane,Washington,#041E42,#FFFFFF,25,
-Grambling,Grambling,Louisiana,#EAA921,#000000,23,
-Grand Canyon,Phoenix,Arizona,#552B9A,#FFFFFF,23,
-Green Bay,Green Bay,Wisconsin,#0F5640,#FFFFFF,25,
-Hampton,Hampton,Virginia,#004AAD,#FFFFFF,25,
-Hartford,Hartford,Connecticut,#DA1A32,#FFFFFF,25,
-Harvard,Cambridge,Massachusetts,#A41034,#FFFFFF,25,
-Hawaii,Honolulu,Hawaii,#024731,#FFFFFF,24,
-High Point,High Point,North Carolina,#330072,#FFFFFF,25,
-Hofstra,Hempstead,New York,#13579A,#FDC82F,24,
-Holy Cross,Worcester,Massachusetts,#602D89,#FFFFFF,25,
-Houston,Houston,Texas,#C8102E,#FFFFFF,23,
-Houston Christian,Houston,Texas,#273A80,#FFFFFF,23,
-Howard,Washington,District of Columbia,#003A63,#FFFFFF,23,
-Idaho,Moscow,Idaho,#F1B300,#191919,24,
-Idaho St.,Pocatello,Idaho,#F47920,#FFFFFF,24,
-Illinois,Champaign,Illinois,#FF5F05,#13294B,23,
-Illinois St.,Normal,Illinois,#CC0000,#FFFFFF,24,
-Indiana,Bloomington,Indiana,#990000,#EDEBEB,24,
-Indiana St.,Terre Haute,Indiana,#283A97,#FFFFFF,24,
-Iona,New Rochelle,New York,#6F2C3E,#F0AB00,23,
-Iowa,Iowa City,Iowa,#FFCD00,#000000,23,
-Iowa St.,Ames,Iowa,#C8102E,#F1BE48,23,
-IU Indy,Indianapolis,Indiana,#990000,#EDEBEB,24,
-IUPUI,Indianapolis,Indiana,#990000,#EDEBEB,99,
-Jackson St.,Jackson,Mississippi,#002147,#FFFFFF,23,
-Jacksonville,Jacksonville,Florida,#004D40,#FFFFFF,23,
-Jacksonville St.,Jacksonville,Alabama,#CA2026,#FFFFFF,25,
-James Madison,Harrisonburg,Virginia,#450084,#CBB677,24,
-Kansas,Lawrence,Kansas,#0051BA,#FFFFFF,23,
-Kansas City,Kansas City,Missouri,#0066CC,#FFDD00,23,
-Kansas St.,Manhattan,Kansas,#512888,#FFFFFF,23,
-Kennesaw St.,Kennesaw,Georgia,#FFC629,#231F20,23,
-Kent St.,Kent,Ohio,#002664,#EAAB00,23,
-Kentucky,Lexington,Kentucky,#0033A0,#FFFFFF,23,
-La Salle,Philadelphia,Pennsylvania,#003356,#FFCE00,25,
-Lafayette,Easton,Pennsylvania,#822433,#FFFFFF,25,
-Lamar University,Beaumont,Texas,#DC0031,#FFFFFF,25,
-Le Moyne,Syracuse,New York,#006633,#FFFFFF,23,
-Lehigh,Bethlehem,Pennsylvania,#502D0E,#FFFFFF,25,
-Liberty,Lynchburg,Virginia,#0A254E,#FFFFFF,25,
-Lindenwood,St. Charles,Missouri,#B5A36A,#000000,23,
-Lipscomb,Nashville,Tennessee,#331E54,#F4AA00,25,
-Little Rock,Little Rock,Arkansas,#6E2639,#FFFFFF,25,
-LIU,Brooklyn,New York,#69B3E7,#FFFFFF,26,
-LMU (CA),Los Angeles,California,#AB0C2F,#FFFFFF,25,
-Long Beach St.,Long Beach,California,#FFDA27,#000000,23,
-Longwood,Farmville,Virginia,#002147,#FFFFFF,24,
-Louisiana,Lafayette,Louisiana,#A00B0B,#FFFFFF,23,
-Louisiana Tech,Ruston,Louisiana,#003087,#FFFFFF,25,
-Louisville,Louisville,Kentucky,#AD0000,#FFFFFF,23,
-Loyola Chicago,Chicago,Illinois,#8D0034,#FEBC18,23,
-Loyola Maryland,Baltimore,Maryland,#0D4B34,#FFFFFF,25,
-LSU,Baton Rouge,Louisiana,#461D7C,#FDD023,25,
-Maine,Orono,Maine,#79BDE8,#003263,24,
-Manhattan,Riverdale,New York,#00703C,#FFFFFF,25,
-Marist,Poughkeepsie,New York,#C91235,#FFFFFF,25,
-Marquette,Milwaukee,Wisconsin,#FFCC00,#003366,23,
-Marshall,Huntington,West Virginia,#00AC3E,#FFFFFF,25,
-Maryland,College Park,Maryland,#E21833,#FFFFFF,23,
-Massachusetts,Northampton,Massachusetts,#9D2235,#FFFFFF,25,Amherst
-McNeese,Lake Charles,Louisiana,#00529B,#FFD204,23,
-Memphis,Memphis,Tennessee,#004991,#FFFFFF,23,
-Mercer,Macon,Georgia,#F76800,#FFFFFF,25,
-Mercyhurst,Erie,Pennsylvania,#09584B,#FFFFFF,24,
-Merrimack,North Andover,Massachusetts,#003768,#FFDE00,23,
-Miami (FL),Coral Gables,Florida,#005030,#FFFFFF,23,
-Miami (OH),Oxford,Ohio,#C41230,#FFFFFF,25,
-Michigan,Ann Arbor,Michigan,#00274C,#FFCB05,23,
-Michigan St.,East Lansing,Michigan,#18453B,#FFFFFF,23,
-Middle Tenn.,Murfreesboro,Tennessee,#0066CC,#FFFFFF,25,
-Milwaukee,Milwaukee,Wisconsin,#0066CC,#FFFFFF,25,
-Minnesota,Minneapolis,Minnesota,#7A0019,#FFCC33,23,
-Mississippi St.,Starkville,Mississippi,#5D1725,#FFFFFF,23,
-Mississippi Val.,Itta Bena,Mississippi,#054105,#FFFFFF,25,
-Missouri,Columbia,Missouri,#F1B82D,#000000,23,
-Missouri St.,Springfield,Missouri,#5E0009,#FFFFFF,23,
-Monmouth,West Long Branch,New Jersey,#002855,#FFFFFF,25,
-Montana,Missoula,Montana,#70002E,#FFFFFF,25,
-Montana St.,Bozeman,Montana,#003399,#FFFFFF,24,
-Morehead St.,Morehead,Kentucky,#0033A0,#FFCF00,24,
-Morgan St.,Baltimore,Maryland,#F47937,#1B4383,23,
-Mount St. Mary's,Emmitsburg,Maryland,#002855,#FFFFFF,25,
-Murray St.,Murray,Kentucky,#002144,#ECAC00,23,
-N.C. A&T,Greensboro,North Carolina,#004684,#FDB927,25,
-N.C. Central,Durham,North Carolina,#862633,#FFFFFF,25,
-Navy,Annapolis,Maryland,#00225B,#B5A67C,23,
-NC State,Raleigh,North Carolina,#CC0000,#FFFFFF,23,
-Nebraska,Lincoln,Nebraska,#D00000,#F5F1E7,24,
-Nevada,Reno,Nevada,#041E42,#FFFFFF,23,
-New Hampshire,Durham,New Hampshire,#003591,#FFFFFF,25,
-New Haven,West Haven,Connecticut,#1C2B48,#FFCC33,25,
-New Mexico,Albuquerque,New Mexico,#BA0C2F,#FFFFFF,23,
-New Mexico St.,Las Cruces,New Mexico,#8C0B42,#FFFFFF,23,
-New Orleans,New Orleans,Louisiana,#461D7C,#FDD023,26,
-Niagara,Lewiston,New York,#582C83,#FFFFFF,25,
-Nicholls,Thibodaux,Louisiana,#A6192E,#FFFFFF,23,
-NIU,DeKalb,Illinois,#C8102E,#FFFFFF,24,
-NJIT,Newark,New Jersey,#CC0000,#FFFFFF,23,
-Norfolk St.,Norfolk,Virginia,#007A53,#FFFFFF,25,
-North Ala.,Florence,Alabama,#592B8A,#FFFFFF,24,
-North Carolina,Chapel Hill,North Carolina,#4B9CD3,#FFFFFF,23,
-North Dakota,Grand Forks,North Dakota,#009A44,#FFFFFF,25,
-North Dakota St.,Fargo,North Dakota,#005643,#FFC82E,25,
-North Florida,Jacksonville,Florida,#0A233F,#FFFFFF,25,
-North Texas,Denton,Texas,#059033,#FFFFFF,25,
-Northeastern,Boston,Massachusetts,#E50000,#FFFFFF,25,
-Northern Ariz.,Flagstaff,Arizona,#003466,#F1B300,25,
-Northern Colo.,Greeley,Colorado,#013C65,#F6B000,23,
-Northern Ky.,Highland Heights,Kentucky,#FFC72C,#000000,23,
-Northwestern,Evanston,Illinois,#4E2A84,#FFFFFF,23,
-Northwestern St.,Natchitoches,Louisiana,#4E2A84,#FFFFFF,25,
-Notre Dame,Notre Dame,Indiana,#0C2340,#AE9142,23,
-Oakland,Rochester,Michigan,#BC945B,#000000,23,
-Ohio,Athens,Ohio,#00694E,#FFFFFF,25,
-Ohio St.,Columbus,Ohio,#BA0C2F,#FFFFFF,23,
-Oklahoma,Norman,Oklahoma,#841617,#FFFFFF,23,
-Oklahoma St.,Stillwater,Oklahoma,#FE5C00,#000000,23,
-Old Dominion,Norfolk,Virginia,#043657,#FFFFFF,25,
-Ole Miss,Oxford,Mississippi,#C21F2C,#FFFFFF,25,
-Omaha,Omaha,Nebraska,#000000,#FFFFFF,25,
-Oral Roberts,Tulsa,Oklahoma,#002462,#DAC792,23,
-Oregon,Eugene,Oregon,#007030,#FEE11A,23,
-Oregon St.,Corvallis,Oregon,#D73F09,#FFFFFF,23,
-Pacific,Stockton,California,#FF671D,#FFFFFF,25,
-Penn,Philadelphia,Pennsylvania,#011F5B,#FFFFFF,23,
-Penn St.,State College,Pennsylvania,#001E44,#FFFFFF,23,
-Pepperdine,Malibu,California,#00205C,#FFFFFF,25,
-Pittsburgh,Pittsburgh,Pennsylvania,#003594,#FFB81C,23,
-Portland,Portland,Oregon,#1E1656,#FFFFFF,23,
-Portland St.,Portland,Oregon,#213921,#FFFFFF,23,
-Prairie View,Prairie View,Texas,#582C83,#EAAA00,25,
-Presbyterian,Clinton,South Carolina,#0033A0,#FFFFFF,23,
-Princeton,Princeton,New Jersey,#E77500,#FFFFFF,23,
-Providence,Providence,Rhode Island,#8A8D8F,#000000,23,
-Purdue,West Lafayette,Indiana,#CFB991,#000000,23,
-Purdue Fort Wayne,Fort Wayne,Indiana,#CFB991,#000000,23,
-Queens (NC),Charlotte,North Carolina,#00205B,#FFFFFF,23,
-Quinnipiac,Hamden,Connecticut,#0A2240,#FFB819,23,
-Radford,Radford,Virginia,#C2011B,#FFFFFF,25,
-Rhode Island,Kingston,Rhode Island,#002147,#FFFFFF,25,
-Rice,Houston,Texas,#00205B,#FFFFFF,23,
-Richmond,Richmond,Virginia,#000066,#FFFFFF,25,
-Rider,Lawrenceville,New Jersey,#9D2235,#FFFFFF,23,
-Robert Morris,Moon Township,Pennsylvania,#14234B,#FFFFFF,25,
-Rutgers,New Brunswick,New Jersey,#CC0033,#FFFFFF,25,
-Sacramento St.,Sacramento,California,#043927,#FFFFFF,24,
-Sacred Heart,Fairfield,Connecticut,#A70034,#FFFFFF,23,
-Saint Francis,Loretto,Pennsylvania,#990000,#FFFFFF,25,
-Saint Francis (PA),Loretto,Pennsylvania,#990000,#FFFFFF,99,
-Saint Joseph's,Philadelphia,Pennsylvania,#9E1B32,#FFFFFF,25,
-Saint Louis,St. Louis,Missouri,#003DA5,#FFFFFF,25,
-Saint Mary's (CA),Moraga,California,#D80024,#FFFFFF,23,
-Saint Peter's,Jersey City,New Jersey,#1A3B72,#FFFFFF,24,
-Sam Houston,Huntsville,Texas,#F56423,#FFFFFF,23,
-Samford,Birmingham,Alabama,#0C2340,#FFFFFF,23,
-San Diego,San Diego,California,#003B70,#FFFFFF,25,
-San Diego St.,San Diego,California,#A6192E,#FFFFFF,23,
-San Francisco,San Francisco,California,#052049,#FFFFFF,25,
-San Jose St.,San Jose,California,#0055A2,#E5A823,23,
-Santa Clara,Santa Clara,California,#A32035,#FFFFFF,25,
-Seattle U,Seattle,Washington,#AA0000,#FFFFFF,23,
-Seton Hall,South Orange,New Jersey,#004488,#FFFFFF,25,
-SFA,Nacogdoches,Texas,#660099,#FFFFFF,25,
-Siena,Loudonville,New York,#006B54,#FFFFFF,24,
-SIUE,Edwardsville,Illinois,#E5182D,#FFFFFF,25,
-SMU,Dallas,Texas,#CC0035,#FFFFFF,25,
-South Alabama,Mobile,Alabama,#00205B,#FFFFFF,24,
-South Carolina,Columbia,South Carolina,#73000A,#FFFFFF,25,
-South Carolina St.,Orangeburg,South Carolina,#862633,#FFFFFF,25,
-South Dakota,Vermillion,South Dakota,#D21533,#FFFFFF,24,
-South Dakota St.,Brookings,South Dakota,#0033A0,#FFD100,24,
-South Fla.,Tampa,Florida,#006747,#FFFFFF,25,
-Southeast Mo. St.,Cape Girardeau,Missouri,#C8102E,#000000,23,
-Southeastern La.,Hammond,Louisiana,#1A5632,#FFC629,23,
-Southern California,Los Angeles,California,#990000,#FFCC00,23,
-Southern Ill.,Carbondale,Illinois,#6C0633,#FFFFFF,24,
-Southern Ind.,Evansville,Indiana,#002856,#CF102D,23,
-Southern Miss.,Hattiesburg,Mississippi,#FFAB00,#000000,24,
-Southern U.,Baton Rouge,Louisiana,#69B3E7,#FFFFFF,25,
-Southern Utah,Cedar City,Utah,#E81727,#FFFFFF,24,
-St. Bonaventure,St. Bonaventure,New York,#2B150E,#FFFFFF,25,
-St. Francis Brooklyn,Brooklyn,New York,#0039A6,#FFFFFF,99,
-St. John's (NY),Jamaica,New York,#CF102D,#FFFFFF,25,
-St. Thomas (MN),St. Paul,Minnesota,#FF0000,#FFFFFF,23,
-Stanford,Stanford,California,#8C1515,#FFFFFF,25,
-Stetson,DeLand,Florida,#1121F7,#FFFFFF,23,
-Stonehill,Easton,Massachusetts,#582C83,#FFFFFF,23,
-Stony Brook,Stony Brook,New York,#990000,#FFFFFF,25,
-Syracuse,Syracuse,New York,#F76900,#FFFFFF,23,
-Tarleton St.,Stephenville,Texas,#4F2D7F,#FFFFFF,23,
-TCU,Fort Worth,Texas,#4D1979,#FFFFFF,23,
-Temple,Philadelphia,Pennsylvania,#A41E35,#FFFFFF,25,
-Tennessee,Knoxville,Tennessee,#FF8200,#FFFFFF,23,
-Tennessee St.,Nashville,Tennessee,#00539F,#FFFFFF,24,
-Tennessee Tech,Cookeville,Tennessee,#4F2984,#FFDD00,23,
-Tex. A&M-Commerce,Commerce,Texas,#00386C,#F1B20F,99,
-Texas,Austin,Texas,#BF5700,#FFFFFF,23,
-Texas A&M,College Station,Texas,#500000,#FFFFFF,23,
-Texas Southern,Houston,Texas,#75263B,#FFFFFF,23,
-Texas St.,San Marcos,Texas,#501214,#FFFFFF,24,
-Texas Tech,Lubbock,Texas,#E90802,#FFFFFF,25,
-The Citadel,Charleston,South Carolina,#7BADD3,#FFFFFF,23,
-Toledo,Toledo,Ohio,#003E7E,#FFD200,23,
-Towson,Towson,Maryland,#FFBB00,#000000,23,
-Troy,Troy,Alabama,#862633,#FFFFFF,25,
-Tulane,New Orleans,Louisiana,#336666,#FFFFFF,23,
-Tulsa,Tulsa,Oklahoma,#003595,#FFFFFF,25,
-UAB,Birmingham,Alabama,#1E6B52,#FFFFFF,24,
-UAlbany,Albany,New York,#46166B,#FFFFFF,25,
-UC Davis,Davis,California,#022851,#FFBF00,25,
-UC Irvine,Irvine,California,#255799,#FECC07,25,
-UC Riverside,Riverside,California,#003DA5,#FFB81C,23,
-UC San Diego,La Jolla,California,#182B49,#FFCD00,25,
-UC Santa Barbara,Santa Barbara,California,#003660,#FEBC11,23,
-UCF,Orlando,Florida,#FFC904,#000000,23,
-UCLA,Los Angeles,California,#2774AE,#FFD100,23,
-UConn,Storrs,Connecticut,#000E2F,#FFFFFF,23,
-UIC,Chicago,Illinois,#D50032,#FFFFFF,25,
-UIW,San Antonio,Texas,#CB333B,#FFFFFF,23,
-ULM,Monroe,Louisiana,#840029,#FFFFFF,23,
-UMass Lowell,Lowell,Massachusetts,#0067B1,#FFFFFF,23,
-UMBC,Baltimore,Maryland,#B18906,#000000,25,
-UMES,Princess Anne,Maryland,#651D32,#FFFFFF,23,
-UNC Asheville,Asheville,North Carolina,#003DA5,#FFFFFF,23,
-UNC Greensboro,Greensboro,North Carolina,#0F2044,#FFB71B,25,
-UNCW,Wilmington,North Carolina,#007680,#FFFFFF,25,
-UNI,Cedar Falls,Iowa,#500778,#FFB500,25,
-UNLV,Las Vegas,Nevada,#B10202,#FFFFFF,25,
-USC Upstate,Spartanburg,South Carolina,#00833E,#FFFFFF,23,
-UT Arlington,Arlington,Texas,#0064B1,#FFFFFF,23,
-UT Martin,Martin,Tennessee,#FF8200,#FFFFFF,23,
-Utah,Salt Lake City,Utah,#CC0000,#FFFFFF,23,
-Utah St.,Logan,Utah,#0F2439,#FFFFFF,23,
-Utah Tech,St. George,Utah,#BA1C21,#FFFFFF,23,
-Utah Valley,Orem,Utah,#00843D,#FFFFFF,23,
-UTEP,El Paso,Texas,#041E42,#FF8200,25,
-UTRGV,Edinburg,Texas,#F05023,#FFFFFF,23,
-UTSA,San Antonio,Texas,#F15A22,#0C2340,25,
-Valparaiso,Valparaiso,Indiana,#FFE300,#000000,25,
-Vanderbilt,Nashville,Tennessee,#CFAE70,#1C1C1C,23,
-VCU,Richmond,Virginia,#FFB300,#000000,23,
-Vermont,Burlington,Vermont,#007155,#FFFFFF,23,
-Villanova,Villanova,Pennsylvania,#002664,#FFFFFF,23,
-Virginia,Charlottesville,Virginia,#E57200,#232D4B,23,
-Virginia Tech,Blacksburg,Virginia,#861F41,#FFFFFF,24,
-VMI,Lexington,Virginia,#AE122A,#FFFFFF,24,
-Wagner,Staten Island,New York,#004331,#FFFFFF,24,
-Wake Forest,Winston-Salem,North Carolina,#9E7E38,#000000,23,
-Washington,Seattle,Washington,#4B2E83,#FFFFFF,23,
-Washington St.,Pullman,Washington,#A60F2D,#FFFFFF,23,
-Weber St.,Ogden,Utah,#492365,#FFFFFF,25,
-West Ga.,Carrollton,Georgia,#0065A6,#FFFFFF,24,
-West Virginia,Morgantown,West Virginia,#002855,#EAAA00,23,
-Western Caro.,Cullowhee,North Carolina,#592C88,#C1A875,23,
-Western Ill.,Macomb,Illinois,#663399,#FFCC00,25,
-Western Ky.,Bowling Green,Kentucky,#B01E24,#FFFFFF,24,
-Western Mich.,Kalamazoo,Michigan,#F1C500,#532E1F,25,
-Wichita St.,Wichita,Kansas,#FFDB00,#000000,23,
-William & Mary,Williamsburg,Virginia,#115740,#FFFFFF,24,
-Winthrop,Rock Hill,South Carolina,#660000,#FFFFFF,25,
-Wisconsin,Madison,Wisconsin,#C5050C,#FFFFFF,23,
-Wofford,Spartanburg,South Carolina,#8A6E4B,#FFFFFF,25,
-Wright St.,Dayton,Ohio,#046A38,#FFFFFF,25,
-Wyoming,Laramie,Wyoming,#492F24,#FFC425,25,
-Xavier,Cincinnati,Ohio,#0C2340,#FFFFFF,23,
-Yale,New Haven,Connecticut,#263867,#FFFFFF,24,
-Youngstown St.,Youngstown,Ohio,#CB333B,#FFFFFF,23,
+team,city,state,lat,long,mascot,bgcolor,fgcolor,yearchecked
+A&M-Corpus Christi,Corpus Christi,Texas,27.7127,-97.3241,Islanders,#0067C5,#FFFFFF,23
+Abilene Christian,Abilene,Texas,32.4687,-99.7076,Wildcats,#4F2170,#FFFFFF,25
+Air Force,Colorado Springs,Colorado,38.9983,-104.8614,Falcons,#003594,#FFFFFF,23
+Akron,Akron,Ohio,41.0742,-81.5115,Zips,#041E42,#FFFFFF,24
+Alabama,Tuscaloosa,Alabama,33.2098,-87.5413,Crimson Tide,#9E1B32,#FFFFFF,23
+Alabama A&M,Huntsville,Alabama,34.7825,-86.5686,Bulldogs,#61162D,#FFFFFF,24
+Alabama St.,Montgomery,Alabama,32.3643,-86.2955,Hornets,#C79900,#000000,24
+Alcorn,Lorman,Mississippi,31.8765,-91.1419,Braves,#512D6D,#FFFFFF,23
+American,Washington,District of Columbia,38.9369,-77.09,Eagles,#004FA2,#FFFFFF,25
+App State,Boone,North Carolina,36.2137,-81.678,Mountaineers,#FFCC00,#222222,23
+Arizona,Tucson,Arizona,32.2319,-110.9501,Wildcats,#AB0520,#FFFFFF,24
+Arizona St.,Tempe,Arizona,33.4242,-111.9281,Sun Devils,#FFC627,#8C1D40,24
+Ark.-Pine Bluff,Pine Bluff,Arkansas,34.2441,-92.0205,Golden Lions,#FDB913,#000000,23
+Arkansas,Fayetteville,Arkansas,36.0679,-94.1737,Razorbacks,#9D2235,#FFFFFF,23
+Arkansas St.,Jonesboro,Arkansas,35.8423,-90.6786,Red Wolves,#CC092F,#000000,23
+Army West Point,West Point,New York,41.3915,-73.9583,Black Knights,#D3BC8D,#2C2A29,23
+Auburn,Auburn,Alabama,32.6024,-85.487,Tigers,#E87722,#0C2340,23
+Austin Peay,Clarksville,Tennessee,36.5325,-87.3546,Governors,#C41E3A,#FFFFFF,25
+Ball St.,Muncie,Indiana,40.2044,-85.4089,Cardinals,#BA0C2F,#FFFFFF,25
+Baylor,Waco,Texas,31.5469,-97.1195,Bears,#154734,#FFB81C,23
+Bellarmine,Louisville,Kentucky,38.2185,-85.7557,Knights,#752936,#FFFFFF,23
+Belmont,Nashville,Tennessee,36.1325,-86.7961,Bruins,#001D54,#FFFFFF,25
+Bethune-Cookman,Daytona Beach,Florida,29.2108,-81.0228,Wildcats,#6F263D,#F2A900,23
+Binghamton,Binghamton,New York,42.0901,-75.9686,Bearcats,#005A43,#FFFFFF,23
+Boise St.,Boise,Idaho,43.6035,-116.2089,Broncos,#0033A0,#FFFFFF,23
+Boston College,Chestnut Hill,Massachusetts,42.3355,-71.1696,Eagles,#862633,#B29D6C,23
+Boston U.,Boston,Massachusetts,42.3505,-71.1054,Terriers,#CC0000,#FFFFFF,24
+Bowling Green,Bowling Green,Ohio,41.3773,-83.6225,Falcons,#FD5000,#FFFFFF,24
+Bradley,Peoria,Illinois,40.696,-89.6165,Braves,#A50000,#FFFFFF,25
+Brown,Providence,Rhode Island,41.8268,-71.4025,Bears,#ED1C24,#FFFFFF,23
+Bryant,Smithfield,Rhode Island,41.9214,-71.54,Bulldogs,#826E38,#000000,23
+Bucknell,Lewisburg,Pennsylvania,40.9545,-76.8825,Bison,#E87722,#003865,23
+Buffalo,Buffalo,New York,42.9534,-78.8153,Bulls,#005BBB,#FFFFFF,25
+Butler,Indianapolis,Indiana,39.8403,-86.1718,Bulldogs,#13294B,#FFFFFF,23
+BYU,Provo,Utah,40.2519,-111.6493,Cougars,#002E5D,#FFFFFF,23
+Cal Poly,San Luis Obispo,California,35.305,-120.6625,Mustangs,#154734,#BD8B13,25
+Cal St. Fullerton,Fullerton,California,33.8823,-117.8851,Titans,#00244E,#FF7900,25
+California,Berkeley,California,37.8719,-122.2585,Golden Bears,#003262,#FDB515,23
+California Baptist,Riverside,California,33.9258,-117.4259,Lancers,#002554,#FFFFFF,23
+Campbell,Buies Creek,North Carolina,35.4088,-78.7601,Fighting Camels,#EA7125,#FFFFFF,23
+Canisius,Buffalo,New York,42.9297,-78.855,Golden Griffins,#FFBA00,#0C2340,23
+Central Ark.,Conway,Arkansas,35.0754,-92.458,Bears,#582C83,#FFFFFF,24
+Central Conn. St.,New Britain,Connecticut,41.6977,-72.7664,Blue Devils,#205999,#FFFFFF,24
+Central Mich.,Mount Pleasant,Michigan,43.5845,-84.7759,Chippewas,#6A0032,#FFFFFF,24
+Charleston So.,Charleston,South Carolina,32.979,-80.0654,Buccaneers,#002855,#FFFFFF,23
+Charlotte,Charlotte,North Carolina,35.3076,-80.7337,49ers,#005035,#FFFFFF,25
+Chattanooga,Chattanooga,Tennessee,35.0456,-85.3097,Mocs,#FDB736,#112E51,23
+Chicago St.,Chicago,Illinois,41.7198,-87.6095,Cougars,#26533A,#FFFFFF,23
+Cincinnati,Cincinnati,Ohio,39.1329,-84.515,Bearcats,#E00122,#FFFFFF,23
+Clemson,Clemson,South Carolina,34.6784,-82.8374,Tigers,#F56600,#FFFFFF,23
+Cleveland St.,Cleveland,Ohio,41.5025,-81.675,Vikings,#006A4D,#FFFFFF,25
+Coastal Carolina,Conway,South Carolina,33.7948,-78.7042,Chanticleers,#006F71,#FFFFFF,25
+Col. of Charleston,Charleston,South Carolina,32.7837,-79.937,Cougars,#660000,#FFFFFF,23
+Colgate,Hamilton,New York,42.8184,-75.5355,Raiders,#821019,#FFFFFF,23
+Colorado,Boulder,Colorado,40.0076,-105.2659,Buffaloes,#CFB87C,#000000,23
+Colorado St.,Fort Collins,Colorado,40.5762,-105.0867,Rams,#1E4D2B,#FFFFFF,23
+Columbia,New York,New York,40.8075,-73.9626,Lions,#ACCCE6,#003373,24
+Coppin St.,Baltimore,Maryland,39.3116,-76.6581,Eagles,#003056,#FFC915,23
+Cornell,Ithaca,New York,42.4534,-76.4735,Big Red,#B31B1B,#FFFFFF,24
+Creighton,Omaha,Nebraska,41.2656,-95.9467,Bluejays,#0054A6,#FFFFFF,23
+CSU Bakersfield,Bakersfield,California,35.3501,-119.1037,Roadrunners,#003594,#FFFFFF,25
+CSUN,Northridge,California,34.2419,-118.5292,Matadors,#D22030,#FFFFFF,24
+Dartmouth,Hanover,New Hampshire,43.7044,-72.2887,Big Green,#00693E,#FFFFFF,23
+Davidson,Davidson,North Carolina,35.499,-80.8487,Wildcats,#D42121,#FFFFFF,25
+Dayton,Dayton,Ohio,39.7414,-84.1792,Flyers,#CE0037,#FFFFFF,24
+Delaware,Newark,Delaware,39.6837,-75.7497,Fightin' Blue Hens,#00539F,#FFD200,25
+Delaware St.,Dover,Delaware,39.1854,-75.5466,Hornets,#279FCC,#FFFFFF,24
+Denver,Denver,Colorado,39.6769,-104.962,Pioneers,#BA0C2F,#FFFFFF,23
+DePaul,Chicago,Illinois,41.9244,-87.6555,Blue Demons,#003DA5,#FFFFFF,25
+Detroit Mercy,Detroit,Michigan,42.3545,-83.0665,Titans,#002C77,#FFFFFF,25
+Drake,Des Moines,Iowa,41.6056,-93.6515,Bulldogs,#004A7C,#FFFFFF,23
+Drexel,Philadelphia,Pennsylvania,39.9566,-75.1899,Dragons,#FFC600,#07294D,23
+Duke,Durham,North Carolina,36.0014,-78.9382,Blue Devils,#00539B,#FFFFFF,23
+Duquesne,Pittsburgh,Pennsylvania,40.4443,-80.0044,Dukes,#012169,#FFFFFF,24
+East Carolina,Greenville,North Carolina,35.607,-77.3664,Pirates,#592A8A,#FEC923,25
+East Texas A&M,Commerce,Texas,33.2415,-95.9006,Lions,#00386C,#F1B20F,24
+Eastern Ill.,Charleston,Illinois,39.4825,-88.1758,Panthers,#004C97,#FFFFFF,24
+Eastern Ky.,Richmond,Kentucky,37.7345,-84.3004,Colonels,#861F41,#FFFFFF,25
+Eastern Mich.,Ypsilanti,Michigan,42.2485,-83.6241,Eagles,#046A38,#FFFFFF,24
+Eastern Wash.,Cheney,Washington,47.6553,-117.4257,Eagles,#B7142E,#FFFFFF,25
+Elon,Elon,North Carolina,36.1027,-80.4571,Phoenix,#73000A,#B59A57,23
+ETSU,Johnson City,Tennessee,36.3034,-82.3695,Buccaneers,#00053E,#FFC72C,25
+Evansville,Evansville,Indiana,37.9748,-87.5317,Purple Aces,#4C2683,#FFFFFF,23
+Fairfield,Fairfield,Connecticut,41.2209,-73.2413,Stags,#B3000A,#FFFFFF,24
+FDU,Teaneck,New Jersey,40.8565,-74.0255,Knights,#003882,#FFFFFF,23
+FGCU,Fort Myers,Florida,26.464,-81.775,Eagles,#00794C,#FFFFFF,25
+FIU,Miami,Florida,25.756,-80.374,Panthers,#081E3F,#B6862C,24
+Fla. Atlantic,Boca Raton,Florida,26.3683,-80.1017,Owls,#003366,#FFFFFF,23
+Florida,Gainesville,Florida,29.6436,-82.3549,Gators,#FA4616,#0021A5,25
+Florida A&M,Tallahassee,Florida,30.425,-84.284,Rattlers,#F4811F,#008344,25
+Florida St.,Tallahassee,Florida,30.4419,-84.2985,Seminoles,#782F40,#CEB888,23
+Fordham,New York,New York,40.8615,-73.8857,Rams,#7E072A,#FFFFFF,25
+Fresno St.,Fresno,California,36.8134,-119.748,Bulldogs,#B1102B,#FFFFFF,25
+Furman,Greenville,South Carolina,34.9249,-82.439,Paladins,#582C83,#FFFFFF,23
+Ga. Southern,Statesboro,Georgia,32.4254,-81.7832,Eagles,#001344,#D9AC63,25
+Gardner-Webb,Boiling Springs,North Carolina,35.19,-81.8725,Runnin' Bulldogs,#BB0000,#FFFFFF,25
+George Mason,Fairfax,Virginia,38.8316,-77.307,Patriots,#005239,#FFC733,25
+George Washington,Washington,District of Columbia,38.8995,-77.0489,Revolutionaries,#033C5A,#FFFFFF,23
+Georgetown,Washington,District of Columbia,38.9076,-77.0723,Hoyas,#041E42,#FFFFFF,25
+Georgia,Athens,Georgia,33.948,-83.3773,Bulldogs,#BA0C2F,#FFFFFF,25
+Georgia St.,Atlanta,Georgia,33.7531,-84.3853,Panthers,#0039A6,#FFFFFF,25
+Georgia Tech,Atlanta,Georgia,33.7756,-84.3963,Yellow Jackets,#B39051,#051E39,26
+Gonzaga,Spokane,Washington,47.6671,-117.4026,Bulldogs,#041E42,#FFFFFF,25
+Grambling,Grambling,Louisiana,32.5254,-92.7146,Tigers,#EAA921,#000000,23
+Grand Canyon,Phoenix,Arizona,33.5167,-112.155,Lopes,#552B9A,#FFFFFF,23
+Green Bay,Green Bay,Wisconsin,44.5321,-87.9206,Phoenix,#0F5640,#FFFFFF,25
+Hampton,Hampton,Virginia,37.0229,-76.3341,Pirates,#004AAD,#FFFFFF,25
+Hartford,Hartford,Connecticut,41.8,-72.715,Hawks,#DA1A32,#FFFFFF,25
+Harvard,Cambridge,Massachusetts,42.377,-71.1167,Crimson,#A41034,#FFFFFF,25
+Hawaii,Honolulu,Hawaii,21.2969,-157.8171,Rainbow Warriors,#024731,#FFFFFF,24
+High Point,High Point,North Carolina,35.973,-79.997,Panthers,#330072,#FFFFFF,25
+Hofstra,Hempstead,New York,40.7145,-73.6005,Pride,#13579A,#FDC82F,24
+Holy Cross,Worcester,Massachusetts,42.2373,-71.808,Crusaders,#602D89,#FFFFFF,25
+Houston,Houston,Texas,29.7199,-95.3422,Cougars,#C8102E,#FFFFFF,23
+Houston Christian,Houston,Texas,29.6945,-95.401,Huskies,#273A80,#FFFFFF,23
+Howard,Washington,District of Columbia,38.9225,-77.019,Bison,#003A63,#FFFFFF,23
+Idaho,Moscow,Idaho,46.726,-117.013,Vandals,#F1B300,#191919,24
+Idaho St.,Pocatello,Idaho,42.8615,-112.4329,Bengals,#F47920,#FFFFFF,24
+Illinois,Champaign,Illinois,40.102,-88.2272,Fighting Illini,#FF5F05,#13294B,23
+Illinois St.,Normal,Illinois,40.5114,-88.9937,Redbirds,#CC0000,#FFFFFF,24
+Indiana,Bloomington,Indiana,39.1653,-86.5264,Hoosiers,#990000,#EDEBEB,24
+Indiana St.,Terre Haute,Indiana,39.1653,-87.4073,Sycamores,#283A97,#FFFFFF,24
+Iona,New Rochelle,New York,41.031,-73.9065,Gaels,#6F2C3E,#F0AB00,23
+Iowa,Iowa City,Iowa,41.6611,-91.5302,Hawkeyes,#FFCD00,#000000,23
+Iowa St.,Ames,Iowa,42.0266,-93.648,Cyclones,#C8102E,#F1BE48,23
+IU Indy,Indianapolis,Indiana,39.774,-86.1764,Jaguars,#990000,#EDEBEB,24
+IUPUI,Indianapolis,Indiana,39.774,-86.1764,Jaguars,#990000,#EDEBEB,99
+Jackson St.,Jackson,Mississippi,32.2988,-90.207,Tigers,#002147,#FFFFFF,23
+Jacksonville,Jacksonville,Florida,30.3487,-81.6056,Dolphins,#004D40,#FFFFFF,23
+Jacksonville St.,Jacksonville,Alabama,33.8206,-85.7652,Gamecocks,#CA2026,#FFFFFF,25
+James Madison,Harrisonburg,Virginia,38.4331,-78.8692,Dukes,#450084,#CBB677,24
+Kansas,Lawrence,Kansas,38.9577,-95.2477,Jayhawks,#0051BA,#FFFFFF,23
+Kansas City,Kansas City,Missouri,39.0337,-94.5765,Roos,#0066CC,#FFDD00,23
+Kansas St.,Manhattan,Kansas,39.1836,-96.5717,Wildcats,#512888,#FFFFFF,23
+Kennesaw St.,Kennesaw,Georgia,34.0232,-84.6155,Owls,#FFC629,#231F20,23
+Kent St.,Kent,Ohio,41.1489,-81.341,Golden Flashes,#002664,#EAAB00,23
+Kentucky,Lexington,Kentucky,38.0406,-84.5037,Wildcats,#0033A0,#FFFFFF,23
+La Salle,Philadelphia,Pennsylvania,39.995,-75.2413,Explorers,#003356,#FFCE00,25
+Lafayette,Easton,Pennsylvania,40.6984,-75.2082,Leopards,#822433,#FFFFFF,25
+Lamar University,Beaumont,Texas,30.1734,-93.2174,Cardinals,#DC0031,#FFFFFF,25
+Le Moyne,Syracuse,New York,43.0481,-76.1474,Dolphins,#006633,#FFFFFF,23
+Lehigh,Bethlehem,Pennsylvania,40.6069,-75.3783,Mountain Hawks,#502D0E,#FFFFFF,25
+Liberty,Lynchburg,Virginia,37.3521,-79.1803,Flames,#0A254E,#FFFFFF,25
+Lindenwood,St. Charles,Missouri,38.7895,-90.5028,Lions,#B5A36A,#000000,23
+Lipscomb,Nashville,Tennessee,34.7224,-92.34,Bisons,#331E54,#F4AA00,25
+Little Rock,Little Rock,Arkansas,34.7224,-92.34,Trojans,#6E2639,#FFFFFF,25
+LIU,Brooklyn,New York,40.6901,-73.981,Sharks,#69B3E7,#FFFFFF,26
+LMU (CA),Los Angeles,California,33.9698,-118.4189,Lions,#AB0C2F,#FFFFFF,25
+Long Beach St.,Long Beach,California,33.7838,-118.1141,Beach,#FFDA27,#000000,23
+Longwood,Farmville,Virginia,37.1299,-78.395,Lancers,#002147,#FFFFFF,24
+Louisiana,Lafayette,Louisiana,30.4133,-91.18,Ragin' Cajuns,#A00B0B,#FFFFFF,23
+Louisiana Tech,Ruston,Louisiana,32.529,-92.066,Bulldogs,#003087,#FFFFFF,25
+Louisville,Louisville,Kentucky,38.2561,-85.7585,Cardinals,#AD0000,#FFFFFF,23
+Loyola Chicago,Chicago,Illinois,41.999,-87.657,Ramblers,#8D0034,#FEBC18,23
+Loyola Maryland,Baltimore,Maryland,39.346,-76.6215,Greyhounds,#0D4B34,#FFFFFF,25
+LSU,Baton Rouge,Louisiana,30.4128,-91.1837,Tigers,#461D7C,#FDD023,25
+Maine,Orono,Maine,44.901,-68.671,Black Bears,#79BDE8,#003263,24
+Manhattan,Riverdale,New York,40.8895,-73.9015,Jaspers,#00703C,#FFFFFF,25
+Marist,Poughkeepsie,New York,41.5734,-73.9326,Red Foxes,#C91235,#FFFFFF,25
+Marquette,Milwaukee,Wisconsin,43.0389,-87.933,Golden Eagles,#FFCC00,#003366,23
+Marshall,Huntington,West Virginia,38.42,-82.429,Thundering Herd,#00AC3E,#FFFFFF,25
+Maryland,College Park,Maryland,38.9869,-76.9426,Terrapins,#E21833,#FFFFFF,23
+Massachusetts,Amherst,Massachusetts,42.3868,-72.5301,Minutemen,#9D2235,#FFFFFF,25
+McNeese,Lake Charles,Louisiana,30.1805,-93.217,Cowboys,#00529B,#FFD204,23
+Memphis,Memphis,Tennessee,35.1174,-89.9375,Tigers,#004991,#FFFFFF,23
+Mercer,Macon,Georgia,32.829,-83.6488,Bears,#F76800,#FFFFFF,25
+Mercyhurst,Erie,Pennsylvania,42.119,-80.085,Lakers,#09584B,#FFFFFF,24
+Merrimack,North Andover,Massachusetts,42.667,-71.123,Warriors,#003768,#FFDE00,23
+Miami (FL),Coral Gables,Florida,25.717,-80.278,Hurricanes,#005030,#FFFFFF,23
+Miami (OH),Oxford,Ohio,39.508,-84.734,RedHawks,#C41230,#FFFFFF,25
+Michigan,Ann Arbor,Michigan,42.278,-83.738,Wolverines,#00274C,#FFCB05,23
+Michigan St.,East Lansing,Michigan,42.7018,-84.4822,Spartans,#18453B,#FFFFFF,23
+Middle Tenn.,Murfreesboro,Tennessee,35.846,-86.365,Blue Raiders,#0066CC,#FFFFFF,25
+Milwaukee,Milwaukee,Wisconsin,43.0389,-87.933,Panthers,#0066CC,#FFFFFF,25
+Minnesota,Minneapolis,Minnesota,44.974,-93.2277,Golden Gophers,#7A0019,#FFCC33,23
+Mississippi St.,Starkville,Mississippi,33.4552,-88.7944,Bulldogs,#5D1725,#FFFFFF,23
+Mississippi Val.,Itta Bena,Mississippi,33.5186,-90.1795,Delta Devils,#054105,#FFFFFF,25
+Missouri,Columbia,Missouri,38.9404,-92.3277,Tigers,#F1B82D,#000000,23
+Missouri St.,Springfield,Missouri,37.2153,-93.2923,Bears,#5E0009,#FFFFFF,23
+Monmouth,West Long Branch,New Jersey,40.2784,-74.006,Hawks,#002855,#FFFFFF,25
+Montana,Missoula,Montana,46.8625,-113.985,Grizzlies,#70002E,#FFFFFF,25
+Montana St.,Bozeman,Montana,45.6669,-111.0486,Bobcats,#003399,#FFFFFF,24
+Morehead St.,Morehead,Kentucky,38.1836,-83.4327,Eagles,#0033A0,#FFCF00,24
+Morgan St.,Baltimore,Maryland,39.3434,-76.5847,Bears,#F47937,#1B4383,23
+Mount St. Mary's,Emmitsburg,Maryland,39.6959,-77.545,Mountaineers,#002855,#FFFFFF,25
+Murray St.,Murray,Kentucky,36.6106,-88.3148,Racers,#002144,#ECAC00,23
+N.C. A&T,Greensboro,North Carolina,36.0726,-79.7694,Aggies,#004684,#FDB927,25
+N.C. Central,Durham,North Carolina,35.9746,-78.8986,Eagles,#862633,#FFFFFF,25
+Navy,Annapolis,Maryland,38.9784,-76.4838,Midshipmen,#00225B,#B5A67C,23
+NC State,Raleigh,North Carolina,35.7872,-78.6706,Wolfpack,#CC0000,#FFFFFF,23
+Nebraska,Lincoln,Nebraska,40.8207,-96.7005,Cornhuskers,#D00000,#F5F1E7,24
+Nevada,Reno,Nevada,39.5447,-119.8163,Wolf Pack,#041E42,#FFFFFF,23
+New Hampshire,Durham,New Hampshire,43.1389,-70.937,Wildcats,#003591,#FFFFFF,25
+New Haven,West Haven,Connecticut,41.3165,-72.9223,Chargers,#1C2B48,#FFCC33,25
+New Mexico,Albuquerque,New Mexico,35.0844,-106.6194,Lobos,#BA0C2F,#FFFFFF,23
+New Mexico St.,Las Cruces,New Mexico,32.2797,-106.7485,Aggies,#8C0B42,#FFFFFF,23
+New Orleans,New Orleans,Louisiana,29.9647,-90.0715,Privateers,#461D7C,#FDD023,26
+Niagara,Lewiston,New York,43.0962,-79.0377,Purple Eagles,#582C83,#FFFFFF,25
+Nicholls,Thibodaux,Louisiana,29.7948,-90.814,Colonels,#A6192E,#FFFFFF,23
+NIU,DeKalb,Illinois,41.934,-88.767,Huskies,#C8102E,#FFFFFF,24
+NJIT,Newark,New Jersey,40.7425,-74.1785,Highlanders,#CC0000,#FFFFFF,23
+Norfolk St.,Norfolk,Virginia,36.8855,-76.305,Spartans,#007A53,#FFFFFF,25
+North Ala.,Florence,Alabama,34.729,-87.6715,Lions,#592B8A,#FFFFFF,24
+North Carolina,Chapel Hill,North Carolina,35.9049,-79.0469,Tar Heels,#4B9CD3,#FFFFFF,23
+North Dakota,Grand Forks,North Dakota,47.922,-97.0735,Fighting Hawks,#009A44,#FFFFFF,25
+North Dakota St.,Fargo,North Dakota,46.897,-96.802,Bison,#005643,#FFC82E,25
+North Florida,Jacksonville,Florida,30.2711,-81.509,Ospreys,#0A233F,#FFFFFF,25
+North Texas,Denton,Texas,33.2148,-97.1331,Mean Green,#059033,#FFFFFF,25
+Northeastern,Boston,Massachusetts,42.3398,-71.0892,Huskies,#E50000,#FFFFFF,25
+Northern Ariz.,Flagstaff,Arizona,35.1983,-111.6513,Lumberjacks,#003466,#F1B300,25
+Northern Colo.,Greeley,Colorado,40.3948,-105.0844,Bears,#013C65,#F6B000,23
+Northern Ky.,Highland Heights,Kentucky,39.03,-84.463,Norse,#FFC72C,#000000,23
+Northwestern,Evanston,Illinois,42.0565,-87.6753,Wildcats,#4E2A84,#FFFFFF,23
+Northwestern St.,Natchitoches,Louisiana,31.7505,-93.0977,Demons,#4E2A84,#FFFFFF,25
+Notre Dame,Notre Dame,Indiana,41.7001,-86.2379,Fighting Irish,#0C2340,#AE9142,23
+Oakland,Rochester,Michigan,42.6736,-83.2157,Golden Grizzlies,#BC945B,#000000,23
+Ohio,Athens,Ohio,39.324,-82.1015,Bobcats,#00694E,#FFFFFF,25
+Ohio St.,Columbus,Ohio,40.0067,-83.0305,Buckeyes,#BA0C2F,#FFFFFF,23
+Oklahoma,Norman,Oklahoma,35.2058,-97.445,Sooners,#841617,#FFFFFF,23
+Oklahoma St.,Stillwater,Oklahoma,36.1257,-97.0665,Cowboys,#FE5C00,#000000,23
+Old Dominion,Norfolk,Virginia,36.8854,-76.3055,Monarchs,#043657,#FFFFFF,25
+Ole Miss,Oxford,Mississippi,34.3647,-89.5386,Rebels,#C21F2C,#FFFFFF,25
+Omaha,Omaha,Nebraska,41.2597,-96.0063,Mavericks,#000000,#FFFFFF,25
+Oral Roberts,Tulsa,Oklahoma,36.05,-95.952,Golden Eagles,#002462,#DAC792,23
+Oregon,Eugene,Oregon,44.0448,-123.0726,Ducks,#007030,#FEE11A,23
+Oregon St.,Corvallis,Oregon,44.5646,-123.2756,Beavers,#D73F09,#FFFFFF,23
+Pacific,Stockton,California,38.0055,-121.312,Tigers,#FF671D,#FFFFFF,25
+Penn,Philadelphia,Pennsylvania,39.9522,-75.1932,Quakers,#011F5B,#FFFFFF,23
+Penn St.,State College,Pennsylvania,40.7982,-77.8599,Nittany Lions,#001E44,#FFFFFF,23
+Pepperdine,Malibu,California,34.0416,-118.709,Waves,#00205C,#FFFFFF,25
+Pittsburgh,Pittsburgh,Pennsylvania,40.4444,-79.9608,Panthers,#003594,#FFB81C,23
+Portland,Portland,Oregon,45.5118,-122.613,Pilots,#1E1656,#FFFFFF,23
+Portland St.,Portland,Oregon,45.512,-122.684,Vikings,#213921,#FFFFFF,23
+Prairie View,Prairie View,Texas,30.0949,-95.9895,Panthers,#582C83,#EAAA00,25
+Presbyterian,Clinton,South Carolina,34.764,-81.197,Blue Hose,#0033A0,#FFFFFF,23
+Princeton,Princeton,New Jersey,40.3431,-74.6514,Tigers,#E77500,#FFFFFF,23
+Providence,Providence,Rhode Island,41.8268,-71.4025,Friars,#8A8D8F,#000000,23
+Purdue,West Lafayette,Indiana,40.424,-86.929,Boilermakers,#CFB991,#000000,23
+Purdue Fort Wayne,Fort Wayne,Indiana,41.118,-85.109,Mastodons,#CFB991,#000000,23
+Queens (NC),Charlotte,North Carolina,35.2271,-80.8431,Royals,#00205B,#FFFFFF,23
+Quinnipiac,Hamden,Connecticut,41.325,-72.896,Bobcats,#0A2240,#FFB819,23
+Radford,Radford,Virginia,37.1381,-80.55,Highlanders,#C2011B,#FFFFFF,25
+Rhode Island,Kingston,Rhode Island,41.4862,-71.5308,Rams,#002147,#FFFFFF,25
+Rice,Houston,Texas,29.7164,-95.4018,Owls,#00205B,#FFFFFF,23
+Richmond,Richmond,Virginia,37.574,-77.54,Spiders,#000066,#FFFFFF,25
+Rider,Lawrenceville,New Jersey,40.2786,-74.738,Broncs,#9D2235,#FFFFFF,23
+Robert Morris,Moon Township,Pennsylvania,40.5201,-80.2125,Colonials,#14234B,#FFFFFF,25
+Rutgers,New Brunswick,New Jersey,40.5008,-74.4474,Scarlet Knights,#CC0033,#FFFFFF,25
+Sacramento St.,Sacramento,California,38.559,-121.4238,Hornets,#043927,#FFFFFF,24
+Sacred Heart,Fairfield,Connecticut,41.2215,-73.2419,Pioneers,#A70034,#FFFFFF,23
+Saint Francis,Loretto,Pennsylvania,40.5036,-78.6382,Red Flash,#990000,#FFFFFF,99
+Saint Francis (PA),Loretto,Pennsylvania,40.5036,-78.6382,Red Flash,#990000,#FFFFFF,99
+Saint Joseph's,Philadelphia,Pennsylvania,39.9946,-75.2399,Hawks,#9E1B32,#FFFFFF,25
+Saint Louis,St. Louis,Missouri,38.636,-90.234,Billikens,#003DA5,#FFFFFF,25
+Saint Mary's (CA),Moraga,California,37.7191,-122.482,Gaels,#D80024,#FFFFFF,23
+Saint Peter's,Jersey City,New Jersey,40.7275,-74.0776,Peacocks,#1A3B72,#FFFFFF,24
+Sam Houston,Huntsville,Texas,30.7133,-95.5508,Bearkats,#F56423,#FFFFFF,23
+Samford,Birmingham,Alabama,33.4647,-86.7916,Bulldogs,#0C2340,#FFFFFF,23
+San Diego,San Diego,California,32.775,-117.071,Toreros,#003B70,#FFFFFF,25
+San Diego St.,San Diego,California,32.775,-117.071,Aztecs,#A6192E,#FFFFFF,23
+San Francisco,San Francisco,California,37.7765,-122.4506,Dons,#052049,#FFFFFF,25
+San Jose St.,San Jose,California,37.3352,-121.8811,Spartans,#0055A2,#E5A823,23
+Santa Clara,Santa Clara,California,37.3496,-121.939,Broncos,#A32035,#FFFFFF,25
+Seattle U,Seattle,Washington,47.6101,-122.317,Redhawks,#AA0000,#FFFFFF,23
+Seton Hall,South Orange,New Jersey,40.7425,-74.2465,Pirates,#004488,#FFFFFF,25
+SFA,Nacogdoches,Texas,31.6175,-94.6555,Lumberjacks,#660099,#FFFFFF,25
+Siena,Loudonville,New York,42.814,-73.937,Saints,#006B54,#FFFFFF,24
+SIUE,Edwardsville,Illinois,38.7945,-90,Cougars,#E5182D,#FFFFFF,25
+SMU,Dallas,Texas,32.8412,-96.7845,Mustangs,#CC0035,#FFFFFF,25
+South Alabama,Mobile,Alabama,30.6944,-88.0431,Jaguars,#00205B,#FFFFFF,24
+South Carolina,Columbia,South Carolina,33.996,-81.0273,Gamecocks,#73000A,#FFFFFF,25
+South Carolina St.,Orangeburg,South Carolina,33.4968,-80.849,Bulldogs,#862633,#FFFFFF,25
+South Dakota,Vermillion,South Dakota,44.3114,-96.786,Coyotes,#D21533,#FFFFFF,24
+South Dakota St.,Brookings,South Dakota,44.3114,-96.786,Jackrabbits,#0033A0,#FFD100,24
+South Fla.,Tampa,Florida,28.0587,-82.4139,Bulls,#006747,#FFFFFF,25
+Southeast Mo. St.,Cape Girardeau,Missouri,37.3192,-89.5465,Redhawks,#C8102E,#000000,23
+Southeastern La.,Hammond,Louisiana,30.5144,-91.187,Lions,#1A5632,#FFC629,23
+Southern California,Los Angeles,California,34.0224,-118.2851,Trojans,#990000,#FFCC00,23
+Southern Ill.,Carbondale,Illinois,37.7169,-89.2167,Salukis,#6C0633,#FFFFFF,24
+Southern Ind.,Evansville,Indiana,38.1669,-87.455,Screaming Eagles,#002856,#CF102D,23
+Southern Miss.,Hattiesburg,Mississippi,31.3299,-89.3356,Golden Eagles,#FFAB00,#000000,24
+Southern U.,Baton Rouge,Louisiana,30.5144,-91.187,Jaguars,#69B3E7,#FFFFFF,25
+Southern Utah,Cedar City,Utah,37.6775,-113.0619,Thunderbirds,#E81727,#FFFFFF,24
+St. Bonaventure,St. Bonaventure,New York,42.078,-78.482,Bonnies,#2B150E,#FFFFFF,25
+St. Francis Brooklyn,Brooklyn,New York,40.6901,-73.9865,Terriers,#0039A6,#FFFFFF,99
+St. John's (NY),Jamaica,New York,40.721,-73.997,Red Storm,#CF102D,#FFFFFF,25
+St. Thomas (MN),St. Paul,Minnesota,44.944,-93.189,Tommies,#FF0000,#FFFFFF,23
+Stanford,Stanford,California,37.4275,-122.1697,Cardinal,#8C1515,#FFFFFF,25
+Stetson,DeLand,Florida,29.035,-81.303,Hatters,#1121F7,#FFFFFF,23
+Stonehill,Easton,Massachusetts,41.918,-71.126,Skyhawks,#582C83,#FFFFFF,23
+Stony Brook,Stony Brook,New York,40.914,-73.123,Seawolves,#990000,#FFFFFF,25
+Syracuse,Syracuse,New York,43.0392,-76.1351,Orange,#F76900,#FFFFFF,23
+Tarleton St.,Stephenville,Texas,32.215,-98.1778,Texans,#4F2D7F,#FFFFFF,23
+TCU,Fort Worth,Texas,32.7096,-97.3627,Horned Frogs,#4D1979,#FFFFFF,23
+Temple,Philadelphia,Pennsylvania,39.9812,-75.155,Owls,#A41E35,#FFFFFF,25
+Tennessee,Knoxville,Tennessee,35.9544,-83.9295,Volunteers,#FF8200,#FFFFFF,23
+Tennessee St.,Nashville,Tennessee,36.1665,-86.7784,Tigers,#00539F,#FFFFFF,24
+Tennessee Tech,Cookeville,Tennessee,36.162,-86.8315,Golden Eagles,#4F2984,#FFDD00,23
+Tex. A&M-Commerce,Commerce,Texas,33.2415,-95.9006,Lions,#00386C,#F1B20F,99
+Texas,Austin,Texas,30.2849,-97.7341,Longhorns,#BF5700,#FFFFFF,23
+Texas A&M,College Station,Texas,30.6187,-96.3365,Aggies,#500000,#FFFFFF,23
+Texas Southern,Houston,Texas,29.723,-95.359,Tigers,#75263B,#FFFFFF,23
+Texas St.,San Marcos,Texas,29.8884,-97.9384,Bobcats,#501214,#FFFFFF,24
+Texas Tech,Lubbock,Texas,33.5845,-101.8747,Red Raiders,#E90802,#FFFFFF,25
+The Citadel,Charleston,South Carolina,32.797,-79.958,Bulldogs,#7BADD3,#FFFFFF,23
+Toledo,Toledo,Ohio,41.658,-83.614,Rockets,#003E7E,#FFD200,23
+Towson,Towson,Maryland,39.393,-76.609,Tigers,#FFBB00,#000000,23
+Troy,Troy,Alabama,31.8012,-85.957,Trojans,#862633,#FFFFFF,25
+Tulane,New Orleans,Louisiana,29.9407,-90.1203,Green Wave,#336666,#FFFFFF,23
+Tulsa,Tulsa,Oklahoma,36.152,-95.946,Golden Hurricane,#003595,#FFFFFF,25
+UAB,Birmingham,Alabama,33.5028,-86.8092,Blazers,#1E6B52,#FFFFFF,24
+UAlbany,Albany,New York,42.686,-73.824,Great Danes,#46166B,#FFFFFF,25
+UC Davis,Davis,California,38.5382,-121.7617,Aggies,#022851,#FFBF00,25
+UC Irvine,Irvine,California,33.6459,-117.8427,Anteaters,#255799,#FECC07,25
+UC Riverside,Riverside,California,33.9756,-117.3281,Highlanders,#003DA5,#FFB81C,23
+UC San Diego,La Jolla,California,32.878,-117.24,Tritons,#182B49,#FFCD00,25
+UC Santa Barbara,Santa Barbara,California,34.4133,-119.8489,Gauchos,#003660,#FEBC11,23
+UCF,Orlando,Florida,28.6024,-81.2001,Knights,#FFC904,#000000,23
+UCLA,Los Angeles,California,34.0689,-118.4452,Bruins,#2774AE,#FFD100,23
+UConn,Storrs,Connecticut,41.8077,-72.254,Huskies,#000E2F,#FFFFFF,23
+UIC,Chicago,Illinois,41.8699,-87.6496,Flames,#D50032,#FFFFFF,25
+UIW,San Antonio,Texas,29.4669,-98.433,Cardinals,#CB333B,#FFFFFF,23
+ULM,Monroe,Louisiana,32.529,-92.066,Warhawks,#840029,#FFFFFF,23
+UMass Lowell,Lowell,Massachusetts,42.642,-71.334,River Hawks,#0067B1,#FFFFFF,23
+UMBC,Baltimore,Maryland,39.2557,-76.711,Retrievers,#B18906,#000000,25
+UMES,Princess Anne,Maryland,38.21,-75.685,Hawks,#651D32,#FFFFFF,23
+UNC Asheville,Asheville,North Carolina,35.616,-82.566,Bulldogs,#003DA5,#FFFFFF,23
+UNC Greensboro,Greensboro,North Carolina,36.0687,-79.81,Spartans,#0F2044,#FFB71B,25
+UNCW,Wilmington,North Carolina,34.2257,-77.872,Seahawks,#007680,#FFFFFF,25
+UNI,Cedar Falls,Iowa,42.514,-92.466,Panthers,#500778,#FFB500,25
+UNLV,Las Vegas,Nevada,36.1089,-115.143,Rebels,#B10202,#FFFFFF,25
+USC Upstate,Spartanburg,South Carolina,34.999,-81.968,Spartans,#00833E,#FFFFFF,23
+UT Arlington,Arlington,Texas,32.729,-97.115,Mavericks,#0064B1,#FFFFFF,23
+UT Martin,Martin,Tennessee,36.343,-88.85,Skyhawks,#FF8200,#FFFFFF,23
+Utah,Salt Lake City,Utah,40.7649,-111.8421,Utes,#CC0000,#FFFFFF,23
+Utah St.,Logan,Utah,41.745,-111.809,Aggies,#0F2439,#FFFFFF,23
+Utah Tech,St. George,Utah,37.1042,-113.568,Trailblazers,#BA1C21,#FFFFFF,23
+Utah Valley,Orem,Utah,40.298,-111.713,Wolverines,#00843D,#FFFFFF,23
+UTEP,El Paso,Texas,31.7699,-106.505,Miners,#041E42,#FF8200,25
+UTRGV,Edinburg,Texas,26.306,-98.174,Vaqueros,#F05023,#FFFFFF,23
+UTSA,San Antonio,Texas,29.583,-98.619,Roadrunners,#F15A22,#0C2340,25
+Valparaiso,Valparaiso,Indiana,41.4639,-87.0439,Beacons,#FFE300,#000000,25
+Vanderbilt,Nashville,Tennessee,36.1482,-86.8027,Commodores,#CFAE70,#1C1C1C,23
+VCU,Richmond,Virginia,37.546,-77.453,Rams,#FFB300,#000000,23
+Vermont,Burlington,Vermont,44.477,-73.196,Catamounts,#007155,#FFFFFF,23
+Villanova,Villanova,Pennsylvania,40.037,-75.343,Wildcats,#002664,#FFFFFF,23
+Virginia,Charlottesville,Virginia,38.0336,-78.508,Cavaliers,#E57200,#232D4B,23
+Virginia Tech,Blacksburg,Virginia,37.2284,-80.4237,Hokies,#861F41,#FFFFFF,24
+VMI,Lexington,Virginia,37.79,-79.442,Keydets,#AE122A,#FFFFFF,24
+Wagner,Staten Island,New York,40.615,-74.094,Seahawks,#004331,#FFFFFF,24
+Wake Forest,Winston-Salem,North Carolina,36.135,-80.276,Demon Deacons,#9E7E38,#000000,23
+Washington,Seattle,Washington,47.6553,-122.3035,Huskies,#4B2E83,#FFFFFF,23
+Washington St.,Pullman,Washington,46.7319,-117.1542,Cougars,#A60F2D,#FFFFFF,23
+Weber St.,Ogden,Utah,41.1935,-111.942,Wildcats,#492365,#FFFFFF,25
+West Florida,Pensacola,Florida,30.547,-87.217,Argonauts,#007A33,#FFFFFF,26
+West Ga.,Carrollton,Georgia,33.749,-84.388,Wolves,#0065A6,#FFFFFF,24
+West Virginia,Morgantown,West Virginia,39.635,-79.955,Mountaineers,#002855,#EAAA00,23
+Western Caro.,Cullowhee,North Carolina,35.309,-83.183,Catamounts,#592C88,#C1A875,23
+Western Ill.,Macomb,Illinois,40.6936,-89.6165,Leathernecks,#663399,#FFCC00,25
+Western Ky.,Bowling Green,Kentucky,36.99,-86.443,Hilltoppers,#B01E24,#FFFFFF,24
+Western Mich.,Kalamazoo,Michigan,42.283,-83.739,Broncos,#F1C500,#532E1F,25
+Wichita St.,Wichita,Kansas,37.6922,-97.3301,Shockers,#FFDB00,#000000,23
+William & Mary,Williamsburg,Virginia,37.2707,-76.7075,Tribe,#115740,#FFFFFF,24
+Winthrop,Rock Hill,South Carolina,34.938,-81.03,Eagles,#660000,#FFFFFF,25
+Wisconsin,Madison,Wisconsin,43.0766,-89.4125,Badgers,#C5050C,#FFFFFF,23
+Wofford,Spartanburg,South Carolina,34.95,-81.932,Terriers,#8A6E4B,#FFFFFF,25
+Wright St.,Dayton,Ohio,39.779,-84.064,Raiders,#046A38,#FFFFFF,25
+Wyoming,Laramie,Wyoming,41.3114,-105.5811,Cowboys,#492F24,#FFC425,25
+Xavier,Cincinnati,Ohio,39.1494,-84.474,Musketeers,#0C2340,#FFFFFF,23
+Yale,New Haven,Connecticut,41.3163,-72.9226,Bulldogs,#263867,#FFFFFF,24
+Youngstown St.,Youngstown,Ohio,41.1067,-80.6503,Penguins,#CB333B,#FFFFFF,23
