@@ -106,13 +106,11 @@ For the 2025-26 season (old formula):
 
 ### NET Scatter Plots
 
-(Coming soon in November 2026.)
-
 Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
 
-![Scatter Plot - ACC](/netscatter/2027/NET%20Scatter%20ACC.png)
+![Scatter Plot - ACC](/netscatter/2027/Scatter_ACC.png)
 
-More graphs are in the [netscatter](/netscatter) directory.
+More graphs are in the [netscatter](/netscatter/2027) directory.
 
 [Code to create plots](/Plot%20Efficiency%20Value.py)
 
