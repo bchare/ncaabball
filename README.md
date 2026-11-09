@@ -6,8 +6,6 @@ College basketball analysis with a focus on the NET, WAB, and making cool graphs
 
 ![NET Projection 2027](/2027/NETprojection_2027.png)
 
-(Under development in November 2026.)
-
 ### Introduction
 
 The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball teams. Millions of fans are interested in the NET because it affects how teams are chosen to play for a national championship. While the exact formula is a secret, the NCAA has stated that it considers two factors: "Adjusted Net Efficiency" and "Team Value Index". I calculate both factors and estimate the NET rankings.
@@ -17,7 +15,7 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 **Q: What code and data can calculate the NET?**
 
 [Python code to estimate NET](/Estimate_NET.py) (Updated November 2026)\
-Input: [2027 game results](/2027/ncaab_stats_input_2026.csv)\
+Input: [2027 game results](/2027/ncaab_stats_input_2027.csv)\
 Output: [Estimated NET rankings](/2027/estimated_net_output_2027.csv)
 
 **Q: How is the NET calculated?**
