@@ -3,17 +3,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
-season = 2026
+season = 2027
 
 # Read the output from "Estimate NET.py"
-net_stats = pd.read_csv('estimated_net_output.csv')
+net_stats = pd.read_csv(f'estimated_net_output_{season}.csv')
 
 # For the graph title, use the list of games to find the most recent date
 try:
     games = pd.read_csv(f'ncaab_stats_input_{season}.csv')
     maxdate = games['date'].max()
     # Subset to games before a certain date
-    games = games[games['date'] <= '2026-03-15']
+    # games = games[games['date'] <= '2027-03-14']
 except:
     maxdate = str(season)
 
@@ -68,20 +68,20 @@ def makeplot(title, condition):
     ax.set_xlabel('Value')
     ax.set_xlim(x_visible.min() - 0.2, x_visible.max() + 0.2)
     ax.set_ylim(y_visible.min() - 2, y_visible.max() + 2)
-    fig.savefig(f'NET Scatter {title}.png')
+    fig.savefig(f'Scatter_{title}.png')
 
 
-# makeplot("All Teams", "estimated_net <= 999")
-makeplot("Top 25", "estimated_net <= 25")
-makeplot("Top 50", "estimated_net <= 50")
-# makeplot("Top 75", "estimated_net <= 75")
-makeplot("Top 100", "estimated_net <= 100")
+makeplot("All", "estimated_net <= 999")
+makeplot("Top25", "estimated_net <= 25")
+makeplot("Top50", "estimated_net <= 50")
+# makeplot("Top75", "estimated_net <= 75")
+makeplot("Top100", "estimated_net <= 100")
 
 makeplot("ACC", 'team.isin(["Boston College","California","Clemson","Duke","Florida St.","Georgia Tech","Louisville","Miami (FL)","NC State","North Carolina","Notre Dame","Pittsburgh","SMU","Stanford","Syracuse","Virginia","Virginia Tech","Wake Forest"])')
-makeplot("Big 12", 'team.isin(["Arizona","Arizona St.","Baylor","BYU","Cincinnati","Colorado","Houston","Iowa St.","Kansas","Kansas St.","Oklahoma St.","TCU","Texas Tech","UCF","Utah","West Virginia"])')
+makeplot("Big12", 'team.isin(["Arizona","Arizona St.","Baylor","BYU","Cincinnati","Colorado","Houston","Iowa St.","Kansas","Kansas St.","Oklahoma St.","TCU","Texas Tech","UCF","Utah","West Virginia"])')
 makeplot("SEC", 'team.isin(["Alabama","Auburn","Arkansas","Florida","Georgia","Kentucky","LSU","Mississippi St.","Missouri","Ole Miss","Oklahoma","South Carolina","Tennessee","Texas","Texas A&M","Vanderbilt"])')
-makeplot("Big Ten", 'team.isin(["Illinois","Indiana","Iowa","Maryland","Michigan","Michigan St.","Minnesota","Nebraska","Northwestern","Ohio St.","Oregon","Penn St.","Purdue","Rutgers","Southern California","UCLA","Washington","Wisconsin"])')
-makeplot("Big East", 'team.isin(["Butler","Creighton","DePaul","Georgetown","Marquette","Providence","Seton Hall","St. John\'s (NY)","UConn","Villanova","Xavier"])')
+makeplot("BigTen", 'team.isin(["Illinois","Indiana","Iowa","Maryland","Michigan","Michigan St.","Minnesota","Nebraska","Northwestern","Ohio St.","Oregon","Penn St.","Purdue","Rutgers","Southern California","UCLA","Washington","Wisconsin"])')
+makeplot("BigEast", 'team.isin(["Butler","Creighton","DePaul","Georgetown","Marquette","Providence","Seton Hall","St. John\'s (NY)","UConn","Villanova","Xavier"])')
 
 
 # makeplot("NC Teams", "state == 'North Carolina'")
