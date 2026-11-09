@@ -17,7 +17,8 @@ The NCAA Evaluation Tool (“NET”) is a computer ranking of college basketball
 **Q: What code and data can calculate the NET?**
 
 [Python code to estimate NET](/Estimate_NET.py) (Updated November 2026)\
-(Input & Output to come soon in November 2026.)
+Input: [2027 game results](/2027/ncaab_stats_input_2026.csv)\
+Output: [Estimated NET rankings](/2027/estimated_net_output_2027.csv)
 
 **Q: How is the NET calculated?**
 
@@ -228,7 +229,7 @@ It's clearly doing something right. It's undeniable that the teams with the best
 
 I do think that WAB could be better. It can fluctuate based on which team is ranked #55 (or however the bubble team is defined). I don't like how about 60 teams have a positive value for WAB while only about 53 teams could get an at-large bid with 76 teams. That means there are about 8 teams that do **better** than the hypothetical bubble team but they don't get in the tournament. If those teams are on the wrong side of the bubble, they don't have "wins above" the bubble, now do they? I'd recommend averaging teams #45-50 or something. Also, why does the "pythag" formula has an exponent of 11.5 and not another number? Why is the home court adjustment a multiplicative 1.3% and not something else? The answer is just that Bart Torvik did some backtests and thought the results looked good. (Some of the details bug me, but if it works, it works.)
 
-I also don't like how the NCAA forces the team strength to be in order of the NET rankings. On Selection Sunday 2025, Houston was the 2nd-strongest team by efficiency and #3 in the NET. And Auburn was the 3rd-strongest team by efficiency and #2 in the NET. So if a team played Houston, it got credit for playing Auburn. And if a team played Auburn, it got credit for playing Houston. Does that make sense? It seems dumb. I mean, it's probably fine, and I can understand that the NCAA wanted to make sure that beating the #1 NET team is more valuable than beating the #2 NET team, or that beating the #50 NET team is more valuable than beating the #51 NET team. But I think it makes sense how Bart Torvik creates a resume metric (WAB) from a strength metric (Barthag). When the NCAA adds the NET (which is a combination of a strength metric and a resume metric), they're double counting the results. This basically means that you get rewarded for playing low power teams with good results and you get punished for playing high power teams with bad results. For example, if you played NET #35 UC San Diego, you got credit for playing the 35th-strongest team, Arkansas. And if you played NET #133 Syracuse, you got credit for playing the 133rd-strongest team, St. Thomas (MN).
+I also don't like how the NCAA forces the team strength to be in order of the NET rankings. On Selection Sunday 2025, Houston was the 2nd-strongest team by efficiency and #3 in the NET. And Auburn was the 3rd-strongest team by efficiency and #2 in the NET. So if a team played Houston, it got credit for playing Auburn. And if a team played Auburn, it got credit for playing Houston. Does that make sense? It seems dumb. I mean, it's probably fine, and I can understand that the NCAA wanted to make sure that beating the #1 NET team is more valuable than beating the #2 NET team, or that beating the #50 NET team is more valuable than beating the #51 NET team. But I think it makes sense how Bart Torvik creates a resume metric (WAB) from a strength metric (Barthag). When the NCAA adds the NET (which is a combination of a strength metric and a resume metric), they're double counting the results. This basically means that you get rewarded for playing low power teams with good results and you get punished for playing high power teams with bad results.
 
 **Q: What can my team do to have a good WAB value?**
 
