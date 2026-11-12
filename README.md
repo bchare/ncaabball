@@ -108,9 +108,9 @@ For the 2025-26 season (old formula):
 
 Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
 
-![Scatter Plot - ACC](/netscatter/2027/Scatter_ACC.png)
+![Scatter Plot - ACC](/2027/netscatter/Scatter_ACC.png)
 
-More graphs are in the [netscatter](/netscatter/2027) directory.
+More graphs are in the [netscatter](/2027/netscatter) directory.
 
 [Code to create plots](/Plot%20Efficiency%20Value.py)
 
