@@ -64,8 +64,8 @@ def makeplot(title, condition):
         ax.scatter(net_stats_subset['value'], net_stats_subset['efficiency'], 100, net_stats_subset['bgcolor'], alpha=1)
         for i in net_stats_subset.index:
             ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value'], net_stats_subset.at[i,'efficiency']), ha='center', va='bottom', xytext=(0, 6), textcoords='offset points', zorder=5000)
-    ax.set_ylabel('Effeciency')
-    ax.set_xlabel('Value')
+    ax.set_ylabel('Efficiency (Strength)')
+    ax.set_xlabel('Value (Results)')
     ax.set_xlim(x_visible.min() - 0.2, x_visible.max() + 0.2)
     ax.set_ylim(y_visible.min() - 2, y_visible.max() + 2)
     fig.savefig(f'Scatter_{title}.png')
