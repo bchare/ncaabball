@@ -106,7 +106,7 @@ For the 2025-26 season (old formula):
 
 ### NET Scatter Plots
 
-Showing Strength (teams at the top win by a lot) and Resume (teams at the right have quality wins.)
+Showing Efficiency (labeled as Strength, teams at the top win by a lot) and Win/Loss Value (teams at the right have good résumés.) Both metrics average at 0 among all 365 teams.
 
 ![Scatter Plot - ACC](/2027/netscatter/Scatter_ACC.png)
 
