@@ -27,7 +27,7 @@ except:
 # If you have logos for every team, point to them
 try:
     teamlogos = pd.read_csv('teamlogos.csv')
-    logoseason = 2026
+    logoseason = 2027
     override_tag = None  # Set to 'fun', 'alt', 'random', or None for normal (no override)
     if override_tag == 'random':
         teamlogos = teamlogos.groupby('team').sample(n=1, random_state=np.random.randint(0, 10000))
@@ -64,10 +64,11 @@ def makeplot(title, condition):
         ax.scatter(net_stats_subset['value'], net_stats_subset['efficiency'], 100, net_stats_subset['bgcolor'], alpha=1)
         for i in net_stats_subset.index:
             ax.annotate(net_stats_subset.at[i,'to_display'], xy=(net_stats_subset.at[i,'value'], net_stats_subset.at[i,'efficiency']), ha='center', va='bottom', xytext=(0, 6), textcoords='offset points', zorder=5000)
-    ax.set_ylabel('Efficiency (Strength)')
-    ax.set_xlabel('Value (Results)')
+    ax.set_ylabel('Strength')
+    ax.set_xlabel('Win/Loss Value')
     ax.set_xlim(x_visible.min() - 0.2, x_visible.max() + 0.2)
     ax.set_ylim(y_visible.min() - 2, y_visible.max() + 2)
+    fig.text(0.995, 0.997, 'github.com/bchare/ncaabball', fontsize=7, ha='right', va='top')
     fig.savefig(f'Scatter_{title}.png')
 
 
